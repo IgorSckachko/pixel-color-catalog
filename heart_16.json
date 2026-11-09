@@ -1,0 +1,32 @@
+{
+  "format": 2,
+  "id": "heart_16",
+  "title": "Сердце",
+  "titles": {
+    "en": "Heart",
+    "ru": "Сердце",
+    "es": "Corazón",
+    "pt_BR": "Coração",
+    "de": "Herz",
+    "fr": "Cœur",
+    "tr": "Kalp",
+    "id": "Hati",
+    "ja": "ハート",
+    "ko": "하트"
+  },
+  "theme": "symbols",
+  "tags": [
+    "сердце",
+    "любовь",
+    "heart"
+  ],
+  "width": 16,
+  "height": 16,
+  "palette": [
+    "#e63946",
+    "#9d0208",
+    "#ff99a0"
+  ],
+  "added": "2026-11-08",
+  "pixels_gz": "H4sIAAAAAAAC/4WP0QoAIAgD1/z/fw4ta1bQvcwbgggGwEy2gEcmTzfz0bZ/9tXBqpdr4SrF0FWk+i9+CUI1oQOdobObAAEAAA=="
+}

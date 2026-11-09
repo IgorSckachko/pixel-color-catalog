@@ -1,0 +1,40 @@
+{
+  "format": 2,
+  "id": "daisy_32",
+  "title": "Ромашка",
+  "premium": true,
+  "titles": {
+    "en": "Daisy",
+    "ru": "Ромашка",
+    "es": "Margarita",
+    "pt_BR": "Margarida",
+    "de": "Gänseblümchen",
+    "fr": "Marguerite",
+    "tr": "Papatya",
+    "id": "Aster",
+    "ja": "デイジー",
+    "ko": "데이지"
+  },
+  "theme": "flowers",
+  "tags": [
+    "ромашка",
+    "цветок",
+    "flower",
+    "daisy"
+  ],
+  "width": 32,
+  "height": 32,
+  "palette": [
+    "#8fd694",
+    "#ffffff",
+    "#93abc4",
+    "#e3ecf6",
+    "#c4720a",
+    "#ffc928",
+    "#f29d1a",
+    "#d98a0f",
+    "#ffe580"
+  ],
+  "added": "2026-11-08",
+  "pixels_gz": "H4sIAAAAAAAC/9WS2wrEMAhEqaNm+/8/vGpiIbct7FMrKQhnmEmsx/GqAn4iEGEngqHg3iw52SGuHkvOVD/M2UAKIgL9HdwYlDxajOZRIq3BnO5UNRSMMZ/dWs5TP0Led/nNXdSwFpkSLm54xc2f3FUSM48zRuRLKfUFy+vv35fzyfmOgpxv5fN804NTsPm/zfy//bjZr7v9fGZ9AWEp1vEABAAA"
+}

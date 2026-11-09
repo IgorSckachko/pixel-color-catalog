@@ -1,0 +1,53 @@
+{
+  "format": 2,
+  "id": "pixelated_ice_cream_with_a_cherry_version_2_scaled_down_128",
+  "title": "Мороженное с вишней 2 уменьшенное",
+  "titles": {
+    "en": "Small ice cream with a cherry 2",
+    "es": "Helado con cereza 2 pequeño",
+    "pt_BR": "Sorvete com cereja 2 pequeno",
+    "de": "Kleine Eis mit Kirsche 2",
+    "fr": "Petite glace avec cerise 2",
+    "tr": "Küçük kirazlı dondurma 2",
+    "id": "Es krim kecil dengan ceri 2",
+    "ja": "小さなチェリー付きアイスクリーム 2",
+    "ko": "체리가 얹어진 작은 아이스크림 2"
+  },
+  "theme": "food",
+  "tags": [
+    "мороженое",
+    "вишня",
+    "десерт",
+    "сладости",
+    "мини",
+    "пикселарт",
+    "icecream",
+    "cherry",
+    "dessert",
+    "sweets",
+    "mini",
+    "pixelart"
+  ],
+  "added": "2026-11-09",
+  "width": 128,
+  "height": 128,
+  "palette": [
+    "#fad5e4",
+    "#f9b5d2",
+    "#210302",
+    "#fc62a5",
+    "#fc9714",
+    "#662304",
+    "#fde688",
+    "#7cd990",
+    "#95e3a5",
+    "#d94326",
+    "#fde075",
+    "#5c5648",
+    "#eb964e",
+    "#cba6ac",
+    "#ac7386",
+    "#68b673"
+  ],
+  "pixels_gz": "H4sIAAAAAAAC/+3bbZOcIAwA4NFoRGD1/v+vrRBegrp7H2rIdXpMZ2rxpk+AAN7KjmNbhlMZf+//E/fhKGo+UPlPfQBMuIofeK+Yf8Hf9fzAa82/mHXH4O/KPmj4gbbWsrnX2Ucch5dFxBBEb/9osrXDsNlY+s9/4gdrcwAqvq3+ruxv/fw9ZrzlpasPd363/Y/o1j+WAqR1SNrfIPtw44O47yNleQQQqzBGIO0XPbU3FSwBiPr7zn0861Qj6BNl8UMR9D1wv2l3wS898KCPgBMfasgm7/1zDzzoH//55G1m92kirQYCMMn60zTlHgCb/VID8e5pAJ7zgXxPKk7MT8tPCk/Mn6apqvyK+bELuvkAuderL9P+JLUWXGOK/rYJ+FOmbLWmUgnM5z0g4L+u/lFdxx9V/NcL2c/09qGjX1JRxZ++9ZsV8Cnf+yv61hddf/T8DwEgWwGE/PBbB37qAQh7YrjwUu3/1AMlOqn9H8B8E8Il+R/ef8y6QrsO3OlSvjFmNUbRX49iIG/9RyzmtBZCDBKE9v8DJJ9K9dmDT/CNh02s/WtMAcijEcpXfTKhCg8i6/+aAiCE/6N2gKEaEd/77/1UJeDzEcj4WkaEtV/QL+CtH5NS0B9j1q03JT+Er6n5Yv49f7B5RqbkkPB9Eu5800zJL5Dxr0PfTgOTG8834Md8+OSvrb8J+sbkGcgXgsYXef7I08+c+tqcK4R8hPV2rBv+S87fTxZ98OJ4bahxzjUb8KPz33vDdt3sAxt572IAYs+f1V/cEoqrEYTKhfwawZP+IcYuXk4lpGb0HUXkFhl/IX+59cuddgSe2/+XtyVOzfoDOr7X9Cn99HxI2Z+GX8R3b/2XS1NS1H/f/sWxaSE0/8NnTq5mGP+LRgBz2+XWv9ertjHQrkYQK5yw30zxULBdDVPtIrb/wGmRCx91sj4o+5/c+6ccQIplnksHOLYtCvnh1euMxZ9Dyf0R/fhvEHz/GH0oeImA5hz5g6wfm3jnH5eI8r6dCTr+xKvgu+Rfm//4++fccszNjwtTb5+3P0wBB6p+zggLHfxDREoCm4MAqkUQfv+e1gAsQz+3Vz384/XWWx+7tB/nMvTZpZGAHu3fP/k9zt9sYRGu+c+u+vhDmGqXoafsU/bHbn44AJN4W5O/3/mzc+r19xsa6bGgsx/KnK/CW/9O/pY2uyYJ0wnMLucfqQNsOIkVeToN1vH8JT1tWZ6Evf3T+gfqfs/zr/U5kPR6Brzf+Vttn/c/Kpz/bp//evtbOH2v6LMp8BP8UcPPOwBo+BttAqjlp11Q26fH3kHj+ze5/aD0/aP4O6+iH9ZgnFV9mn2bsj+q+fQJpN73T3+AD6fPSDv7FjS//wsAqv6g7f/e/8v7fwArMuvJAEAAAA=="
+}

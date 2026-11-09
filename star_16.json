@@ -1,0 +1,31 @@
+{
+  "format": 2,
+  "id": "star_16",
+  "title": "Звезда",
+  "titles": {
+    "en": "Star",
+    "ru": "Звезда",
+    "es": "Estrella",
+    "pt_BR": "Estrela",
+    "de": "Stern",
+    "fr": "Étoile",
+    "tr": "Yıldız",
+    "id": "Bintang",
+    "ja": "星",
+    "ko": "별"
+  },
+  "theme": "symbols",
+  "tags": [
+    "звезда",
+    "star"
+  ],
+  "width": 16,
+  "height": 16,
+  "palette": [
+    "#e67e14",
+    "#ffcd28",
+    "#fff096"
+  ],
+  "added": "2026-11-08",
+  "pixels_gz": "H4sIAAAAAAAC/3WPQQ7AMAjDcPj/n0dh0wpqfTOKApgVWGc400XX4f45iTwCSQwkD11UK3rhb9v15NDirEXbynYzl5+SB8TuqUUAAQAA"
+}

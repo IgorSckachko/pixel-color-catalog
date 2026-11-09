@@ -1,0 +1,40 @@
+{
+  "format": 2,
+  "id": "house_32",
+  "title": "Домик на холме",
+  "premium": true,
+  "titles": {
+    "en": "House on a hill",
+    "ru": "Домик на холме",
+    "es": "Casa en la colina",
+    "pt_BR": "Casa na colina",
+    "de": "Haus auf dem Hügel",
+    "fr": "Maison sur la colline",
+    "tr": "Tepedeki ev",
+    "id": "Rumah di bukit",
+    "ja": "丘の上の家",
+    "ko": "언덕 위의 집"
+  },
+  "theme": "landscape",
+  "tags": [
+    "дом",
+    "домик",
+    "пейзаж",
+    "солнце",
+    "house"
+  ],
+  "width": 32,
+  "height": 32,
+  "palette": [
+    "#8ecae6",
+    "#ffd166",
+    "#7bc47f",
+    "#3a7d44",
+    "#d62828",
+    "#6f4e37",
+    "#3d2b1f",
+    "#ffffff"
+  ],
+  "added": "2026-11-08",
+  "pixels_gz": "H4sIAAAAAAAC/82P4QrAIAgGcW1fvv8ThxE5rQwGY7s/EXeUEr3E4e5sraCKK063gJWN99oGw/c6gBtu9ON2cw1gtX/TGiz0OgDCAAgDIAyATXDdoSeeuTo5UmXnJemVeT9Zus85z7zwkT9/TgG318RiAAQAAA=="
+}

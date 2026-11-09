@@ -1,0 +1,37 @@
+{
+  "format": 2,
+  "id": "mushroom_24",
+  "title": "Гриб",
+  "titles": {
+    "en": "Mushroom",
+    "ru": "Гриб",
+    "es": "Seta",
+    "pt_BR": "Cogumelo",
+    "de": "Pilz",
+    "fr": "Champignon",
+    "tr": "Mantar",
+    "id": "Jamur",
+    "ja": "きのこ",
+    "ko": "버섯"
+  },
+  "theme": "nature",
+  "tags": [
+    "гриб",
+    "мухомор",
+    "лес",
+    "mushroom"
+  ],
+  "width": 24,
+  "height": 24,
+  "palette": [
+    "#d62828",
+    "#96141e",
+    "#327832",
+    "#60b446",
+    "#ffffff",
+    "#f5e6c8",
+    "#d2be96"
+  ],
+  "added": "2026-11-08",
+  "pixels_gz": "H4sIAAAAAAAC/72QSwrAIAwF7auf+9/YYPSZKFIKpbMQnCGLJISPQWOXl5CSTxCjXh44raEB6unNBPhnB31PJ9/nnDeA+6wcgtktC6Xs9/nZx4H6+MT9kgp/JwPvQAIAAA=="
+}
