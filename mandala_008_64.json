@@ -1,0 +1,44 @@
+{
+  "format": 2,
+  "id": "mandala_008_64",
+  "title": "Мандала 8",
+  "titles": {
+    "en": "Mandala 8",
+    "ru": "Мандала 8",
+    "es": "Mandala 8",
+    "pt_BR": "Mandala 8",
+    "de": "Mandala 8",
+    "fr": "Mandala 8",
+    "tr": "Mandala 8",
+    "id": "Mandala 8",
+    "ja": "マンダラ 8",
+    "ko": "만다라 8"
+  },
+  "theme": "mandalas",
+  "tags": [
+    "мандала",
+    "антистресс",
+    "симметрия",
+    "узор",
+    "mandala",
+    "pattern",
+    "relax",
+    "symmetry"
+  ],
+  "width": 64,
+  "height": 64,
+  "palette": [
+    "#0f0d1f",
+    "#faf7eb",
+    "#f2cd24",
+    "#d9c362",
+    "#993c0f",
+    "#f28c24",
+    "#d99d62",
+    "#f2aa24",
+    "#d9af62",
+    "#99680f"
+  ],
+  "added": "2026-11-18",
+  "pixels_gz": "H4sIAAAAAAAC/81Xi27DMAgUXoKJ//+Dh3kFt0uqlWoa2qok5g7M+Qnwfw3N3oYPsTcJDC0MheR/14XwT6j04RUTSp/FjabN5OVB4Nr0smLsQ4EOBkJvvYc7eiyWGC4JrPUZfFLcEkgbnN4L1J7M6Qof8EFr/YJMva6KD7TAqbHRQiBKXOEhl5yh0NlAOUYiuMDDGYUU24+jK0dqAnwFH4ZmuBEww7glUNnVobXeH/G9cy+8a08lQINr0aAHKj+AltII8EE5nNED/nVYTMuFPzjB9MJFRXmT5MkKJ2lz/cUmhfYDTAgmSMMQNbzLpvF6k17tu2TauuXjYwoTgYZ33bxaUpN9FwKE+Ow1zvg5pEMbh++LOUFonOZBGvcenqOv+MjARMzz4Ex/WPiZvKau//PXCHyI04/4poWG1PV4AlWh3eA5/am8Zs/ATUxTmAlIIz3hMdTT+E27jJuZprBbYyiYBgBQrr4Wb8Kb/G36DlmBPI1Rp56L78WfeLbZgyxBU9+8DAieEh41/daOYxLo+4mnh0lcxFfzL9avql95/Hxs/L4/f4rzt7Z+VNev4vpZXb/L+0d5/yrvn/X9u35+qJ9fquen6vmten4snl+r5+fy+b18fyjfX8r3p8/d38r3x/L99U/sG4/cvI4AEAAA"
+}

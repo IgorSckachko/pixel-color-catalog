@@ -1,0 +1,44 @@
+{
+  "format": 2,
+  "id": "mandala_032_64",
+  "title": "Мандала 32",
+  "titles": {
+    "en": "Mandala 32",
+    "ru": "Мандала 32",
+    "es": "Mandala 32",
+    "pt_BR": "Mandala 32",
+    "de": "Mandala 32",
+    "fr": "Mandala 32",
+    "tr": "Mandala 32",
+    "id": "Mandala 32",
+    "ja": "マンダラ 32",
+    "ko": "만다라 32"
+  },
+  "theme": "mandalas",
+  "tags": [
+    "мандала",
+    "антистресс",
+    "симметрия",
+    "узор",
+    "mandala",
+    "pattern",
+    "relax",
+    "symmetry"
+  ],
+  "width": 64,
+  "height": 64,
+  "palette": [
+    "#f7f2e6",
+    "#1f1a33",
+    "#d98262",
+    "#99350f",
+    "#d97362",
+    "#99240f",
+    "#f24924",
+    "#99280f",
+    "#f25c24",
+    "#99350f"
+  ],
+  "added": "2026-12-12",
+  "pixels_gz": "H4sIAAAAAAAC/72Xi5KDIAxFhyiF+P8fvOERTKzYDnd3M53ptHJuniqE8JfGYiC+LsDDlvDD2BI8+/Ux5rqanVWNj7kMmm/sC4WG39Jd4ZF/pk+FOX/BqdqbwBwPjtXuOY0wFbC4stumGlZg0vNwpQ1vFMLxjLvAXRpPAr25xfnml6vgNkK4m0Z1L3jcRrQpjYzK3zQN4MSto5RUoIc1EWCNnlypUnq9jIC5dLgmjM7rGvXrvq2AmwL27mVF8ev4+pt8AGzGPjicbdyaBzuBMG6Eqqai/XL3O+Zf46gCfa3eihf3Z99I86Ozj/cBHOFykZXed1Xgi4uzgho+lWlXV1TZnXmvGqRBlTWkCbzzo3UFV6dFYDTxhjfpUy89tcJksZYm9SaQLYCf3ZaaLBO+uY85yqcH0C6wKYCf/a7coqx4jpQzxVwFNLMRwITvxRc+x1zaL1+NZ3bLnnkpvfimGEVA+PDf/HL8y/Vb7h86P/D84vcPcv+izw/0+YU+P+HnN/z+gN9f8PsTf3/D+wd0/wLvn+D9G7p/RPev8P4Z3b/D5wf0/IKfn37r/PYL50f4/Iqfn7+wH5t6Nq4AEAAA"
+}

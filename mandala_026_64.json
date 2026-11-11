@@ -1,0 +1,42 @@
+{
+  "format": 2,
+  "id": "mandala_026_64",
+  "title": "Мандала 26",
+  "titles": {
+    "en": "Mandala 26",
+    "ru": "Мандала 26",
+    "es": "Mandala 26",
+    "pt_BR": "Mandala 26",
+    "de": "Mandala 26",
+    "fr": "Mandala 26",
+    "tr": "Mandala 26",
+    "id": "Mandala 26",
+    "ja": "マンダラ 26",
+    "ko": "만다라 26"
+  },
+  "theme": "mandalas",
+  "tags": [
+    "мандала",
+    "антистресс",
+    "симметрия",
+    "узор",
+    "mandala",
+    "pattern",
+    "relax",
+    "symmetry"
+  ],
+  "width": 64,
+  "height": 64,
+  "palette": [
+    "#f7f2e6",
+    "#1f1a33",
+    "#24f282",
+    "#62d998",
+    "#0f994e",
+    "#24f2bf",
+    "#24e7f2",
+    "#62d2d9"
+  ],
+  "added": "2026-12-06",
+  "pixels_gz": "H4sIAAAAAAAC/7WXi5KDIAxFJ6Ea//+LNy8CONbtereZzpRazyUvFIi+aaKGwIfaUwmHw+Sh68P+yNmXjnc3il8f6VjIftt+skzHvYInTG/ZL63+vsff0KFwKyA3k08uyA0+0cwc13WwuiC/485OxRsSbwVk+K50oq11jVKgN2Wc8Jq5tRJQhSFwyVOnp94buEHcBS4TUJPP0CJVAlfeD9+705zWQxkxnCOo3CXeDNbrtvg8+/1qCpxyuODuadQ+Vm/0QEZ1JWAVHbVxz4Pb3EKHexYzgqkL5FimT3w7Oq/DIVAOFF/TF64TOhnp86G6swoMB3SU03ecHOfunytoOP3/cKDz0t3P6T3vSUf4ruB1mBywAGR1XzOfaTXcUHV78wGHjvgtawDFk/dIBM+mEXnTry08sBTYLXTmqRq3We7D6Uh6lCJCsRq0amMqXmbecQ6eX2ocPLvAzEslkEb2c/qomBgvNF3iUYFaxiJT73FEv8Xs+bFrkQGeerA6eOGpeFJS7fWi4mnh6YL34lv2fXq2dWgOeAWOej19j3/gP5o/sH5o/+D9C68fbP2Czw/0+QU/P9HnN/z+QN9f8PsTfn/j+wd8/wLvn9D9G7h/RPev8P4Z3r+j5wf4/IKfn/Dz23+dH+HzK3x+/sh+AHhR3dQAEAAA"
+}

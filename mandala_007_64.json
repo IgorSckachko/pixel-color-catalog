@@ -1,0 +1,43 @@
+{
+  "format": 2,
+  "id": "mandala_007_64",
+  "title": "Мандала 7",
+  "titles": {
+    "en": "Mandala 7",
+    "ru": "Мандала 7",
+    "es": "Mandala 7",
+    "pt_BR": "Mandala 7",
+    "de": "Mandala 7",
+    "fr": "Mandala 7",
+    "tr": "Mandala 7",
+    "id": "Mandala 7",
+    "ja": "マンダラ 7",
+    "ko": "만다라 7"
+  },
+  "theme": "mandalas",
+  "tags": [
+    "мандала",
+    "антистресс",
+    "симметрия",
+    "узор",
+    "mandala",
+    "pattern",
+    "relax",
+    "symmetry"
+  ],
+  "width": 64,
+  "height": 64,
+  "palette": [
+    "#0f0d1f",
+    "#faf7eb",
+    "#f22424",
+    "#d96262",
+    "#990f0f",
+    "#d9d962",
+    "#99990f",
+    "#62d962",
+    "#0f990f"
+  ],
+  "added": "2026-11-17",
+  "pixels_gz": "H4sIAAAAAAAC/7WXi7KDIAxEBwpV//+Hb0gIJAiturcZp45OzyYsyCOEH8Xu4iH7pritYdK++bql4Mp2+a8o7EMM+DeF/UJcpSNFeVvulxQ8TC+2GizyVcDSne0a8bPAnH695gprnCrfFmFbscQ9HeOgsBCY4OK+9MBE4DMucOZwElOBM17pF4UqfBDYZZgrXgtnmhVqM4xAASxerhHv/ElAgJEfcIoydpsHTWDgazk1vbqerf85WAEu4N0cUDsUF9cj34+Ds0ftiSpgHTTe02CVZleacBEoCmKE/CkaAZ/e4fngywqcC7BdH4PDe/4mIC3QAgy/GV5xF8HwW+dd+dz6HNW3HuW5FMAOuAacy6ffYxCgp4NSzxpw4jn9jJcCFrxOdJlb32xLqRnJDmSdFpd8Nu4lmo32ZBzMKz4oH3rn5RQ5mkCQcWwNdLwM+M5TWSlRos73j+AXPFA/6h/cf+j4Acfv8+8H/X7/af5A56/n8yc6f8PrB7p+wesnun7D+wd0/wLvn+D9G7p/hPev8P4Z3r/D5wf4/IKfn+DzG35+xM+v+Pn5RvwBFFCPdwAQAAA="
+}

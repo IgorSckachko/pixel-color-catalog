@@ -1,0 +1,43 @@
+{
+  "format": 2,
+  "id": "mandala_005_64",
+  "title": "Мандала 5",
+  "titles": {
+    "en": "Mandala 5",
+    "ru": "Мандала 5",
+    "es": "Mandala 5",
+    "pt_BR": "Mandala 5",
+    "de": "Mandala 5",
+    "fr": "Mandala 5",
+    "tr": "Mandala 5",
+    "id": "Mandala 5",
+    "ja": "マンダラ 5",
+    "ko": "만다라 5"
+  },
+  "theme": "mandalas",
+  "tags": [
+    "мандала",
+    "антистресс",
+    "симметрия",
+    "узор",
+    "mandala",
+    "pattern",
+    "relax",
+    "symmetry"
+  ],
+  "width": 64,
+  "height": 64,
+  "palette": [
+    "#0f0d1f",
+    "#faf7eb",
+    "#f22424",
+    "#d9d962",
+    "#99990f",
+    "#24f224",
+    "#24f2f2",
+    "#62d9d9",
+    "#0f9999"
+  ],
+  "added": "2026-11-15",
+  "pixels_gz": "H4sIAAAAAAAC/+2X2XKDMAxFR8JOyP//cK3Fkg1uob3NU6vJJBhyrrVhDNG/nayoPcNs/B1aMXYLjbu4sXnKNO4JCD2yqSEK1/iaDoUrvuHtezezUzloAndoISRlCo3HVwqBW9l84hhdCXQ8YaleSlwIjLMbS49mZBqXHjguvMDKdiORcP4zAcc13TNtClkQfq7q3qtu9KtZZ+1YFHonnPqgpE82+WvbkrfjJpCxlmPTRtvwyMzHnI00tfIZX/j/hYDxWqIpc3Z1zqL1wcQ7vmuFD/BBov9rElDeOoQHvNYqV/UnTrM30sRL8lU4vRewlNq/aYpAHBhKMETfc0XGF12Oqoeg14YMHHmJ3moV62Ctse55Hc3RNc/9P+SBu3kSTZtPvPZe58VHQdvUdVPzAXlszlN2bDRPz76GLrh/dEiPoYemuygWLYrSCdCm5lpZPLAkRgvstOR5rt3WWG6fus015DVPIy/Za/PK/BrA2IW80zt41H8wf0j9wP5B+/e37p+f37/g+oGuX+D6ia7f8PMDfX7Bz0/4+Q3vH/D9C7p/gvdv8P4R3r/C+2d8/46+P8DvL/D7E/z+9qfsA2dPIXMAEAAA"
+}

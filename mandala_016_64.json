@@ -1,0 +1,42 @@
+{
+  "format": 2,
+  "id": "mandala_016_64",
+  "title": "Мандала 16",
+  "titles": {
+    "en": "Mandala 16",
+    "ru": "Мандала 16",
+    "es": "Mandala 16",
+    "pt_BR": "Mandala 16",
+    "de": "Mandala 16",
+    "fr": "Mandala 16",
+    "tr": "Mandala 16",
+    "id": "Mandala 16",
+    "ja": "マンダラ 16",
+    "ko": "만다라 16"
+  },
+  "theme": "mandalas",
+  "tags": [
+    "мандала",
+    "антистресс",
+    "симметрия",
+    "узор",
+    "mandala",
+    "pattern",
+    "relax",
+    "symmetry"
+  ],
+  "width": 64,
+  "height": 64,
+  "palette": [
+    "#0f0d1f",
+    "#faf7eb",
+    "#d9626f",
+    "#990f1e",
+    "#992a0f",
+    "#f2c724",
+    "#d9c062",
+    "#997c0f"
+  ],
+  "added": "2026-11-26",
+  "pixels_gz": "H4sIAAAAAAAC/7WXAZLDIAhFp7jR3P/Eq0IFRN10fpfpTFqb9yGIBl+vf7LiDGE/1Shbe0Zf1SLLo098X/e94mX079Df/mmYHS2PHrxCuVlK/SIa5zRYOok1BTarcMaVThxCVDjgNXCHG4GsCntc78/DdGQnoLh1ztn3IawFIk6aBrIZoRXv8e45OdMoVgKKZ5nuFEwKIq8E1DvjaWmjomjiTfAHXARSFPD8FmeByJe+Mjh3E07kUyHV0QQa9ObbyqSAE/10sxIi0PhbeP5KMjmBnhRkiomdjg0n8IbuCpG/Bl8k+jq8wa2AXEYGV3zAVWDmi+EP+CwwppCv2T39med7HS+1Qwd8CJCtIc8H96V/pgA2vNaOcVn/0l+2hgKfY/iVrVVEJT5Annm78Ez4zX9ZJKAKfJdH48fzB88fUj9o/QLrB12/X9g/0P0L2z/R/Rt+f6DvL/j9ib6/4f4B7V/g/gnu39D+Ee5f4f4Z7t/h8wN8fsHPT/D5DT8/4udX/Pz8gf0CguFSBAAQAAA="
+}

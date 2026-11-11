@@ -1,0 +1,44 @@
+{
+  "format": 2,
+  "id": "mandala_002_96",
+  "title": "Мандала 2",
+  "titles": {
+    "en": "Mandala 2",
+    "ru": "Мандала 2",
+    "es": "Mandala 2",
+    "pt_BR": "Mandala 2",
+    "de": "Mandala 2",
+    "fr": "Mandala 2",
+    "tr": "Mandala 2",
+    "id": "Mandala 2",
+    "ja": "マンダラ 2",
+    "ko": "만다라 2"
+  },
+  "theme": "mandalas",
+  "tags": [
+    "мандала",
+    "антистресс",
+    "симметрия",
+    "узор",
+    "mandala",
+    "pattern",
+    "relax",
+    "symmetry"
+  ],
+  "width": 96,
+  "height": 96,
+  "palette": [
+    "#0f0d1f",
+    "#faf7eb",
+    "#e0f224",
+    "#ced962",
+    "#aad962",
+    "#63990f",
+    "#64f224",
+    "#86d962",
+    "#3a990f",
+    "#26f224"
+  ],
+  "added": "2026-11-12",
+  "pixels_gz": "H4sIAAAAAAAC/82agXKDIAyGL63D6fs/8NAaCSRBUH+73O5Wr/T7SZCAQaJ/Y9NuSDZAY3IMS79JYZqQAtOhgfGXBBzSbQI1xg38/PejMLPBOb6GS4mT/M/PzK4bTnSqlJEdXTszEqr1OB4JdCjoluPYINCqUMH/ZHZOwGhksDONnvlgNXHpm0LHhMsb2HExfdhkDgSyr9vohUJV4CS+WUB81UPPFXz+BXyLwCV8g8A1vCXgdN/Hx2Zhjhbih4qA6YDqvobPmWmJmgOq+yV9NowcAcOBevdjXILGh1D4UHGgjl9YqyX0dlkXcLvv4JceL7Zf2gLagVr0ae+vvB92f6g2Ak541Mgm+m+0pDDbAipAPp/xlPAsQIZAlW/hA98pAi8EPtPNFTjmzzxhLf5Hfe7k+3jF9wT6+OTzqYOv9wrEqYapic//VabIVrImfsJGG6KJS+3AIV/4ytlY0t9vqcAZuwhQG594cGXnV/4gBiIYDrTzg+APiT8Ifjjmk9hSlYlt50d0ZL9ew/pB8IPFpzI/681gSgzMj/D1j/kpTegtY7mAGfwsrS2xeW22jbFIdBY/X+B5NytunyAT2xr2petLhFa+TNWSnwEf4oPjgx5f8P2Jnl/fyQ+Y/IbOz7D1Bb0+PrW+o/cnsP0Ven8I39+i9+ew5wv089FTz3ew51P08zW8PoCub8DrM+j6Erw+Bq/voeuT8PoqvD4Mr2/D6/Pw8wX4+Qj+fAd/PvXA+doz54Po8034+Sz6fBl+Pg4/38e/nwB/vwL/fsgD77ectj+JWLRpACQAAA=="
+}

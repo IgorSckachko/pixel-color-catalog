@@ -1,0 +1,44 @@
+{
+  "format": 2,
+  "id": "mandala_004_64",
+  "title": "Мандала 4",
+  "titles": {
+    "en": "Mandala 4",
+    "ru": "Мандала 4",
+    "es": "Mandala 4",
+    "pt_BR": "Mandala 4",
+    "de": "Mandala 4",
+    "fr": "Mandala 4",
+    "tr": "Mandala 4",
+    "id": "Mandala 4",
+    "ja": "マンダラ 4",
+    "ko": "만다라 4"
+  },
+  "theme": "mandalas",
+  "tags": [
+    "мандала",
+    "антистресс",
+    "симметрия",
+    "узор",
+    "mandala",
+    "pattern",
+    "relax",
+    "symmetry"
+  ],
+  "width": 64,
+  "height": 64,
+  "palette": [
+    "#0f0d1f",
+    "#faf7eb",
+    "#f22424",
+    "#990f0f",
+    "#f2f224",
+    "#d9d962",
+    "#24f224",
+    "#0f990f",
+    "#24f2f2",
+    "#62d9d9"
+  ],
+  "added": "2026-11-14",
+  "pixels_gz": "H4sIAAAAAAAC/82Xja6DIAyFg7IVff8HvtDT0qp3y5Zjbm6TuU75Sv+GUMr/FBlyUb/AaxeloH1pQCE1ENq308uUzx2wWM8Rx135bN6udw03oXzih6RQVT0oh8cveZ+gPrvU+A733vJSbLJn5p/mEka8y567WztXTYbmcbzN4Hhm/uroRQWgx/GCFy8Oxinrz2DD8yC/lTEyVxUP2E2ogfoii+lWDXor6Ust1EuZ0vSzW3zubYvrsDA76uKAFQ6Jmq5vA90m3w34GPmFtwwp7jMHr9fFx1x4LfzEjVpNwgnL4rUNvHLufAfWJDOIxatwKqDxkTrMC1ELJQxcePMGqd8M6dfW8LGf45EXIQUQ7WS5U99L5x4PfFpBDMjhiRJPplceeAebyTChBnIXiPcQmqHWlHv1tvNodeWL81oDtECsz1a8xfNV2qTNwgghl0BbSVLvHfk+uyRBBEdezvyIC8nT1Cu473CgWQQjBhs7e1CqRPHBN3i/7suyr4igFW8jawGZLezL9cy+8/tYfvbMpwqkDpaovoVfGvB1hYFWcgISdAdP+k/mj63fDf3D9i/3/yH/v+z6Qa9f/PpJr9/s+4N+f/HvT+79Te4f2P0LvX+i92/37B/Z/Su/f6b27+z5gT6/0Oenm85v9PmRPb/+mfwAcRO7WwAQAAA="
+}

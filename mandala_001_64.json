@@ -1,0 +1,45 @@
+{
+  "format": 2,
+  "id": "mandala_001_64",
+  "title": "Мандала 1",
+  "titles": {
+    "en": "Mandala 1",
+    "ru": "Мандала 1",
+    "es": "Mandala 1",
+    "pt_BR": "Mandala 1",
+    "de": "Mandala 1",
+    "fr": "Mandala 1",
+    "tr": "Mandala 1",
+    "id": "Mandala 1",
+    "ja": "マンダラ 1",
+    "ko": "만다라 1"
+  },
+  "theme": "mandalas",
+  "tags": [
+    "мандала",
+    "антистресс",
+    "симметрия",
+    "узор",
+    "mandala",
+    "pattern",
+    "relax",
+    "symmetry"
+  ],
+  "width": 64,
+  "height": 64,
+  "palette": [
+    "#f7f2e6",
+    "#1f1a33",
+    "#f29a24",
+    "#995e0f",
+    "#f25724",
+    "#d97f62",
+    "#f2cf24",
+    "#d9c462",
+    "#99820f",
+    "#d96262",
+    "#990f0f"
+  ],
+  "added": "2026-11-11",
+  "pixels_gz": "H4sIAAAAAAAC/7WXi27DIAxFFZOWLPz//w5fG9s0SdXOmTVVrOVcP3AILMs/WZnse3ZdnZbxd56P/GcKTpHZ53k4i39rNwxc4z0ugXa4/kzWVURhLe+cr5wp04qz/zGCAia8jR2+DSIyAY+hXOM9b3VLWgIkTxrIqMMlvgy//NVTDRoax3IhoDgmMf18MVaQQp4KRPyEVoVrAcM59OeFSRIqcFh3xmu9cO5JVBGY+oAbXLxP+Gjf1yqwwBoFWI6kcAH234OElJFKbCNbuWreIz0pSGfPJcBYKj9w/cE+uoIFgDYIvLk/4BV2JhADwAhlCXgp0sPSu5hqAphrvLr3hSf17f2vMVBoAw9A3PNGEfBAq0IUwOzAo3XU/YQ3/L0K8BpKFw4+ZE/InQTeuokEoQYUKqA8OsmLj9qJ97Ztj27b1iSCEgLAEqIHT3jdM0FDQffSc35efMzsIq0Z3gVa4wBsT/EWcD6G79733SOICRz4arxmD34n2o1HBcgKGHh+8EP6HP7Ah8BIYPB1LIDyNPNw3/HHQwS2Zebpbj4Vf7Z+N6zf3/sn27/J5yf7/N6xf2T3r9T+md2/0++P7Psr/f7Mvr/T54fs+SV9fkqf37Lnx/T5NX1+Tp/f0/eH9P0lf39K39/y98f8/TV/f/7CfgGJ4Dt4ABAAAA=="
+}

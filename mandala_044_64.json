@@ -1,0 +1,44 @@
+{
+  "format": 2,
+  "id": "mandala_044_64",
+  "title": "Мандала 44",
+  "titles": {
+    "en": "Mandala 44",
+    "ru": "Мандала 44",
+    "es": "Mandala 44",
+    "pt_BR": "Mandala 44",
+    "de": "Mandala 44",
+    "fr": "Mandala 44",
+    "tr": "Mandala 44",
+    "id": "Mandala 44",
+    "ja": "マンダラ 44",
+    "ko": "만다라 44"
+  },
+  "theme": "mandalas",
+  "tags": [
+    "мандала",
+    "антистресс",
+    "симметрия",
+    "узор",
+    "mandala",
+    "pattern",
+    "relax",
+    "symmetry"
+  ],
+  "width": 64,
+  "height": 64,
+  "palette": [
+    "#0f0d1f",
+    "#faf7eb",
+    "#f2245c",
+    "#d96282",
+    "#f22437",
+    "#d9626c",
+    "#990f1c",
+    "#62d9b8",
+    "#0f9974",
+    "#62d9ce"
+  ],
+  "added": "2026-12-24",
+  "pixels_gz": "H4sIAAAAAAAC/72X65LDIAiFR0LS1fd/4OIlCqy59XSXH51pm+94QKMYwh8Fm0DYpxp8GBh9R4Ev4z5OPW4KWDiqsBKX+ICZZxLnuBo6f52ZOMW1cYVnhWOBKV2rN1W4xInGv0rjQMDj5P2RFzjDO71KeIWJgMXJ4EqAjgQsbumJBXJ803P4S4UTcAb08KRoypnIh1KgiYEdzw4GLmyfqiwxBOQ5I9B45h+u/JrHNm9TyB7WystjrPnuniu+Fty/9kVgrQJsMtDZ16KL2cm+kfms4Cugik+Fn4zeHBSe1BR0fh8+aNwvr5aBMmDtt+z30vn1JUVsFdAJWPthDF/IbdM1rnNgE7D2Qy9e4fZfQy9h8An84ntm27YsKS1L8dAMnPF17SleWCLRUPxYxNd8THX/SvER39OPMnxKYiCOAvwDj/r/uH7o/AHrB12/wPuDvr/f2T/g/evz/RPdv+HzAz2/4PMTPb/h/gHtX+D+Ce7f0P4R7l/h/hnu3+H7A3x/we9P8P0Nvz/i91f8/vwg3pCDqusAEAAA"
+}

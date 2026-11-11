@@ -1,0 +1,45 @@
+{
+  "format": 2,
+  "id": "mandala_003_64",
+  "title": "Мандала 3",
+  "titles": {
+    "en": "Mandala 3",
+    "ru": "Мандала 3",
+    "es": "Mandala 3",
+    "pt_BR": "Mandala 3",
+    "de": "Mandala 3",
+    "fr": "Mandala 3",
+    "tr": "Mandala 3",
+    "id": "Mandala 3",
+    "ja": "マンダラ 3",
+    "ko": "만다라 3"
+  },
+  "theme": "mandalas",
+  "tags": [
+    "мандала",
+    "антистресс",
+    "симметрия",
+    "узор",
+    "mandala",
+    "pattern",
+    "relax",
+    "symmetry"
+  ],
+  "width": 64,
+  "height": 64,
+  "palette": [
+    "#0f0d1f",
+    "#faf7eb",
+    "#2e24f2",
+    "#6762d9",
+    "#3324f2",
+    "#6a62d9",
+    "#6324f2",
+    "#8662d9",
+    "#390f99",
+    "#62bed9",
+    "#0f7a99"
+  ],
+  "added": "2026-11-13",
+  "pixels_gz": "H4sIAAAAAAAC/82X23LDIAxERxRiG/7/fyt2xS1xLq08nWry4GDOSkiyDSL/2Yqaj3YolGT2GwFDp4sfwu9Gnq94mnpTmyTeZeOOBj4EmsJLfg7zdrsTEAh8iH9N9pkAaHqsUOgGCQvlRTnhvM4CPN+BhC3laSEmnHA2o8RbgcScdd85R1gTgEKfeI4LncNr7Mb/CEGeCTAq4Jmexz1GkbvAyQpsiPhKD4UqIKcCZeCSBx2XSy6BAuWx8pVf8N1sFWh9tDTewCtfJyvHOoSglxzLMgSmNrS2tbrDu+JTA6lCbHcsh2kIFLrXyqNyCL7RbVLAIiKryC7qDwJ4tN0j3tc5CaARFz6RZ+kM11E8jwUXJmBFBJ8mXhpPfDfXpcmXNlpzSH7KIHkNn+4joi+A0Pu8DHu0APgcjAoyfQwfpbPM5UMO/WXLIovIBSwtlDrf3Be4PLZ909+BCEoPoPFp7f2x/GB53zctfNh2q0MYCZBzXlC9nUNZ3deXlwaQOQV87+GJlwdeqnvFt622L/7e83Id743/ivw56uftH2f/ep8f//PrfX/43l/e96f7/e3+fri/X+7vp/v77d4/uPcv7v2Td//m3j9696/e/bN7/+49P7jPLxedny44v11wfnSfX//CvgGtVCS1ABAAAA=="
+}

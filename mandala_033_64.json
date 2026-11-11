@@ -1,0 +1,44 @@
+{
+  "format": 2,
+  "id": "mandala_033_64",
+  "title": "Мандала 33",
+  "titles": {
+    "en": "Mandala 33",
+    "ru": "Мандала 33",
+    "es": "Mandala 33",
+    "pt_BR": "Mandala 33",
+    "de": "Mandala 33",
+    "fr": "Mandala 33",
+    "tr": "Mandala 33",
+    "id": "Mandala 33",
+    "ja": "マンダラ 33",
+    "ko": "만다라 33"
+  },
+  "theme": "mandalas",
+  "tags": [
+    "мандала",
+    "антистресс",
+    "симметрия",
+    "узор",
+    "mandala",
+    "pattern",
+    "relax",
+    "symmetry"
+  ],
+  "width": 64,
+  "height": 64,
+  "palette": [
+    "#0f0d1f",
+    "#faf7eb",
+    "#f26124",
+    "#d98562",
+    "#99380f",
+    "#99510f",
+    "#24b6f2",
+    "#0f7099",
+    "#62a0d9",
+    "#0f5899"
+  ],
+  "added": "2026-12-13",
+  "pixels_gz": "H4sIAAAAAAAC/7WX2XbDIAxEj1gSkv//4AosgQS2a3dcPSRpmjsaxjYL0X/V2xRG31eoRDF1U2GiReEGvjFBShWu4sKOb0TjokCF+S3XirG9NY1SruVW6ZwFF4EqwQrnOW6xDdrxTeEsyJUe/i8oKO5/T+T1DgUWnL/7SlmNA4EZH7BKnApM+Ew7hR0Bj+/RVmEV8Pj3sLzA1P53fAh4A7a9wfUJCGEW8AZae8brvTLwBsvVo2AF+HdVoBuQ9jG+YucD2RSNArd5xegMSPumO/A5eyMQsxjw/Bh9MLde/xTmBIQ34U+45rsr0AewttfcyqdV0b/3DQzetecGHym2txiY+KV9bV5Kf6HFgOOtfWnf+m6zL3+0BnoAGqAO39in5juknFNo4yAzAA1Ar58fPnU+pxRCSrnz5AM44MU+h7ItH7k6oP6vhaf3whPVwXN7zolfOYLNlePH84fxqP+n8vvj9UPvnyfuX/j5AZ9fZP5A569H5k9s/sbWD3T9gtdPdP2G9w/o/gXeP8H7N3j/CO9f4f0zvn/Hzw+PnF/Q8xN8foPPj/D5FT8/X60fKSU0fwAQAAA="
+}

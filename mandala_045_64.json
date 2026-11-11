@@ -1,0 +1,45 @@
+{
+  "format": 2,
+  "id": "mandala_045_64",
+  "title": "Мандала 45",
+  "titles": {
+    "en": "Mandala 45",
+    "ru": "Мандала 45",
+    "es": "Mandala 45",
+    "pt_BR": "Mandala 45",
+    "de": "Mandala 45",
+    "fr": "Mandala 45",
+    "tr": "Mandala 45",
+    "id": "Mandala 45",
+    "ja": "マンダラ 45",
+    "ko": "만다라 45"
+  },
+  "theme": "mandalas",
+  "tags": [
+    "мандала",
+    "антистресс",
+    "симметрия",
+    "узор",
+    "mandala",
+    "pattern",
+    "relax",
+    "symmetry"
+  ],
+  "width": 64,
+  "height": 64,
+  "palette": [
+    "#f7f2e6",
+    "#1f1a33",
+    "#24f2db",
+    "#62d9cb",
+    "#0f9989",
+    "#db24f2",
+    "#cb62d9",
+    "#f2db24",
+    "#d9cb62",
+    "#24ccf2",
+    "#0f8099"
+  ],
+  "added": "2026-12-25",
+  "pixels_gz": "H4sIAAAAAAAC/7WXgXLDIAiGT1wia97/fSciCjZJ1/0d18ulid8vAhpN6Z+Mq5Vmcvc+2+Epwe/3vEr8kpbWT7hKvKanv4v7/e4W9+2NCX+qvcY7QsMCfynAHif6dqYS4/0rPMJT4k5gvD2lu8Lo4RovF3RTKFcCo1bpBncurAKWKVrbr3pkWV2715QF1t4GDU1mdOAZF3irlrNcg8SJAPeczzZKG98UooAfAS/8oCfvFYxnH7yAO8wJBQEXwh57h9fWuXWptvUHXsDloASeUu8tmHpkAlbKnjftZMNttu/TB3k6HJh8CTwlj0++P6bAl8k/4bugX9X67SJwy2vP+1c35dM5z8H9gadKawUTVYUxhBQGwIO37rOFvuKttERBBqFJyOZA5Ef0tlyUF7zCj4dcu0B7GSLIVnzTfcFl7LV3PqRSDxYPWgy27AbA53wPfuOZ2k/5NQCTH7U/ol+Dl/ihSzjXm6QhdBkgm4Pspt7MngxY8OOg5kAPQOT5MzzqPxw/OH9o/cD1C8wfdP5+aP34+/qFrp/w+o1+P9DvF/z9RL/f8P4B3b/A+yd4/4buH+H9K7x/hvfv8PkBP7/A5yf4/IafH/HzK35+fsN+AExhlfcAEAAA"
+}

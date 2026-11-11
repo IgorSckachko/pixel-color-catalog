@@ -1,0 +1,44 @@
+{
+  "format": 2,
+  "id": "mandala_029_64",
+  "title": "Мандала 29",
+  "titles": {
+    "en": "Mandala 29",
+    "ru": "Мандала 29",
+    "es": "Mandala 29",
+    "pt_BR": "Mandala 29",
+    "de": "Mandala 29",
+    "fr": "Mandala 29",
+    "tr": "Mandala 29",
+    "id": "Mandala 29",
+    "ja": "マンダラ 29",
+    "ko": "만다라 29"
+  },
+  "theme": "mandalas",
+  "tags": [
+    "мандала",
+    "антистресс",
+    "симметрия",
+    "узор",
+    "mandala",
+    "pattern",
+    "relax",
+    "symmetry"
+  ],
+  "width": 64,
+  "height": 64,
+  "palette": [
+    "#0f0d1f",
+    "#faf7eb",
+    "#f2e924",
+    "#d9d462",
+    "#24f2e9",
+    "#62d9d4",
+    "#d462d9",
+    "#930f99",
+    "#bad962",
+    "#76990f"
+  ],
+  "added": "2026-12-09",
+  "pixels_gz": "H4sIAAAAAAAC/7WXiW7EIAxEZZM2lP//4AIGfCTpJprUqlarbt54bMJF9F+RTWD0c4WOfK14quDgJfEAnxTXUIW7+EDb91La5xC5KSBwcSESt/pW6QBPCWnkp7YxpZSOeP1nU7hu5KA5mRjgCr5WmMmLeZip/6lkubQQcebdxJK4Eli48Ex7COJR0KmAx31u7+FUQPHGn9JdQTp6FFC8/IF3gaICMf1HfAkEAzY9h5pDL/jEgKSXd5YdLL87CZZ32RpQ9xav8M+IKhEFrIGz9INu8yUoWAPKS/UGl8x53/Pw4AVkMgb7iQJueBWg5AtY9rX3q/Lpvwu4MSDHsxv6ml6xKaQG5CXgI6/pZ97vGsvHMnDkKaavdedOd4Xc++ANkDaw8Wbe8MjX0G0bAs0P23lEaz1ufDI8Sb2dZ5YSejlk+GT5vmTO0ZuDV5Nzj016oEMoT/PaD7KsLRz5mn7bePZQ+fG4zj+MR/3j/YPGD31/3nh/0fmDzl9k/UDXr1fWT2z9xvYPdP+C9090/4bPD+j5BT4/wec3+PwIn1/h8zN+fsfvD6/cX9D7E3x/g++P8P0Vvz/fjV8YBCx2ABAAAA=="
+}

@@ -1,0 +1,44 @@
+{
+  "format": 2,
+  "id": "mandala_012_96",
+  "title": "Мандала 12",
+  "titles": {
+    "en": "Mandala 12",
+    "ru": "Мандала 12",
+    "es": "Mandala 12",
+    "pt_BR": "Mandala 12",
+    "de": "Mandala 12",
+    "fr": "Mandala 12",
+    "tr": "Mandala 12",
+    "id": "Mandala 12",
+    "ja": "マンダラ 12",
+    "ko": "만다라 12"
+  },
+  "theme": "mandalas",
+  "tags": [
+    "мандала",
+    "антистресс",
+    "симметрия",
+    "узор",
+    "mandala",
+    "pattern",
+    "relax",
+    "symmetry"
+  ],
+  "width": 96,
+  "height": 96,
+  "palette": [
+    "#f7f2e6",
+    "#1f1a33",
+    "#d9af62",
+    "#99690f",
+    "#f2d024",
+    "#d9c562",
+    "#99820f",
+    "#0f3f99",
+    "#2447f2",
+    "#6275d9"
+  ],
+  "added": "2026-11-22",
+  "pixels_gz": "H4sIAAAAAAAC/+2ZjW7DIAyEZbqmrO//wEsAm8PA8lNdp0m1WjWh5DsI2E5A5GMf+692M/tyVv95HW/QXOo1XsMjGQ0kXsCP2ahxWWCXDgqX8Ltwk7ggYG1flmVWp/yV+nCWb41fsg3YtfhgTwd05TiFrvScwgifWPfVusLTAlBXKffOfLeOC3T4+8SuCWA9pGMdVJBzAg7fs1uNswJNnYKf1S0CckKgrWH0uBpW03MvfyCeOLzSUAHPO4GdoDDBP1crxHo2FrgdxwvwVMCdQsU9gVvDt6uM5/lPvWONwDSa7uEj2AWBW8OvV9S7HWNIViVsyFFgnHAQn6a9AF/ZuUQ1gC/oCCOBlGubmNBORmWraS8avqWDPidb8xeHF6U/Hg8tSodZQZzAMumA8ju8VHxR0KMkICOBIX/D12CPbhoMumHrkQTnyJYR+imE/IyPiB/zq0BEgQlfGn6egYpP1Bgzf/stgxGsWsOXnl9HF/BPxUvCx41cfspgBwhNMIe6INHzC974sTHjh+pph/l986d814Ff+JAQofk2HT2/TlPfgeJi47zS8XW6PMptb442Ac8f55kxX/F6T1BLz1eBE3xZim9h8w33/Z2/KFA6UHxskYP8WPkVZnwoy/x4lC81K+rwQmND+mCZOjFeO+LLgB/McTfU1vAt9Ocja34RcHyZ8SEvWuRR/spOH+BrkOjS2C5/VTDnstsTkkjpU3WxwcV/zifdH9b4sufnu/yLHB/Y8Y0Vn9n5hZ8f35jfGc8n7Ocr/vMh+fmW/XxOf7+gvh+x3+/o76f092v6+gB9fYO+PkNfX+Kvj7HX9+jrk/T1Vfr6MH19m74+T99foO+P8Pd32PtT9P01+v4gfX+Tvj9L31/+2Mf+2H4A0VPiXwAkAAA="
+}

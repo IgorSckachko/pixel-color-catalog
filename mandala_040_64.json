@@ -1,0 +1,43 @@
+{
+  "format": 2,
+  "id": "mandala_040_64",
+  "title": "Мандала 40",
+  "titles": {
+    "en": "Mandala 40",
+    "ru": "Мандала 40",
+    "es": "Mandala 40",
+    "pt_BR": "Mandala 40",
+    "de": "Mandala 40",
+    "fr": "Mandala 40",
+    "tr": "Mandala 40",
+    "id": "Mandala 40",
+    "ja": "マンダラ 40",
+    "ko": "만다라 40"
+  },
+  "theme": "mandalas",
+  "tags": [
+    "мандала",
+    "антистресс",
+    "симметрия",
+    "узор",
+    "mandala",
+    "pattern",
+    "relax",
+    "symmetry"
+  ],
+  "width": 64,
+  "height": 64,
+  "palette": [
+    "#0f0d1f",
+    "#faf7eb",
+    "#249bf2",
+    "#245df2",
+    "#6282d9",
+    "#0f3599",
+    "#2924f2",
+    "#6462d9",
+    "#130f99"
+  ],
+  "added": "2026-12-20",
+  "pixels_gz": "H4sIAAAAAAAC/82XgY7DIAiGI6vd+f4vfAj8QF1v64XmcmRZTev3i0CttvYfbZit7V/AX9MYssZliYAXu6YQMCULiY844M62i80WJD4IKE60w6DBphJvBQQ/0OEFFN4JCN4XPAl00pxcwnuyawKD6dSVSG9zI4nST/wYaXCwsAjKFBjnoZt412y9dtCMdp3Di4LhOttJS0OfoUkWixMBSZyPrsy2qYC2QoB7rWkcFnnQwmwqkJqmYFkYL/gOvCmzqcPWbhDYVwHEbo8pO+wSEYx9iaEOb9l1HlIeggYHJL/JARnecutAP+YnbliN0BlP0X3e9/nhjgosvLi/g7cJ21KSLv7AKtEncBheQ9V9JcN/S48WBzKvyTJXx9NsRFKmwMpr6XH0MIZNlMkHG19azipfpTfeZE8+RQ/FH2YQgDp5CZzyOufAp4BG4R0vtYNCAd7lpwJRVuSvMXgvXcsdeO5JmY9eGkAsW1H6yP3EmSX+TQ+eI1eh8Sgw5vNqodET9+f4OoH8TPxgvt3DF/2vxu+O/N1QP5X6rb0/1ff3hvWjsn5V189b1u/K96P6/Sp/P6vf7/L+obx/Ke+fyvu3+v6xvn+t7p/L+/fq+aF8fimfn8rnt/L5sX5+/VP7BmQYxFoAEAAA"
+}

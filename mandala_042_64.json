@@ -1,0 +1,45 @@
+{
+  "format": 2,
+  "id": "mandala_042_64",
+  "title": "Мандала 42",
+  "titles": {
+    "en": "Mandala 42",
+    "ru": "Мандала 42",
+    "es": "Mandala 42",
+    "pt_BR": "Mandala 42",
+    "de": "Mandala 42",
+    "fr": "Mandala 42",
+    "tr": "Mandala 42",
+    "id": "Mandala 42",
+    "ja": "マンダラ 42",
+    "ko": "만다라 42"
+  },
+  "theme": "mandalas",
+  "tags": [
+    "мандала",
+    "антистресс",
+    "симметрия",
+    "узор",
+    "mandala",
+    "pattern",
+    "relax",
+    "symmetry"
+  ],
+  "width": 64,
+  "height": 64,
+  "palette": [
+    "#f7f2e6",
+    "#1f1a33",
+    "#f27724",
+    "#d99162",
+    "#f24424",
+    "#d97462",
+    "#99250f",
+    "#f25524",
+    "#d97d62",
+    "#99300f",
+    "#f25a24"
+  ],
+  "added": "2026-12-22",
+  "pixels_gz": "H4sIAAAAAAAC/82X2XLDIAxFBwib/f//W61sThzHSjvVQ+sxOVcSCBmc+79Wxe7TBeyeApLl8Hidloec1zeXXDca7fD6De4melBw5aPI80MsX8+ijT8WuxRCk0ciDDYonISgQx3ewLrEuUCVgdH1ltI2BiEC9RQf4h78s8JLAcHznHeYcBTIzwWg1GnNFjw4F1YBVCjLliA8z/g4PgvkVQA32oLLSIyrAguUSQDdP8Mj2XOBiZfoD85HgaagGUw8u+fplrc7mPf4dxCAX2gA09qRe15upb3nJ9RQAfqFzsAcPrlPwkfAsYOlhN0LBKLwSQIYExCe6y1Q4kwLTwo0DYHrceHLWHg0bYorzwJR55DLsLzkIV9p3TlrD9/3N3xbOnRfE8FsGEfVDGQJz3iIPkHgvf9BGgkzOOHdxGPiRIZA/3AaJv7Qynr6sPSuavTeawYwA70Iez8844MnCx/wXHCuuQ+hBeB83wW/xlvjvzV/1vX7Rv3Y69e6f+7vX2v/sPcvW/+09m/798P6/TJ+P63fb/P5wXx+MZ+fzOc38/nRfn41n5/t53fz/cF+fzHfn75wf7PfH+3317+xH7qoEp4AEAAA"
+}

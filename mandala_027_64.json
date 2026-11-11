@@ -1,0 +1,44 @@
+{
+  "format": 2,
+  "id": "mandala_027_64",
+  "title": "Мандала 27",
+  "titles": {
+    "en": "Mandala 27",
+    "ru": "Мандала 27",
+    "es": "Mandala 27",
+    "pt_BR": "Mandala 27",
+    "de": "Mandala 27",
+    "fr": "Mandala 27",
+    "tr": "Mandala 27",
+    "id": "Mandala 27",
+    "ja": "マンダラ 27",
+    "ko": "만다라 27"
+  },
+  "theme": "mandalas",
+  "tags": [
+    "мандала",
+    "антистресс",
+    "симметрия",
+    "узор",
+    "mandala",
+    "pattern",
+    "relax",
+    "symmetry"
+  ],
+  "width": 64,
+  "height": 64,
+  "palette": [
+    "#0f0d1f",
+    "#faf7eb",
+    "#f23f24",
+    "#d97162",
+    "#99210f",
+    "#d99462",
+    "#99490f",
+    "#f2a524",
+    "#d9ac62",
+    "#99650f"
+  ],
+  "added": "2026-12-07",
+  "pixels_gz": "H4sIAAAAAAAC/82X6XLDIAyEB8oR+v4PXBtWIFHsOl5PpvqV2P5WB5dw7h9bqEbBdyV26gt2Q6GBvlr7/S69gRI9NN6gBzs0LirsdFjaJYVDGgp/0t5GPf8/UwjGuffyXGtsAuECXuECMxJHAkHhGh4SSiCc4bvv8stGDCuBfbb67lxTRkEE5gltcM2mpDWOBMKIXvAKpWoqDAjUDMLKfccFFolZYOLbIhV8orUCBGwJm/tv4ZG3hruAw4eWN+5dQdYj//bE2QA077FNlY7Z8RuPsLH5BQ/3/Vt53QVUAJo34bteL/eCuV5Pt05Awi+KH3gVSCoAJOAm3qvsk8Z3gaQq4E/47ullrEe15lX4GKqG5RgzBPQQtgIs08fYNz5n73MGX0YCUwHm9Av42M6PCL4cFWBKv8jYbe5jRABYj8sCPMgT8d+vHzt+/Px5ZP7eXj/0+iX3jwf2L3L/ZPdv+vxgzy/u/GTPb7p/oPsXun+i+ze+f6T7V75/5vt3+v7A31/4+xN/f6Pvj/z99TP2A9QBItYAEAAA"
+}

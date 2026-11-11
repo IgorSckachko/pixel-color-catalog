@@ -1,0 +1,45 @@
+{
+  "format": 2,
+  "id": "mandala_025_64",
+  "title": "Мандала 25",
+  "titles": {
+    "en": "Mandala 25",
+    "ru": "Мандала 25",
+    "es": "Mandala 25",
+    "pt_BR": "Mandala 25",
+    "de": "Mandala 25",
+    "fr": "Mandala 25",
+    "tr": "Mandala 25",
+    "id": "Mandala 25",
+    "ja": "マンダラ 25",
+    "ko": "만다라 25"
+  },
+  "theme": "mandalas",
+  "tags": [
+    "мандала",
+    "антистресс",
+    "симметрия",
+    "узор",
+    "mandala",
+    "pattern",
+    "relax",
+    "symmetry"
+  ],
+  "width": 64,
+  "height": 64,
+  "palette": [
+    "#0f0d1f",
+    "#faf7eb",
+    "#627dd9",
+    "#0f2e99",
+    "#24f2c0",
+    "#0f9978",
+    "#24f2b8",
+    "#62d9b7",
+    "#0f9972",
+    "#2455f2",
+    "#627ed9"
+  ],
+  "added": "2026-12-05",
+  "pixels_gz": "H4sIAAAAAAAC/82XCXKDMAxF58uxofT+960kbzIYmkQ0U82EEOBp+VaMDfxHC8X25y/iAtnzl/HRnPizDvbPv8cDa7N+7RlQPuvBUG6dujFprlO7LuQ3evRwzq+XdspPghMbIMdJCifaWRhLMVgXuODR6WV5iLWv7gGnfMeXwjXjC6ODGV9pdNyccBlGxAlvcBPWnFsHxwEo2ZMBSc24oVrBRLwavdXLg5fYZAgrXzMYJbTaowhOlFIIwsuRPeTLmIyB7bs6biShQwzlkFDLsgmEQ+c0PKWR5xQGB9jPjz28lM5JB5u//FQRJgkYXsPzI5CoAov86oKTQL0742v6OcUcMFHWp/3U4oYC9nyWXrNW+ptNPWgleRCmvB37LF4S+ItNXCQjIWhsAVt+fiCoXBB628QDVNBQWmvCm/J56EMUuZjfIlHcmBdBYwA9dgLUBrDy5cbT8FH0jzWBIoDhWwOi9O6S1ZdaJTzRJh/ls4DyACqPe3hn/l797hg/d/94+9f7//H+f93zx/vzl3f+dM/f7veH+/11w/vzhve3e/3gXb+410+O9Zt3/ehev3rXz+71u3//cOv+5Q82YJ/aP7r3rx+0H2Jkpw0AEAAA"
+}

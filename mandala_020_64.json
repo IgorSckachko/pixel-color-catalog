@@ -1,0 +1,44 @@
+{
+  "format": 2,
+  "id": "mandala_020_64",
+  "title": "Мандала 20",
+  "titles": {
+    "en": "Mandala 20",
+    "ru": "Мандала 20",
+    "es": "Mandala 20",
+    "pt_BR": "Mandala 20",
+    "de": "Mandala 20",
+    "fr": "Mandala 20",
+    "tr": "Mandala 20",
+    "id": "Mandala 20",
+    "ja": "マンダラ 20",
+    "ko": "만다라 20"
+  },
+  "theme": "mandalas",
+  "tags": [
+    "мандала",
+    "антистресс",
+    "симметрия",
+    "узор",
+    "mandala",
+    "pattern",
+    "relax",
+    "symmetry"
+  ],
+  "width": 64,
+  "height": 64,
+  "palette": [
+    "#f7f2e6",
+    "#1f1a33",
+    "#247ff2",
+    "#6296d9",
+    "#4324f2",
+    "#7362d9",
+    "#240f99",
+    "#6284d9",
+    "#0f3799",
+    "#6c62d9"
+  ],
+  "added": "2026-11-30",
+  "pixels_gz": "H4sIAAAAAAAC/7WXgW7DIAxEBYGm9P8/eBjOxiZrleo2a+rSqO8wZ5NASv8UJcS37PMS9zU8Ha9v5u2Isn39hn7q5J+3FcJvs8XNSQwaY+Ysd44e8r9LWCpvFRYu8BHCJN4L2AwvsEmYF5/x4018EihqmqMrIijgd78bv/C6xSawewBZxYU4z3OiuFCB3xKIo4OqylcoxQyulfP4dXwnsFexeOPrh/BlKH74scYnbqPNFpTOsYwgMBppJYDhFZ8C2fuTMQ8IxATGNbJX34RuPfRTFKaPywJNAG74uo3B21it/aPNFFwd4fiqnQ1fV+7Ct6Z8ys5DFLE4PuAdaz7//rUFAcejGxafdeiUXj1EYiaRXQLFltFqXOgnTPplASvSSgBtbK2L9E9MvgV8CKAIFSXI2sTFpT8cnt4FXATG7VmdNQHl4b6UPg/H2muLcVOKWMFnxxdMf5a+rck/eiwLmjaBVbCgeZ19yfGPR84QmHeTMxAtPPlj4xUff3MCkT8WXzbe3BNWBJyDgS9/w7P50/6x9aP7h+5fYv2w65d+frDPL/b5yT6/6fcH+/6i35/s+5veP7D7F3r/RO/f2P0jvX+l98/0/p0+P9DnF/78RJ/f+PMjf37lz89fxA+GuaqxABAAAA=="
+}

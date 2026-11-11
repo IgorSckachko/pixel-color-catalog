@@ -1,0 +1,43 @@
+{
+  "format": 2,
+  "id": "mandala_023_96",
+  "title": "Мандала 23",
+  "titles": {
+    "en": "Mandala 23",
+    "ru": "Мандала 23",
+    "es": "Mandala 23",
+    "pt_BR": "Mandala 23",
+    "de": "Mandala 23",
+    "fr": "Mandala 23",
+    "tr": "Mandala 23",
+    "id": "Mandala 23",
+    "ja": "マンダラ 23",
+    "ko": "만다라 23"
+  },
+  "theme": "mandalas",
+  "tags": [
+    "мандала",
+    "антистресс",
+    "симметрия",
+    "узор",
+    "mandala",
+    "pattern",
+    "relax",
+    "symmetry"
+  ],
+  "width": 96,
+  "height": 96,
+  "palette": [
+    "#f7f2e6",
+    "#1f1a33",
+    "#9f62d9",
+    "#560f99",
+    "#b324f2",
+    "#b462d9",
+    "#52990f",
+    "#64f224",
+    "#3a990f"
+  ],
+  "added": "2026-12-03",
+  "pixels_gz": "H4sIAAAAAAAC/+2a63LEIAiFB5Ot8f1fuBsVQcRcdufkT8u0s83tO8AqGi3Rv31vMZ6f+ZT8ttfrlT9jO9NOfQ1/FYvG1Okv6EIJxrqLH+I1217VGh8J8KMOW2mwwmfOZ/rWjC/KmaZwM4TaPjS8KZhTVeGeQCx0xUopFQF1UDWLQrzZLoWelNkjUbgRQMZzItKhcdpuCWTnydD7W4wC5RBu4ydwI3FTIOdG4+e3dgJ0USDjqeG7ZJA9agK5v8Wr3jd8x8vH5pB6gXgNTwVv6Y7VW2rnPhGIjKfNd942HiVALBAv4DN/yLzfQMsBF6e5QO20zNeQsezYq8Kf9bR3DZGWWfDUnt8c09d3AWmlbrHbS5R0K8FP6FqBb+ZS4RU7B0/l2e3A+J5TgVzCQ+u1/AQd42sI4k2ppnEY0WJ08JTO6DUEcgT6r6C4r/HnuRlzxAJDAOK+7lbX8CwgPXkMwLo/x6/rkcAsgOjgEw1oMSuQHIFo0tP4yXN/NeYFkHp+7NwPR9lZHTvKUOgCcN0/wxsBLwDLn7m/rqcCQwCGL41zdH9drwj0AVBQ/K7xD+5r4D5r9gU4AN0FutLGhc2638OLuQKSoNbFbvFD+KmmBK7wqc4G5QtS6RH8jzJHgJ/k0V4N9cLnwja63+GVgAmAx4Gr/B6/LOXXFTjlb3N+GPlhzt88Pgl/TH/NzvL+DEufof4LqHz6gL+8Pd8bZ/7jFp+ntDwKDfxQ+CHUn0UlqOOX54fJLk86kx12TdPf0fK3CYAH4sRT0af5sPygv99H2ie6f+HrwwP1DVKf0eMLenxEj+/w+ckD8yv8/BA5vwXPz9HvF/j3I/D7Hfr9FP5+jV4fgK9vwNdn4OtL6PUx+Poefn0Svr6KXx+Gr2/j1+fR+wvw/RH4/g56fwq+vwbfH0Tvb8L3Z/H7y/D9cfj+Pv7/Ex74/4q/br+KseZYACQAAA=="
+}

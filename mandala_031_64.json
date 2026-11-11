@@ -1,0 +1,45 @@
+{
+  "format": 2,
+  "id": "mandala_031_64",
+  "title": "Мандала 31",
+  "titles": {
+    "en": "Mandala 31",
+    "ru": "Мандала 31",
+    "es": "Mandala 31",
+    "pt_BR": "Mandala 31",
+    "de": "Mandala 31",
+    "fr": "Mandala 31",
+    "tr": "Mandala 31",
+    "id": "Mandala 31",
+    "ja": "マンダラ 31",
+    "ko": "만다라 31"
+  },
+  "theme": "mandalas",
+  "tags": [
+    "мандала",
+    "антистресс",
+    "симметрия",
+    "узор",
+    "mandala",
+    "pattern",
+    "relax",
+    "symmetry"
+  ],
+  "width": 64,
+  "height": 64,
+  "palette": [
+    "#0f0d1f",
+    "#faf7eb",
+    "#f24324",
+    "#d97462",
+    "#99240f",
+    "#f25724",
+    "#d97f62",
+    "#99310f",
+    "#f2b024",
+    "#d9b262",
+    "#f25424"
+  ],
+  "added": "2026-12-11",
+  "pixels_gz": "H4sIAAAAAAAC/7WXi5KDIAxFJ1kRWP//f5cYwARftdfNtNXKnJuEAALRP1l0hrBPNeKpPaLXf8ty8PADuoDe6COFE9hJfEnfK2jjcmkXAnfObQhf46cCR7FztaMc7nBm2+w1DgQGnHkq1hrl3inseJ978T2pNVpujQINAgMuzK+YCJjbUwEXvSTeGDX9Q1bA8Yf4mrOaSpwL2OhZUy64KQCvD8gK0MZb99w6nH19uJWD9wEY95UaaVUgJ9ADGNxP3fk8k73WIbELwPDsMp8VnJtO7QXe8z383tEK/qzW+FqWMQHjXvGWvLDM8tu7wAkoHwe+D3uBde50AW33CZjwtZ07TjmTfLsAq75LYMdrlwlOKeWcEomA9uIlL8VT98LLNYcYQxbHlS8BbCU84mvxxH1OOXIIHMuNBLANw3OeWvFLxjkVlssnpEy1B3gys6jzbupUvlxyDOI/xCwJmEHsCvgCj8b/Xv9B9UPHz9fjF5o/6Px9Y/1A1y9o/UTXb/j9gb6/4Pcn+v6G9w/o/gXeP8H7N3T/CO9f4f0zvH+Hzw/w+QU/P8HnN/z8iJ9f8fPzA/sDO3U+FwAQAAA="
+}

@@ -1,0 +1,42 @@
+{
+  "format": 2,
+  "id": "mandala_050_64",
+  "title": "Мандала 50",
+  "titles": {
+    "en": "Mandala 50",
+    "ru": "Мандала 50",
+    "es": "Mandala 50",
+    "pt_BR": "Mandala 50",
+    "de": "Mandala 50",
+    "fr": "Mandala 50",
+    "tr": "Mandala 50",
+    "id": "Mandala 50",
+    "ja": "マンダラ 50",
+    "ko": "만다라 50"
+  },
+  "theme": "mandalas",
+  "tags": [
+    "мандала",
+    "антистресс",
+    "симметрия",
+    "узор",
+    "mandala",
+    "pattern",
+    "relax",
+    "symmetry"
+  ],
+  "width": 64,
+  "height": 64,
+  "palette": [
+    "#0f0d1f",
+    "#faf7eb",
+    "#990f0f",
+    "#24f224",
+    "#62d962",
+    "#0f990f",
+    "#62d9d9",
+    "#0f9999"
+  ],
+  "added": "2026-12-30",
+  "pixels_gz": "H4sIAAAAAAAC/7WXCZLEIAhFC9pJcv8Tj+ACGLP1T1O9pIzvC0iMEv3IUjCEfaqRDg2j7yikS3uCnzRe0ku20ixXdxR8j6Ua2dWVgL+97Pkl9jjGm8uj7Tpd4lzthkBwnQpsd4sEhSDmfB9Zm/q9JuFm4hRvTeQuTgTirBXH0ydbsn9ToJ1A4GvcE74K7PgZrlxpN/5AwFcNt3hj/bc0sK+kYXgqoxeHY4KLF+IG+0mMw4sAhYBT/7FWX0ez4cnibX5bPmjigEse145pLErfzi6F1svPfMsW85qNuWfUzcGUpx51obdtla8q9ExQ5MPwrlXG3tTEB9d1cMDzViuJK1wlOFlNHfI08qv4v448HfDcefU+Y39qGoJGUHne8a72ShMLlFnm/CNSJYVprMGBp5Y9jT7j+tEMtAzSnM8K7GpW501YEdB5dLXMi1tXXuJR/7H8ofP3Sv3A9fvV84M+vy+tH+j69f36ia7f8PsDfX/B70/0/Q3vH9D9C7x/gvdv6P4R3r/C+2d4/w6fH+DzC35+gs9v+PkRP7/i5+cH9g/Xr/wnABAAAA=="
+}

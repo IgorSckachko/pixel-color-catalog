@@ -1,0 +1,44 @@
+{
+  "format": 2,
+  "id": "mandala_006_64",
+  "title": "Мандала 6",
+  "titles": {
+    "en": "Mandala 6",
+    "ru": "Мандала 6",
+    "es": "Mandala 6",
+    "pt_BR": "Mandala 6",
+    "de": "Mandala 6",
+    "fr": "Mandala 6",
+    "tr": "Mandala 6",
+    "id": "Mandala 6",
+    "ja": "マンダラ 6",
+    "ko": "만다라 6"
+  },
+  "theme": "mandalas",
+  "tags": [
+    "мандала",
+    "антистресс",
+    "симметрия",
+    "узор",
+    "mandala",
+    "pattern",
+    "relax",
+    "symmetry"
+  ],
+  "width": 64,
+  "height": 64,
+  "palette": [
+    "#0f0d1f",
+    "#faf7eb",
+    "#f22424",
+    "#990f0f",
+    "#d9d962",
+    "#99990f",
+    "#24f224",
+    "#24f2f2",
+    "#62d9d9",
+    "#0f9999"
+  ],
+  "added": "2026-11-16",
+  "pixels_gz": "H4sIAAAAAAAC/7WXi7KDMAhEB0z12v//4BsgGIiP1m7LdKoTPRuyRE2IfhSPFAh7V+NxGrdprnFLIaK9NYq8hQs8hYgSL+kKTwfRJV7glS5lpKWFLgU6XW8eBVqLK1zjU1mWkW8tpwIRP+//VKDhcbQTWwnrYYqOHApkXOF4mdOlPT/ivPeHLwTi2Fvfq4Zc9LOeA40CA66QOGaoncUUTCB3n3GnmTeFJJASSIPXoa9Cu4WiYXwXiAmk7I3RnufZrs+zZpFcjCOI3TvOlZIgP/Ig0Pk2eptg7PjIu4DNpRIcsO5LWWprKxxr1uKa/5MKaBn91iPenNMkFPRQJ9hcPOLJkmLanD7grSqaQGklHNxn695GXO8yf+VEmywBzhWI7tPGF6P/9EfmwewDSBUIc0/cy7hGEli3EtIb/LPGPV5KpLz0/tSQDFoRWwUH3u2zueO84swmsPFyTzBwz3vxNXvWn/bfpsDP+Q/yR/37Zv0+mj/o/EWeH/T5/cr7A31/Ie9P9P0Nfz/Q7xf8/US/3/D6AV2/wOsneP2Grh/h9Su8fobX7/D+Ad6/4PsneP+G7x/x/Su+f74R/02cbd4AEAAA"
+}

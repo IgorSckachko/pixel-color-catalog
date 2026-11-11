@@ -1,0 +1,44 @@
+{
+  "format": 2,
+  "id": "mandala_009_96",
+  "title": "Мандала 9",
+  "titles": {
+    "en": "Mandala 9",
+    "ru": "Мандала 9",
+    "es": "Mandala 9",
+    "pt_BR": "Mandala 9",
+    "de": "Mandala 9",
+    "fr": "Mandala 9",
+    "tr": "Mandala 9",
+    "id": "Mandala 9",
+    "ja": "マンダラ 9",
+    "ko": "만다라 9"
+  },
+  "theme": "mandalas",
+  "tags": [
+    "мандала",
+    "антистресс",
+    "симметрия",
+    "узор",
+    "mandala",
+    "pattern",
+    "relax",
+    "symmetry"
+  ],
+  "width": 96,
+  "height": 96,
+  "palette": [
+    "#0f0d1f",
+    "#faf7eb",
+    "#e4f224",
+    "#90990f",
+    "#add962",
+    "#66990f",
+    "#69f224",
+    "#3d990f",
+    "#65d962",
+    "#14990f"
+  ],
+  "added": "2026-11-19",
+  "pixels_gz": "H4sIAAAAAAAC/+2Zi3KEIAxFB3zswv9/cAUB88IVu3ennTbTcdqi50KM4RHn/u3vWsh2r/Uy3sL0W27iN5uaiYbv4yfDviug4b6YlrjPZ+Q5G1O5zT/oB5lak7gnQOhz14jCOL90fT61MohhfsXP83Mzm7233BM4PPOKXxXG8YXyePT4rWVUgL5W0n/PwpS3jAjwqKlO8L62Vw3iuBGBwzckSuRNKrIuC0j8Dl+EaYmLAgJvwonEqICBX7o2LBAk/oxeFIRAOM05LHL8S7wYQoqifi7aMxrDLxeMCUxdgaDw7hKe+8j30mlJ92f44+ZzAWtCCLL70jn5rmc2LUFc5M0ZJxjdF/QnM6FgDCBYeG/iFV0rOC9iiAmo7jPnW/RdwXwFPT7xPnN+Dy8E2tiNN9C6X1L6NbwUqFOCP+M/0g3kuTM8E0geKo+b/Oydyr+I5wKVXwVU5mlLAncVTwXc8bxKEix6aPdVTOovQceoxSfB3+v+/p907Q+AfAKKr78tpzj1ag1AfAI9vt39BF7XtVxki+UgOXH5s+6nbLA24xnD5rsx/vbXuoYQYwjr6mTbS/5k8Ekfl+yXuPNjdtGiHUT5k+S33Ykz+Qkfg4/RbxpZwOA7fwSQ4qvU6agHknNCTCvDbQQhv2PlIEcHcIPvffl5Oz9FT9x845PI9guPoJ/PR/vnHe8XHJ/Y7wudH8D5DZ2fPzK/QOdH9PwOXZ+g11efWB9+YH2LXZ+j9xfA/RF6fwffn8L31/DzAfj5Bv58Bn6+hD8fw5/vwc8n4eer8PNh+Pk2/HweXl+A10fQ9R14fQpdX4PXB+H1TXR9Fl5fhtfH4fX9f/v19gWoNUYOACQAAA=="
+}

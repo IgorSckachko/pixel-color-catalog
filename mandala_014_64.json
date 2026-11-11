@@ -1,0 +1,44 @@
+{
+  "format": 2,
+  "id": "mandala_014_64",
+  "title": "Мандала 14",
+  "titles": {
+    "en": "Mandala 14",
+    "ru": "Мандала 14",
+    "es": "Mandala 14",
+    "pt_BR": "Mandala 14",
+    "de": "Mandala 14",
+    "fr": "Mandala 14",
+    "tr": "Mandala 14",
+    "id": "Mandala 14",
+    "ja": "マンダラ 14",
+    "ko": "만다라 14"
+  },
+  "theme": "mandalas",
+  "tags": [
+    "мандала",
+    "антистресс",
+    "симметрия",
+    "узор",
+    "mandala",
+    "pattern",
+    "relax",
+    "symmetry"
+  ],
+  "width": 64,
+  "height": 64,
+  "palette": [
+    "#f7f2e6",
+    "#1f1a33",
+    "#f22424",
+    "#990f0f",
+    "#f2f224",
+    "#d9d962",
+    "#99990f",
+    "#0f990f",
+    "#62d9d9",
+    "#0f9999"
+  ],
+  "added": "2026-11-24",
+  "pixels_gz": "H4sIAAAAAAAC/82XgY6DIAyGA7oivv8DH9AWKOLG7TeXI0sm4Pe3thXBuf/YqLR5bxGuzND9BV2Isb+Ev7SZywUBSw9tQcDQOmgUFvFxZk1A8dmcCnzGa9BNRkThnQCJbaKQm+ZPOuLDB77hQZMejADdx851uK3fTsBNY8iR50sDdxKkcZxNU4073Rmo/Gu4ZcTvH3AqYHAnE+d5avzSZT9zEZhZz7D3+cr7LDHz4GK+FQ3DW2ks0UppdKDDQ8MFFokmEDoBy7cUMR1j3OpfUmjJNbzBqccP5o9egC4ClQ9iPg1vV36T8PNtF95V/iTPD238T82XLMhtU15wEzoTRBH4wGebGdD6YS86B97zLrscG54Fyoib8mXVacWV3Y9HCl0G9/JLAmWkpoBf5JZ/rl3lxVrm/L575iM/QLuvW8ksr9FLpn2q4qTBESgpNHy3bvHfwCeBZH+nked3iNxTPOg/Gj8wf2j9PF6/378/wPuLrh/fr1/o+vnE+g19P9DvF/z9RL/f8P4B3r/g+yd8//bE/hHcv6L7Z3j/jp4f4PMLen6Cz2/w+RE/v/5p+wGfh3T0ABAAAA=="
+}

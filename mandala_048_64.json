@@ -1,0 +1,44 @@
+{
+  "format": 2,
+  "id": "mandala_048_64",
+  "title": "Мандала 48",
+  "titles": {
+    "en": "Mandala 48",
+    "ru": "Мандала 48",
+    "es": "Mandala 48",
+    "pt_BR": "Mandala 48",
+    "de": "Mandala 48",
+    "fr": "Mandala 48",
+    "tr": "Mandala 48",
+    "id": "Mandala 48",
+    "ja": "マンダラ 48",
+    "ko": "만다라 48"
+  },
+  "theme": "mandalas",
+  "tags": [
+    "мандала",
+    "антистресс",
+    "симметрия",
+    "узор",
+    "mandala",
+    "pattern",
+    "relax",
+    "symmetry"
+  ],
+  "width": 64,
+  "height": 64,
+  "palette": [
+    "#0f0d1f",
+    "#faf7eb",
+    "#2824f2",
+    "#120f99",
+    "#6524f2",
+    "#8762d9",
+    "#3b0f99",
+    "#ab62d9",
+    "#640f99",
+    "#e124f2"
+  ],
+  "added": "2026-12-28",
+  "pixels_gz": "H4sIAAAAAAAC/7VXCbaDIAx8oMTl/gf+WViC0q92bJ7VqswkmQBCCD+yqTME+5Rj+mgY+g7DdGmP4CvbfYIeurMJXq93GHq/+24E5bpeEQzQ1f+R4T94ac3nqFZv9/0zwQnOQCJ5Q8R/rwjq4yxbFBwJQb7ELGQYE9TMtVE0v9MkWDnLfczUI7yHrxI4BfIVIwkjKsOIoAUviatTqm2MQENRGWoKZ/eWOTXsxtY4yFQ4BeCUV+Hs5ebM2lAR4UDQwwWf0Us9KQOFnuDsXnMP1bnDC4HWMp4CaONFtJPHDVVMboNqYEVweCdeg4/wjsBLWEu/riq9Vy7p4VXk9LTpCW+lK+4zPNmvEmgRpIhDvGrP8GXJ4KSWKeRp0Bp0eJe9la45b+YCyJ2gEnTFa/B0MEfgS3iB7/9d4KlTTxOfEx9bnwATDPGl+KqeOZ1TjMKRA+A3uQsc8aKoDrzgot8ELgSbyyDYMCw9oOJtyjqEH+M8M0GfgE1mb+Ox+FH93qgf3H+Q/vv9+EHH71vzBzh/fT9/ovM3/P1Av1/w9xP9fsPrB3T9Aq+f4PUbun6E16/w+hlev8P7B3j/gu+f4P0bvn/E96/4/vmB/QH/RSqYABAAAA=="
+}

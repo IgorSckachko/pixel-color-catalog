@@ -1,0 +1,43 @@
+{
+  "format": 2,
+  "id": "mandala_010_64",
+  "title": "Мандала 10",
+  "titles": {
+    "en": "Mandala 10",
+    "ru": "Мандала 10",
+    "es": "Mandala 10",
+    "pt_BR": "Mandala 10",
+    "de": "Mandala 10",
+    "fr": "Mandala 10",
+    "tr": "Mandala 10",
+    "id": "Mandala 10",
+    "ja": "マンダラ 10",
+    "ko": "만다라 10"
+  },
+  "theme": "mandalas",
+  "tags": [
+    "мандала",
+    "антистресс",
+    "симметрия",
+    "узор",
+    "mandala",
+    "pattern",
+    "relax",
+    "symmetry"
+  ],
+  "width": 64,
+  "height": 64,
+  "palette": [
+    "#0f0d1f",
+    "#faf7eb",
+    "#0f3999",
+    "#f22463",
+    "#d96286",
+    "#990f39",
+    "#86d962",
+    "#2425f2",
+    "#6262d9"
+  ],
+  "added": "2026-11-20",
+  "pixels_gz": "H4sIAAAAAAAC/81Xi5LDIAgcUNP6/z98AguaJpe2R+/mmD5M4y6wUKNE/9RqPR+/jnfUHL0JN9gcvQW/7+xVAkxTDIfp5W7CZdSKHVcbbAyV43kmjlZsd3xXDmd4mjab4z5s/d7AcImXyN1rKX39HiZZXOLD+Zl/hHANX+Y7LC5lcEWg8H28Yvt8zglMeLZ56lArCFOO3o2XT8qwwDcLU9CtkX8y48a3BA7fwndrArVPxLBNgkPhp/ID3YA3I/2Blyoc8OIeyjOcthusIQj2KhzboGrlVGHLfKBuYXKlKsScR/woCpS31AGU8kUQSmBVoMci3hGbwQ3vFTSKRk5gXXB0D+1UsYFe77MkIBq4hvsApvgKV+d6o+jLCJTCCWhVoNaoPXvstMeT5xAT78vyGuEzcucJdgqGBhwJzPVV8Na2EM+9l2EeQZRAp0689V7X4hGFduIXZhGYhkRawk5rAtY8gjf1LPxhA3EzBiQwCNACSw9XLBuhPsIfcGYh8ARQASwkdd893vnqvph36T+LoCCBEHDtoAVP0TqliHd5l+iBpQC/hP9J/En9svVL9k+2f7P/n+z/N79+pNev9PqZXr+zz4/08yv7/Mw9vz+wf0jtX9L7p4/s39L7x/T+Nb1/Tu/fc+eH7PklfX761PktfX5Mn1//yL4ACULElgAQAAA="
+}

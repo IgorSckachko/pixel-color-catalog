@@ -1,0 +1,43 @@
+{
+  "format": 2,
+  "id": "mandala_024_64",
+  "title": "Мандала 24",
+  "titles": {
+    "en": "Mandala 24",
+    "ru": "Мандала 24",
+    "es": "Mandala 24",
+    "pt_BR": "Mandala 24",
+    "de": "Mandala 24",
+    "fr": "Mandala 24",
+    "tr": "Mandala 24",
+    "id": "Mandala 24",
+    "ja": "マンダラ 24",
+    "ko": "만다라 24"
+  },
+  "theme": "mandalas",
+  "tags": [
+    "мандала",
+    "антистресс",
+    "симметрия",
+    "узор",
+    "mandala",
+    "pattern",
+    "relax",
+    "symmetry"
+  ],
+  "width": 64,
+  "height": 64,
+  "palette": [
+    "#f7f2e6",
+    "#1f1a33",
+    "#24f28a",
+    "#62d99c",
+    "#0f9953",
+    "#8a24f2",
+    "#9c62d9",
+    "#f28a24",
+    "#62d9c0"
+  ],
+  "added": "2026-12-04",
+  "pixels_gz": "H4sIAAAAAAAC/7WXi5KDIAxFRyWE/v8Pb8hbdGy72c20M9ZyLnmhsG3/ZEj2YptXX7Ovxb7QuMIm8TGNeHLBfr5XwBivUL6efz3iabprNtWhT3D9DWxrUp99T0ECNDIX8MTiEx7yTLPC4uCtwBVP9l4gsju9PkMipZHcl8HLe4pZ3F9ycdsJaGmHlDGLP2UTrBC44Jhwu9vaQWZ8/Mm9gHf4HALmNtOsYHdAxVeBxIPiR3N8unCoANzxGD2nuIHzVoiwQPQinngNkbPm7KbBmwAPsHphKr1N71mLCmyuwNeQ6h09hRr7ZALHtBIlkT4Mo1eVB6s74zQx4s6GyF6YKvUBZF67XmtDIwUn2PJDEiIg6ZCRvljkAqzyMg3hub9IQByzLoALf8I3w8cwge0s4Dwm9z31jA/jhwloESIA1OoJ79PL7JO1bwg0HggOBm/uNwt+dLZhKWgWwMKjVE9bZ/ISdIcO9OnaDMbrYG1BtIWf+H06TbPDfhw7kAczhD3x9hhY+Nl7nr3R4Zjtc0AfKYNtW3hfutK8nr7eCQcggd4jgc2HKljmq/6X81etX7l/yv1bWT/V9ftHz4/fP7+qz8/y87v6/qi+v8rvz+r7u7x/qO5fyvun8v6tun8s71/L++fy/r18fqifX8rnp/L5rX5+rJ9f6+fnL+wHlGVFJgAQAAA="
+}
