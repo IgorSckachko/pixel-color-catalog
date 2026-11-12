@@ -113,6 +113,18 @@
    "rev": "d3f36aa7a8"
   },
   {
+   "id": "aivazovsky_ivan_the_ninth_wave_96",
+   "file": "aivazovsky_ivan_the_ninth_wave_96.json",
+   "title": "Aivazovsky,_Ivan_-_The_Ninth_Wave",
+   "theme": "other",
+   "tags": [],
+   "width": 96,
+   "height": 96,
+   "colors": 24,
+   "added": "2026-11-12",
+   "rev": "8248db5b62"
+  },
+  {
    "id": "apple_20",
    "file": "apple_20.json",
    "title": "Яблоко",
@@ -140,6 +152,18 @@
     "ko": "사과"
    },
    "rev": "c52390f1cc"
+  },
+  {
+   "id": "birth_of_venus_botticelli_128",
+   "file": "birth_of_venus_botticelli_128.json",
+   "title": "Birth_of_Venus_Botticelli",
+   "theme": "other",
+   "tags": [],
+   "width": 128,
+   "height": 128,
+   "colors": 20,
+   "added": "2026-11-22",
+   "rev": "3568886b80"
   },
   {
    "id": "cat_64",
@@ -342,6 +366,18 @@
    "rev": "ffb19296c0"
   },
   {
+   "id": "edvard_munch_the_scream_96",
+   "file": "edvard_munch_the_scream_96.json",
+   "title": "Edvard-Munch-The-Scream",
+   "theme": "other",
+   "tags": [],
+   "width": 96,
+   "height": 96,
+   "colors": 20,
+   "added": "2026-11-21",
+   "rev": "c1ca12d895"
+  },
+  {
    "id": "forest_by_the_lake_64",
    "file": "forest_by_the_lake_64.json",
    "title": "Лес у озера",
@@ -388,6 +424,30 @@
     "ko": "호숫가 숲"
    },
    "rev": "8fcafe876d"
+  },
+  {
+   "id": "girl_with_a_pearl_earring_96",
+   "file": "girl_with_a_pearl_earring_96.json",
+   "title": "Girl_with_a_Pearl_Earring",
+   "theme": "other",
+   "tags": [],
+   "width": 96,
+   "height": 96,
+   "colors": 19,
+   "added": "2026-11-21",
+   "rev": "d13a93604e"
+  },
+  {
+   "id": "grant_wood_american_gothic_96",
+   "file": "grant_wood_american_gothic_96.json",
+   "title": "Grant_Wood_-_American_Gothic",
+   "theme": "other",
+   "tags": [],
+   "width": 96,
+   "height": 96,
+   "colors": 32,
+   "added": "2026-11-20",
+   "rev": "8ea7a9c784"
   },
   {
    "id": "heart_16",
@@ -570,6 +630,54 @@
     "ko": "네온 러нер"
    },
    "rev": "d79eeaf7dc"
+  },
+  {
+   "id": "klimt_the_kiss_96",
+   "file": "klimt_the_kiss_96.json",
+   "title": "Klimt_-_The_Kiss",
+   "theme": "other",
+   "tags": [],
+   "width": 96,
+   "height": 96,
+   "colors": 24,
+   "added": "2026-11-12",
+   "rev": "07cec4866d"
+  },
+  {
+   "id": "lady_with_an_ermine_leonardo_da_vinci_google_art_p_128",
+   "file": "lady_with_an_ermine_leonardo_da_vinci_google_art_p_128.json",
+   "title": "Lady_with_an_Ermine_-_Leonardo_da_Vinci_-_Google_Art_Project",
+   "theme": "other",
+   "tags": [],
+   "width": 128,
+   "height": 128,
+   "colors": 18,
+   "added": "2026-11-18",
+   "rev": "5589407329"
+  },
+  {
+   "id": "leonardo_da_vinci_mona_lisa_96",
+   "file": "leonardo_da_vinci_mona_lisa_96.json",
+   "title": "Leonardo_da_Vinci_-_Mona_Lisa",
+   "theme": "other",
+   "tags": [],
+   "width": 96,
+   "height": 96,
+   "colors": 24,
+   "added": "2026-11-18",
+   "rev": "e948c7af11"
+  },
+  {
+   "id": "malevich_kazimir_severinovich_black_square_64",
+   "file": "malevich_kazimir_severinovich_black_square_64.json",
+   "title": "Malevich,_Kazimir_Severinovich_-_Black_Square",
+   "theme": "other",
+   "tags": [],
+   "width": 64,
+   "height": 64,
+   "colors": 12,
+   "added": "2026-11-17",
+   "rev": "03490fad49"
   },
   {
    "id": "mandala_001_64",
@@ -4352,6 +4460,30 @@
    "rev": "478edfff1d"
   },
   {
+   "id": "the_great_wave_off_kanagawa_128",
+   "file": "the_great_wave_off_kanagawa_128.json",
+   "title": "The_Great_Wave_off_Kanagawa",
+   "theme": "other",
+   "tags": [],
+   "width": 128,
+   "height": 128,
+   "colors": 25,
+   "added": "2026-11-16",
+   "rev": "a570b23c66"
+  },
+  {
+   "id": "thestarrynightbyvincentvangogh_64",
+   "file": "thestarrynightbyvincentvangogh_64.json",
+   "title": "TheStarryNightByVincentVanGogh",
+   "theme": "other",
+   "tags": [],
+   "width": 64,
+   "height": 64,
+   "colors": 32,
+   "added": "2026-11-15",
+   "rev": "70f770257d"
+  },
+  {
    "id": "tv_64",
    "file": "tv_64.json",
    "title": "Телевизор",
@@ -4399,6 +4531,30 @@
     "ko": "تلفزيون"
    },
    "rev": "261d606403"
+  },
+  {
+   "id": "vincent_van_gogh_self_portrait_with_bandaged_ear_1_96",
+   "file": "vincent_van_gogh_self_portrait_with_bandaged_ear_1_96.json",
+   "title": "Vincent_van_Gogh_-_Self-Portrait_with_Bandaged_Ear_1889_-_Google_Art_Project",
+   "theme": "other",
+   "tags": [],
+   "width": 96,
+   "height": 96,
+   "colors": 24,
+   "added": "2026-11-14",
+   "rev": "197738811a"
+  },
+  {
+   "id": "water_lilies_monet_128",
+   "file": "water_lilies_monet_128.json",
+   "title": "Water_lilies_Monet",
+   "theme": "other",
+   "tags": [],
+   "width": 128,
+   "height": 128,
+   "colors": 32,
+   "added": "2026-11-13",
+   "rev": "b04344e65a"
   }
  ]
 }
