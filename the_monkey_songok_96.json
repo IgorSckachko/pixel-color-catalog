@@ -1,0 +1,29 @@
+{
+  "format": 2,
+  "id": "the_monkey_songok_96",
+  "title": "The_Monkey_Songokû",
+  "theme": "mythology",
+  "tags": [],
+  "added": "2026-11-15",
+  "width": 96,
+  "height": 96,
+  "palette": [
+    "#282827",
+    "#2c2c2b",
+    "#c0b67e",
+    "#614e3d",
+    "#b4b17c",
+    "#e9e0cd",
+    "#2b2b29",
+    "#ac5131",
+    "#a89b75",
+    "#2f2f2d",
+    "#89755c",
+    "#473b31",
+    "#c7bf8f",
+    "#2a2a28",
+    "#2d2d2b",
+    "#2c2b2a"
+  ],
+  "pixels_gz": "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"
+}

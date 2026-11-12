@@ -113,6 +113,18 @@
    "rev": "d3f36aa7a8"
   },
   {
+   "id": "a_painting_by_max_friedrich_koch_donar_thor_96",
+   "file": "a_painting_by_max_friedrich_koch_donar_thor_96.json",
+   "title": "A_painting_by_Max_Friedrich_Koch_-_Donar-Thor",
+   "theme": "mythology",
+   "tags": [],
+   "width": 96,
+   "height": 96,
+   "colors": 24,
+   "added": "2026-11-21",
+   "rev": "3d9ccfa19f"
+  },
+  {
    "id": "aivazovsky_ivan_the_ninth_wave_96",
    "file": "aivazovsky_ivan_the_ninth_wave_96.json",
    "title": "Aivazovsky,_Ivan_-_The_Ninth_Wave",
@@ -123,6 +135,18 @@
    "colors": 24,
    "added": "2026-11-12",
    "rev": "8248db5b62"
+  },
+  {
+   "id": "anubis_standing_svg_64",
+   "file": "anubis_standing_svg_64.json",
+   "title": "Anubis_standing.svg",
+   "theme": "other",
+   "tags": [],
+   "width": 64,
+   "height": 64,
+   "colors": 18,
+   "added": "2026-11-20",
+   "rev": "d3b8f3d34d"
   },
   {
    "id": "apple_20",
@@ -478,6 +502,18 @@
    "rev": "48d096497c"
   },
   {
+   "id": "history_tale_64",
+   "file": "history_tale_64.json",
+   "title": "History_tale",
+   "theme": "other",
+   "tags": [],
+   "width": 64,
+   "height": 64,
+   "colors": 20,
+   "added": "2026-11-19",
+   "rev": "9bab9def12"
+  },
+  {
    "id": "house_32",
    "file": "house_32.json",
    "title": "Домик на холме",
@@ -630,6 +666,18 @@
     "ko": "네온 러нер"
    },
    "rev": "d79eeaf7dc"
+  },
+  {
+   "id": "jacob_jordaens_pegasus_96",
+   "file": "jacob_jordaens_pegasus_96.json",
+   "title": "Jacob_Jordaens_-_Pegasus",
+   "theme": "other",
+   "tags": [],
+   "width": 96,
+   "height": 96,
+   "colors": 20,
+   "added": "2026-11-18",
+   "rev": "47544b74dc"
   },
   {
    "id": "klimt_the_kiss_96",
@@ -3980,6 +4028,30 @@
    "rev": "f02c382f45"
   },
   {
+   "id": "medusa_by_carvaggio_64",
+   "file": "medusa_by_carvaggio_64.json",
+   "title": "Medusa_by_Carvaggio",
+   "theme": "mythology",
+   "tags": [],
+   "width": 64,
+   "height": 64,
+   "colors": 18,
+   "added": "2026-11-17",
+   "rev": "ec049db86a"
+  },
+  {
+   "id": "medusa_murtola02_96",
+   "file": "medusa_murtola02_96.json",
+   "title": "Medusa_Murtola02",
+   "theme": "other",
+   "tags": [],
+   "width": 96,
+   "height": 96,
+   "colors": 24,
+   "added": "2026-11-16",
+   "rev": "5fab0b1244"
+  },
+  {
    "id": "mushroom_24",
    "file": "mushroom_24.json",
    "title": "Гриб",
@@ -4433,6 +4505,18 @@
    "rev": "c4b8f84f52"
   },
   {
+   "id": "sphinx_of_naxos_colored_64",
+   "file": "sphinx_of_naxos_colored_64.json",
+   "title": "Sphinx_of_Naxos_colored",
+   "theme": "mythology",
+   "tags": [],
+   "width": 64,
+   "height": 64,
+   "colors": 20,
+   "added": "2026-11-14",
+   "rev": "51260b4c3a"
+  },
+  {
    "id": "star_16",
    "file": "star_16.json",
    "title": "Звезда",
@@ -4470,6 +4554,18 @@
    "colors": 25,
    "added": "2026-11-16",
    "rev": "a570b23c66"
+  },
+  {
+   "id": "the_monkey_songok_96",
+   "file": "the_monkey_songok_96.json",
+   "title": "The_Monkey_Songokû",
+   "theme": "mythology",
+   "tags": [],
+   "width": 96,
+   "height": 96,
+   "colors": 16,
+   "added": "2026-11-15",
+   "rev": "a688ae55dc"
   },
   {
    "id": "thestarrynightbyvincentvangogh_64",
@@ -4531,6 +4627,18 @@
     "ko": "تلفزيون"
    },
    "rev": "261d606403"
+  },
+  {
+   "id": "valkyrie_peter_nicolai_arbo_nationalmuseum_18255_t_96",
+   "file": "valkyrie_peter_nicolai_arbo_nationalmuseum_18255_t_96.json",
+   "title": "Valkyrie_(Peter_Nicolai_Arbo)_-_Nationalmuseum_-_18255.tif",
+   "theme": "mythology",
+   "tags": [],
+   "width": 96,
+   "height": 96,
+   "colors": 20,
+   "added": "2026-11-22",
+   "rev": "0b7820e6fa"
   },
   {
    "id": "vincent_van_gogh_self_portrait_with_bandaged_ear_1_96",

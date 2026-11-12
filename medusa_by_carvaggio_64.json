@@ -1,0 +1,31 @@
+{
+  "format": 2,
+  "id": "medusa_by_carvaggio_64",
+  "title": "Medusa_by_Carvaggio",
+  "theme": "mythology",
+  "tags": [],
+  "added": "2026-11-17",
+  "width": 64,
+  "height": 64,
+  "palette": [
+    "#fffffe",
+    "#161512",
+    "#271e1a",
+    "#1a1714",
+    "#373027",
+    "#433328",
+    "#332822",
+    "#c49258",
+    "#4e3d2e",
+    "#2f2621",
+    "#29241f",
+    "#201c19",
+    "#1b1a17",
+    "#211f1c",
+    "#3e2821",
+    "#1f1a17",
+    "#846044",
+    "#e5d5bb"
+  ],
+  "pixels_gz": "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"
+}
