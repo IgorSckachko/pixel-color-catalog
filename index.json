@@ -547,88 +547,26 @@
   {
    "id": "image_128",
    "file": "image_128.json",
-   "title": "Американская готика",
-   "theme": "other",
-   "tags": [
-    "картина",
-    "американская готика",
-    "грант вуд",
-    "фермер",
-    "пара",
-    "портрет",
-    "дом",
-    "вилы",
-    "живопись",
-    "классика",
-    "пикселарт",
-    "painting",
-    "american gothic",
-    "grant wood",
-    "farmer",
-    "couple",
-    "portrait",
-    "farmhouse",
-    "pitchfork",
-    "classic art",
-    "pixelart"
-   ],
-   "width": 128,
-   "height": 128,
-   "colors": 31,
-   "added": "2026-11-10",
-   "titles": {
-    "en": "American Gothic",
-    "es": "Gótico americano",
-    "pt_BR": "Gótico Americano",
-    "de": "American Gothic",
-    "fr": "American Gothic",
-    "tr": "Amerikan Gotiği",
-    "id": "American Gothic",
-    "ja": "アメリカン・ゴシック",
-    "ko": "아메리칸 고딕"
-   },
-   "rev": "986581fe72"
+   "title": "Трава на лугу",
+   "theme": "landscape",
+   "tags": [],
+   "width": 96,
+   "height": 96,
+   "colors": 20,
+   "added": "2026-12-03",
+   "rev": "3a0f8c250f"
   },
   {
    "id": "image_64",
    "file": "image_64.json",
-   "title": "Киберпанк-портрет с неоновым визором",
-   "theme": "other",
-   "tags": [
-    "киберпанк",
-    "портрет",
-    "неон",
-    "визор",
-    "будущее",
-    "персонаж",
-    "фиолетовые волосы",
-    "парень",
-    "пикселарт",
-    "cyberpunk",
-    "portrait",
-    "neon",
-    "visor",
-    "futuristic",
-    "character",
-    "purple hair",
-    "pixelart"
-   ],
+   "title": "Дом на лиговском",
+   "theme": "architecture",
+   "tags": [],
    "width": 64,
    "height": 64,
-   "colors": 26,
-   "added": "2026-11-09",
-   "titles": {
-    "en": "Cyberpunk portrait with a neon visor",
-    "es": "Retrato ciberpunk con visor de neón",
-    "pt_BR": "Retrato cyberpunk com viseira de neon",
-    "de": "Cyberpunk-Porträt mit Neonvisier",
-    "fr": "Portrait cyberpunk avec visière néon",
-    "tr": "Neon vizörlü siberpunk portre",
-    "id": "Potret cyberpunk dengan visor neon",
-    "ja": "ネオンバイザーのサイバーパンク・ポートレート",
-    "ko": "네온 바이저를 쓴 사이버펑크 초상화"
-   },
-   "rev": "25ee753cb9"
+   "colors": 16,
+   "added": "2026-11-19",
+   "rev": "3ec8ade489"
   },
   {
    "id": "image_90",
@@ -666,6 +604,18 @@
     "ko": "네온 러нер"
    },
    "rev": "d79eeaf7dc"
+  },
+  {
+   "id": "image_96",
+   "file": "image_96.json",
+   "title": "Луна в степи",
+   "theme": "nature",
+   "tags": [],
+   "width": 96,
+   "height": 96,
+   "colors": 20,
+   "added": "2026-11-15",
+   "rev": "0ec7596fc4"
   },
   {
    "id": "jacob_jordaens_pegasus_96",
@@ -4475,7 +4425,7 @@
    "id": "space_potion_under_the_moon_48",
    "file": "space_potion_under_the_moon_48.json",
    "title": "Фантастическое зелье под луной",
-   "theme": "other",
+   "theme": "fantasy",
    "tags": [
     "космос",
     "зелье",
@@ -4500,9 +4450,17 @@
    "colors": 23,
    "added": "2026-11-09",
    "titles": {
-    "en": "Space Potion under the Moon"
+    "en": "Space Potion under the Moon",
+    "es": "Poción espacial bajo la luna",
+    "pt_BR": "Poção espacial sob a lua",
+    "de": "Weltraumtrank unter dem Mond",
+    "fr": "Potion cosmique sous la lune",
+    "tr": "Ay Işığında Uzay İksiri",
+    "id": "Ramuan Luar Angkasa di Bawah Bulan",
+    "ja": "月の下の宇宙のポーション",
+    "ko": "달빛 아래 우주 물약"
    },
-   "rev": "c4b8f84f52"
+   "rev": "90ad475fb3"
   },
   {
    "id": "sphinx_of_naxos_colored_64",

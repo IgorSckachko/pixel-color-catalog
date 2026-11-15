@@ -3,9 +3,17 @@
   "id": "space_potion_under_the_moon_48",
   "title": "Фантастическое зелье под луной",
   "titles": {
-    "en": "Space Potion under the Moon"
+    "en": "Space Potion under the Moon",
+    "es": "Poción espacial bajo la luna",
+    "pt_BR": "Poção espacial sob a lua",
+    "de": "Weltraumtrank unter dem Mond",
+    "fr": "Potion cosmique sous la lune",
+    "tr": "Ay Işığında Uzay İksiri",
+    "id": "Ramuan Luar Angkasa di Bawah Bulan",
+    "ja": "月の下の宇宙のポーション",
+    "ko": "달빛 아래 우주 물약"
   },
-  "theme": "other",
+  "theme": "fantasy",
   "tags": [
     "космос",
     "зелье",
