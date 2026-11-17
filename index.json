@@ -149,6 +149,18 @@
    "rev": "3d9ccfa19f"
   },
   {
+   "id": "a_solitary_house_96",
+   "file": "a_solitary_house_96.json",
+   "title": "a_solitary_house",
+   "theme": "other",
+   "tags": [],
+   "width": 96,
+   "height": 96,
+   "colors": 16,
+   "added": "2026-11-17",
+   "rev": "2b90471d2a"
+  },
+  {
    "id": "aivazovsky_ivan_the_ninth_wave_96",
    "file": "aivazovsky_ivan_the_ninth_wave_96.json",
    "title": "Aivazovsky,_Ivan_-_The_Ninth_Wave",
@@ -202,6 +214,66 @@
    "rev": "c52390f1cc"
   },
   {
+   "id": "ararat_1_96",
+   "file": "ararat_1_96.json",
+   "title": "ararat_1",
+   "theme": "other",
+   "tags": [],
+   "width": 96,
+   "height": 96,
+   "colors": 12,
+   "added": "2026-11-17",
+   "rev": "70f3bf48fd"
+  },
+  {
+   "id": "ararat_2_96",
+   "file": "ararat_2_96.json",
+   "title": "ararat_2",
+   "theme": "other",
+   "tags": [],
+   "width": 96,
+   "height": 96,
+   "colors": 12,
+   "added": "2026-11-17",
+   "rev": "2601cf3e45"
+  },
+  {
+   "id": "beautiful_sea",
+   "file": "beautiful_sea.json",
+   "title": "beautiful sea",
+   "theme": "other",
+   "tags": [],
+   "width": 128,
+   "height": 128,
+   "colors": 20,
+   "added": "2026-11-17",
+   "rev": "170807ed48"
+  },
+  {
+   "id": "beautiful_sea_1_64",
+   "file": "beautiful_sea_1_64.json",
+   "title": "beautiful_sea_1",
+   "theme": "other",
+   "tags": [],
+   "width": 64,
+   "height": 64,
+   "colors": 32,
+   "added": "2026-11-17",
+   "rev": "dda95ed817"
+  },
+  {
+   "id": "beautiful_sea_image_128",
+   "file": "beautiful_sea_image_128.json",
+   "title": "beautiful sea",
+   "theme": "other",
+   "tags": [],
+   "width": 128,
+   "height": 128,
+   "colors": 20,
+   "added": "2026-11-17",
+   "rev": "2c09af1952"
+  },
+  {
    "id": "birth_of_venus_botticelli_128",
    "file": "birth_of_venus_botticelli_128.json",
    "title": "Birth_of_Venus_Botticelli",
@@ -212,6 +284,42 @@
    "colors": 20,
    "added": "2026-11-22",
    "rev": "3568886b80"
+  },
+  {
+   "id": "book_and_tea_64",
+   "file": "book_and_tea_64.json",
+   "title": "book_and_tea",
+   "theme": "other",
+   "tags": [],
+   "width": 64,
+   "height": 64,
+   "colors": 12,
+   "added": "2026-11-17",
+   "rev": "0d4121a907"
+  },
+  {
+   "id": "castle_and_moon_96",
+   "file": "castle_and_moon_96.json",
+   "title": "castle_and_moon",
+   "theme": "other",
+   "tags": [],
+   "width": 96,
+   "height": 96,
+   "colors": 20,
+   "added": "2026-11-17",
+   "rev": "bb0d6fbd4e"
+  },
+  {
+   "id": "cat_1_64",
+   "file": "cat_1_64.json",
+   "title": "cat_1",
+   "theme": "other",
+   "tags": [],
+   "width": 64,
+   "height": 64,
+   "colors": 16,
+   "added": "2026-11-17",
+   "rev": "d77c873f43"
   },
   {
    "id": "cat_64",
@@ -272,6 +380,30 @@
    "colors": 20,
    "added": "2026-11-17",
    "rev": "4115ea2efb"
+  },
+  {
+   "id": "coop_1_96",
+   "file": "coop_1_96.json",
+   "title": "coop_1",
+   "theme": "other",
+   "tags": [],
+   "width": 96,
+   "height": 96,
+   "colors": 20,
+   "added": "2026-11-17",
+   "rev": "d8d9b335f4"
+  },
+  {
+   "id": "coop_2_64",
+   "file": "coop_2_64.json",
+   "title": "coop_2",
+   "theme": "other",
+   "tags": [],
+   "width": 64,
+   "height": 64,
+   "colors": 16,
+   "added": "2026-11-17",
+   "rev": "4a1a22ac3c"
   },
   {
    "id": "cute_little_fox_in_a_blooming_meadow_es_lindo_zorr_96",
@@ -450,6 +582,30 @@
    "rev": "2c0fcf54ee"
   },
   {
+   "id": "fence_in_the_forest_64",
+   "file": "fence_in_the_forest_64.json",
+   "title": "fence_in_the_forest",
+   "theme": "other",
+   "tags": [],
+   "width": 64,
+   "height": 64,
+   "colors": 12,
+   "added": "2026-11-17",
+   "rev": "3a3bf48212"
+  },
+  {
+   "id": "foji_mountain_96",
+   "file": "foji_mountain_96.json",
+   "title": "foji_mountain",
+   "theme": "other",
+   "tags": [],
+   "width": 96,
+   "height": 96,
+   "colors": 16,
+   "added": "2026-11-17",
+   "rev": "609ce1da7a"
+  },
+  {
    "id": "forest_by_the_lake_64",
    "file": "forest_by_the_lake_64.json",
    "title": "Лес у озера",
@@ -496,6 +652,42 @@
     "ko": "호숫가 숲"
    },
    "rev": "8fcafe876d"
+  },
+  {
+   "id": "forest_campfire_96",
+   "file": "forest_campfire_96.json",
+   "title": "forest_campfire",
+   "theme": "other",
+   "tags": [],
+   "width": 96,
+   "height": 96,
+   "colors": 16,
+   "added": "2026-11-17",
+   "rev": "82cc9522df"
+  },
+  {
+   "id": "forest_in_the_mountains_64",
+   "file": "forest_in_the_mountains_64.json",
+   "title": "forest_in_the_mountains",
+   "theme": "other",
+   "tags": [],
+   "width": 64,
+   "height": 64,
+   "colors": 12,
+   "added": "2026-11-17",
+   "rev": "3f117bf159"
+  },
+  {
+   "id": "ghost_with_a_cup_of_coffee_64",
+   "file": "ghost_with_a_cup_of_coffee_64.json",
+   "title": "ghost_with_a_cup_of_coffee",
+   "theme": "other",
+   "tags": [],
+   "width": 64,
+   "height": 64,
+   "colors": 17,
+   "added": "2026-11-17",
+   "rev": "4dea01209c"
   },
   {
    "id": "girl_with_a_pearl_earring_96",
@@ -591,6 +783,18 @@
    },
    "premium": true,
    "rev": "0a6cfdf55f"
+  },
+  {
+   "id": "houses_on_the_river_96",
+   "file": "houses_on_the_river_96.json",
+   "title": "houses on the river",
+   "theme": "other",
+   "tags": [],
+   "width": 96,
+   "height": 96,
+   "colors": 31,
+   "added": "2026-11-17",
+   "rev": "c230b53480"
   },
   {
    "id": "hut_in_the_mountains_image_96",
@@ -748,6 +952,18 @@
    "colors": 18,
    "added": "2026-11-18",
    "rev": "5589407329"
+  },
+  {
+   "id": "lamppost_in_the_park_96",
+   "file": "lamppost_in_the_park_96.json",
+   "title": "lamppost_in_the_park",
+   "theme": "other",
+   "tags": [],
+   "width": 96,
+   "height": 96,
+   "colors": 10,
+   "added": "2026-11-17",
+   "rev": "454a8bf730"
   },
   {
    "id": "leonardo_da_vinci_mona_lisa_96",
@@ -4110,6 +4326,18 @@
    "rev": "5fab0b1244"
   },
   {
+   "id": "moon_1_96",
+   "file": "moon_1_96.json",
+   "title": "moon_1",
+   "theme": "other",
+   "tags": [],
+   "width": 96,
+   "height": 96,
+   "colors": 11,
+   "added": "2026-11-17",
+   "rev": "d328604c14"
+  },
+  {
    "id": "morning_coffee_image_96",
    "file": "morning_coffee_image_96.json",
    "title": "утренний кофе",
@@ -4197,6 +4425,30 @@
     "ko": "밤 풍경"
    },
    "rev": "c298813f9f"
+  },
+  {
+   "id": "park_and_buildings_128",
+   "file": "park_and_buildings_128.json",
+   "title": "park_and_buildings",
+   "theme": "other",
+   "tags": [],
+   "width": 128,
+   "height": 128,
+   "colors": 16,
+   "added": "2026-11-17",
+   "rev": "f012687abc"
+  },
+  {
+   "id": "park_in_the_town_128",
+   "file": "park_in_the_town_128.json",
+   "title": "park_in_the_town",
+   "theme": "other",
+   "tags": [],
+   "width": 128,
+   "height": 128,
+   "colors": 12,
+   "added": "2026-11-17",
+   "rev": "154d519197"
   },
   {
    "id": "pixel_art_beach_day_by_the_lighthouse_128",
@@ -4542,6 +4794,66 @@
    "rev": "4079bd842a"
   },
   {
+   "id": "poles_and_wires_96",
+   "file": "poles_and_wires_96.json",
+   "title": "poles_and_wires",
+   "theme": "other",
+   "tags": [],
+   "width": 96,
+   "height": 96,
+   "colors": 12,
+   "added": "2026-11-17",
+   "rev": "cdc660e5f7"
+  },
+  {
+   "id": "sakura_96",
+   "file": "sakura_96.json",
+   "title": "sakura",
+   "theme": "other",
+   "tags": [],
+   "width": 96,
+   "height": 96,
+   "colors": 12,
+   "added": "2026-11-17",
+   "rev": "f7696c0036"
+  },
+  {
+   "id": "see_1_96",
+   "file": "see_1_96.json",
+   "title": "see_1",
+   "theme": "other",
+   "tags": [],
+   "width": 96,
+   "height": 96,
+   "colors": 20,
+   "added": "2026-11-17",
+   "rev": "68e5e74f3c"
+  },
+  {
+   "id": "see_and_moon_96",
+   "file": "see_and_moon_96.json",
+   "title": "see_and_moon",
+   "theme": "other",
+   "tags": [],
+   "width": 96,
+   "height": 96,
+   "colors": 20,
+   "added": "2026-11-17",
+   "rev": "740a27fb20"
+  },
+  {
+   "id": "soon_128",
+   "file": "soon_128.json",
+   "title": "soon",
+   "theme": "other",
+   "tags": [],
+   "width": 128,
+   "height": 128,
+   "colors": 16,
+   "added": "2026-11-17",
+   "rev": "2549023ed3"
+  },
+  {
    "id": "space_potion_under_the_moon_48",
    "file": "space_potion_under_the_moon_48.json",
    "title": "Фантастическое зелье под луной",
@@ -4622,6 +4934,18 @@
    "rev": "478edfff1d"
   },
   {
+   "id": "steam_locomotive_and_bridge_64",
+   "file": "steam_locomotive_and_bridge_64.json",
+   "title": "steam_locomotive_and_bridge",
+   "theme": "other",
+   "tags": [],
+   "width": 64,
+   "height": 64,
+   "colors": 17,
+   "added": "2026-11-17",
+   "rev": "711d93cdde"
+  },
+  {
    "id": "sunset_on_the_river_image_64",
    "file": "sunset_on_the_river_image_64.json",
    "title": "закат на реке",
@@ -4670,6 +4994,18 @@
    "rev": "70f770257d"
   },
   {
+   "id": "tree_128",
+   "file": "tree_128.json",
+   "title": "tree",
+   "theme": "other",
+   "tags": [],
+   "width": 96,
+   "height": 96,
+   "colors": 20,
+   "added": "2026-11-17",
+   "rev": "85d41746fa"
+  },
+  {
    "id": "tree_on_the_lake_image_96",
    "file": "tree_on_the_lake_image_96.json",
    "title": "Дерево на озере",
@@ -4680,6 +5016,18 @@
    "colors": 20,
    "added": "2026-11-17",
    "rev": "3909d5afd2"
+  },
+  {
+   "id": "turkish_coffee_64",
+   "file": "turkish_coffee_64.json",
+   "title": "Turkish_coffee",
+   "theme": "other",
+   "tags": [],
+   "width": 64,
+   "height": 64,
+   "colors": 16,
+   "added": "2026-11-17",
+   "rev": "18acd76c1b"
   },
   {
    "id": "tv_64",
