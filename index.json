@@ -262,6 +262,18 @@
    "rev": "2f7e5069a5"
   },
   {
+   "id": "city_at_sunset_image_64",
+   "file": "city_at_sunset_image_64.json",
+   "title": "city​_at_sunset",
+   "theme": "other",
+   "tags": [],
+   "width": 96,
+   "height": 96,
+   "colors": 20,
+   "added": "2026-11-17",
+   "rev": "4115ea2efb"
+  },
+  {
    "id": "cute_little_fox_in_a_blooming_meadow_es_lindo_zorr_96",
    "file": "cute_little_fox_in_a_blooming_meadow_es_lindo_zorr_96.json",
    "title": "Милый лисёнок на цветущем лугу",
@@ -426,6 +438,18 @@
    "rev": "c1ca12d895"
   },
   {
+   "id": "evening_sky_image_96",
+   "file": "evening_sky_image_96.json",
+   "title": "Вечернее небо",
+   "theme": "other",
+   "tags": [],
+   "width": 96,
+   "height": 96,
+   "colors": 16,
+   "added": "2026-11-17",
+   "rev": "2c0fcf54ee"
+  },
+  {
    "id": "forest_by_the_lake_64",
    "file": "forest_by_the_lake_64.json",
    "title": "Лес у озера",
@@ -569,6 +593,18 @@
    "rev": "0a6cfdf55f"
   },
   {
+   "id": "hut_in_the_mountains_image_96",
+   "file": "hut_in_the_mountains_image_96.json",
+   "title": "хижина в горах",
+   "theme": "other",
+   "tags": [],
+   "width": 96,
+   "height": 96,
+   "colors": 24,
+   "added": "2026-11-17",
+   "rev": "cfbef9d8c2"
+  },
+  {
    "id": "image_128",
    "file": "image_128.json",
    "title": "Трава на лугу",
@@ -583,14 +619,14 @@
   {
    "id": "image_64",
    "file": "image_64.json",
-   "title": "Дом на лиговском",
-   "theme": "architecture",
+   "title": "закат на реке",
+   "theme": "other",
    "tags": [],
    "width": 64,
    "height": 64,
-   "colors": 16,
-   "added": "2026-11-19",
-   "rev": "3ec8ade489"
+   "colors": 20,
+   "added": "2026-11-17",
+   "rev": "9826ca2029"
   },
   {
    "id": "image_90",
@@ -632,14 +668,26 @@
   {
    "id": "image_96",
    "file": "image_96.json",
-   "title": "Луна в степи",
-   "theme": "nature",
+   "title": "хижина в горах",
+   "theme": "other",
    "tags": [],
    "width": 96,
    "height": 96,
-   "colors": 20,
-   "added": "2026-11-15",
-   "rev": "0ec7596fc4"
+   "colors": 24,
+   "added": "2026-11-17",
+   "rev": "3d6bd58640"
+  },
+  {
+   "id": "in_the_mountains_image_64",
+   "file": "in_the_mountains_image_64.json",
+   "title": "горы",
+   "theme": "other",
+   "tags": [],
+   "width": 64,
+   "height": 64,
+   "colors": 16,
+   "added": "2026-11-17",
+   "rev": "c94a9de758"
   },
   {
    "id": "isaakievskiy_sobor_sankt_peterburg_96",
@@ -4026,6 +4074,18 @@
    "rev": "f02c382f45"
   },
   {
+   "id": "meadow_in_the_mountains_image_96",
+   "file": "meadow_in_the_mountains_image_96.json",
+   "title": "луг в горах",
+   "theme": "other",
+   "tags": [],
+   "width": 96,
+   "height": 96,
+   "colors": 20,
+   "added": "2026-11-17",
+   "rev": "caafb0cf10"
+  },
+  {
    "id": "medusa_by_carvaggio_64",
    "file": "medusa_by_carvaggio_64.json",
    "title": "Medusa_by_Carvaggio",
@@ -4048,6 +4108,18 @@
    "colors": 24,
    "added": "2026-11-16",
    "rev": "5fab0b1244"
+  },
+  {
+   "id": "morning_coffee_image_96",
+   "file": "morning_coffee_image_96.json",
+   "title": "утренний кофе",
+   "theme": "other",
+   "tags": [],
+   "width": 96,
+   "height": 96,
+   "colors": 16,
+   "added": "2026-11-17",
+   "rev": "f10e114e4c"
   },
   {
    "id": "mushroom_24",
@@ -4550,6 +4622,18 @@
    "rev": "478edfff1d"
   },
   {
+   "id": "sunset_on_the_river_image_64",
+   "file": "sunset_on_the_river_image_64.json",
+   "title": "закат на реке",
+   "theme": "other",
+   "tags": [],
+   "width": 64,
+   "height": 64,
+   "colors": 20,
+   "added": "2026-11-17",
+   "rev": "26ff9b8195"
+  },
+  {
    "id": "the_great_wave_off_kanagawa_128",
    "file": "the_great_wave_off_kanagawa_128.json",
    "title": "The_Great_Wave_off_Kanagawa",
@@ -4584,6 +4668,18 @@
    "colors": 32,
    "added": "2026-11-15",
    "rev": "70f770257d"
+  },
+  {
+   "id": "tree_on_the_lake_image_96",
+   "file": "tree_on_the_lake_image_96.json",
+   "title": "Дерево на озере",
+   "theme": "other",
+   "tags": [],
+   "width": 96,
+   "height": 96,
+   "colors": 20,
+   "added": "2026-11-17",
+   "rev": "3909d5afd2"
   },
   {
    "id": "tv_64",
