@@ -1,10 +1,30 @@
 {
   "format": 2,
   "id": "kazanskiy_sobor_sankt_peterburg_96",
-  "title": "kazanskiy-sobor-sankt-peterburg",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-17",
+  "title": "Казанский собор",
+  "titles": {
+    "en": "Kazan Cathedral",
+    "es": "Catedral de Kazán",
+    "pt_BR": "Catedral de Cazã",
+    "de": "Kasaner Kathedrale",
+    "fr": "Cathédrale de Kazan",
+    "tr": "Kazan Katedrali",
+    "id": "Katedral Kazan",
+    "ja": "カザン大聖堂",
+    "ko": "카잔 대성당"
+  },
+  "theme": "architecture",
+  "tags": [
+    "cathedral",
+    "st",
+    "petersburg",
+    "kazan",
+    "russia",
+    "landmark",
+    "пейзаж",
+    "пикселарт"
+  ],
+  "added": "2027-02-06",
   "width": 96,
   "height": 96,
   "palette": [

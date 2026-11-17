@@ -1,10 +1,30 @@
 {
   "format": 2,
   "id": "cat_26_96",
-  "title": "cat_26",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-18",
+  "title": "Кошка 5",
+  "titles": {
+    "en": "Cat 5",
+    "es": "Gato 5",
+    "pt_BR": "Gato 5",
+    "de": "Katze 5",
+    "fr": "Chat 5",
+    "tr": "Kedi 5",
+    "id": "Kucing 5",
+    "ja": "猫 5",
+    "ko": "고양이 5"
+  },
+  "theme": "cats",
+  "tags": [
+    "cat",
+    "kitten",
+    "pet",
+    "animals",
+    "кошка",
+    "кот",
+    "питомец",
+    "животные"
+  ],
+  "added": "2026-12-06",
   "width": 96,
   "height": 96,
   "palette": [

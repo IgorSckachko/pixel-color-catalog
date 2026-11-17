@@ -1,10 +1,29 @@
 {
   "format": 2,
   "id": "fashion_girl_1_128",
-  "title": "fashion_girl_1",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-17",
+  "title": "Девушка в шляпе",
+  "titles": {
+    "en": "Girl in a hat",
+    "es": "Chica con sombrero",
+    "pt_BR": "Garota de chapéu",
+    "de": "Mädchen mit Hut",
+    "fr": "Fille au chapeau",
+    "tr": "Şapkalı kız",
+    "id": "Gadis bertopi",
+    "ja": "帽子の少女",
+    "ko": "모자를 쓴 소녀"
+  },
+  "theme": "portraits",
+  "tags": [
+    "girl",
+    "hat",
+    "fashion",
+    "portrait",
+    "девушка",
+    "портрет",
+    "пикселарт"
+  ],
+  "added": "2026-12-12",
   "width": 128,
   "height": 128,
   "palette": [

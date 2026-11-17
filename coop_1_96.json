@@ -1,10 +1,27 @@
 {
   "format": 2,
   "id": "coop_1_96",
-  "title": "coop_1",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-17",
+  "title": "Закат над холмами",
+  "titles": {
+    "en": "Sunset over the hills",
+    "es": "Atardecer sobre las colinas",
+    "pt_BR": "Pôr do sol sobre as colinas",
+    "de": "Sonnenuntergang über den Hügeln",
+    "fr": "Coucher de soleil sur les collines",
+    "tr": "Tepelerde gün batımı",
+    "id": "Matahari terbenam di atas bukit",
+    "ja": "丘の夕日",
+    "ko": "언덕 위의 노을"
+  },
+  "theme": "landscape",
+  "tags": [
+    "hills",
+    "sunset",
+    "valley",
+    "пейзаж",
+    "пикселарт"
+  ],
+  "added": "2026-12-31",
   "width": 96,
   "height": 96,
   "palette": [

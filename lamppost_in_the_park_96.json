@@ -1,10 +1,27 @@
 {
   "format": 2,
   "id": "lamppost_in_the_park_96",
-  "title": "lamppost_in_the_park",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-17",
+  "title": "Фонарь в парке",
+  "titles": {
+    "en": "Lamppost in the park",
+    "es": "Farola en el parque",
+    "pt_BR": "Poste de luz no parque",
+    "de": "Laterne im Park",
+    "fr": "Lampadaire dans le parc",
+    "tr": "Parkta sokak lambası",
+    "id": "Lampu taman",
+    "ja": "公園の街灯",
+    "ko": "공원의 가로등"
+  },
+  "theme": "landscape",
+  "tags": [
+    "lamppost",
+    "park",
+    "evening",
+    "пейзаж",
+    "пикселарт"
+  ],
+  "added": "2027-02-09",
   "width": 96,
   "height": 96,
   "palette": [

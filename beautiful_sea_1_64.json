@@ -1,10 +1,28 @@
 {
   "format": 2,
   "id": "beautiful_sea_1_64",
-  "title": "beautiful_sea_1",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-17",
+  "title": "Красное солнце над морем",
+  "titles": {
+    "en": "Red sun over the sea",
+    "es": "Sol rojo sobre el mar",
+    "pt_BR": "Sol vermelho sobre o mar",
+    "de": "Rote Sonne über dem Meer",
+    "fr": "Soleil rouge sur la mer",
+    "tr": "Denizde kızıl güneş",
+    "id": "Matahari merah di atas laut",
+    "ja": "海の上の赤い太陽",
+    "ko": "바다 위의 붉은 태양"
+  },
+  "theme": "landscape",
+  "tags": [
+    "sea",
+    "sun",
+    "red",
+    "sunset",
+    "пейзаж",
+    "пикселарт"
+  ],
+  "added": "2026-12-15",
   "width": 64,
   "height": 64,
   "palette": [

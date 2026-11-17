@@ -1,10 +1,27 @@
 {
   "format": 2,
   "id": "tree_128",
-  "title": "tree",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-17",
+  "title": "Золотое дерево",
+  "titles": {
+    "en": "Golden tree",
+    "es": "Árbol dorado",
+    "pt_BR": "Árvore dourada",
+    "de": "Goldener Baum",
+    "fr": "Arbre doré",
+    "tr": "Altın ağaç",
+    "id": "Pohon emas",
+    "ja": "黄金の木",
+    "ko": "황금빛 나무"
+  },
+  "theme": "landscape",
+  "tags": [
+    "tree",
+    "golden",
+    "autumn",
+    "пейзаж",
+    "пикселарт"
+  ],
+  "added": "2027-02-28",
   "width": 96,
   "height": 96,
   "palette": [

@@ -1,10 +1,30 @@
 {
   "format": 2,
   "id": "cat_44_96",
-  "title": "cat_44",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-18",
+  "title": "Кошка 16",
+  "titles": {
+    "en": "Cat 16",
+    "es": "Gato 16",
+    "pt_BR": "Gato 16",
+    "de": "Katze 16",
+    "fr": "Chat 16",
+    "tr": "Kedi 16",
+    "id": "Kucing 16",
+    "ja": "猫 16",
+    "ko": "고양이 16"
+  },
+  "theme": "cats",
+  "tags": [
+    "cat",
+    "kitten",
+    "pet",
+    "animals",
+    "кошка",
+    "кот",
+    "питомец",
+    "животные"
+  ],
+  "added": "2027-01-18",
   "width": 96,
   "height": 96,
   "palette": [

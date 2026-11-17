@@ -1,10 +1,30 @@
 {
   "format": 2,
   "id": "dog_35_96",
-  "title": "dog_35",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-18",
+  "title": "Собака 6",
+  "titles": {
+    "en": "Dog 6",
+    "es": "Perro 6",
+    "pt_BR": "Cachorro 6",
+    "de": "Hund 6",
+    "fr": "Chien 6",
+    "tr": "Köpek 6",
+    "id": "Anjing 6",
+    "ja": "犬 6",
+    "ko": "강아지 6"
+  },
+  "theme": "dogs",
+  "tags": [
+    "dog",
+    "puppy",
+    "pet",
+    "animals",
+    "собака",
+    "пёс",
+    "питомец",
+    "животные"
+  ],
+  "added": "2026-12-09",
   "width": 96,
   "height": 96,
   "palette": [

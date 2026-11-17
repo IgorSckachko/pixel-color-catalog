@@ -1,10 +1,28 @@
 {
   "format": 2,
   "id": "forest_campfire_96",
-  "title": "forest_campfire",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-17",
+  "title": "Костёр в лесу",
+  "titles": {
+    "en": "Campfire in the forest",
+    "es": "Fogata en el bosque",
+    "pt_BR": "Fogueira na floresta",
+    "de": "Lagerfeuer im Wald",
+    "fr": "Feu de camp en forêt",
+    "tr": "Ormanda kamp ateşi",
+    "id": "Api unggun di hutan",
+    "ja": "森のたき火",
+    "ko": "숲속 모닥불"
+  },
+  "theme": "landscape",
+  "tags": [
+    "campfire",
+    "forest",
+    "night",
+    "camping",
+    "пейзаж",
+    "пикселарт"
+  ],
+  "added": "2027-01-19",
   "width": 96,
   "height": 96,
   "palette": [

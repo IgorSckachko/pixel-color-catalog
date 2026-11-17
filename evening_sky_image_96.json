@@ -2,9 +2,28 @@
   "format": 2,
   "id": "evening_sky_image_96",
   "title": "Вечернее небо",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-17",
+  "titles": {
+    "en": "Evening sky",
+    "es": "Cielo vespertino",
+    "pt_BR": "Céu da noite",
+    "de": "Abendhimmel",
+    "fr": "Ciel du soir",
+    "tr": "Akşam gökyüzü",
+    "id": "Langit senja",
+    "ja": "夕空",
+    "ko": "저녁 하늘"
+  },
+  "theme": "landscape",
+  "tags": [
+    "evening",
+    "sky",
+    "flowers",
+    "field",
+    "sunset",
+    "пейзаж",
+    "пикселарт"
+  ],
+  "added": "2027-01-08",
   "width": 96,
   "height": 96,
   "palette": [

@@ -1,10 +1,30 @@
 {
   "format": 2,
   "id": "dog_34_96",
-  "title": "dog_34",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-18",
+  "title": "Собака 5",
+  "titles": {
+    "en": "Dog 5",
+    "es": "Perro 5",
+    "pt_BR": "Cachorro 5",
+    "de": "Hund 5",
+    "fr": "Chien 5",
+    "tr": "Köpek 5",
+    "id": "Anjing 5",
+    "ja": "犬 5",
+    "ko": "강아지 5"
+  },
+  "theme": "dogs",
+  "tags": [
+    "dog",
+    "puppy",
+    "pet",
+    "animals",
+    "собака",
+    "пёс",
+    "питомец",
+    "животные"
+  ],
+  "added": "2026-12-05",
   "width": 96,
   "height": 96,
   "palette": [

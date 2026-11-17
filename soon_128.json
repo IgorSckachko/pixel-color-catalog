@@ -1,10 +1,27 @@
 {
   "format": 2,
   "id": "soon_128",
-  "title": "soon",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-17",
+  "title": "Домик у дороги",
+  "titles": {
+    "en": "House by the road",
+    "es": "Casa junto al camino",
+    "pt_BR": "Casa à beira da estrada",
+    "de": "Haus an der Straße",
+    "fr": "Maison au bord de la route",
+    "tr": "Yol kenarında ev",
+    "id": "Rumah di tepi jalan",
+    "ja": "道端の家",
+    "ko": "길가의 집"
+  },
+  "theme": "landscape",
+  "tags": [
+    "house",
+    "road",
+    "sun",
+    "пейзаж",
+    "пикселарт"
+  ],
+  "added": "2027-02-25",
   "width": 128,
   "height": 128,
   "palette": [

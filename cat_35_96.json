@@ -1,10 +1,30 @@
 {
   "format": 2,
   "id": "cat_35_96",
-  "title": "cat_35",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-18",
+  "title": "Кошка 11",
+  "titles": {
+    "en": "Cat 11",
+    "es": "Gato 11",
+    "pt_BR": "Gato 11",
+    "de": "Katze 11",
+    "fr": "Chat 11",
+    "tr": "Kedi 11",
+    "id": "Kucing 11",
+    "ja": "猫 11",
+    "ko": "고양이 11"
+  },
+  "theme": "cats",
+  "tags": [
+    "cat",
+    "kitten",
+    "pet",
+    "animals",
+    "кошка",
+    "кот",
+    "питомец",
+    "животные"
+  ],
+  "added": "2026-12-30",
   "width": 96,
   "height": 96,
   "palette": [

@@ -1,10 +1,27 @@
 {
   "format": 2,
   "id": "forest_in_the_mountains_64",
-  "title": "forest_in_the_mountains",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-17",
+  "title": "Лес в горах",
+  "titles": {
+    "en": "Forest in the mountains",
+    "es": "Bosque en las montañas",
+    "pt_BR": "Floresta nas montanhas",
+    "de": "Wald in den Bergen",
+    "fr": "Forêt en montagne",
+    "tr": "Dağlarda orman",
+    "id": "Hutan di pegunungan",
+    "ja": "山の森",
+    "ko": "산속의 숲"
+  },
+  "theme": "landscape",
+  "tags": [
+    "forest",
+    "mountains",
+    "sunset",
+    "пейзаж",
+    "пикселарт"
+  ],
+  "added": "2027-01-22",
   "width": 64,
   "height": 64,
   "palette": [

@@ -1,10 +1,28 @@
 {
   "format": 2,
   "id": "sakura_96",
-  "title": "sakura",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-17",
+  "title": "Сакура",
+  "titles": {
+    "en": "Cherry blossoms",
+    "es": "Cerezos en flor",
+    "pt_BR": "Cerejeiras em flor",
+    "de": "Kirschblüten",
+    "fr": "Cerisiers en fleurs",
+    "tr": "Kiraz çiçekleri",
+    "id": "Bunga sakura",
+    "ja": "桜",
+    "ko": "벚꽃"
+  },
+  "theme": "flowers",
+  "tags": [
+    "sakura",
+    "cherry",
+    "blossom",
+    "spring",
+    "пейзаж",
+    "пикселарт"
+  ],
+  "added": "2027-02-22",
   "width": 96,
   "height": 96,
   "palette": [

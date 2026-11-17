@@ -1,10 +1,30 @@
 {
   "format": 2,
   "id": "dog_39_96",
-  "title": "dog_39",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-18",
+  "title": "Собака 8",
+  "titles": {
+    "en": "Dog 8",
+    "es": "Perro 8",
+    "pt_BR": "Cachorro 8",
+    "de": "Hund 8",
+    "fr": "Chien 8",
+    "tr": "Köpek 8",
+    "id": "Anjing 8",
+    "ja": "犬 8",
+    "ko": "강아지 8"
+  },
+  "theme": "dogs",
+  "tags": [
+    "dog",
+    "puppy",
+    "pet",
+    "animals",
+    "собака",
+    "пёс",
+    "питомец",
+    "животные"
+  ],
+  "added": "2026-12-17",
   "width": 96,
   "height": 96,
   "palette": [

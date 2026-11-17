@@ -1,10 +1,28 @@
 {
   "format": 2,
   "id": "poles_and_wires_96",
-  "title": "poles_and_wires",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-17",
+  "title": "Столбы и провода на рассвете",
+  "titles": {
+    "en": "Poles and wires at dawn",
+    "es": "Postes y cables al amanecer",
+    "pt_BR": "Postes e fios ao amanhecer",
+    "de": "Masten und Drähte im Morgengrauen",
+    "fr": "Poteaux et fils à l'aube",
+    "tr": "Şafakta direkler ve teller",
+    "id": "Tiang dan kabel saat fajar",
+    "ja": "夜明けの電柱と電線",
+    "ko": "새벽의 전봇대와 전선"
+  },
+  "theme": "landscape",
+  "tags": [
+    "poles",
+    "wires",
+    "sky",
+    "clouds",
+    "пейзаж",
+    "пикселарт"
+  ],
+  "added": "2027-02-21",
   "width": 96,
   "height": 96,
   "palette": [

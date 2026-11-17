@@ -1,10 +1,30 @@
 {
   "format": 2,
   "id": "cat_47_128",
-  "title": "cat_47",
+  "title": "Кошка 18",
+  "titles": {
+    "en": "Cat 18",
+    "es": "Gato 18",
+    "pt_BR": "Gato 18",
+    "de": "Katze 18",
+    "fr": "Chat 18",
+    "tr": "Kedi 18",
+    "id": "Kucing 18",
+    "ja": "猫 18",
+    "ko": "고양이 18"
+  },
   "theme": "cats",
-  "tags": [],
-  "added": "2026-11-18",
+  "tags": [
+    "cat",
+    "kitten",
+    "pet",
+    "animals",
+    "кошка",
+    "кот",
+    "питомец",
+    "животные"
+  ],
+  "added": "2027-01-24",
   "width": 128,
   "height": 128,
   "palette": [

@@ -1,10 +1,27 @@
 {
   "format": 2,
   "id": "see_and_moon_96",
-  "title": "see_and_moon",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-17",
+  "title": "Море и луна",
+  "titles": {
+    "en": "Sea and moon",
+    "es": "Mar y luna",
+    "pt_BR": "Mar e lua",
+    "de": "Meer und Mond",
+    "fr": "Mer et lune",
+    "tr": "Deniz ve ay",
+    "id": "Laut dan bulan",
+    "ja": "海と月",
+    "ko": "바다와 달"
+  },
+  "theme": "landscape",
+  "tags": [
+    "sea",
+    "moon",
+    "night",
+    "пейзаж",
+    "пикселарт"
+  ],
+  "added": "2027-02-24",
   "width": 96,
   "height": 96,
   "palette": [

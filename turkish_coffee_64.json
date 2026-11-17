@@ -1,10 +1,27 @@
 {
   "format": 2,
   "id": "turkish_coffee_64",
-  "title": "Turkish_coffee",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-17",
+  "title": "Турецкий кофе",
+  "titles": {
+    "en": "Turkish coffee",
+    "es": "Café turco",
+    "pt_BR": "Café turco",
+    "de": "Türkischer Kaffee",
+    "fr": "Café turc",
+    "tr": "Türk kahvesi",
+    "id": "Kopi Turki",
+    "ja": "トルココーヒー",
+    "ko": "터키 커피"
+  },
+  "theme": "food",
+  "tags": [
+    "turkish",
+    "coffee",
+    "cup",
+    "пейзаж",
+    "пикселарт"
+  ],
+  "added": "2027-03-02",
   "width": 64,
   "height": 64,
   "palette": [

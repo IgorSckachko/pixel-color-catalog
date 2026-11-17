@@ -1,10 +1,30 @@
 {
   "format": 2,
   "id": "cat_4_96",
-  "title": "cat_4",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-18",
+  "title": "Кошка 2",
+  "titles": {
+    "en": "Cat 2",
+    "es": "Gato 2",
+    "pt_BR": "Gato 2",
+    "de": "Katze 2",
+    "fr": "Chat 2",
+    "tr": "Kedi 2",
+    "id": "Kucing 2",
+    "ja": "猫 2",
+    "ko": "고양이 2"
+  },
+  "theme": "cats",
+  "tags": [
+    "cat",
+    "kitten",
+    "pet",
+    "animals",
+    "кошка",
+    "кот",
+    "питомец",
+    "животные"
+  ],
+  "added": "2026-11-24",
   "width": 96,
   "height": 96,
   "palette": [

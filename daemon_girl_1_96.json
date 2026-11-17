@@ -1,10 +1,29 @@
 {
   "format": 2,
   "id": "daemon_girl_1_96",
-  "title": "daemon_girl_1",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-17",
+  "title": "Девушка-демон",
+  "titles": {
+    "en": "Demon girl",
+    "es": "Chica demonio",
+    "pt_BR": "Garota demônio",
+    "de": "Dämonenmädchen",
+    "fr": "Fille démon",
+    "tr": "Şeytan kız",
+    "id": "Gadis iblis",
+    "ja": "悪魔の少女",
+    "ko": "악마 소녀"
+  },
+  "theme": "fantasy",
+  "tags": [
+    "demon",
+    "girl",
+    "fantasy",
+    "colorful",
+    "девушка",
+    "портрет",
+    "пикселарт"
+  ],
+  "added": "2026-12-08",
   "width": 96,
   "height": 96,
   "palette": [

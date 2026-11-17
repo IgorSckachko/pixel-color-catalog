@@ -1,10 +1,30 @@
 {
   "format": 2,
   "id": "cat_37_96",
-  "title": "cat_37",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-18",
+  "title": "Кошка 13",
+  "titles": {
+    "en": "Cat 13",
+    "es": "Gato 13",
+    "pt_BR": "Gato 13",
+    "de": "Katze 13",
+    "fr": "Chat 13",
+    "tr": "Kedi 13",
+    "id": "Kucing 13",
+    "ja": "猫 13",
+    "ko": "고양이 13"
+  },
+  "theme": "cats",
+  "tags": [
+    "cat",
+    "kitten",
+    "pet",
+    "animals",
+    "кошка",
+    "кот",
+    "питомец",
+    "животные"
+  ],
+  "added": "2027-01-07",
   "width": 96,
   "height": 96,
   "palette": [

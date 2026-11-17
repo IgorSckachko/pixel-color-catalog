@@ -1,10 +1,27 @@
 {
   "format": 2,
   "id": "park_and_buildings_128",
-  "title": "park_and_buildings",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-17",
+  "title": "Парк и здания",
+  "titles": {
+    "en": "Park and buildings",
+    "es": "Parque y edificios",
+    "pt_BR": "Parque e prédios",
+    "de": "Park und Gebäude",
+    "fr": "Parc et bâtiments",
+    "tr": "Park ve binalar",
+    "id": "Taman dan gedung",
+    "ja": "公園と建物",
+    "ko": "공원과 건물"
+  },
+  "theme": "architecture",
+  "tags": [
+    "park",
+    "buildings",
+    "city",
+    "пейзаж",
+    "пикселарт"
+  ],
+  "added": "2027-02-18",
   "width": 128,
   "height": 128,
   "palette": [

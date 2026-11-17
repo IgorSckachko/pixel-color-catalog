@@ -1,10 +1,30 @@
 {
   "format": 2,
   "id": "cat_1_64",
-  "title": "cat_1",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-17",
+  "title": "Кошка 1",
+  "titles": {
+    "en": "Cat 1",
+    "es": "Gato 1",
+    "pt_BR": "Gato 1",
+    "de": "Katze 1",
+    "fr": "Chat 1",
+    "tr": "Kedi 1",
+    "id": "Kucing 1",
+    "ja": "猫 1",
+    "ko": "고양이 1"
+  },
+  "theme": "cats",
+  "tags": [
+    "cat",
+    "kitten",
+    "pet",
+    "animals",
+    "кошка",
+    "кот",
+    "питомец",
+    "животные"
+  ],
+  "added": "2026-11-20",
   "width": 64,
   "height": 64,
   "palette": [

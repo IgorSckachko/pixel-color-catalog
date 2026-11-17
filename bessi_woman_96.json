@@ -1,10 +1,30 @@
 {
   "format": 2,
   "id": "bessi_woman_96",
-  "title": "bessi_woman",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-17",
+  "title": "Взгляд",
+  "titles": {
+    "en": "The gaze",
+    "es": "La mirada",
+    "pt_BR": "O olhar",
+    "de": "Der Blick",
+    "fr": "Le regard",
+    "tr": "Bakış",
+    "id": "Tatapan",
+    "ja": "まなざし",
+    "ko": "시선"
+  },
+  "theme": "portraits",
+  "tags": [
+    "eyes",
+    "gaze",
+    "face",
+    "woman",
+    "portrait",
+    "девушка",
+    "портрет",
+    "пикселарт"
+  ],
+  "added": "2026-11-30",
   "width": 96,
   "height": 96,
   "palette": [

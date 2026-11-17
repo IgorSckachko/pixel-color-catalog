@@ -1,10 +1,27 @@
 {
   "format": 2,
   "id": "park_in_the_town_128",
-  "title": "park_in_the_town",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-17",
+  "title": "Городской парк",
+  "titles": {
+    "en": "City park",
+    "es": "Parque de la ciudad",
+    "pt_BR": "Parque da cidade",
+    "de": "Stadtpark",
+    "fr": "Parc de la ville",
+    "tr": "Şehir parkı",
+    "id": "Taman kota",
+    "ja": "町の公園",
+    "ko": "도시 공원"
+  },
+  "theme": "landscape",
+  "tags": [
+    "park",
+    "town",
+    "autumn",
+    "пейзаж",
+    "пикселарт"
+  ],
+  "added": "2027-02-20",
   "width": 128,
   "height": 128,
   "palette": [

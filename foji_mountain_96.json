@@ -1,10 +1,28 @@
 {
   "format": 2,
   "id": "foji_mountain_96",
-  "title": "foji_mountain",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-17",
+  "title": "Гора Фудзи",
+  "titles": {
+    "en": "Mount Fuji",
+    "es": "Monte Fuji",
+    "pt_BR": "Monte Fuji",
+    "de": "Berg Fuji",
+    "fr": "Mont Fuji",
+    "tr": "Fuji Dağı",
+    "id": "Gunung Fuji",
+    "ja": "富士山",
+    "ko": "후지산"
+  },
+  "theme": "landscape",
+  "tags": [
+    "fuji",
+    "mountain",
+    "japan",
+    "volcano",
+    "пейзаж",
+    "пикселарт"
+  ],
+  "added": "2027-01-16",
   "width": 96,
   "height": 96,
   "palette": [

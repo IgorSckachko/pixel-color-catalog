@@ -1,10 +1,30 @@
 {
   "format": 2,
   "id": "dog_30_96",
-  "title": "dog_30",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-18",
+  "title": "Собака 2",
+  "titles": {
+    "en": "Dog 2",
+    "es": "Perro 2",
+    "pt_BR": "Cachorro 2",
+    "de": "Hund 2",
+    "fr": "Chien 2",
+    "tr": "Köpek 2",
+    "id": "Anjing 2",
+    "ja": "犬 2",
+    "ko": "강아지 2"
+  },
+  "theme": "dogs",
+  "tags": [
+    "dog",
+    "puppy",
+    "pet",
+    "animals",
+    "собака",
+    "пёс",
+    "питомец",
+    "животные"
+  ],
+  "added": "2026-11-23",
   "width": 96,
   "height": 96,
   "palette": [

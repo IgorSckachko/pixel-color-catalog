@@ -1,10 +1,30 @@
 {
   "format": 2,
   "id": "cat_49_96",
-  "title": "cat_49",
-  "theme": "pets",
-  "tags": [],
-  "added": "2026-11-18",
+  "title": "Кошка 20",
+  "titles": {
+    "en": "Cat 20",
+    "es": "Gato 20",
+    "pt_BR": "Gato 20",
+    "de": "Katze 20",
+    "fr": "Chat 20",
+    "tr": "Kedi 20",
+    "id": "Kucing 20",
+    "ja": "猫 20",
+    "ko": "고양이 20"
+  },
+  "theme": "cats",
+  "tags": [
+    "cat",
+    "kitten",
+    "pet",
+    "animals",
+    "кошка",
+    "кот",
+    "питомец",
+    "животные"
+  ],
+  "added": "2027-01-30",
   "width": 96,
   "height": 96,
   "palette": [

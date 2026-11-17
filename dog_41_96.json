@@ -1,10 +1,30 @@
 {
   "format": 2,
   "id": "dog_41_96",
-  "title": "dog_41",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-18",
+  "title": "Собака 10",
+  "titles": {
+    "en": "Dog 10",
+    "es": "Perro 10",
+    "pt_BR": "Cachorro 10",
+    "de": "Hund 10",
+    "fr": "Chien 10",
+    "tr": "Köpek 10",
+    "id": "Anjing 10",
+    "ja": "犬 10",
+    "ko": "강아지 10"
+  },
+  "theme": "dogs",
+  "tags": [
+    "dog",
+    "puppy",
+    "pet",
+    "animals",
+    "собака",
+    "пёс",
+    "питомец",
+    "животные"
+  ],
+  "added": "2026-12-25",
   "width": 96,
   "height": 96,
   "palette": [

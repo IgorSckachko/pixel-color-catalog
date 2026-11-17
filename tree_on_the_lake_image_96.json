@@ -2,9 +2,26 @@
   "format": 2,
   "id": "tree_on_the_lake_image_96",
   "title": "Дерево на озере",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-17",
+  "titles": {
+    "en": "Tree by the lake",
+    "es": "Árbol junto al lago",
+    "pt_BR": "Árvore ao lado do lago",
+    "de": "Baum am See",
+    "fr": "Arbre au bord du lac",
+    "tr": "Gölde ağaç",
+    "id": "Pohon di tepi danau",
+    "ja": "湖畔の木",
+    "ko": "호숫가의 나무"
+  },
+  "theme": "landscape",
+  "tags": [
+    "tree",
+    "lake",
+    "sunset",
+    "пейзаж",
+    "пикселарт"
+  ],
+  "added": "2027-03-01",
   "width": 96,
   "height": 96,
   "palette": [

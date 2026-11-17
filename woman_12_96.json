@@ -1,10 +1,29 @@
 {
   "format": 2,
   "id": "woman_12_96",
-  "title": "woman_12",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-17",
+  "title": "Девушка в короне",
+  "titles": {
+    "en": "Girl in a crown",
+    "es": "Chica con corona",
+    "pt_BR": "Garota de coroa",
+    "de": "Mädchen mit Krone",
+    "fr": "Fille à la couronne",
+    "tr": "Taçlı kız",
+    "id": "Gadis bermahkota",
+    "ja": "王冠の少女",
+    "ko": "왕관을 쓴 소녀"
+  },
+  "theme": "portraits",
+  "tags": [
+    "girl",
+    "crown",
+    "flowers",
+    "portrait",
+    "девушка",
+    "портрет",
+    "пикселарт"
+  ],
+  "added": "2027-01-05",
   "width": 96,
   "height": 96,
   "palette": [

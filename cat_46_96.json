@@ -1,10 +1,30 @@
 {
   "format": 2,
   "id": "cat_46_96",
-  "title": "cat_46",
+  "title": "Кошка 17",
+  "titles": {
+    "en": "Cat 17",
+    "es": "Gato 17",
+    "pt_BR": "Gato 17",
+    "de": "Katze 17",
+    "fr": "Chat 17",
+    "tr": "Kedi 17",
+    "id": "Kucing 17",
+    "ja": "猫 17",
+    "ko": "고양이 17"
+  },
   "theme": "cats",
-  "tags": [],
-  "added": "2026-11-18",
+  "tags": [
+    "cat",
+    "kitten",
+    "pet",
+    "animals",
+    "кошка",
+    "кот",
+    "питомец",
+    "животные"
+  ],
+  "added": "2027-01-21",
   "width": 96,
   "height": 96,
   "palette": [

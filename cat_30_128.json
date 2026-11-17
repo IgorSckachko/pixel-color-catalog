@@ -1,10 +1,30 @@
 {
   "format": 2,
   "id": "cat_30_128",
-  "title": "cat_30",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-18",
+  "title": "Кошка 24",
+  "titles": {
+    "en": "Cat 24",
+    "es": "Gato 24",
+    "pt_BR": "Gato 24",
+    "de": "Katze 24",
+    "fr": "Chat 24",
+    "tr": "Kedi 24",
+    "id": "Kucing 24",
+    "ja": "猫 24",
+    "ko": "고양이 24"
+  },
+  "theme": "cats",
+  "tags": [
+    "cat",
+    "kitten",
+    "pet",
+    "animals",
+    "кошка",
+    "кот",
+    "питомец",
+    "животные"
+  ],
+  "added": "2027-02-11",
   "width": 128,
   "height": 128,
   "palette": [

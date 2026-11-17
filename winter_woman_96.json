@@ -1,10 +1,29 @@
 {
   "format": 2,
   "id": "winter_woman_96",
-  "title": "winter_woman",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-17",
+  "title": "Зимняя девушка",
+  "titles": {
+    "en": "Winter girl",
+    "es": "Chica de invierno",
+    "pt_BR": "Garota de inverno",
+    "de": "Wintermädchen",
+    "fr": "Fille d'hiver",
+    "tr": "Kış kızı",
+    "id": "Gadis musim dingin",
+    "ja": "冬の少女",
+    "ko": "겨울 소녀"
+  },
+  "theme": "portraits",
+  "tags": [
+    "girl",
+    "winter",
+    "snow",
+    "portrait",
+    "девушка",
+    "портрет",
+    "пикселарт"
+  ],
+  "added": "2027-01-01",
   "width": 96,
   "height": 96,
   "palette": [

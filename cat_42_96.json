@@ -1,10 +1,30 @@
 {
   "format": 2,
   "id": "cat_42_96",
-  "title": "cat_42",
+  "title": "Кошка 15",
+  "titles": {
+    "en": "Cat 15",
+    "es": "Gato 15",
+    "pt_BR": "Gato 15",
+    "de": "Katze 15",
+    "fr": "Chat 15",
+    "tr": "Kedi 15",
+    "id": "Kucing 15",
+    "ja": "猫 15",
+    "ko": "고양이 15"
+  },
   "theme": "cats",
-  "tags": [],
-  "added": "2026-11-18",
+  "tags": [
+    "cat",
+    "kitten",
+    "pet",
+    "animals",
+    "кошка",
+    "кот",
+    "питомец",
+    "животные"
+  ],
+  "added": "2027-01-15",
   "width": 96,
   "height": 96,
   "palette": [

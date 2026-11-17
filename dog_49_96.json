@@ -1,10 +1,30 @@
 {
   "format": 2,
   "id": "dog_49_96",
-  "title": "dog_49",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-18",
+  "title": "Собака 23",
+  "titles": {
+    "en": "Dog 23",
+    "es": "Perro 23",
+    "pt_BR": "Cachorro 23",
+    "de": "Hund 23",
+    "fr": "Chien 23",
+    "tr": "Köpek 23",
+    "id": "Anjing 23",
+    "ja": "犬 23",
+    "ko": "강아지 23"
+  },
+  "theme": "dogs",
+  "tags": [
+    "dog",
+    "puppy",
+    "pet",
+    "animals",
+    "собака",
+    "пёс",
+    "питомец",
+    "животные"
+  ],
+  "added": "2027-02-07",
   "width": 96,
   "height": 96,
   "palette": [

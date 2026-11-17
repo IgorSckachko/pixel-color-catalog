@@ -1,10 +1,27 @@
 {
   "format": 2,
   "id": "see_1_96",
-  "title": "see_1",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-17",
+  "title": "Море на рассвете",
+  "titles": {
+    "en": "Sea at dawn",
+    "es": "Mar al amanecer",
+    "pt_BR": "Mar ao amanhecer",
+    "de": "Meer im Morgengrauen",
+    "fr": "Mer à l'aube",
+    "tr": "Şafakta deniz",
+    "id": "Laut saat fajar",
+    "ja": "夜明けの海",
+    "ko": "새벽의 바다"
+  },
+  "theme": "landscape",
+  "tags": [
+    "sea",
+    "dawn",
+    "sunrise",
+    "пейзаж",
+    "пикселарт"
+  ],
+  "added": "2027-02-23",
   "width": 96,
   "height": 96,
   "palette": [

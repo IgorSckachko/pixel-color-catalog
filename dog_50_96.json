@@ -1,10 +1,30 @@
 {
   "format": 2,
   "id": "dog_50_96",
-  "title": "dog_50",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-18",
+  "title": "Собака 14",
+  "titles": {
+    "en": "Dog 14",
+    "es": "Perro 14",
+    "pt_BR": "Cachorro 14",
+    "de": "Hund 14",
+    "fr": "Chien 14",
+    "tr": "Köpek 14",
+    "id": "Anjing 14",
+    "ja": "犬 14",
+    "ko": "강아지 14"
+  },
+  "theme": "dogs",
+  "tags": [
+    "dog",
+    "puppy",
+    "pet",
+    "animals",
+    "собака",
+    "пёс",
+    "питомец",
+    "животные"
+  ],
+  "added": "2027-01-10",
   "width": 96,
   "height": 96,
   "palette": [

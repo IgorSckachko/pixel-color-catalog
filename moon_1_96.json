@@ -1,10 +1,28 @@
 {
   "format": 2,
   "id": "moon_1_96",
-  "title": "moon_1",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-17",
+  "title": "Луна над полем",
+  "titles": {
+    "en": "Moon over the field",
+    "es": "Luna sobre el campo",
+    "pt_BR": "Lua sobre o campo",
+    "de": "Mond über dem Feld",
+    "fr": "Lune sur le champ",
+    "tr": "Tarlanın üstünde ay",
+    "id": "Bulan di atas ladang",
+    "ja": "野原の上の月",
+    "ko": "들판 위의 달"
+  },
+  "theme": "landscape",
+  "tags": [
+    "moon",
+    "field",
+    "grass",
+    "night",
+    "пейзаж",
+    "пикселарт"
+  ],
+  "added": "2027-02-14",
   "width": 96,
   "height": 96,
   "palette": [

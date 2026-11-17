@@ -1,10 +1,28 @@
 {
   "format": 2,
   "id": "hangry_girl_96",
-  "title": "hangry_girl",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-17",
+  "title": "Сердитая девушка",
+  "titles": {
+    "en": "Angry girl",
+    "es": "Chica enfadada",
+    "pt_BR": "Garota brava",
+    "de": "Wütendes Mädchen",
+    "fr": "Fille en colère",
+    "tr": "Kızgın kız",
+    "id": "Gadis marah",
+    "ja": "怒った少女",
+    "ko": "화난 소녀"
+  },
+  "theme": "portraits",
+  "tags": [
+    "girl",
+    "angry",
+    "portrait",
+    "девушка",
+    "портрет",
+    "пикселарт"
+  ],
+  "added": "2026-12-24",
   "width": 96,
   "height": 96,
   "palette": [

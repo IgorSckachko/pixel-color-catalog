@@ -1,10 +1,29 @@
 {
   "format": 2,
   "id": "woman_96",
-  "title": "woman",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-17",
+  "title": "Девушка с длинными волосами",
+  "titles": {
+    "en": "Girl with long hair",
+    "es": "Chica de pelo largo",
+    "pt_BR": "Garota de cabelo longo",
+    "de": "Mädchen mit langen Haaren",
+    "fr": "Fille aux cheveux longs",
+    "tr": "Uzun saçlı kız",
+    "id": "Gadis berambut panjang",
+    "ja": "長い髪の少女",
+    "ko": "긴 머리 소녀"
+  },
+  "theme": "portraits",
+  "tags": [
+    "girl",
+    "long",
+    "hair",
+    "portrait",
+    "девушка",
+    "портрет",
+    "пикселарт"
+  ],
+  "added": "2027-01-13",
   "width": 96,
   "height": 96,
   "palette": [

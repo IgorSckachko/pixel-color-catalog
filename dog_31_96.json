@@ -1,10 +1,30 @@
 {
   "format": 2,
   "id": "dog_31_96",
-  "title": "dog_31",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-18",
+  "title": "Собака 3",
+  "titles": {
+    "en": "Dog 3",
+    "es": "Perro 3",
+    "pt_BR": "Cachorro 3",
+    "de": "Hund 3",
+    "fr": "Chien 3",
+    "tr": "Köpek 3",
+    "id": "Anjing 3",
+    "ja": "犬 3",
+    "ko": "강아지 3"
+  },
+  "theme": "dogs",
+  "tags": [
+    "dog",
+    "puppy",
+    "pet",
+    "animals",
+    "собака",
+    "пёс",
+    "питомец",
+    "животные"
+  ],
+  "added": "2026-11-27",
   "width": 96,
   "height": 96,
   "palette": [

@@ -1,10 +1,29 @@
 {
   "format": 2,
   "id": "girl_2_64",
-  "title": "girl_2",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-17",
+  "title": "Портрет девушки",
+  "titles": {
+    "en": "Portrait of a girl",
+    "es": "Retrato de una chica",
+    "pt_BR": "Retrato de uma garota",
+    "de": "Porträt eines Mädchens",
+    "fr": "Portrait d'une fille",
+    "tr": "Bir kızın portresi",
+    "id": "Potret seorang gadis",
+    "ja": "少女の肖像",
+    "ko": "소녀의 초상"
+  },
+  "theme": "portraits",
+  "tags": [
+    "girl",
+    "portrait",
+    "black",
+    "white",
+    "девушка",
+    "портрет",
+    "пикселарт"
+  ],
+  "added": "2026-12-16",
   "width": 64,
   "height": 64,
   "palette": [

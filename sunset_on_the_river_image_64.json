@@ -1,10 +1,27 @@
 {
   "format": 2,
   "id": "sunset_on_the_river_image_64",
-  "title": "закат на реке",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-17",
+  "title": "Закат на реке",
+  "titles": {
+    "en": "Sunset on the river",
+    "es": "Atardecer en el río",
+    "pt_BR": "Pôr do sol no rio",
+    "de": "Sonnenuntergang am Fluss",
+    "fr": "Coucher de soleil sur la rivière",
+    "tr": "Nehirde gün batımı",
+    "id": "Senja di sungai",
+    "ja": "川辺の夕日",
+    "ko": "강가의 노을"
+  },
+  "theme": "landscape",
+  "tags": [
+    "river",
+    "sunset",
+    "pink",
+    "пейзаж",
+    "пикселарт"
+  ],
+  "added": "2027-02-27",
   "width": 64,
   "height": 64,
   "palette": [

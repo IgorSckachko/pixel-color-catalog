@@ -1,10 +1,30 @@
 {
   "format": 2,
   "id": "cat_31_96",
-  "title": "cat_31",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-18",
+  "title": "Кошка 8",
+  "titles": {
+    "en": "Cat 8",
+    "es": "Gato 8",
+    "pt_BR": "Gato 8",
+    "de": "Katze 8",
+    "fr": "Chat 8",
+    "tr": "Kedi 8",
+    "id": "Kucing 8",
+    "ja": "猫 8",
+    "ko": "고양이 8"
+  },
+  "theme": "cats",
+  "tags": [
+    "cat",
+    "kitten",
+    "pet",
+    "animals",
+    "кошка",
+    "кот",
+    "питомец",
+    "животные"
+  ],
+  "added": "2026-12-18",
   "width": 96,
   "height": 96,
   "palette": [

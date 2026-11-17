@@ -1,10 +1,29 @@
 {
   "format": 2,
   "id": "makeup_girl_128",
-  "title": "makeup_girl",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-17",
+  "title": "Девушка с макияжем",
+  "titles": {
+    "en": "Girl with makeup",
+    "es": "Chica con maquillaje",
+    "pt_BR": "Garota de maquiagem",
+    "de": "Mädchen mit Make-up",
+    "fr": "Fille maquillée",
+    "tr": "Makyajlı kız",
+    "id": "Gadis dengan riasan",
+    "ja": "メイクの少女",
+    "ko": "화장한 소녀"
+  },
+  "theme": "portraits",
+  "tags": [
+    "girl",
+    "makeup",
+    "face",
+    "portrait",
+    "девушка",
+    "портрет",
+    "пикселарт"
+  ],
+  "added": "2026-12-28",
   "width": 128,
   "height": 128,
   "palette": [

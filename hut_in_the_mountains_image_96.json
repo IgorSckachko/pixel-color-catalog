@@ -1,10 +1,29 @@
 {
   "format": 2,
   "id": "hut_in_the_mountains_image_96",
-  "title": "хижина в горах",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-17",
+  "title": "Хижина в горах",
+  "titles": {
+    "en": "Hut in the mountains",
+    "es": "Cabaña en las montañas",
+    "pt_BR": "Cabana nas montanhas",
+    "de": "Hütte in den Bergen",
+    "fr": "Cabane en montagne",
+    "tr": "Dağda kulübe",
+    "id": "Gubuk di pegunungan",
+    "ja": "山小屋",
+    "ko": "산속의 오두막"
+  },
+  "theme": "landscape",
+  "tags": [
+    "hut",
+    "cabin",
+    "mountains",
+    "night",
+    "winter",
+    "пейзаж",
+    "пикселарт"
+  ],
+  "added": "2027-01-28",
   "width": 96,
   "height": 96,
   "palette": [

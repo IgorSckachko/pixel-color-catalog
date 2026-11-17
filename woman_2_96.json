@@ -1,10 +1,29 @@
 {
   "format": 2,
   "id": "woman_2_96",
-  "title": "woman_2",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-17",
+  "title": "Задумчивая девушка",
+  "titles": {
+    "en": "Pensive girl",
+    "es": "Chica pensativa",
+    "pt_BR": "Garota pensativa",
+    "de": "Nachdenkliches Mädchen",
+    "fr": "Fille pensive",
+    "tr": "Düşünceli kız",
+    "id": "Gadis termenung",
+    "ja": "物思いにふける少女",
+    "ko": "생각에 잠긴 소녀"
+  },
+  "theme": "portraits",
+  "tags": [
+    "girl",
+    "pensive",
+    "hair",
+    "portrait",
+    "девушка",
+    "портрет",
+    "пикселарт"
+  ],
+  "added": "2027-01-09",
   "width": 96,
   "height": 96,
   "palette": [

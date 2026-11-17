@@ -1,10 +1,29 @@
 {
   "format": 2,
   "id": "girl_96",
-  "title": "girl",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-17",
+  "title": "Девушка в зелени",
+  "titles": {
+    "en": "Girl among greenery",
+    "es": "Chica entre el verde",
+    "pt_BR": "Garota entre o verde",
+    "de": "Mädchen im Grünen",
+    "fr": "Fille dans la verdure",
+    "tr": "Yeşillikler içinde kız",
+    "id": "Gadis di tengah hijau",
+    "ja": "緑の中の少女",
+    "ko": "초록 속의 소녀"
+  },
+  "theme": "portraits",
+  "tags": [
+    "girl",
+    "green",
+    "nature",
+    "portrait",
+    "девушка",
+    "портрет",
+    "пикселарт"
+  ],
+  "added": "2026-12-20",
   "width": 96,
   "height": 96,
   "palette": [

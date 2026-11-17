@@ -1,10 +1,30 @@
 {
   "format": 2,
   "id": "1_96",
-  "title": "Фасад исторического здания на Лиговском проспекте-1",
+  "title": "Фасад на Лиговском проспекте",
+  "titles": {
+    "en": "Facade on Ligovsky Avenue",
+    "es": "Fachada en la avenida Ligovski",
+    "pt_BR": "Fachada na avenida Ligovski",
+    "de": "Fassade am Ligowski-Prospekt",
+    "fr": "Façade sur l'avenue Ligovski",
+    "tr": "Ligovski Caddesi cephesi",
+    "id": "Fasad di Jalan Ligovsky",
+    "ja": "リゴフスキー大通りのファサード",
+    "ko": "리고프스키 대로의 파사드"
+  },
   "theme": "architecture",
-  "tags": [],
-  "added": "2026-11-17",
+  "tags": [
+    "facade",
+    "building",
+    "st",
+    "petersburg",
+    "ligovsky",
+    "city",
+    "пейзаж",
+    "пикселарт"
+  ],
+  "added": "2026-11-21",
   "width": 96,
   "height": 96,
   "palette": [

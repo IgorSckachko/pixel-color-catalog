@@ -1,10 +1,30 @@
 {
   "format": 2,
   "id": "647_st_petersburg_ligovsky_prospect_137_96",
-  "title": "647._St._Petersburg._Ligovsky_prospect,_137",
+  "title": "Лиговский проспект, 137",
+  "titles": {
+    "en": "Ligovsky Avenue 137",
+    "es": "Avenida Ligovski 137",
+    "pt_BR": "Avenida Ligovski 137",
+    "de": "Ligowski-Prospekt 137",
+    "fr": "Avenue Ligovski 137",
+    "tr": "Ligovski Caddesi 137",
+    "id": "Jalan Ligovsky 137",
+    "ja": "リゴフスキー大通り137番地",
+    "ko": "리고프스키 대로 137번지"
+  },
   "theme": "architecture",
-  "tags": [],
-  "added": "2026-11-17",
+  "tags": [
+    "house",
+    "building",
+    "st",
+    "petersburg",
+    "ligovsky",
+    "city",
+    "пейзаж",
+    "пикселарт"
+  ],
+  "added": "2026-11-25",
   "width": 96,
   "height": 96,
   "palette": [

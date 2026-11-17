@@ -1,10 +1,30 @@
 {
   "format": 2,
   "id": "cat_34_128",
-  "title": "cat_34",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-18",
+  "title": "Кошка 10",
+  "titles": {
+    "en": "Cat 10",
+    "es": "Gato 10",
+    "pt_BR": "Gato 10",
+    "de": "Katze 10",
+    "fr": "Chat 10",
+    "tr": "Kedi 10",
+    "id": "Kucing 10",
+    "ja": "猫 10",
+    "ko": "고양이 10"
+  },
+  "theme": "cats",
+  "tags": [
+    "cat",
+    "kitten",
+    "pet",
+    "animals",
+    "кошка",
+    "кот",
+    "питомец",
+    "животные"
+  ],
+  "added": "2026-12-26",
   "width": 128,
   "height": 128,
   "palette": [

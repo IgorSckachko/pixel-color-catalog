@@ -1,10 +1,28 @@
 {
   "format": 2,
   "id": "castle_and_moon_96",
-  "title": "castle_and_moon",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-17",
+  "title": "Замок и луна",
+  "titles": {
+    "en": "Castle and moon",
+    "es": "Castillo y luna",
+    "pt_BR": "Castelo e lua",
+    "de": "Schloss und Mond",
+    "fr": "Château et lune",
+    "tr": "Kale ve ay",
+    "id": "Kastil dan bulan",
+    "ja": "城と月",
+    "ko": "성과 달"
+  },
+  "theme": "fantasy",
+  "tags": [
+    "castle",
+    "moon",
+    "night",
+    "fantasy",
+    "пейзаж",
+    "пикселарт"
+  ],
+  "added": "2026-12-23",
   "width": 96,
   "height": 96,
   "palette": [

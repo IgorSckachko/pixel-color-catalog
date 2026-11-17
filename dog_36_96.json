@@ -1,10 +1,30 @@
 {
   "format": 2,
   "id": "dog_36_96",
-  "title": "dog_36",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-18",
+  "title": "Собака 17",
+  "titles": {
+    "en": "Dog 17",
+    "es": "Perro 17",
+    "pt_BR": "Cachorro 17",
+    "de": "Hund 17",
+    "fr": "Chien 17",
+    "tr": "Köpek 17",
+    "id": "Anjing 17",
+    "ja": "犬 17",
+    "ko": "강아지 17"
+  },
+  "theme": "dogs",
+  "tags": [
+    "dog",
+    "puppy",
+    "pet",
+    "animals",
+    "собака",
+    "пёс",
+    "питомец",
+    "животные"
+  ],
+  "added": "2027-01-20",
   "width": 96,
   "height": 96,
   "palette": [

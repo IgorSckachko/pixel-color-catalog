@@ -1,10 +1,30 @@
 {
   "format": 2,
   "id": "dog_43_128",
-  "title": "dog_43",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-18",
+  "title": "Собака 12",
+  "titles": {
+    "en": "Dog 12",
+    "es": "Perro 12",
+    "pt_BR": "Cachorro 12",
+    "de": "Hund 12",
+    "fr": "Chien 12",
+    "tr": "Köpek 12",
+    "id": "Anjing 12",
+    "ja": "犬 12",
+    "ko": "강아지 12"
+  },
+  "theme": "dogs",
+  "tags": [
+    "dog",
+    "puppy",
+    "pet",
+    "animals",
+    "собака",
+    "пёс",
+    "питомец",
+    "животные"
+  ],
+  "added": "2027-01-02",
   "width": 128,
   "height": 128,
   "palette": [

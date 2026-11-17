@@ -1,10 +1,30 @@
 {
   "format": 2,
   "id": "cat_22_96",
-  "title": "cat_22",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-18",
+  "title": "Кошка 21",
+  "titles": {
+    "en": "Cat 21",
+    "es": "Gato 21",
+    "pt_BR": "Gato 21",
+    "de": "Katze 21",
+    "fr": "Chat 21",
+    "tr": "Kedi 21",
+    "id": "Kucing 21",
+    "ja": "猫 21",
+    "ko": "고양이 21"
+  },
+  "theme": "cats",
+  "tags": [
+    "cat",
+    "kitten",
+    "pet",
+    "animals",
+    "кошка",
+    "кот",
+    "питомец",
+    "животные"
+  ],
+  "added": "2027-02-02",
   "width": 96,
   "height": 96,
   "palette": [

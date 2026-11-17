@@ -1,10 +1,30 @@
 {
   "format": 2,
   "id": "dog_37_64",
-  "title": "dog_37",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-18",
+  "title": "Собака 7",
+  "titles": {
+    "en": "Dog 7",
+    "es": "Perro 7",
+    "pt_BR": "Cachorro 7",
+    "de": "Hund 7",
+    "fr": "Chien 7",
+    "tr": "Köpek 7",
+    "id": "Anjing 7",
+    "ja": "犬 7",
+    "ko": "강아지 7"
+  },
+  "theme": "dogs",
+  "tags": [
+    "dog",
+    "puppy",
+    "pet",
+    "animals",
+    "собака",
+    "пёс",
+    "питомец",
+    "животные"
+  ],
+  "added": "2026-12-13",
   "width": 64,
   "height": 64,
   "palette": [

@@ -1,10 +1,28 @@
 {
   "format": 2,
   "id": "steam_locomotive_and_bridge_64",
-  "title": "steam_locomotive_and_bridge",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-17",
+  "title": "Паровоз и мост",
+  "titles": {
+    "en": "Steam locomotive and bridge",
+    "es": "Locomotora de vapor y puente",
+    "pt_BR": "Locomotiva a vapor e ponte",
+    "de": "Dampflok und Brücke",
+    "fr": "Locomotive à vapeur et pont",
+    "tr": "Buharlı lokomotif ve köprü",
+    "id": "Lokomotif uap dan jembatan",
+    "ja": "蒸気機関車と橋",
+    "ko": "증기 기관차와 다리"
+  },
+  "theme": "transport",
+  "tags": [
+    "steam",
+    "locomotive",
+    "train",
+    "bridge",
+    "пейзаж",
+    "пикселарт"
+  ],
+  "added": "2027-02-26",
   "width": 64,
   "height": 64,
   "palette": [

@@ -1,10 +1,28 @@
 {
   "format": 2,
   "id": "cristiyor_woman_96",
-  "title": "cristiyor_woman",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-17",
+  "title": "Женщина в платке",
+  "titles": {
+    "en": "Woman in a headscarf",
+    "es": "Mujer con pañuelo",
+    "pt_BR": "Mulher de lenço",
+    "de": "Frau mit Kopftuch",
+    "fr": "Femme au foulard",
+    "tr": "Başörtülü kadın",
+    "id": "Wanita berkerudung",
+    "ja": "スカーフの女性",
+    "ko": "스카프를 쓴 여인"
+  },
+  "theme": "portraits",
+  "tags": [
+    "woman",
+    "headscarf",
+    "portrait",
+    "девушка",
+    "портрет",
+    "пикселарт"
+  ],
+  "added": "2026-12-04",
   "width": 96,
   "height": 96,
   "palette": [

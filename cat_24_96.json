@@ -1,10 +1,30 @@
 {
   "format": 2,
   "id": "cat_24_96",
-  "title": "cat_24",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-18",
+  "title": "Кошка 3",
+  "titles": {
+    "en": "Cat 3",
+    "es": "Gato 3",
+    "pt_BR": "Gato 3",
+    "de": "Katze 3",
+    "fr": "Chat 3",
+    "tr": "Kedi 3",
+    "id": "Kucing 3",
+    "ja": "猫 3",
+    "ko": "고양이 3"
+  },
+  "theme": "cats",
+  "tags": [
+    "cat",
+    "kitten",
+    "pet",
+    "animals",
+    "кошка",
+    "кот",
+    "питомец",
+    "животные"
+  ],
+  "added": "2026-11-28",
   "width": 96,
   "height": 96,
   "palette": [

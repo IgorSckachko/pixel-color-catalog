@@ -1,10 +1,30 @@
 {
   "format": 2,
   "id": "cat_32_96",
-  "title": "cat_32",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-18",
+  "title": "Кошка 9",
+  "titles": {
+    "en": "Cat 9",
+    "es": "Gato 9",
+    "pt_BR": "Gato 9",
+    "de": "Katze 9",
+    "fr": "Chat 9",
+    "tr": "Kedi 9",
+    "id": "Kucing 9",
+    "ja": "猫 9",
+    "ko": "고양이 9"
+  },
+  "theme": "cats",
+  "tags": [
+    "cat",
+    "kitten",
+    "pet",
+    "animals",
+    "кошка",
+    "кот",
+    "питомец",
+    "животные"
+  ],
+  "added": "2026-12-22",
   "width": 96,
   "height": 96,
   "palette": [

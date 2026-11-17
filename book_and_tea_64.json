@@ -1,10 +1,29 @@
 {
   "format": 2,
   "id": "book_and_tea_64",
-  "title": "book_and_tea",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-17",
+  "title": "Книга и чай",
+  "titles": {
+    "en": "Book and tea",
+    "es": "Libro y té",
+    "pt_BR": "Livro e chá",
+    "de": "Buch und Tee",
+    "fr": "Livre et thé",
+    "tr": "Kitap ve çay",
+    "id": "Buku dan teh",
+    "ja": "本とお茶",
+    "ko": "책과 차"
+  },
+  "theme": "food",
+  "tags": [
+    "book",
+    "tea",
+    "cozy",
+    "reading",
+    "cup",
+    "пейзаж",
+    "пикселарт"
+  ],
+  "added": "2026-12-19",
   "width": 64,
   "height": 64,
   "palette": [

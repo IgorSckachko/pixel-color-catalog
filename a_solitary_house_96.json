@@ -1,10 +1,28 @@
 {
   "format": 2,
   "id": "a_solitary_house_96",
-  "title": "a_solitary_house",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-17",
+  "title": "Одинокий дом на закате",
+  "titles": {
+    "en": "Lonely house at sunset",
+    "es": "Casa solitaria al atardecer",
+    "pt_BR": "Casa solitária ao pôr do sol",
+    "de": "Einsames Haus bei Sonnenuntergang",
+    "fr": "Maison solitaire au coucher du soleil",
+    "tr": "Gün batımında yalnız ev",
+    "id": "Rumah sepi saat senja",
+    "ja": "夕暮れの一軒家",
+    "ko": "해질녘의 외딴집"
+  },
+  "theme": "landscape",
+  "tags": [
+    "house",
+    "sunset",
+    "field",
+    "lonely",
+    "пейзаж",
+    "пикселарт"
+  ],
+  "added": "2026-11-29",
   "width": 96,
   "height": 96,
   "palette": [

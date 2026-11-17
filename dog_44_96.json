@@ -1,10 +1,30 @@
 {
   "format": 2,
   "id": "dog_44_96",
-  "title": "dog_44",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-18",
+  "title": "Собака 19",
+  "titles": {
+    "en": "Dog 19",
+    "es": "Perro 19",
+    "pt_BR": "Cachorro 19",
+    "de": "Hund 19",
+    "fr": "Chien 19",
+    "tr": "Köpek 19",
+    "id": "Anjing 19",
+    "ja": "犬 19",
+    "ko": "강아지 19"
+  },
+  "theme": "dogs",
+  "tags": [
+    "dog",
+    "puppy",
+    "pet",
+    "animals",
+    "собака",
+    "пёс",
+    "питомец",
+    "животные"
+  ],
+  "added": "2027-01-26",
   "width": 96,
   "height": 96,
   "palette": [

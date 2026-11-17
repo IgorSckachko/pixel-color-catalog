@@ -1,10 +1,27 @@
 {
   "format": 2,
   "id": "city_at_sunset_image_64",
-  "title": "city​_at_sunset",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-17",
+  "title": "Город на закате",
+  "titles": {
+    "en": "City at sunset",
+    "es": "Ciudad al atardecer",
+    "pt_BR": "Cidade ao pôr do sol",
+    "de": "Stadt bei Sonnenuntergang",
+    "fr": "Ville au coucher du soleil",
+    "tr": "Gün batımında şehir",
+    "id": "Kota saat senja",
+    "ja": "夕暮れの街",
+    "ko": "해질녘의 도시"
+  },
+  "theme": "landscape",
+  "tags": [
+    "city",
+    "sunset",
+    "skyline",
+    "пейзаж",
+    "пикселарт"
+  ],
+  "added": "2026-12-27",
   "width": 96,
   "height": 96,
   "palette": [

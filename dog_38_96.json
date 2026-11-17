@@ -1,10 +1,30 @@
 {
   "format": 2,
   "id": "dog_38_96",
-  "title": "dog_38",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-18",
+  "title": "Собака 18",
+  "titles": {
+    "en": "Dog 18",
+    "es": "Perro 18",
+    "pt_BR": "Cachorro 18",
+    "de": "Hund 18",
+    "fr": "Chien 18",
+    "tr": "Köpek 18",
+    "id": "Anjing 18",
+    "ja": "犬 18",
+    "ko": "강아지 18"
+  },
+  "theme": "dogs",
+  "tags": [
+    "dog",
+    "puppy",
+    "pet",
+    "animals",
+    "собака",
+    "пёс",
+    "питомец",
+    "животные"
+  ],
+  "added": "2027-01-23",
   "width": 96,
   "height": 96,
   "palette": [

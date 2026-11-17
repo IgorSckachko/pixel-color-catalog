@@ -1,10 +1,28 @@
 {
   "format": 2,
   "id": "ararat_2_96",
-  "title": "ararat_2",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-17",
+  "title": "Арарат в лучах рассвета",
+  "titles": {
+    "en": "Mount Ararat at dawn",
+    "es": "Monte Ararat al amanecer",
+    "pt_BR": "Monte Ararat ao amanhecer",
+    "de": "Berg Ararat im Morgengrauen",
+    "fr": "Mont Ararat à l'aube",
+    "tr": "Şafakta Ağrı Dağı",
+    "id": "Gunung Ararat saat fajar",
+    "ja": "夜明けのアララト山",
+    "ko": "새벽의 아라라트산"
+  },
+  "theme": "landscape",
+  "tags": [
+    "ararat",
+    "mountain",
+    "dawn",
+    "armenia",
+    "пейзаж",
+    "пикселарт"
+  ],
+  "added": "2026-12-07",
   "width": 96,
   "height": 96,
   "palette": [

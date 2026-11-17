@@ -1,10 +1,30 @@
 {
   "format": 2,
   "id": "isaakievskiy_sobor_sankt_peterburg_96",
-  "title": "isaakievskiy-sobor-sankt-peterburg",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-17",
+  "title": "Исаакиевский собор",
+  "titles": {
+    "en": "Saint Isaac's Cathedral",
+    "es": "Catedral de San Isaac",
+    "pt_BR": "Catedral de Santo Isaac",
+    "de": "Isaakskathedrale",
+    "fr": "Cathédrale Saint-Isaac",
+    "tr": "Aziz Isaac Katedrali",
+    "id": "Katedral Santo Isaak",
+    "ja": "イサアク大聖堂",
+    "ko": "이삭 대성당"
+  },
+  "theme": "architecture",
+  "tags": [
+    "cathedral",
+    "st",
+    "petersburg",
+    "isaac",
+    "russia",
+    "landmark",
+    "пейзаж",
+    "пикселарт"
+  ],
+  "added": "2027-02-03",
   "width": 96,
   "height": 96,
   "palette": [

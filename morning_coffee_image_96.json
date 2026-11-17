@@ -1,10 +1,28 @@
 {
   "format": 2,
   "id": "morning_coffee_image_96",
-  "title": "утренний кофе",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-17",
+  "title": "Утренний кофе",
+  "titles": {
+    "en": "Morning coffee",
+    "es": "Café de la mañana",
+    "pt_BR": "Café da manhã",
+    "de": "Morgenkaffee",
+    "fr": "Café du matin",
+    "tr": "Sabah kahvesi",
+    "id": "Kopi pagi",
+    "ja": "朝のコーヒー",
+    "ko": "아침 커피"
+  },
+  "theme": "food",
+  "tags": [
+    "coffee",
+    "morning",
+    "cup",
+    "steam",
+    "пейзаж",
+    "пикселарт"
+  ],
+  "added": "2027-02-16",
   "width": 96,
   "height": 96,
   "palette": [

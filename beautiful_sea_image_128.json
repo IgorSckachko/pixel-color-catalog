@@ -1,10 +1,28 @@
 {
   "format": 2,
   "id": "beautiful_sea_image_128",
-  "title": "beautiful sea",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-17",
+  "title": "Закат над морем",
+  "titles": {
+    "en": "Sunset over the sea",
+    "es": "Atardecer sobre el mar",
+    "pt_BR": "Pôr do sol sobre o mar",
+    "de": "Sonnenuntergang über dem Meer",
+    "fr": "Coucher de soleil sur la mer",
+    "tr": "Denizde gün batımı",
+    "id": "Matahari terbenam di laut",
+    "ja": "海に沈む夕日",
+    "ko": "바다 위의 노을"
+  },
+  "theme": "landscape",
+  "tags": [
+    "sea",
+    "sunset",
+    "ocean",
+    "waves",
+    "пейзаж",
+    "пикселарт"
+  ],
+  "added": "2026-12-11",
   "width": 128,
   "height": 128,
   "palette": [

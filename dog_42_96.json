@@ -1,10 +1,30 @@
 {
   "format": 2,
   "id": "dog_42_96",
-  "title": "dog_42",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-18",
+  "title": "Собака 11",
+  "titles": {
+    "en": "Dog 11",
+    "es": "Perro 11",
+    "pt_BR": "Cachorro 11",
+    "de": "Hund 11",
+    "fr": "Chien 11",
+    "tr": "Köpek 11",
+    "id": "Anjing 11",
+    "ja": "犬 11",
+    "ko": "강아지 11"
+  },
+  "theme": "dogs",
+  "tags": [
+    "dog",
+    "puppy",
+    "pet",
+    "animals",
+    "собака",
+    "пёс",
+    "питомец",
+    "животные"
+  ],
+  "added": "2026-12-29",
   "width": 96,
   "height": 96,
   "palette": [

@@ -1,10 +1,28 @@
 {
   "format": 2,
   "id": "houses_on_the_river_96",
-  "title": "houses on the river",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-17",
+  "title": "Дома у реки",
+  "titles": {
+    "en": "Houses by the river",
+    "es": "Casas junto al río",
+    "pt_BR": "Casas à beira do rio",
+    "de": "Häuser am Fluss",
+    "fr": "Maisons au bord de la rivière",
+    "tr": "Nehir kenarında evler",
+    "id": "Rumah di tepi sungai",
+    "ja": "川辺の家々",
+    "ko": "강가의 집들"
+  },
+  "theme": "landscape",
+  "tags": [
+    "houses",
+    "river",
+    "evening",
+    "village",
+    "пейзаж",
+    "пикселарт"
+  ],
+  "added": "2027-01-25",
   "width": 96,
   "height": 96,
   "palette": [

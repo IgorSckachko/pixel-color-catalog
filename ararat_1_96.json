@@ -1,10 +1,28 @@
 {
   "format": 2,
   "id": "ararat_1_96",
-  "title": "ararat_1",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-17",
+  "title": "Арарат на закате",
+  "titles": {
+    "en": "Mount Ararat at sunset",
+    "es": "Monte Ararat al atardecer",
+    "pt_BR": "Monte Ararat ao pôr do sol",
+    "de": "Berg Ararat bei Sonnenuntergang",
+    "fr": "Mont Ararat au coucher du soleil",
+    "tr": "Gün batımında Ağrı Dağı",
+    "id": "Gunung Ararat saat senja",
+    "ja": "夕暮れのアララト山",
+    "ko": "해질녘의 아라라트산"
+  },
+  "theme": "landscape",
+  "tags": [
+    "ararat",
+    "mountain",
+    "sunset",
+    "armenia",
+    "пейзаж",
+    "пикселарт"
+  ],
+  "added": "2026-12-03",
   "width": 96,
   "height": 96,
   "palette": [

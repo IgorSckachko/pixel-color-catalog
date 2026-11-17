@@ -1,10 +1,30 @@
 {
   "format": 2,
   "id": "dog_3_128",
-  "title": "dog_3",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-18",
+  "title": "Собака 15",
+  "titles": {
+    "en": "Dog 15",
+    "es": "Perro 15",
+    "pt_BR": "Cachorro 15",
+    "de": "Hund 15",
+    "fr": "Chien 15",
+    "tr": "Köpek 15",
+    "id": "Anjing 15",
+    "ja": "犬 15",
+    "ko": "강아지 15"
+  },
+  "theme": "dogs",
+  "tags": [
+    "dog",
+    "puppy",
+    "pet",
+    "animals",
+    "собака",
+    "пёс",
+    "питомец",
+    "животные"
+  ],
+  "added": "2027-01-14",
   "width": 128,
   "height": 128,
   "palette": [

@@ -1,10 +1,30 @@
 {
   "format": 2,
   "id": "dog_51_96",
-  "title": "dog_51",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-18",
+  "title": "Собака 24",
+  "titles": {
+    "en": "Dog 24",
+    "es": "Perro 24",
+    "pt_BR": "Cachorro 24",
+    "de": "Hund 24",
+    "fr": "Chien 24",
+    "tr": "Köpek 24",
+    "id": "Anjing 24",
+    "ja": "犬 24",
+    "ko": "강아지 24"
+  },
+  "theme": "dogs",
+  "tags": [
+    "dog",
+    "puppy",
+    "pet",
+    "animals",
+    "собака",
+    "пёс",
+    "питомец",
+    "животные"
+  ],
+  "added": "2027-02-10",
   "width": 96,
   "height": 96,
   "palette": [
