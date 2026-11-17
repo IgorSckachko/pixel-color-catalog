@@ -39,6 +39,30 @@
    "rev": "1a2c89f1a8"
   },
   {
+   "id": "1_96",
+   "file": "1_96.json",
+   "title": "Фасад исторического здания на Лиговском проспекте-1",
+   "theme": "architecture",
+   "tags": [],
+   "width": 96,
+   "height": 96,
+   "colors": 16,
+   "added": "2026-11-17",
+   "rev": "799a0dbb72"
+  },
+  {
+   "id": "647_st_petersburg_ligovsky_prospect_137_96",
+   "file": "647_st_petersburg_ligovsky_prospect_137_96.json",
+   "title": "647._St._Petersburg._Ligovsky_prospect,_137",
+   "theme": "architecture",
+   "tags": [],
+   "width": 96,
+   "height": 96,
+   "colors": 19,
+   "added": "2026-11-17",
+   "rev": "8e15f11b6c"
+  },
+  {
    "id": "a_cozy_nap_of_a_calico_cat_64",
    "file": "a_cozy_nap_of_a_calico_cat_64.json",
    "title": "Спящая кошка",
@@ -618,6 +642,18 @@
    "rev": "0ec7596fc4"
   },
   {
+   "id": "isaakievskiy_sobor_sankt_peterburg_96",
+   "file": "isaakievskiy_sobor_sankt_peterburg_96.json",
+   "title": "isaakievskiy-sobor-sankt-peterburg",
+   "theme": "other",
+   "tags": [],
+   "width": 96,
+   "height": 96,
+   "colors": 20,
+   "added": "2026-11-17",
+   "rev": "713b8b7478"
+  },
+  {
    "id": "jacob_jordaens_pegasus_96",
    "file": "jacob_jordaens_pegasus_96.json",
    "title": "Jacob_Jordaens_-_Pegasus",
@@ -628,6 +664,18 @@
    "colors": 20,
    "added": "2026-11-18",
    "rev": "47544b74dc"
+  },
+  {
+   "id": "kazanskiy_sobor_sankt_peterburg_96",
+   "file": "kazanskiy_sobor_sankt_peterburg_96.json",
+   "title": "kazanskiy-sobor-sankt-peterburg",
+   "theme": "other",
+   "tags": [],
+   "width": 96,
+   "height": 96,
+   "colors": 16,
+   "added": "2026-11-17",
+   "rev": "1e84f23a51"
   },
   {
    "id": "klimt_the_kiss_96",
