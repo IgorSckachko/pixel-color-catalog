@@ -251,6 +251,18 @@
    "rev": "0533b986f1"
   },
   {
+   "id": "aggressive_girl_1_128",
+   "file": "aggressive_girl_1_128.json",
+   "title": "aggressive_girl-1",
+   "theme": "other",
+   "tags": [],
+   "width": 128,
+   "height": 128,
+   "colors": 28,
+   "added": "2026-11-18",
+   "rev": "edbad7656e"
+  },
+  {
    "id": "aivazovsky_ivan_the_ninth_wave_96",
    "file": "aivazovsky_ivan_the_ninth_wave_96.json",
    "title": "Девятый вал",
@@ -1685,6 +1697,18 @@
    "rev": "2f7e5069a5"
   },
   {
+   "id": "cheerful_pumpkins_128",
+   "file": "cheerful_pumpkins_128.json",
+   "title": "cheerful_pumpkins",
+   "theme": "other",
+   "tags": [],
+   "width": 105,
+   "height": 105,
+   "colors": 18,
+   "added": "2026-11-20",
+   "rev": "da8756e423"
+  },
+  {
    "id": "city_at_sunset_image_64",
    "file": "city_at_sunset_image_64.json",
    "title": "Город на закате",
@@ -2821,6 +2845,18 @@
    "rev": "64c62f3475"
   },
   {
+   "id": "elf_girl_128",
+   "file": "elf_girl_128.json",
+   "title": "elf_girl",
+   "theme": "other",
+   "tags": [],
+   "width": 120,
+   "height": 120,
+   "colors": 23,
+   "added": "2026-11-21",
+   "rev": "39e2022a30"
+  },
+  {
    "id": "evening_sky_image_96",
    "file": "evening_sky_image_96.json",
    "title": "Вечернее небо",
@@ -3050,6 +3086,18 @@
    "rev": "99c8d42aff"
   },
   {
+   "id": "frof_crasy_2_120",
+   "file": "frof_crasy_2_120.json",
+   "title": "frof_crasy_2",
+   "theme": "other",
+   "tags": [],
+   "width": 120,
+   "height": 120,
+   "colors": 24,
+   "added": "2026-11-22",
+   "rev": "eb5e79d3e2"
+  },
+  {
    "id": "fruit_7_64",
    "file": "fruit_7_64.json",
    "title": "fruit-7",
@@ -3153,6 +3201,30 @@
     "ko": "초록 속의 소녀"
    },
    "rev": "25d9d0cde5"
+  },
+  {
+   "id": "girl_on_a_bicycle_128",
+   "file": "girl_on_a_bicycle_128.json",
+   "title": "girl_on_a_bicycle",
+   "theme": "other",
+   "tags": [],
+   "width": 128,
+   "height": 128,
+   "colors": 20,
+   "added": "2026-11-23",
+   "rev": "4eda3ee14e"
+  },
+  {
+   "id": "girl_with_a_lollipop_96",
+   "file": "girl_with_a_lollipop_96.json",
+   "title": "girl_with_a_lollipop",
+   "theme": "other",
+   "tags": [],
+   "width": 96,
+   "height": 96,
+   "colors": 20,
+   "added": "2026-11-24",
+   "rev": "be3833c72e"
   },
   {
    "id": "girl_with_a_pearl_earring_96",
@@ -3407,6 +3479,30 @@
    "rev": "565c832621"
   },
   {
+   "id": "house_123_128",
+   "file": "house_123_128.json",
+   "title": "house_123",
+   "theme": "other",
+   "tags": [],
+   "width": 128,
+   "height": 128,
+   "colors": 31,
+   "added": "2026-11-26",
+   "rev": "c51156ce4e"
+  },
+  {
+   "id": "house_23_96",
+   "file": "house_23_96.json",
+   "title": "house_23",
+   "theme": "other",
+   "tags": [],
+   "width": 96,
+   "height": 96,
+   "colors": 20,
+   "added": "2026-11-25",
+   "rev": "8e186a8616"
+  },
+  {
    "id": "house_32",
    "file": "house_32.json",
    "title": "Домик на холме",
@@ -3448,6 +3544,18 @@
    "colors": 13,
    "added": "2026-11-29",
    "rev": "cda2a11e02"
+  },
+  {
+   "id": "house_in_mountyn_88",
+   "file": "house_in_mountyn_88.json",
+   "title": "house_in_mountyn",
+   "theme": "other",
+   "tags": [],
+   "width": 88,
+   "height": 88,
+   "colors": 20,
+   "added": "2026-11-27",
+   "rev": "0e7096a117"
   },
   {
    "id": "house_on_ligovsky_64",
@@ -3587,6 +3695,30 @@
     "ko": "네온 러нер"
    },
    "rev": "d79eeaf7dc"
+  },
+  {
+   "id": "in_castle_23_104",
+   "file": "in_castle_23_104.json",
+   "title": "in_castle_23",
+   "theme": "other",
+   "tags": [],
+   "width": 95,
+   "height": 95,
+   "colors": 24,
+   "added": "2026-11-28",
+   "rev": "86ec7d06ca"
+  },
+  {
+   "id": "in_the_bus_128",
+   "file": "in_the_bus_128.json",
+   "title": "in_the_bus",
+   "theme": "other",
+   "tags": [],
+   "width": 128,
+   "height": 128,
+   "colors": 22,
+   "added": "2026-11-29",
+   "rev": "ced7ed7f29"
   },
   {
    "id": "in_the_mountains_image_64",
@@ -3893,6 +4025,18 @@
    "colors": 18,
    "added": "2026-12-01",
    "rev": "9a5c1be4ad"
+  },
+  {
+   "id": "loves_cat_96",
+   "file": "loves_cat_96.json",
+   "title": "loves_cat",
+   "theme": "other",
+   "tags": [],
+   "width": 92,
+   "height": 92,
+   "colors": 22,
+   "added": "2026-11-30",
+   "rev": "db3f37af99"
   },
   {
    "id": "makeup_girl_128",
@@ -7386,6 +7530,30 @@
    "rev": "828a8b04fe"
   },
   {
+   "id": "modest_girl_128",
+   "file": "modest_girl_128.json",
+   "title": "modest_girl",
+   "theme": "other",
+   "tags": [],
+   "width": 128,
+   "height": 128,
+   "colors": 23,
+   "added": "2026-12-01",
+   "rev": "8b9574dfec"
+  },
+  {
+   "id": "modest_girl_20_88",
+   "file": "modest_girl_20_88.json",
+   "title": "modest_girl_20",
+   "theme": "other",
+   "tags": [],
+   "width": 88,
+   "height": 88,
+   "colors": 26,
+   "added": "2026-12-02",
+   "rev": "2f205e95ee"
+  },
+  {
    "id": "moon_1_96",
    "file": "moon_1_96.json",
    "title": "Луна над полем",
@@ -7589,6 +7757,30 @@
    "rev": "c298813f9f"
   },
   {
+   "id": "nightcity_2_88",
+   "file": "nightcity_2_88.json",
+   "title": "nightcity_2",
+   "theme": "other",
+   "tags": [],
+   "width": 88,
+   "height": 88,
+   "colors": 26,
+   "added": "2026-12-03",
+   "rev": "46c13f7807"
+  },
+  {
+   "id": "no_sad_girl_2_128",
+   "file": "no_sad_girl_2_128.json",
+   "title": "no_sad_girl_2",
+   "theme": "other",
+   "tags": [],
+   "width": 128,
+   "height": 128,
+   "colors": 28,
+   "added": "2026-12-04",
+   "rev": "75717dba8d"
+  },
+  {
    "id": "old_man_64",
    "file": "old_man_64.json",
    "title": "Старик в лесу",
@@ -7618,6 +7810,18 @@
     "ko": "숲속의 노인"
    },
    "rev": "9eeacbae1a"
+  },
+  {
+   "id": "old_mill_112",
+   "file": "old_mill_112.json",
+   "title": "old_mill",
+   "theme": "other",
+   "tags": [],
+   "width": 112,
+   "height": 112,
+   "colors": 23,
+   "added": "2026-12-05",
+   "rev": "ca22c21207"
   },
   {
    "id": "park_and_buildings_128",
@@ -8051,6 +8255,18 @@
    "rev": "335c078dc9"
   },
   {
+   "id": "raining_girl_112",
+   "file": "raining_girl_112.json",
+   "title": "raining_girl",
+   "theme": "other",
+   "tags": [],
+   "width": 112,
+   "height": 112,
+   "colors": 16,
+   "added": "2026-12-06",
+   "rev": "16c03a6ef5"
+  },
+  {
    "id": "rocket_32",
    "file": "rocket_32.json",
    "title": "rocket",
@@ -8061,6 +8277,30 @@
    "colors": 11,
    "added": "2026-11-25",
    "rev": "ba2ed118ab"
+  },
+  {
+   "id": "sad_girl_20_112",
+   "file": "sad_girl_20_112.json",
+   "title": "sad_girl_20",
+   "theme": "other",
+   "tags": [],
+   "width": 112,
+   "height": 112,
+   "colors": 24,
+   "added": "2026-12-08",
+   "rev": "8188450d1d"
+  },
+  {
+   "id": "sad_girl_2_128",
+   "file": "sad_girl_2_128.json",
+   "title": "sad_girl_2",
+   "theme": "other",
+   "tags": [],
+   "width": 128,
+   "height": 128,
+   "colors": 19,
+   "added": "2026-12-07",
+   "rev": "654e72f582"
   },
   {
    "id": "sakura_96",
@@ -8173,6 +8413,18 @@
     "ko": "바다와 달"
    },
    "rev": "31339f2429"
+  },
+  {
+   "id": "sobbing_girl_104",
+   "file": "sobbing_girl_104.json",
+   "title": "sobbing_girl",
+   "theme": "other",
+   "tags": [],
+   "width": 104,
+   "height": 104,
+   "colors": 27,
+   "added": "2026-12-09",
+   "rev": "22e55744fa"
   },
   {
    "id": "soon_128",
@@ -8385,6 +8637,18 @@
    "rev": "c11baa1bdd"
   },
   {
+   "id": "teapot_and_fruits_80",
+   "file": "teapot_and_fruits_80.json",
+   "title": "teapot_and_fruits",
+   "theme": "other",
+   "tags": [],
+   "width": 80,
+   "height": 80,
+   "colors": 24,
+   "added": "2026-12-10",
+   "rev": "a5282081e5"
+  },
+  {
    "id": "the_great_wave_off_kanagawa_128",
    "file": "the_great_wave_off_kanagawa_128.json",
    "title": "Большая волна в Канагаве",
@@ -8517,6 +8781,18 @@
     "ko": "별이 빛나는 밤"
    },
    "rev": "a67f543cdf"
+  },
+  {
+   "id": "town_23_88",
+   "file": "town_23_88.json",
+   "title": "town_23",
+   "theme": "other",
+   "tags": [],
+   "width": 88,
+   "height": 88,
+   "colors": 20,
+   "added": "2026-12-11",
+   "rev": "50a7ee6a82"
   },
   {
    "id": "toy_10_104",
@@ -8891,6 +9167,18 @@
    "rev": "ed5e622f14"
   },
   {
+   "id": "vampir_gerl_02_112",
+   "file": "vampir_gerl_02_112.json",
+   "title": "vampir_gerl_02",
+   "theme": "other",
+   "tags": [],
+   "width": 112,
+   "height": 112,
+   "colors": 20,
+   "added": "2026-12-12",
+   "rev": "f6bf5d6e78"
+  },
+  {
    "id": "vincent_van_gogh_self_portrait_with_bandaged_ear_1_96",
    "file": "vincent_van_gogh_self_portrait_with_bandaged_ear_1_96.json",
    "title": "Автопортрет с перевязанным ухом",
@@ -9102,6 +9390,18 @@
     "ko": "긴 머리 소녀"
    },
    "rev": "d758dd68d0"
+  },
+  {
+   "id": "work_girl_120",
+   "file": "work_girl_120.json",
+   "title": "work_girl",
+   "theme": "other",
+   "tags": [],
+   "width": 120,
+   "height": 120,
+   "colors": 22,
+   "added": "2026-12-13",
+   "rev": "9cf3ea913f"
   }
  ]
 }
