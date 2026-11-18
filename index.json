@@ -484,6 +484,18 @@
    "rev": "f92b38edec"
   },
   {
+   "id": "arweltatty_daisy_10294239_88",
+   "file": "arweltatty_daisy_10294239_88.json",
+   "title": "arweltatty-daisy-10294239",
+   "theme": "other",
+   "tags": [],
+   "width": 88,
+   "height": 88,
+   "colors": 24,
+   "added": "2026-11-19",
+   "rev": "fc0635c6f0"
+  },
+  {
    "id": "bat_88",
    "file": "bat_88.json",
    "title": "bat",
@@ -1838,6 +1850,18 @@
    "rev": "97c1685497"
   },
   {
+   "id": "crocuses_4_72",
+   "file": "crocuses_4_72.json",
+   "title": "crocuses-4",
+   "theme": "other",
+   "tags": [],
+   "width": 72,
+   "height": 72,
+   "colors": 30,
+   "added": "2026-11-20",
+   "rev": "787e378e27"
+  },
+  {
    "id": "cute_little_fox_in_a_blooming_meadow_es_lindo_zorr_96",
    "file": "cute_little_fox_in_a_blooming_meadow_es_lindo_zorr_96.json",
    "title": "Милый лисёнок на цветущем лугу",
@@ -2947,6 +2971,18 @@
     "ko": "가을 숲속의 울타리"
    },
    "rev": "69ab9fdb1d"
+  },
+  {
+   "id": "flowers_72",
+   "file": "flowers_72.json",
+   "title": "flowers-",
+   "theme": "other",
+   "tags": [],
+   "width": 72,
+   "height": 72,
+   "colors": 20,
+   "added": "2026-11-18",
+   "rev": "93a68ef921"
   },
   {
    "id": "foji_mountain_96",
