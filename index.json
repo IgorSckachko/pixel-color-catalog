@@ -218,7 +218,7 @@
     "ja": "ドナール＝トール",
     "ko": "도나르-토르"
    },
-   "rev": "41849872da"
+   "rev": "60f4c609fd"
   },
   {
    "id": "a_solitary_house_96",
@@ -3503,7 +3503,7 @@
     "ja": "イサアク大聖堂",
     "ko": "이삭 대성당"
    },
-   "rev": "f77ff2d954"
+   "rev": "58d26873e5"
   },
   {
    "id": "jacob_jordaens_pegasus_96",
@@ -3545,7 +3545,7 @@
     "ja": "ペガサス",
     "ko": "페가수스"
    },
-   "rev": "1ddd891f72"
+   "rev": "69865f3ef7"
   },
   {
    "id": "kazanskiy_sobor_sankt_peterburg_96",
@@ -3577,7 +3577,7 @@
     "ja": "カザン大聖堂",
     "ko": "카잔 대성당"
    },
-   "rev": "49bc19efaa"
+   "rev": "87aa2cd60f"
   },
   {
    "id": "klimt_the_kiss_96",
@@ -7227,7 +7227,7 @@
     "ja": "メドゥーサ（ムルトラ）",
     "ko": "메두사 (무르톨라)"
    },
-   "rev": "f5fe7ada2f"
+   "rev": "828a8b04fe"
   },
   {
    "id": "moon_1_96",
@@ -7299,7 +7299,7 @@
     "ja": "草原の月",
     "ko": "초원 위의 달"
    },
-   "rev": "6b74ecc516"
+   "rev": "9dc9184780"
   },
   {
    "id": "morning_coffee_image_96",
@@ -8068,7 +8068,7 @@
     "ja": "ナクソスのスフィンクス",
     "ko": "낙소스의 스핑크스"
    },
-   "rev": "a518d64273"
+   "rev": "f096f9fa30"
   },
   {
    "id": "star_16",
@@ -8291,6 +8291,198 @@
    "rev": "a67f543cdf"
   },
   {
+   "id": "toy_10_104",
+   "file": "toy_10_104.json",
+   "title": "toy_10",
+   "theme": "kids",
+   "tags": [],
+   "width": 104,
+   "height": 104,
+   "colors": 23,
+   "added": "2026-11-19",
+   "rev": "cc0e266368"
+  },
+  {
+   "id": "toy_11_88",
+   "file": "toy_11_88.json",
+   "title": "toy_11",
+   "theme": "kids",
+   "tags": [],
+   "width": 88,
+   "height": 88,
+   "colors": 22,
+   "added": "2026-11-20",
+   "rev": "af7ab70c89"
+  },
+  {
+   "id": "toy_12_104",
+   "file": "toy_12_104.json",
+   "title": "toy_12",
+   "theme": "kids",
+   "tags": [],
+   "width": 104,
+   "height": 104,
+   "colors": 16,
+   "added": "2026-11-21",
+   "rev": "b6231888ab"
+  },
+  {
+   "id": "toy_13_96",
+   "file": "toy_13_96.json",
+   "title": "toy_13",
+   "theme": "kids",
+   "tags": [],
+   "width": 96,
+   "height": 96,
+   "colors": 19,
+   "added": "2026-11-22",
+   "rev": "8df0931fb4"
+  },
+  {
+   "id": "toy_14_96",
+   "file": "toy_14_96.json",
+   "title": "toy_14",
+   "theme": "kids",
+   "tags": [],
+   "width": 96,
+   "height": 96,
+   "colors": 17,
+   "added": "2026-11-23",
+   "rev": "96dd1bce8a"
+  },
+  {
+   "id": "toy_15_128",
+   "file": "toy_15_128.json",
+   "title": "toy_15",
+   "theme": "kids",
+   "tags": [],
+   "width": 128,
+   "height": 128,
+   "colors": 20,
+   "added": "2026-11-24",
+   "rev": "b150132b92"
+  },
+  {
+   "id": "toy_16_72",
+   "file": "toy_16_72.json",
+   "title": "toy_16",
+   "theme": "kids",
+   "tags": [],
+   "width": 72,
+   "height": 72,
+   "colors": 20,
+   "added": "2026-11-25",
+   "rev": "d4364b15fa"
+  },
+  {
+   "id": "toy_17_128",
+   "file": "toy_17_128.json",
+   "title": "toy_17",
+   "theme": "kids",
+   "tags": [],
+   "width": 128,
+   "height": 128,
+   "colors": 32,
+   "added": "2026-11-26",
+   "rev": "0e320c5a26"
+  },
+  {
+   "id": "toy_18_128",
+   "file": "toy_18_128.json",
+   "title": "toy_18",
+   "theme": "kids",
+   "tags": [],
+   "width": 128,
+   "height": 128,
+   "colors": 14,
+   "added": "2026-11-27",
+   "rev": "56155b9b5b"
+  },
+  {
+   "id": "toy_19_104",
+   "file": "toy_19_104.json",
+   "title": "toy_19",
+   "theme": "kids",
+   "tags": [],
+   "width": 104,
+   "height": 104,
+   "colors": 22,
+   "added": "2026-11-28",
+   "rev": "e7e28be513"
+  },
+  {
+   "id": "toy_1_128",
+   "file": "toy_1_128.json",
+   "title": "toy_1",
+   "theme": "kids",
+   "tags": [],
+   "width": 128,
+   "height": 128,
+   "colors": 20,
+   "added": "2026-11-18",
+   "rev": "d2014f16a0"
+  },
+  {
+   "id": "toy_20_96",
+   "file": "toy_20_96.json",
+   "title": "toy_20",
+   "theme": "kids",
+   "tags": [],
+   "width": 96,
+   "height": 96,
+   "colors": 22,
+   "added": "2026-11-29",
+   "rev": "ff597d1dd0"
+  },
+  {
+   "id": "toy_21_112",
+   "file": "toy_21_112.json",
+   "title": "toy_21",
+   "theme": "kids",
+   "tags": [],
+   "width": 112,
+   "height": 112,
+   "colors": 20,
+   "added": "2026-11-30",
+   "rev": "f105c0b4d9"
+  },
+  {
+   "id": "toy_22_64",
+   "file": "toy_22_64.json",
+   "title": "toy_22",
+   "theme": "kids",
+   "tags": [],
+   "width": 64,
+   "height": 64,
+   "colors": 18,
+   "added": "2026-12-01",
+   "rev": "8721752793"
+  },
+  {
+   "id": "toy_23_56",
+   "file": "toy_23_56.json",
+   "title": "toy_23",
+   "theme": "kids",
+   "tags": [],
+   "width": 56,
+   "height": 56,
+   "colors": 14,
+   "added": "2026-12-02",
+   "rev": "25d3b1bfcb"
+  },
+  {
+   "id": "toy_24_64",
+   "file": "toy_24_64.json",
+   "title": "toy_24",
+   "theme": "kids",
+   "tags": [],
+   "width": 64,
+   "height": 64,
+   "colors": 8,
+   "added": "2026-12-03",
+   "rev": "3825be4431"
+  },
+  {
    "id": "tree_128",
    "file": "tree_128.json",
    "title": "Золотое дерево",
@@ -8468,7 +8660,7 @@
     "ja": "ヴァルキュリア",
     "ko": "발키리"
    },
-   "rev": "413b14d872"
+   "rev": "ed5e622f14"
   },
   {
    "id": "vincent_van_gogh_self_portrait_with_bandaged_ear_1_96",

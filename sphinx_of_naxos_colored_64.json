@@ -37,6 +37,21 @@
   "added": "2026-11-14",
   "width": 64,
   "height": 64,
+  "info": {
+    "author": {
+      "en": "Unknown ancient Greek sculptor",
+      "ru": "Неизвестный древнегреческий скульптор"
+    },
+    "year": "около 560 до н. э.",
+    "work_wiki": {
+      "en": "Sphinx_of_the_Naxians",
+      "ru": "Сфинкс Наксосцев"
+    },
+    "summary": {
+      "en": "A marble sphinx on a tall Ionic column, dedicated by the people of Naxos at the sanctuary of Delphi. It is kept in the Delphi Archaeological Museum.",
+      "ru": "Мраморный сфинкс на высокой ионической колонне, посвящённый жителями Наксоса в святилище Дельфы. Хранится в Археологическом музее Дельф."
+    }
+  },
   "palette": [
     "#efd6b6",
     "#efd7bd",

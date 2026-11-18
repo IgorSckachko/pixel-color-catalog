@@ -37,6 +37,21 @@
   "added": "2026-11-18",
   "width": 96,
   "height": 96,
+  "info": {
+    "author": {
+      "en": "Jacob Jordaens",
+      "ru": "Якоб Йорданс"
+    },
+    "year": "1663–1665",
+    "author_wiki": {
+      "en": "Jacob_Jordaens",
+      "ru": "Йорданс, Якоб"
+    },
+    "summary": {
+      "en": "Pegasus, the winged horse of Greek myth, painted by the Flemish Baroque master Jacob Jordaens.",
+      "ru": "Пегас — крылатый конь греческой мифологии, написанный фламандским мастером барокко Якобом Йордансом."
+    }
+  },
   "palette": [
     "#0c0c04",
     "#221907",

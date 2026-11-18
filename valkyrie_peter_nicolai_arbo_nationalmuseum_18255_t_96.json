@@ -39,6 +39,21 @@
   "added": "2026-11-22",
   "width": 96,
   "height": 96,
+  "info": {
+    "author": {
+      "en": "Peter Nicolai Arbo",
+      "ru": "Петер Николай Арбо"
+    },
+    "year": "1869",
+    "author_wiki": {
+      "en": "Peter_Nicolai_Arbo",
+      "ru": "Арбо, Петер Николай"
+    },
+    "summary": {
+      "en": "A Valkyrie, a warrior maiden of Norse mythology who chooses the fallen heroes, rides through the sky on horseback in this painting by the Norwegian artist Peter Nicolai Arbo.",
+      "ru": "Валькирия — дева-воительница скандинавской мифологии, выбирающая павших героев, мчится по небу на коне. Картина норвежского художника Петера Николая Арбо."
+    }
+  },
   "palette": [
     "#22221d",
     "#c1a35c",

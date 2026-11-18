@@ -27,6 +27,25 @@
   "added": "2027-02-03",
   "width": 96,
   "height": 96,
+  "info": {
+    "author": {
+      "en": "Auguste de Montferrand",
+      "ru": "Огюст Монферран"
+    },
+    "year": "1818–1858",
+    "work_wiki": {
+      "en": "Saint_Isaac's_Cathedral",
+      "ru": "Исаакиевский собор"
+    },
+    "author_wiki": {
+      "en": "Auguste_de_Montferrand",
+      "ru": "Монферран, Огюст"
+    },
+    "summary": {
+      "en": "The largest Orthodox cathedral in Saint Petersburg, built to the design of Auguste de Montferrand; its golden dome is a landmark of the city.",
+      "ru": "Крупнейший православный собор Санкт-Петербурга, построенный по проекту Огюста Монферрана; его золотой купол — один из символов города."
+    }
+  },
   "palette": [
     "#7e919f",
     "#3d3a2c",

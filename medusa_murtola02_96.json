@@ -37,6 +37,25 @@
   "added": "2026-11-16",
   "width": 96,
   "height": 96,
+  "info": {
+    "author": {
+      "en": "Caravaggio",
+      "ru": "Караваджо"
+    },
+    "year": "около 1597",
+    "work_wiki": {
+      "en": "Medusa_(Caravaggio)",
+      "ru": "Медуза (картина Караваджо)"
+    },
+    "author_wiki": {
+      "en": "Caravaggio",
+      "ru": "Караваджо"
+    },
+    "summary": {
+      "en": "A second version of Caravaggio's Medusa, known as the Murtola Medusa after the poet Gasparo Murtola, who praised the painting in verse.",
+      "ru": "Вторая версия «Медузы» Караваджо, известная как «Медуза Муртола» по имени поэта Гаспаре Муртолы, воспевшего картину в стихах."
+    }
+  },
   "palette": [
     "#182a29",
     "#122021",

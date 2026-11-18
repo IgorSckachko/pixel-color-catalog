@@ -27,6 +27,25 @@
   "added": "2027-02-06",
   "width": 96,
   "height": 96,
+  "info": {
+    "author": {
+      "en": "Andrey Voronikhin",
+      "ru": "Андрей Воронихин"
+    },
+    "year": "1801–1811",
+    "work_wiki": {
+      "en": "Kazan_Cathedral,_Saint_Petersburg",
+      "ru": "Казанский собор (Санкт-Петербург)"
+    },
+    "author_wiki": {
+      "en": "Andrey_Voronikhin",
+      "ru": "Воронихин, Андрей Никифорович"
+    },
+    "summary": {
+      "en": "A cathedral on Nevsky Prospect in Saint Petersburg with a colonnade modelled on that of Saint Peter's in Rome. Designed by Andrey Voronikhin.",
+      "ru": "Собор на Невском проспекте в Санкт-Петербурге с колоннадой по образцу собора Святого Петра в Риме. Автор проекта — Андрей Воронихин."
+    }
+  },
   "palette": [
     "#5e5c54",
     "#4c4e46",

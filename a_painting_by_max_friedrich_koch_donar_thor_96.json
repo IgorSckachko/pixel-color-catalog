@@ -39,6 +39,20 @@
   "added": "2026-11-21",
   "width": 96,
   "height": 96,
+  "info": {
+    "author": {
+      "en": "Max Friedrich Koch",
+      "ru": "Макс Фридрих Кох"
+    },
+    "author_wiki": {
+      "en": "Max_Friedrich_Koch",
+      "ru": "Кох, Макс Фридрих"
+    },
+    "summary": {
+      "en": "Donar (Thor) is the thunder god of Germanic and Norse mythology. In this painting by the German artist Max Friedrich Koch he rides a chariot pulled by goats.",
+      "ru": "Донар (Тор) — бог грома германо-скандинавской мифологии. На картине немецкого художника Макса Фридриха Коха он мчится на колеснице, запряжённой козлами."
+    }
+  },
   "palette": [
     "#212221",
     "#0e1517",
