@@ -663,6 +663,42 @@
    "rev": "3b07e4a1e9"
   },
   {
+   "id": "cake_91_128",
+   "file": "cake_91_128.json",
+   "title": "cake-91",
+   "theme": "other",
+   "tags": [],
+   "width": 128,
+   "height": 128,
+   "colors": 16,
+   "added": "2026-11-25",
+   "rev": "81dcda943b"
+  },
+  {
+   "id": "cake_9_128",
+   "file": "cake_9_128.json",
+   "title": "cake-9",
+   "theme": "food",
+   "tags": [],
+   "width": 128,
+   "height": 128,
+   "colors": 18,
+   "added": "2026-11-26",
+   "rev": "caffbf88a1"
+  },
+  {
+   "id": "cam_9_72",
+   "file": "cam_9_72.json",
+   "title": "cam-9",
+   "theme": "other",
+   "tags": [],
+   "width": 72,
+   "height": 72,
+   "colors": 15,
+   "added": "2026-11-27",
+   "rev": "1630e54b63"
+  },
+  {
    "id": "castle_and_moon_96",
    "file": "castle_and_moon_96.json",
    "title": "Замок и луна",
@@ -1676,6 +1712,18 @@
     "ko": "해질녘의 도시"
    },
    "rev": "afc51a35da"
+  },
+  {
+   "id": "clock_2_72",
+   "file": "clock_2_72.json",
+   "title": "clock-2",
+   "theme": "other",
+   "tags": [],
+   "width": 72,
+   "height": 72,
+   "colors": 18,
+   "added": "2026-11-19",
+   "rev": "a5440822fc"
   },
   {
    "id": "coop_1_96",
@@ -3002,6 +3050,18 @@
    "rev": "99c8d42aff"
   },
   {
+   "id": "fruit_7_64",
+   "file": "fruit_7_64.json",
+   "title": "fruit-7",
+   "theme": "food",
+   "tags": [],
+   "width": 64,
+   "height": 64,
+   "colors": 9,
+   "added": "2026-11-18",
+   "rev": "bd7e335d05"
+  },
+  {
    "id": "ghost_with_a_cup_of_coffee_64",
    "file": "ghost_with_a_cup_of_coffee_64.json",
    "title": "Привидение с чашкой кофе",
@@ -3183,6 +3243,18 @@
    "rev": "e86d55b55f"
   },
   {
+   "id": "grapes_3_64",
+   "file": "grapes_3_64.json",
+   "title": "grapes-3",
+   "theme": "other",
+   "tags": [],
+   "width": 64,
+   "height": 64,
+   "colors": 10,
+   "added": "2026-11-20",
+   "rev": "1862c38288"
+  },
+  {
    "id": "grass_on_the_meadow_96",
    "file": "grass_on_the_meadow_96.json",
    "title": "Трава на лугу",
@@ -3281,6 +3353,18 @@
    "rev": "48d096497c"
   },
   {
+   "id": "heart_9_128",
+   "file": "heart_9_128.json",
+   "title": "heart-9",
+   "theme": "other",
+   "tags": [],
+   "width": 128,
+   "height": 128,
+   "colors": 7,
+   "added": "2026-11-30",
+   "rev": "2ef5e03109"
+  },
+  {
    "id": "history_tale_64",
    "file": "history_tale_64.json",
    "title": "Сфинкс и пирамида",
@@ -3352,6 +3436,18 @@
    },
    "premium": true,
    "rev": "0a6cfdf55f"
+  },
+  {
+   "id": "house_7_120",
+   "file": "house_7_120.json",
+   "title": "house-7",
+   "theme": "other",
+   "tags": [],
+   "width": 120,
+   "height": 120,
+   "colors": 13,
+   "added": "2026-11-29",
+   "rev": "cda2a11e02"
   },
   {
    "id": "house_on_ligovsky_64",
@@ -3785,6 +3881,18 @@
     "ko": "모나리자"
    },
    "rev": "86fb89088e"
+  },
+  {
+   "id": "light_2_128",
+   "file": "light_2_128.json",
+   "title": "light-2",
+   "theme": "other",
+   "tags": [],
+   "width": 128,
+   "height": 128,
+   "colors": 18,
+   "added": "2026-12-01",
+   "rev": "9a5c1be4ad"
   },
   {
    "id": "makeup_girl_128",
@@ -7983,6 +8091,30 @@
     "ko": "벚꽃"
    },
    "rev": "8bec8b1da7"
+  },
+  {
+   "id": "scooter_7_128",
+   "file": "scooter_7_128.json",
+   "title": "scooter-7",
+   "theme": "other",
+   "tags": [],
+   "width": 128,
+   "height": 128,
+   "colors": 8,
+   "added": "2026-11-22",
+   "rev": "2de7c46539"
+  },
+  {
+   "id": "sea_7_80",
+   "file": "sea_7_80.json",
+   "title": "sea-7",
+   "theme": "other",
+   "tags": [],
+   "width": 80,
+   "height": 80,
+   "colors": 17,
+   "added": "2026-11-23",
+   "rev": "37d2522a75"
   },
   {
    "id": "see_1_96",

@@ -1,0 +1,31 @@
+{
+  "format": 2,
+  "id": "clock_2_72",
+  "title": "clock-2",
+  "theme": "other",
+  "tags": [],
+  "added": "2026-11-19",
+  "width": 72,
+  "height": 72,
+  "palette": [
+    "#000000",
+    "#0084ff",
+    "#0759a7",
+    "#0f8bff",
+    "#1e92ff",
+    "#ffffff",
+    "#3ca0ff",
+    "#2d99ff",
+    "#0b7ce8",
+    "#0969c5",
+    "#080808",
+    "#0861b6",
+    "#1d1d1d",
+    "#1a89f4",
+    "#0a71d4",
+    "#58a8f5",
+    "#3c9eff",
+    "#8b8b8b"
+  ],
+  "pixels_gz": "H4sIAAAAAAAC/+2X4XaDIAyFG0wABbXd+z/sglqnCDSsndvO6f2lot+5JJjA5fLWW6sgJcfq6zD5of58DkBptO+fN1NlCeYw58Iv5cAHQMM6ksLzsQN+QRadZhGsC2AeCM86FpzLafac5WIe6Pw4jg1UYVJ+vB9bFlRwVvewmbH3XSUH4t9suvcdc4ZKPwBqo3Df+M4PQzucygnvN3vGynJt4xy0ooSFeCYpLOxD/EFcxFSOgwAgrxs5DCEpMQei4M66+0Fr4VQOxBStv0hklTEKajCpjsEgtkQCUBHDIESljAAERQyDiP1w9oUZ56ikKHpyRGSxnP0f4Cyf7RhL1m7GkHMSTvTt7jJk35T9HJOlj8TACdmHh5zdbPR2Kd5zRvZ6reNMTnSce7LG/BYnmlTg3AhlHA1ZhSVkkb7h5yAuHi/i8ALCZznOKbSG6A9xiEyxuj4oYvfoKGtJFUsZgITDhUNJ64bOrR4MXcyqqvqTtDP97CdxBHU+cCr6Ra7v8L+FCp9tYFMpVKquoab6MioSYor7BA4NSjEv42T3UaG3o3wfFVnaYGRbjQcgnOZVh0ltNXEOVy3nEu3DaTob/CIndU6p5ZTPuW/9f30C/+Cy80AUAAA="
+}

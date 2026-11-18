@@ -1,0 +1,31 @@
+{
+  "format": 2,
+  "id": "light_2_128",
+  "title": "light-2",
+  "theme": "other",
+  "tags": [],
+  "added": "2026-12-01",
+  "width": 128,
+  "height": 128,
+  "palette": [
+    "#ffffff",
+    "#fff900",
+    "#ff3f8f",
+    "#000000",
+    "#7d7d7d",
+    "#464646",
+    "#f0ea00",
+    "#aca805",
+    "#6d6d6d",
+    "#fffdb4",
+    "#e1db00",
+    "#d2cc00",
+    "#fffca5",
+    "#fffb78",
+    "#c3bd00",
+    "#fff0f6",
+    "#ff92c0",
+    "#ff4793"
+  ],
+  "pixels_gz": "H4sIAAAAAAAC/+3Y23JCIQyF4UmtrdWe3/9hG6Y7HVTYEgssxPVfOXH0ywWDh82GMV+PmejP7ZvzrD0kar0HfYx/yW29B32c73FTe9Af2pdW9voO37+4hvFNh/liIXyJqum/aRd9Oa6vL2d19L9EgL6kq332cjsI/bvwc3cQ/dvxzb7Wf9dKd6A/n+85g/TH9A/amr/XUo/pz++bt18q2YH+HP5Oyxlrz9G/HT/8WrQdavje759hDvOXOcb//Jsj/HgeXvOqlTrXnL0j/2Te1z+fd/ST817+WvH30Pgu2mWqadMfwz8snfo17h76Y/vxPRSyHUr9/9r08b7t8KF5/Fo2fbxvO3iSytHH+y+F0Z/T3xZGfy4/vN+Ts9qff/Sx/tYZ/Xl87xlsdf/Rx/r8/L1fv/QMtrLpj+Gjzh59vF/yP4Q0jj7WZ4zN0w9ZOGM4AEAAAA=="
+}
