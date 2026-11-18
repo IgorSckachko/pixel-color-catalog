@@ -1,0 +1,27 @@
+{
+  "format": 2,
+  "id": "cat_123_64",
+  "title": "cat-123",
+  "theme": "cats",
+  "tags": [],
+  "added": "2026-11-23",
+  "width": 64,
+  "height": 64,
+  "palette": [
+    "#60cdf4",
+    "#ffffff",
+    "#110051",
+    "#fe5722",
+    "#b7a7cc",
+    "#5aa7c1",
+    "#fe91a4",
+    "#fec107",
+    "#7a719e",
+    "#ff9700",
+    "#e51c24",
+    "#c31411",
+    "#ffe083",
+    "#e3dce4"
+  ],
+  "pixels_gz": "H4sIAAAAAAAC/+2U23KDMAxEJ1rLBCf0/z+3lm0IJr1oSR/aqXcSRTBzNjISulyGhoZ+mQB8ef0dHkIoBFq0a4qfigO2OLG8GTw08fzU4Sz/rD/EF7w+d9kywqC2bRYEEQl4m8kBaPwMMVlyhs+qPMDzBRNZDfIxGF5kj665n9dGrB+TMg1cDSA4gWdepZcqtwC0c1ASt5WhpmVZyi9wZoXhasK2vJgthvvtdk8ZT5agtdV/jFp/SqnWz/I4PD+0sfIaoG9gK0Bf43MFTh5P84Mf4P31b7zueLvJ4ruM6N+HvFVP8IXUFkvmfw0+4b3DF43SY3C/PDHa9PZ8/vMY3Xwsh9V9yLiXLwaAfR+BwKvDUfQCeoUdGvoXegdIjrHtABAAAA=="
+}

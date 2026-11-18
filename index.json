@@ -472,6 +472,18 @@
    "rev": "f92b38edec"
   },
   {
+   "id": "bat_88",
+   "file": "bat_88.json",
+   "title": "bat",
+   "theme": "animals",
+   "tags": [],
+   "width": 88,
+   "height": 88,
+   "colors": 12,
+   "added": "2026-11-20",
+   "rev": "cfc91c9b37"
+  },
+  {
    "id": "beautiful_sea_1_64",
    "file": "beautiful_sea_1_64.json",
    "title": "Красное солнце над морем",
@@ -639,6 +651,18 @@
    "rev": "965522eb4a"
   },
   {
+   "id": "burger_002_80",
+   "file": "burger_002_80.json",
+   "title": "burger_002",
+   "theme": "fastfood",
+   "tags": [],
+   "width": 80,
+   "height": 80,
+   "colors": 16,
+   "added": "2026-11-21",
+   "rev": "3b07e4a1e9"
+  },
+  {
    "id": "castle_and_moon_96",
    "file": "castle_and_moon_96.json",
    "title": "Замок и луна",
@@ -667,6 +691,18 @@
     "ko": "성과 달"
    },
    "rev": "1f354c3736"
+  },
+  {
+   "id": "cat_123_64",
+   "file": "cat_123_64.json",
+   "title": "cat-123",
+   "theme": "cats",
+   "tags": [],
+   "width": 64,
+   "height": 64,
+   "colors": 14,
+   "added": "2026-11-23",
+   "rev": "1e63b64c64"
   },
   {
    "id": "cat_1_64",
@@ -2679,6 +2715,18 @@
     "ko": "강아지 24"
    },
    "rev": "1c2169d130"
+  },
+  {
+   "id": "duck_01_56",
+   "file": "duck_01_56.json",
+   "title": "duck_01",
+   "theme": "other",
+   "tags": [],
+   "width": 56,
+   "height": 56,
+   "colors": 17,
+   "added": "2026-11-18",
+   "rev": "5f455dfa70"
   },
   {
    "id": "edvard_munch_the_scream_96",
@@ -7332,6 +7380,30 @@
    "rev": "878196e911"
   },
   {
+   "id": "mushroom_01_40",
+   "file": "mushroom_01_40.json",
+   "title": "mushroom_01",
+   "theme": "other",
+   "tags": [],
+   "width": 40,
+   "height": 40,
+   "colors": 9,
+   "added": "2026-11-22",
+   "rev": "6c3e53a90f"
+  },
+  {
+   "id": "mushroom_02_64",
+   "file": "mushroom_02_64.json",
+   "title": "mushroom-02",
+   "theme": "other",
+   "tags": [],
+   "width": 64,
+   "height": 64,
+   "colors": 11,
+   "added": "2026-11-19",
+   "rev": "2b32f72dfd"
+  },
+  {
    "id": "mushroom_24",
    "file": "mushroom_24.json",
    "title": "Гриб",
@@ -7871,6 +7943,18 @@
    "rev": "335c078dc9"
   },
   {
+   "id": "rocket_32",
+   "file": "rocket_32.json",
+   "title": "rocket",
+   "theme": "other",
+   "tags": [],
+   "width": 32,
+   "height": 32,
+   "colors": 11,
+   "added": "2026-11-25",
+   "rev": "ba2ed118ab"
+  },
+  {
    "id": "sakura_96",
    "file": "sakura_96.json",
    "title": "Сакура",
@@ -8155,6 +8239,18 @@
     "ko": "강가의 노을"
    },
    "rev": "4286af1aed"
+  },
+  {
+   "id": "t_rex_56",
+   "file": "t_rex_56.json",
+   "title": "t-rex",
+   "theme": "other",
+   "tags": [],
+   "width": 56,
+   "height": 56,
+   "colors": 11,
+   "added": "2026-11-24",
+   "rev": "c11baa1bdd"
   },
   {
    "id": "the_great_wave_off_kanagawa_128",
