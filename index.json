@@ -2753,6 +2753,18 @@
    "rev": "8da7325208"
   },
   {
+   "id": "cat_34_104",
+   "file": "cat_34_104.json",
+   "title": "cat_34",
+   "theme": "other",
+   "tags": [],
+   "width": 104,
+   "height": 104,
+   "colors": 6,
+   "added": "2026-11-21",
+   "rev": "00cd4f6680"
+  },
+  {
    "id": "cat_34_128",
    "file": "cat_34_128.json",
    "title": "Кошка 10",
@@ -3041,6 +3053,18 @@
    "rev": "79e490d7eb"
   },
   {
+   "id": "cat_45_104",
+   "file": "cat_45_104.json",
+   "title": "cat_45",
+   "theme": "other",
+   "tags": [],
+   "width": 104,
+   "height": 104,
+   "colors": 11,
+   "added": "2026-11-22",
+   "rev": "40b79775f2"
+  },
+  {
    "id": "cat_45_96",
    "file": "cat_45_96.json",
    "title": "Кошка 28",
@@ -3281,6 +3305,18 @@
    "rev": "f84852fc17"
   },
   {
+   "id": "cat_in_space_128",
+   "file": "cat_in_space_128.json",
+   "title": "cat_in_space",
+   "theme": "other",
+   "tags": [],
+   "width": 128,
+   "height": 128,
+   "colors": 15,
+   "added": "2026-11-28",
+   "rev": "d2aff07990"
+  },
+  {
    "id": "cheerful_pumpkins_128",
    "file": "cheerful_pumpkins_128.json",
    "title": "Весёлые тыквы",
@@ -3481,6 +3517,18 @@
     "ko": "크로커스"
    },
    "rev": "7922e2de3b"
+  },
+  {
+   "id": "crow_12_128",
+   "file": "crow_12_128.json",
+   "title": "crow_12",
+   "theme": "other",
+   "tags": [],
+   "width": 128,
+   "height": 128,
+   "colors": 13,
+   "added": "2026-11-29",
+   "rev": "9143056e5b"
   },
   {
    "id": "cute_little_fox_in_a_blooming_meadow_es_lindo_zorr_96",
@@ -4760,6 +4808,18 @@
    "rev": "959251e069"
   },
   {
+   "id": "fox_and_moon_104",
+   "file": "fox_and_moon_104.json",
+   "title": "fox_and_moon",
+   "theme": "other",
+   "tags": [],
+   "width": 104,
+   "height": 104,
+   "colors": 12,
+   "added": "2026-11-20",
+   "rev": "1ce24ceec2"
+  },
+  {
    "id": "frof_crasy_2_120",
    "file": "frof_crasy_2_120.json",
    "title": "Лягушка",
@@ -5719,6 +5779,18 @@
     "ko": "키스"
    },
    "rev": "0e97f01744"
+  },
+  {
+   "id": "knight_in_forest_104",
+   "file": "knight_in_forest_104.json",
+   "title": "knight_in_forest",
+   "theme": "other",
+   "tags": [],
+   "width": 104,
+   "height": 104,
+   "colors": 11,
+   "added": "2026-11-23",
+   "rev": "840d147b00"
   },
   {
    "id": "lady_with_an_ermine_leonardo_da_vinci_google_art_p_128",
@@ -9441,6 +9513,18 @@
    "rev": "a82bdb6ec9"
   },
   {
+   "id": "moon_12_88",
+   "file": "moon_12_88.json",
+   "title": "moon_12",
+   "theme": "other",
+   "tags": [],
+   "width": 88,
+   "height": 88,
+   "colors": 8,
+   "added": "2026-11-25",
+   "rev": "57f7702e15"
+  },
+  {
    "id": "moon_1_96",
    "file": "moon_1_96.json",
    "title": "Луна над полем",
@@ -9510,7 +9594,7 @@
     "ja": "草原の月",
     "ko": "초원 위의 달"
    },
-   "rev": "fb9b573f9f"
+   "rev": "0bcb327c11"
   },
   {
    "id": "morning_coffee_image_96",
@@ -9762,6 +9846,18 @@
     "ko": "오래된 방앗간"
    },
    "rev": "0dcb07e73b"
+  },
+  {
+   "id": "park_23_96",
+   "file": "park_23_96.json",
+   "title": "park_23",
+   "theme": "other",
+   "tags": [],
+   "width": 96,
+   "height": 96,
+   "colors": 22,
+   "added": "2026-11-27",
+   "rev": "58e053e78a"
   },
   {
    "id": "park_and_buildings_128",
@@ -11202,6 +11298,18 @@
    "rev": "fd662fa1f9"
   },
   {
+   "id": "train_12_104",
+   "file": "train_12_104.json",
+   "title": "train_12",
+   "theme": "other",
+   "tags": [],
+   "width": 104,
+   "height": 104,
+   "colors": 28,
+   "added": "2026-11-26",
+   "rev": "c1073e8f3c"
+  },
+  {
    "id": "tree_128",
    "file": "tree_128.json",
    "title": "Золотое дерево",
@@ -11336,6 +11444,18 @@
     "ko": "تلفزيون"
    },
    "rev": "3d318d093f"
+  },
+  {
+   "id": "two_knights_112",
+   "file": "two_knights_112.json",
+   "title": "two_knights",
+   "theme": "other",
+   "tags": [],
+   "width": 112,
+   "height": 112,
+   "colors": 16,
+   "added": "2026-11-24",
+   "rev": "23f2873247"
   },
   {
    "id": "valkyrie_peter_nicolai_arbo_nationalmuseum_18255_t_96",
