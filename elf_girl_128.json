@@ -1,10 +1,27 @@
 {
   "format": 2,
   "id": "elf_girl_128",
-  "title": "elf_girl",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-21",
+  "title": "Девушка-эльф",
+  "titles": {
+    "en": "Elf girl",
+    "es": "Chica elfo",
+    "pt_BR": "Garota elfa",
+    "de": "Elfenmädchen",
+    "fr": "Fille elfe",
+    "tr": "Elf kız",
+    "id": "Gadis peri",
+    "ja": "エルフの少女",
+    "ko": "엘프 소녀"
+  },
+  "theme": "fantasy",
+  "tags": [
+    "elf",
+    "girl",
+    "fantasy",
+    "девушка",
+    "эльф"
+  ],
+  "added": "2026-12-04",
   "width": 120,
   "height": 120,
   "palette": [

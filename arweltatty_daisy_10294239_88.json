@@ -1,10 +1,27 @@
 {
   "format": 2,
   "id": "arweltatty_daisy_10294239_88",
-  "title": "arweltatty-daisy-10294239",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-19",
+  "title": "Ромашковое поле",
+  "titles": {
+    "en": "Field of daisies",
+    "es": "Campo de margaritas",
+    "pt_BR": "Campo de margaridas",
+    "de": "Gänseblümchenwiese",
+    "fr": "Champ de marguerites",
+    "tr": "Papatya tarlası",
+    "id": "Ladang aster",
+    "ja": "デイジー畑",
+    "ko": "데이지 들판"
+  },
+  "theme": "flowers",
+  "tags": [
+    "daisy",
+    "flowers",
+    "field",
+    "ромашковое",
+    "поле"
+  ],
+  "added": "2027-01-06",
   "width": 88,
   "height": 88,
   "palette": [

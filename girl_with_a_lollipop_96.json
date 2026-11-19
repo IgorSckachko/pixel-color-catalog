@@ -1,10 +1,28 @@
 {
   "format": 2,
   "id": "girl_with_a_lollipop_96",
-  "title": "girl_with_a_lollipop",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-24",
+  "title": "Девушка с леденцом",
+  "titles": {
+    "en": "Girl with a lollipop",
+    "es": "Chica con una piruleta",
+    "pt_BR": "Garota com pirulito",
+    "de": "Mädchen mit Lutscher",
+    "fr": "Fille à la sucette",
+    "tr": "Lolipoplu kız",
+    "id": "Gadis dengan permen lolipop",
+    "ja": "ロリポップの少女",
+    "ko": "막대사탕을 든 소녀"
+  },
+  "theme": "portraits",
+  "tags": [
+    "girl",
+    "lollipop",
+    "candy",
+    "девушка",
+    "с",
+    "леденцом"
+  ],
+  "added": "2026-12-06",
   "width": 96,
   "height": 96,
   "palette": [

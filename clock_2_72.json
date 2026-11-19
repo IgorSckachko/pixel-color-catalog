@@ -1,10 +1,26 @@
 {
   "format": 2,
   "id": "clock_2_72",
-  "title": "clock-2",
+  "title": "Будильник",
+  "titles": {
+    "en": "Alarm clock",
+    "es": "Despertador",
+    "pt_BR": "Despertador",
+    "de": "Wecker",
+    "fr": "Réveil",
+    "tr": "Çalar saat",
+    "id": "Jam weker",
+    "ja": "目覚まし時計",
+    "ko": "알람 시계"
+  },
   "theme": "other",
-  "tags": [],
-  "added": "2026-11-19",
+  "tags": [
+    "clock",
+    "alarm",
+    "time",
+    "будильник"
+  ],
+  "added": "2027-01-03",
   "width": 72,
   "height": 72,
   "palette": [

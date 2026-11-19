@@ -1,10 +1,29 @@
 {
   "format": 2,
   "id": "teapot_and_fruits_80",
-  "title": "teapot_and_fruits",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-12-10",
+  "title": "Чайник и фрукты",
+  "titles": {
+    "en": "Teapot and fruits",
+    "es": "Tetera y frutas",
+    "pt_BR": "Bule e frutas",
+    "de": "Teekanne und Früchte",
+    "fr": "Théière et fruits",
+    "tr": "Çaydanlık ve meyveler",
+    "id": "Teko dan buah",
+    "ja": "ティーポットと果物",
+    "ko": "찻주전자와 과일"
+  },
+  "theme": "food",
+  "tags": [
+    "teapot",
+    "fruits",
+    "still",
+    "life",
+    "чайник",
+    "и",
+    "фрукты"
+  ],
+  "added": "2026-12-09",
   "width": 80,
   "height": 80,
   "palette": [

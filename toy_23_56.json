@@ -1,10 +1,27 @@
 {
   "format": 2,
   "id": "toy_23_56",
-  "title": "toy_23",
+  "title": "Лошадка-качалка 2",
+  "titles": {
+    "en": "Rocking horse 2",
+    "es": "Caballito balancín 2",
+    "pt_BR": "Cavalinho de balanço 2",
+    "de": "Schaukelpferd 2",
+    "fr": "Cheval à bascule 2",
+    "tr": "Sallanan at 2",
+    "id": "Kuda goyang 2",
+    "ja": "揺り木馬 2",
+    "ko": "흔들 목마 2"
+  },
   "theme": "kids",
-  "tags": [],
-  "added": "2026-12-02",
+  "tags": [
+    "toy",
+    "horse",
+    "rocking",
+    "лошадка",
+    "качалка"
+  ],
+  "added": "2026-12-10",
   "width": 56,
   "height": 56,
   "palette": [

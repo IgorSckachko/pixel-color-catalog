@@ -1,10 +1,27 @@
 {
   "format": 2,
   "id": "vampir_gerl_02_112",
-  "title": "vampir_gerl_02",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-12-12",
+  "title": "Девушка-вампир",
+  "titles": {
+    "en": "Vampire girl",
+    "es": "Chica vampiro",
+    "pt_BR": "Garota vampira",
+    "de": "Vampirmädchen",
+    "fr": "Fille vampire",
+    "tr": "Vampir kız",
+    "id": "Gadis vampir",
+    "ja": "吸血鬼の少女",
+    "ko": "뱀파이어 소녀"
+  },
+  "theme": "fantasy",
+  "tags": [
+    "vampire",
+    "girl",
+    "fantasy",
+    "девушка",
+    "вампир"
+  ],
+  "added": "2026-11-18",
   "width": 112,
   "height": 112,
   "palette": [

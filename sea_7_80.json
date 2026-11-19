@@ -1,10 +1,28 @@
 {
   "format": 2,
   "id": "sea_7_80",
-  "title": "sea-7",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-23",
+  "title": "Причал на закате",
+  "titles": {
+    "en": "Pier at sunset",
+    "es": "Muelle al atardecer",
+    "pt_BR": "Cais ao pôr do sol",
+    "de": "Pier bei Sonnenuntergang",
+    "fr": "Ponton au coucher du soleil",
+    "tr": "Gün batımında iskele",
+    "id": "Dermaga saat senja",
+    "ja": "夕暮れの桟橋",
+    "ko": "해질녘의 부두"
+  },
+  "theme": "landscape",
+  "tags": [
+    "sea",
+    "pier",
+    "sunset",
+    "причал",
+    "на",
+    "закате"
+  ],
+  "added": "2026-11-18",
   "width": 80,
   "height": 80,
   "palette": [

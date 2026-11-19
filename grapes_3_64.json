@@ -1,10 +1,25 @@
 {
   "format": 2,
   "id": "grapes_3_64",
-  "title": "grapes-3",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-20",
+  "title": "Виноград",
+  "titles": {
+    "en": "Grapes",
+    "es": "Uvas",
+    "pt_BR": "Uvas",
+    "de": "Trauben",
+    "fr": "Raisins",
+    "tr": "Üzüm",
+    "id": "Anggur",
+    "ja": "ブドウ",
+    "ko": "포도"
+  },
+  "theme": "food",
+  "tags": [
+    "grapes",
+    "fruit",
+    "виноград"
+  ],
+  "added": "2027-01-02",
   "width": 64,
   "height": 64,
   "palette": [

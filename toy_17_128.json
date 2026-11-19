@@ -1,10 +1,24 @@
 {
   "format": 2,
   "id": "toy_17_128",
-  "title": "toy_17",
+  "title": "Игрушка 3",
+  "titles": {
+    "en": "Toy 3",
+    "es": "Juguete 3",
+    "pt_BR": "Brinquedo 3",
+    "de": "Spielzeug 3",
+    "fr": "Jouet 3",
+    "tr": "Oyuncak 3",
+    "id": "Mainan 3",
+    "ja": "おもちゃ 3",
+    "ko": "장난감 3"
+  },
   "theme": "kids",
-  "tags": [],
-  "added": "2026-11-26",
+  "tags": [
+    "toy",
+    "игрушка"
+  ],
+  "added": "2026-12-03",
   "width": 128,
   "height": 128,
   "palette": [

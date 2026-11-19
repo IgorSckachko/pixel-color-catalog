@@ -1,10 +1,24 @@
 {
   "format": 2,
   "id": "toy_20_96",
-  "title": "toy_20",
+  "title": "Игрушка 6",
+  "titles": {
+    "en": "Toy 6",
+    "es": "Juguete 6",
+    "pt_BR": "Brinquedo 6",
+    "de": "Spielzeug 6",
+    "fr": "Jouet 6",
+    "tr": "Oyuncak 6",
+    "id": "Mainan 6",
+    "ja": "おもちゃ 6",
+    "ko": "장난감 6"
+  },
   "theme": "kids",
-  "tags": [],
-  "added": "2026-11-29",
+  "tags": [
+    "toy",
+    "игрушка"
+  ],
+  "added": "2026-11-22",
   "width": 96,
   "height": 96,
   "palette": [

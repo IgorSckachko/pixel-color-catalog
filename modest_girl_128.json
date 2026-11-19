@@ -1,10 +1,27 @@
 {
   "format": 2,
   "id": "modest_girl_128",
-  "title": "modest_girl",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-12-01",
+  "title": "Аниме-девушка 2",
+  "titles": {
+    "en": "Anime girl 2",
+    "es": "Chica anime 2",
+    "pt_BR": "Garota anime 2",
+    "de": "Anime-Mädchen 2",
+    "fr": "Fille manga 2",
+    "tr": "Anime kızı 2",
+    "id": "Gadis anime 2",
+    "ja": "アニメの少女 2",
+    "ko": "애니메 소녀 2"
+  },
+  "theme": "portraits",
+  "tags": [
+    "girl",
+    "anime",
+    "portrait",
+    "аниме",
+    "девушка"
+  ],
+  "added": "2026-11-21",
   "width": 128,
   "height": 128,
   "palette": [

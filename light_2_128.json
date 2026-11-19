@@ -1,10 +1,26 @@
 {
   "format": 2,
   "id": "light_2_128",
-  "title": "light-2",
+  "title": "Лампочка",
+  "titles": {
+    "en": "Light bulb",
+    "es": "Bombilla",
+    "pt_BR": "Lâmpada",
+    "de": "Glühbirne",
+    "fr": "Ampoule",
+    "tr": "Ampul",
+    "id": "Bola lampu",
+    "ja": "電球",
+    "ko": "전구"
+  },
   "theme": "other",
-  "tags": [],
-  "added": "2026-12-01",
+  "tags": [
+    "light",
+    "bulb",
+    "lamp",
+    "лампочка"
+  ],
+  "added": "2026-11-18",
   "width": 128,
   "height": 128,
   "palette": [

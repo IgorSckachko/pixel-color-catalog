@@ -1,10 +1,25 @@
 {
   "format": 2,
   "id": "town_23_88",
-  "title": "town_23",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-12-11",
+  "title": "Городок",
+  "titles": {
+    "en": "Small town",
+    "es": "Pueblo",
+    "pt_BR": "Cidadezinha",
+    "de": "Kleinstadt",
+    "fr": "Petite ville",
+    "tr": "Küçük kasaba",
+    "id": "Kota kecil",
+    "ja": "小さな町",
+    "ko": "작은 마을"
+  },
+  "theme": "architecture",
+  "tags": [
+    "town",
+    "city",
+    "городок"
+  ],
+  "added": "2026-12-21",
   "width": 88,
   "height": 88,
   "palette": [

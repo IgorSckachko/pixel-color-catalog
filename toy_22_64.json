@@ -1,10 +1,27 @@
 {
   "format": 2,
   "id": "toy_22_64",
-  "title": "toy_22",
+  "title": "Лошадка-качалка 1",
+  "titles": {
+    "en": "Rocking horse 1",
+    "es": "Caballito balancín 1",
+    "pt_BR": "Cavalinho de balanço 1",
+    "de": "Schaukelpferd 1",
+    "fr": "Cheval à bascule 1",
+    "tr": "Sallanan at 1",
+    "id": "Kuda goyang 1",
+    "ja": "揺り木馬 1",
+    "ko": "흔들 목마 1"
+  },
   "theme": "kids",
-  "tags": [],
-  "added": "2026-12-01",
+  "tags": [
+    "toy",
+    "horse",
+    "rocking",
+    "лошадка",
+    "качалка"
+  ],
+  "added": "2027-01-01",
   "width": 64,
   "height": 64,
   "palette": [

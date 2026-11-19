@@ -1,10 +1,27 @@
 {
   "format": 2,
   "id": "modest_girl_20_88",
-  "title": "modest_girl_20",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-12-02",
+  "title": "Аниме-девушка 3",
+  "titles": {
+    "en": "Anime girl 3",
+    "es": "Chica anime 3",
+    "pt_BR": "Garota anime 3",
+    "de": "Anime-Mädchen 3",
+    "fr": "Fille manga 3",
+    "tr": "Anime kızı 3",
+    "id": "Gadis anime 3",
+    "ja": "アニメの少女 3",
+    "ko": "애니메 소녀 3"
+  },
+  "theme": "portraits",
+  "tags": [
+    "girl",
+    "anime",
+    "portrait",
+    "аниме",
+    "девушка"
+  ],
+  "added": "2026-12-09",
   "width": 88,
   "height": 88,
   "palette": [

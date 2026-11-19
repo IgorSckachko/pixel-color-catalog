@@ -1,10 +1,24 @@
 {
   "format": 2,
   "id": "toy_21_112",
-  "title": "toy_21",
+  "title": "Игрушка 7",
+  "titles": {
+    "en": "Toy 7",
+    "es": "Juguete 7",
+    "pt_BR": "Brinquedo 7",
+    "de": "Spielzeug 7",
+    "fr": "Jouet 7",
+    "tr": "Oyuncak 7",
+    "id": "Mainan 7",
+    "ja": "おもちゃ 7",
+    "ko": "장난감 7"
+  },
   "theme": "kids",
-  "tags": [],
-  "added": "2026-11-30",
+  "tags": [
+    "toy",
+    "игрушка"
+  ],
+  "added": "2026-12-12",
   "width": 112,
   "height": 112,
   "palette": [

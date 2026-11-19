@@ -1,10 +1,27 @@
 {
   "format": 2,
   "id": "house_in_mountyn_88",
-  "title": "house_in_mountyn",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-27",
+  "title": "Дом в горах",
+  "titles": {
+    "en": "House in the mountains",
+    "es": "Casa en las montañas",
+    "pt_BR": "Casa nas montanhas",
+    "de": "Haus in den Bergen",
+    "fr": "Maison en montagne",
+    "tr": "Dağda ev",
+    "id": "Rumah di pegunungan",
+    "ja": "山の家",
+    "ko": "산속의 집"
+  },
+  "theme": "architecture",
+  "tags": [
+    "house",
+    "mountains",
+    "дом",
+    "в",
+    "горах"
+  ],
+  "added": "2026-12-10",
   "width": 88,
   "height": 88,
   "palette": [

@@ -1,10 +1,26 @@
 {
   "format": 2,
   "id": "loves_cat_96",
-  "title": "loves_cat",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-30",
+  "title": "Любимый кот",
+  "titles": {
+    "en": "Beloved cat",
+    "es": "Gato querido",
+    "pt_BR": "Gato querido",
+    "de": "Geliebte Katze",
+    "fr": "Chat adoré",
+    "tr": "Sevgili kedi",
+    "id": "Kucing tersayang",
+    "ja": "大好きな猫",
+    "ko": "사랑하는 고양이"
+  },
+  "theme": "cats",
+  "tags": [
+    "cat",
+    "pet",
+    "любимый",
+    "кот"
+  ],
+  "added": "2027-01-02",
   "width": 92,
   "height": 92,
   "palette": [

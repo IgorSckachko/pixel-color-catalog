@@ -1,10 +1,28 @@
 {
   "format": 2,
   "id": "heart_9_128",
-  "title": "heart-9",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-30",
+  "title": "Сердце со стрелой",
+  "titles": {
+    "en": "Heart with an arrow",
+    "es": "Corazón con una flecha",
+    "pt_BR": "Coração com flecha",
+    "de": "Herz mit Pfeil",
+    "fr": "Cœur avec une flèche",
+    "tr": "Oklu kalp",
+    "id": "Hati dengan panah",
+    "ja": "矢の刺さったハート",
+    "ko": "화살 맞은 하트"
+  },
+  "theme": "symbols",
+  "tags": [
+    "heart",
+    "arrow",
+    "love",
+    "сердце",
+    "со",
+    "стрелой"
+  ],
+  "added": "2026-11-18",
   "width": 128,
   "height": 128,
   "palette": [

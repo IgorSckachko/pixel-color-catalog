@@ -1,10 +1,25 @@
 {
   "format": 2,
   "id": "cam_9_72",
-  "title": "cam-9",
+  "title": "Фотоаппарат 1",
+  "titles": {
+    "en": "Camera 1",
+    "es": "Cámara 1",
+    "pt_BR": "Câmera 1",
+    "de": "Kamera 1",
+    "fr": "Appareil photo 1",
+    "tr": "Fotoğraf makinesi 1",
+    "id": "Kamera 1",
+    "ja": "カメラ 1",
+    "ko": "카메라 1"
+  },
   "theme": "other",
-  "tags": [],
-  "added": "2026-11-27",
+  "tags": [
+    "camera",
+    "photo",
+    "фотоаппарат"
+  ],
+  "added": "2026-12-22",
   "width": 72,
   "height": 72,
   "palette": [

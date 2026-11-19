@@ -1,10 +1,25 @@
 {
   "format": 2,
   "id": "toy_14_96",
-  "title": "toy_14",
-  "theme": "kids",
-  "tags": [],
-  "added": "2026-11-23",
+  "title": "Фотоаппарат 2",
+  "titles": {
+    "en": "Camera 2",
+    "es": "Cámara 2",
+    "pt_BR": "Câmera 2",
+    "de": "Kamera 2",
+    "fr": "Appareil photo 2",
+    "tr": "Fotoğraf makinesi 2",
+    "id": "Kamera 2",
+    "ja": "カメラ 2",
+    "ko": "카메라 2"
+  },
+  "theme": "other",
+  "tags": [
+    "camera",
+    "lens",
+    "фотоаппарат"
+  ],
+  "added": "2026-11-21",
   "width": 96,
   "height": 96,
   "palette": [

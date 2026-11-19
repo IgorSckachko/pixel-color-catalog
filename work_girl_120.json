@@ -1,10 +1,26 @@
 {
   "format": 2,
   "id": "work_girl_120",
-  "title": "work_girl",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-12-13",
+  "title": "Портрет девушки 1",
+  "titles": {
+    "en": "Portrait of a girl 1",
+    "es": "Retrato de una chica 1",
+    "pt_BR": "Retrato de uma garota 1",
+    "de": "Mädchenporträt 1",
+    "fr": "Portrait de fille 1",
+    "tr": "Kız portresi 1",
+    "id": "Potret gadis 1",
+    "ja": "少女の肖像 1",
+    "ko": "소녀 초상 1"
+  },
+  "theme": "portraits",
+  "tags": [
+    "girl",
+    "portrait",
+    "портрет",
+    "девушки"
+  ],
+  "added": "2026-11-27",
   "width": 120,
   "height": 120,
   "palette": [

@@ -1,10 +1,27 @@
 {
   "format": 2,
   "id": "house_123_128",
-  "title": "house_123",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-26",
+  "title": "Дом у моря",
+  "titles": {
+    "en": "House by the sea",
+    "es": "Casa junto al mar",
+    "pt_BR": "Casa à beira-mar",
+    "de": "Haus am Meer",
+    "fr": "Maison au bord de la mer",
+    "tr": "Deniz kenarında ev",
+    "id": "Rumah di tepi laut",
+    "ja": "海辺の家",
+    "ko": "바닷가의 집"
+  },
+  "theme": "architecture",
+  "tags": [
+    "house",
+    "sea",
+    "дом",
+    "у",
+    "моря"
+  ],
+  "added": "2026-11-18",
   "width": 128,
   "height": 128,
   "palette": [

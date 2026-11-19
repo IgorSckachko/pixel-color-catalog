@@ -1,10 +1,25 @@
 {
   "format": 2,
   "id": "scooter_7_128",
-  "title": "scooter-7",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-22",
+  "title": "Скутер",
+  "titles": {
+    "en": "Scooter",
+    "es": "Escúter",
+    "pt_BR": "Scooter",
+    "de": "Motorroller",
+    "fr": "Scooter",
+    "tr": "Scooter",
+    "id": "Skuter",
+    "ja": "スクーター",
+    "ko": "스쿠터"
+  },
+  "theme": "transport",
+  "tags": [
+    "scooter",
+    "transport",
+    "скутер"
+  ],
+  "added": "2026-12-13",
   "width": 128,
   "height": 128,
   "palette": [

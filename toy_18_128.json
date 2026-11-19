@@ -1,10 +1,27 @@
 {
   "format": 2,
   "id": "toy_18_128",
-  "title": "toy_18",
+  "title": "Игрушечный щенок",
+  "titles": {
+    "en": "Toy puppy",
+    "es": "Cachorro de juguete",
+    "pt_BR": "Cachorrinho de brinquedo",
+    "de": "Spielzeughund",
+    "fr": "Chiot en peluche",
+    "tr": "Oyuncak köpek",
+    "id": "Boneka anjing",
+    "ja": "犬のおもちゃ",
+    "ko": "강아지 인형"
+  },
   "theme": "kids",
-  "tags": [],
-  "added": "2026-11-27",
+  "tags": [
+    "toy",
+    "puppy",
+    "dog",
+    "игрушечный",
+    "щенок"
+  ],
+  "added": "2026-11-18",
   "width": 128,
   "height": 128,
   "palette": [

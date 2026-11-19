@@ -1,10 +1,27 @@
 {
   "format": 2,
   "id": "sad_girl_20_112",
-  "title": "sad_girl_20",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-12-08",
+  "title": "Аниме-девушка 5",
+  "titles": {
+    "en": "Anime girl 5",
+    "es": "Chica anime 5",
+    "pt_BR": "Garota anime 5",
+    "de": "Anime-Mädchen 5",
+    "fr": "Fille manga 5",
+    "tr": "Anime kızı 5",
+    "id": "Gadis anime 5",
+    "ja": "アニメの少女 5",
+    "ko": "애니메 소녀 5"
+  },
+  "theme": "portraits",
+  "tags": [
+    "girl",
+    "anime",
+    "portrait",
+    "аниме",
+    "девушка"
+  ],
+  "added": "2026-11-18",
   "width": 112,
   "height": 112,
   "palette": [

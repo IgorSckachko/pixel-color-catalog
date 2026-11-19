@@ -1,10 +1,24 @@
 {
   "format": 2,
   "id": "toy_1_128",
-  "title": "toy_1",
+  "title": "Игрушка 5",
+  "titles": {
+    "en": "Toy 5",
+    "es": "Juguete 5",
+    "pt_BR": "Brinquedo 5",
+    "de": "Spielzeug 5",
+    "fr": "Jouet 5",
+    "tr": "Oyuncak 5",
+    "id": "Mainan 5",
+    "ja": "おもちゃ 5",
+    "ko": "장난감 5"
+  },
   "theme": "kids",
-  "tags": [],
-  "added": "2026-11-18",
+  "tags": [
+    "toy",
+    "игрушка"
+  ],
+  "added": "2027-01-04",
   "width": 128,
   "height": 128,
   "palette": [

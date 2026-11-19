@@ -1,10 +1,25 @@
 {
   "format": 2,
   "id": "toy_13_96",
-  "title": "toy_13",
+  "title": "Окно",
+  "titles": {
+    "en": "Window",
+    "es": "Ventana",
+    "pt_BR": "Janela",
+    "de": "Fenster",
+    "fr": "Fenêtre",
+    "tr": "Pencere",
+    "id": "Jendela",
+    "ja": "窓",
+    "ko": "창문"
+  },
   "theme": "kids",
-  "tags": [],
-  "added": "2026-11-22",
+  "tags": [
+    "window",
+    "room",
+    "окно"
+  ],
+  "added": "2026-12-24",
   "width": 96,
   "height": 96,
   "palette": [

@@ -1,10 +1,27 @@
 {
   "format": 2,
   "id": "toy_10_104",
-  "title": "toy_10",
+  "title": "Плюшевый мишка",
+  "titles": {
+    "en": "Teddy bear",
+    "es": "Osito de peluche",
+    "pt_BR": "Ursinho de pelúcia",
+    "de": "Teddybär",
+    "fr": "Ours en peluche",
+    "tr": "Oyuncak ayı",
+    "id": "Boneka beruang",
+    "ja": "テディベア",
+    "ko": "곰 인형"
+  },
   "theme": "kids",
-  "tags": [],
-  "added": "2026-11-19",
+  "tags": [
+    "toy",
+    "bear",
+    "teddy",
+    "плюшевый",
+    "мишка"
+  ],
+  "added": "2027-01-03",
   "width": 104,
   "height": 104,
   "palette": [

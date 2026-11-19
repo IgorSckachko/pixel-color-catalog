@@ -1,9 +1,26 @@
 {
   "format": 2,
   "id": "girl_on_a_bicycle_128",
-  "title": "girl_on_a_bicycle",
-  "theme": "other",
-  "tags": [],
+  "title": "Девушка на велосипеде",
+  "titles": {
+    "en": "Girl on a bicycle",
+    "es": "Chica en bicicleta",
+    "pt_BR": "Garota de bicicleta",
+    "de": "Mädchen auf dem Fahrrad",
+    "fr": "Fille à vélo",
+    "tr": "Bisikletli kız",
+    "id": "Gadis bersepeda",
+    "ja": "自転車の少女",
+    "ko": "자전거 탄 소녀"
+  },
+  "theme": "portraits",
+  "tags": [
+    "girl",
+    "bicycle",
+    "девушка",
+    "на",
+    "велосипеде"
+  ],
   "added": "2026-11-23",
   "width": 128,
   "height": 128,

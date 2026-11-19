@@ -1,9 +1,25 @@
 {
   "format": 2,
   "id": "duck_01_56",
-  "title": "duck_01",
-  "theme": "other",
-  "tags": [],
+  "title": "Утка",
+  "titles": {
+    "en": "Duck",
+    "es": "Pato",
+    "pt_BR": "Pato",
+    "de": "Ente",
+    "fr": "Canard",
+    "tr": "Ördek",
+    "id": "Bebek",
+    "ja": "アヒル",
+    "ko": "오리"
+  },
+  "theme": "animals",
+  "tags": [
+    "duck",
+    "bird",
+    "water",
+    "утка"
+  ],
   "added": "2026-11-18",
   "width": 56,
   "height": 56,

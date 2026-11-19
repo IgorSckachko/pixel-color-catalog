@@ -1,10 +1,25 @@
 {
   "format": 2,
   "id": "flowers_72",
-  "title": "flowers-",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-18",
+  "title": "Цветы",
+  "titles": {
+    "en": "Flowers",
+    "es": "Flores",
+    "pt_BR": "Flores",
+    "de": "Blumen",
+    "fr": "Fleurs",
+    "tr": "Çiçekler",
+    "id": "Bunga",
+    "ja": "花",
+    "ko": "꽃"
+  },
+  "theme": "flowers",
+  "tags": [
+    "flowers",
+    "bouquet",
+    "цветы"
+  ],
+  "added": "2027-01-02",
   "width": 72,
   "height": 72,
   "palette": [

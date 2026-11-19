@@ -1,10 +1,27 @@
 {
   "format": 2,
   "id": "nightcity_2_88",
-  "title": "nightcity_2",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-12-03",
+  "title": "Ночной город",
+  "titles": {
+    "en": "Night city",
+    "es": "Ciudad nocturna",
+    "pt_BR": "Cidade noturna",
+    "de": "Nachtstadt",
+    "fr": "Ville de nuit",
+    "tr": "Gece şehri",
+    "id": "Kota malam",
+    "ja": "夜の街",
+    "ko": "밤의 도시"
+  },
+  "theme": "architecture",
+  "tags": [
+    "night",
+    "city",
+    "lights",
+    "ночной",
+    "город"
+  ],
+  "added": "2026-12-26",
   "width": 88,
   "height": 88,
   "palette": [

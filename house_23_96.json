@@ -1,10 +1,28 @@
 {
   "format": 2,
   "id": "house_23_96",
-  "title": "house_23",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-25",
+  "title": "Дом в зелени",
+  "titles": {
+    "en": "House among greenery",
+    "es": "Casa entre el verde",
+    "pt_BR": "Casa entre o verde",
+    "de": "Haus im Grünen",
+    "fr": "Maison dans la verdure",
+    "tr": "Yeşillikler içinde ev",
+    "id": "Rumah di antara hijau",
+    "ja": "緑の中の家",
+    "ko": "초록 속의 집"
+  },
+  "theme": "architecture",
+  "tags": [
+    "house",
+    "green",
+    "nature",
+    "дом",
+    "в",
+    "зелени"
+  ],
+  "added": "2026-12-17",
   "width": 96,
   "height": 96,
   "palette": [

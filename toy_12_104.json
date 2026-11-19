@@ -1,10 +1,26 @@
 {
   "format": 2,
   "id": "toy_12_104",
-  "title": "toy_12",
+  "title": "Пирамидка",
+  "titles": {
+    "en": "Stacking rings",
+    "es": "Pirámide de anillos",
+    "pt_BR": "Pirâmide de argolas",
+    "de": "Stapelspielzeug",
+    "fr": "Pyramide à anneaux",
+    "tr": "Halkalı piramit",
+    "id": "Menara cincin",
+    "ja": "積み木リング",
+    "ko": "링 쌓기 장난감"
+  },
   "theme": "kids",
-  "tags": [],
-  "added": "2026-11-21",
+  "tags": [
+    "toy",
+    "pyramid",
+    "rings",
+    "пирамидка"
+  ],
+  "added": "2027-01-04",
   "width": 104,
   "height": 104,
   "palette": [

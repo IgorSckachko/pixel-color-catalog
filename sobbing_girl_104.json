@@ -1,10 +1,27 @@
 {
   "format": 2,
   "id": "sobbing_girl_104",
-  "title": "sobbing_girl",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-12-09",
+  "title": "Аниме-девушка 7",
+  "titles": {
+    "en": "Anime girl 7",
+    "es": "Chica anime 7",
+    "pt_BR": "Garota anime 7",
+    "de": "Anime-Mädchen 7",
+    "fr": "Fille manga 7",
+    "tr": "Anime kızı 7",
+    "id": "Gadis anime 7",
+    "ja": "アニメの少女 7",
+    "ko": "애니메 소녀 7"
+  },
+  "theme": "portraits",
+  "tags": [
+    "girl",
+    "anime",
+    "portrait",
+    "аниме",
+    "девушка"
+  ],
+  "added": "2026-12-01",
   "width": 104,
   "height": 104,
   "palette": [

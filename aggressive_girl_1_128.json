@@ -1,9 +1,26 @@
 {
   "format": 2,
   "id": "aggressive_girl_1_128",
-  "title": "aggressive_girl-1",
-  "theme": "other",
-  "tags": [],
+  "title": "Аниме-девушка 1",
+  "titles": {
+    "en": "Anime girl 1",
+    "es": "Chica anime 1",
+    "pt_BR": "Garota anime 1",
+    "de": "Anime-Mädchen 1",
+    "fr": "Fille manga 1",
+    "tr": "Anime kızı 1",
+    "id": "Gadis anime 1",
+    "ja": "アニメの少女 1",
+    "ko": "애니메 소녀 1"
+  },
+  "theme": "portraits",
+  "tags": [
+    "girl",
+    "anime",
+    "portrait",
+    "аниме",
+    "девушка"
+  ],
   "added": "2026-11-18",
   "width": 128,
   "height": 128,

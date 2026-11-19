@@ -1,10 +1,27 @@
 {
   "format": 2,
   "id": "cheerful_pumpkins_128",
-  "title": "cheerful_pumpkins",
+  "title": "Весёлые тыквы",
+  "titles": {
+    "en": "Cheerful pumpkins",
+    "es": "Calabazas alegres",
+    "pt_BR": "Abóboras alegres",
+    "de": "Fröhliche Kürbisse",
+    "fr": "Citrouilles joyeuses",
+    "tr": "Neşeli kabaklar",
+    "id": "Labu ceria",
+    "ja": "楽しいカボチャ",
+    "ko": "즐거운 호박"
+  },
   "theme": "other",
-  "tags": [],
-  "added": "2026-11-20",
+  "tags": [
+    "pumpkin",
+    "autumn",
+    "halloween",
+    "весёлые",
+    "тыквы"
+  ],
+  "added": "2026-12-15",
   "width": 105,
   "height": 105,
   "palette": [

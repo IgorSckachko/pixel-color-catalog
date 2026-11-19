@@ -1,10 +1,26 @@
 {
   "format": 2,
   "id": "in_castle_23_104",
-  "title": "in_castle_23",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-28",
+  "title": "В замке",
+  "titles": {
+    "en": "In the castle",
+    "es": "En el castillo",
+    "pt_BR": "No castelo",
+    "de": "Im Schloss",
+    "fr": "Dans le château",
+    "tr": "Kalede",
+    "id": "Di dalam kastil",
+    "ja": "城の中",
+    "ko": "성 안에서"
+  },
+  "theme": "fantasy",
+  "tags": [
+    "castle",
+    "interior",
+    "в",
+    "замке"
+  ],
+  "added": "2027-01-10",
   "width": 95,
   "height": 95,
   "palette": [

@@ -25,6 +25,7 @@
     "relax",
     "symmetry"
   ],
+  "added": "2026-12-27",
   "width": 64,
   "height": 64,
   "palette": [
@@ -39,6 +40,5 @@
     "#0f3799",
     "#6c62d9"
   ],
-  "added": "2026-11-30",
   "pixels_gz": "H4sIAAAAAAAC/7WXgW7DIAxEBYGm9P8/eBjOxiZrleo2a+rSqO8wZ5NASv8UJcS37PMS9zU8Ha9v5u2Isn39hn7q5J+3FcJvs8XNSQwaY+Ysd44e8r9LWCpvFRYu8BHCJN4L2AwvsEmYF5/x4018EihqmqMrIijgd78bv/C6xSawewBZxYU4z3OiuFCB3xKIo4OqylcoxQyulfP4dXwnsFexeOPrh/BlKH74scYnbqPNFpTOsYwgMBppJYDhFZ8C2fuTMQ8IxATGNbJX34RuPfRTFKaPywJNAG74uo3B21it/aPNFFwd4fiqnQ1fV+7Ct6Z8ys5DFLE4PuAdaz7//rUFAcejGxafdeiUXj1EYiaRXQLFltFqXOgnTPplASvSSgBtbK2L9E9MvgV8CKAIFSXI2sTFpT8cnt4FXATG7VmdNQHl4b6UPg/H2muLcVOKWMFnxxdMf5a+rck/eiwLmjaBVbCgeZ19yfGPR84QmHeTMxAtPPlj4xUff3MCkT8WXzbe3BNWBJyDgS9/w7P50/6x9aP7h+5fYv2w65d+frDPL/b5yT6/6fcH+/6i35/s+5veP7D7F3r/RO/f2P0jvX+l98/0/p0+P9DnF/78RJ/f+PMjf37lz89fxA+GuaqxABAAAA=="
 }

@@ -1,10 +1,27 @@
 {
   "format": 2,
   "id": "cake_91_128",
-  "title": "cake-91",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-25",
+  "title": "Кусок торта",
+  "titles": {
+    "en": "Slice of cake",
+    "es": "Trozo de tarta",
+    "pt_BR": "Fatia de bolo",
+    "de": "Tortenstück",
+    "fr": "Part de gâteau",
+    "tr": "Pasta dilimi",
+    "id": "Sepotong kue",
+    "ja": "ケーキ一切れ",
+    "ko": "케이크 한 조각"
+  },
+  "theme": "food",
+  "tags": [
+    "cake",
+    "dessert",
+    "sweet",
+    "кусок",
+    "торта"
+  ],
+  "added": "2026-11-18",
   "width": 128,
   "height": 128,
   "palette": [

@@ -1,10 +1,24 @@
 {
   "format": 2,
   "id": "toy_19_104",
-  "title": "toy_19",
+  "title": "Игрушка 4",
+  "titles": {
+    "en": "Toy 4",
+    "es": "Juguete 4",
+    "pt_BR": "Brinquedo 4",
+    "de": "Spielzeug 4",
+    "fr": "Jouet 4",
+    "tr": "Oyuncak 4",
+    "id": "Mainan 4",
+    "ja": "おもちゃ 4",
+    "ko": "장난감 4"
+  },
   "theme": "kids",
-  "tags": [],
-  "added": "2026-11-28",
+  "tags": [
+    "toy",
+    "игрушка"
+  ],
+  "added": "2026-11-20",
   "width": 104,
   "height": 104,
   "palette": [

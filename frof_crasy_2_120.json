@@ -1,10 +1,25 @@
 {
   "format": 2,
   "id": "frof_crasy_2_120",
-  "title": "frof_crasy_2",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-22",
+  "title": "Лягушка",
+  "titles": {
+    "en": "Frog",
+    "es": "Rana",
+    "pt_BR": "Sapo",
+    "de": "Frosch",
+    "fr": "Grenouille",
+    "tr": "Kurbağa",
+    "id": "Katak",
+    "ja": "カエル",
+    "ko": "개구리"
+  },
+  "theme": "animals",
+  "tags": [
+    "frog",
+    "animal",
+    "лягушка"
+  ],
+  "added": "2026-11-28",
   "width": 120,
   "height": 120,
   "palette": [

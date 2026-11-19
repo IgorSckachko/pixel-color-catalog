@@ -1,10 +1,27 @@
 {
   "format": 2,
   "id": "raining_girl_112",
-  "title": "raining_girl",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-12-06",
+  "title": "Девушка под дождём",
+  "titles": {
+    "en": "Girl in the rain",
+    "es": "Chica bajo la lluvia",
+    "pt_BR": "Garota na chuva",
+    "de": "Mädchen im Regen",
+    "fr": "Fille sous la pluie",
+    "tr": "Yağmurda kız",
+    "id": "Gadis di bawah hujan",
+    "ja": "雨の中の少女",
+    "ko": "빗속의 소녀"
+  },
+  "theme": "portraits",
+  "tags": [
+    "girl",
+    "rain",
+    "девушка",
+    "под",
+    "дождём"
+  ],
+  "added": "2026-12-07",
   "width": 112,
   "height": 112,
   "palette": [

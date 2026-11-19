@@ -1,10 +1,24 @@
 {
   "format": 2,
   "id": "toy_11_88",
-  "title": "toy_11",
+  "title": "Игрушка 1",
+  "titles": {
+    "en": "Toy 1",
+    "es": "Juguete 1",
+    "pt_BR": "Brinquedo 1",
+    "de": "Spielzeug 1",
+    "fr": "Jouet 1",
+    "tr": "Oyuncak 1",
+    "id": "Mainan 1",
+    "ja": "おもちゃ 1",
+    "ko": "장난감 1"
+  },
   "theme": "kids",
-  "tags": [],
-  "added": "2026-11-20",
+  "tags": [
+    "toy",
+    "игрушка"
+  ],
+  "added": "2027-01-02",
   "width": 88,
   "height": 88,
   "palette": [

@@ -1,10 +1,26 @@
 {
   "format": 2,
   "id": "house_7_120",
-  "title": "house-7",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-29",
+  "title": "Уютный дом",
+  "titles": {
+    "en": "Cozy house",
+    "es": "Casa acogedora",
+    "pt_BR": "Casa aconchegante",
+    "de": "Gemütliches Haus",
+    "fr": "Maison douillette",
+    "tr": "Sevimli ev",
+    "id": "Rumah nyaman",
+    "ja": "居心地のよい家",
+    "ko": "아늑한 집"
+  },
+  "theme": "architecture",
+  "tags": [
+    "house",
+    "cozy",
+    "уютный",
+    "дом"
+  ],
+  "added": "2026-11-18",
   "width": 120,
   "height": 120,
   "palette": [

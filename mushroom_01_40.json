@@ -1,10 +1,25 @@
 {
   "format": 2,
   "id": "mushroom_01_40",
-  "title": "mushroom_01",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-22",
+  "title": "Гриб",
+  "titles": {
+    "en": "Mushroom",
+    "es": "Seta",
+    "pt_BR": "Cogumelo",
+    "de": "Pilz",
+    "fr": "Champignon",
+    "tr": "Mantar",
+    "id": "Jamur",
+    "ja": "キノコ",
+    "ko": "버섯"
+  },
+  "theme": "nature",
+  "tags": [
+    "mushroom",
+    "forest",
+    "гриб"
+  ],
+  "added": "2026-11-18",
   "width": 40,
   "height": 40,
   "palette": [

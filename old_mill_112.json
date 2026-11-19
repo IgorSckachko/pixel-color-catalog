@@ -1,10 +1,27 @@
 {
   "format": 2,
   "id": "old_mill_112",
-  "title": "old_mill",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-12-05",
+  "title": "Старая мельница",
+  "titles": {
+    "en": "Old mill",
+    "es": "Molino viejo",
+    "pt_BR": "Moinho velho",
+    "de": "Alte Mühle",
+    "fr": "Vieux moulin",
+    "tr": "Eski değirmen",
+    "id": "Kincir tua",
+    "ja": "古い水車小屋",
+    "ko": "오래된 방앗간"
+  },
+  "theme": "architecture",
+  "tags": [
+    "mill",
+    "old",
+    "village",
+    "старая",
+    "мельница"
+  ],
+  "added": "2026-12-11",
   "width": 112,
   "height": 112,
   "palette": [

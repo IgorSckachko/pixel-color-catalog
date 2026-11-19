@@ -1,10 +1,27 @@
 {
   "format": 2,
   "id": "in_the_bus_128",
-  "title": "in_the_bus",
+  "title": "В автобусе",
+  "titles": {
+    "en": "On the bus",
+    "es": "En el autobús",
+    "pt_BR": "No ônibus",
+    "de": "Im Bus",
+    "fr": "Dans le bus",
+    "tr": "Otobüste",
+    "id": "Di dalam bus",
+    "ja": "バスの中",
+    "ko": "버스 안에서"
+  },
   "theme": "other",
-  "tags": [],
-  "added": "2026-11-29",
+  "tags": [
+    "bus",
+    "transport",
+    "city",
+    "в",
+    "автобусе"
+  ],
+  "added": "2026-12-07",
   "width": 128,
   "height": 128,
   "palette": [

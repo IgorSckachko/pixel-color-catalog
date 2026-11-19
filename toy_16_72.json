@@ -1,10 +1,24 @@
 {
   "format": 2,
   "id": "toy_16_72",
-  "title": "toy_16",
+  "title": "Игрушка 2",
+  "titles": {
+    "en": "Toy 2",
+    "es": "Juguete 2",
+    "pt_BR": "Brinquedo 2",
+    "de": "Spielzeug 2",
+    "fr": "Jouet 2",
+    "tr": "Oyuncak 2",
+    "id": "Mainan 2",
+    "ja": "おもちゃ 2",
+    "ko": "장난감 2"
+  },
   "theme": "kids",
-  "tags": [],
-  "added": "2026-11-25",
+  "tags": [
+    "toy",
+    "игрушка"
+  ],
+  "added": "2026-12-11",
   "width": 72,
   "height": 72,
   "palette": [
