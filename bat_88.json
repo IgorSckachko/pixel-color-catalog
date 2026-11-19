@@ -1,9 +1,31 @@
 {
   "format": 2,
   "id": "bat_88",
-  "title": "bat",
+  "title": "Летучая мышь",
+  "titles": {
+    "en": "Bat",
+    "es": "Murciélago",
+    "pt_BR": "Morcego",
+    "de": "Fledermaus",
+    "fr": "Chauve-souris",
+    "tr": "Yarasa",
+    "id": "Kelelawar",
+    "ja": "コウモリ",
+    "ko": "박쥐"
+  },
   "theme": "animals",
-  "tags": [],
+  "tags": [
+    "летучая мышь",
+    "ночь",
+    "животное",
+    "хэллоуин",
+    "bat",
+    "night",
+    "animal",
+    "halloween",
+    "пикселарт",
+    "pixelart"
+  ],
   "added": "2026-11-18",
   "width": 88,
   "height": 88,

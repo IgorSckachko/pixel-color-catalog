@@ -1,9 +1,31 @@
 {
   "format": 2,
   "id": "cat_123_64",
-  "title": "cat-123",
+  "title": "Кот",
+  "titles": {
+    "en": "Cat",
+    "es": "Gato",
+    "pt_BR": "Gato",
+    "de": "Katze",
+    "fr": "Chat",
+    "tr": "Kedi",
+    "id": "Kucing",
+    "ja": "ネコ",
+    "ko": "고양이"
+  },
   "theme": "cats",
-  "tags": [],
+  "tags": [
+    "кот",
+    "кошка",
+    "питомец",
+    "животное",
+    "cat",
+    "kitten",
+    "pet",
+    "animal",
+    "пикселарт",
+    "pixelart"
+  ],
   "added": "2026-11-18",
   "width": 64,
   "height": 64,

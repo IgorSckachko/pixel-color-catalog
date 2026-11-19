@@ -1,12 +1,59 @@
 {
   "format": 2,
   "id": "003_eiffel_tower_96",
-  "title": "003_Eiffel_Tower",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-19",
+  "title": "Эйфелева башня",
+  "titles": {
+    "en": "Eiffel Tower",
+    "es": "Torre Eiffel",
+    "pt_BR": "Torre Eiffel",
+    "de": "Eiffelturm",
+    "fr": "Tour Eiffel",
+    "tr": "Eyfel Kulesi",
+    "id": "Menara Eiffel",
+    "ja": "エッフェル塔",
+    "ko": "에펠탑"
+  },
+  "theme": "landmarks",
+  "tags": [
+    "эйфелева башня",
+    "париж",
+    "франция",
+    "башня",
+    "достопримечательность",
+    "металл",
+    "небо",
+    "город",
+    "архитектура",
+    "eiffel tower",
+    "paris",
+    "france",
+    "tower",
+    "landmark",
+    "iron",
+    "sky",
+    "city",
+    "architecture",
+    "пикселарт",
+    "pixelart"
+  ],
+  "added": "2026-11-20",
   "width": 96,
   "height": 96,
+  "info": {
+    "author": {
+      "en": "Gustave Eiffel's company",
+      "ru": "Компания Гюстава Эйфеля"
+    },
+    "year": "1889",
+    "work_wiki": {
+      "en": "Eiffel_Tower",
+      "ru": "Эйфелева башня"
+    },
+    "summary": {
+      "en": "A wrought-iron lattice tower on the Champ de Mars in Paris, built for the 1889 World's Fair. It is 330 metres tall with its antennas.",
+      "ru": "Решётчатая башня из пудлингового железа на Марсовом поле в Париже, построена к Всемирной выставке 1889 года. Высота с антеннами — 330 метров."
+    }
+  },
   "palette": [
     "#3b6591",
     "#213e63",

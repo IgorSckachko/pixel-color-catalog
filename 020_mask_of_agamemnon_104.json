@@ -1,12 +1,53 @@
 {
   "format": 2,
   "id": "020_mask_of_agamemnon_104",
-  "title": "020_Mask_of_Agamemnon",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-12-06",
+  "title": "Маска Агамемнона",
+  "titles": {
+    "en": "Mask of Agamemnon",
+    "es": "Máscara de Agamenón",
+    "pt_BR": "Máscara de Agamêmnon",
+    "de": "Maske des Agamemnon",
+    "fr": "Masque d'Agamemnon",
+    "tr": "Agamemnon Maskesi",
+    "id": "Topeng Agamemnon",
+    "ja": "アガメムノンのマスク",
+    "ko": "아가멤논의 가면"
+  },
+  "theme": "artifacts",
+  "tags": [
+    "маска агамемнона",
+    "микены",
+    "греция",
+    "золото",
+    "бронзовый век",
+    "шлиман",
+    "артефакт",
+    "древность",
+    "mask of agamemnon",
+    "mycenae",
+    "greece",
+    "gold",
+    "bronze age",
+    "schliemann",
+    "artifact",
+    "ancient",
+    "пикселарт",
+    "pixelart"
+  ],
+  "added": "2026-12-10",
   "width": 104,
   "height": 104,
+  "info": {
+    "year": "16th century BC",
+    "work_wiki": {
+      "en": "Mask_of_Agamemnon",
+      "ru": "Маска Агамемнона"
+    },
+    "summary": {
+      "en": "A gold funerary mask found by Heinrich Schliemann in a royal grave at Mycenae in 1876. It is in the National Archaeological Museum in Athens.",
+      "ru": "Золотая погребальная маска, найденная Генрихом Шлиманом в царской гробнице в Микенах в 1876 году. Хранится в Национальном археологическом музее в Афинах."
+    }
+  },
   "palette": [
     "#1c1c1c",
     "#181818",

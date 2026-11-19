@@ -1,12 +1,54 @@
 {
   "format": 2,
   "id": "004_notre_dame_de_paris_128",
-  "title": "004_Notre_Dame_de_Paris",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-22",
+  "title": "Собор Парижской Богоматери",
+  "titles": {
+    "en": "Notre-Dame de Paris",
+    "es": "Catedral de Notre Dame de París",
+    "pt_BR": "Catedral de Notre-Dame de Paris",
+    "de": "Kathedrale Notre-Dame de Paris",
+    "fr": "Cathédrale Notre-Dame de Paris",
+    "tr": "Notre-Dame Katedrali",
+    "id": "Katedral Notre-Dame de Paris",
+    "ja": "ノートルダム大聖堂",
+    "ko": "노트르담 대성당"
+  },
+  "theme": "landmarks",
+  "tags": [
+    "нотр-дам",
+    "собор парижской богоматери",
+    "париж",
+    "франция",
+    "готика",
+    "собор",
+    "церковь",
+    "сена",
+    "архитектура",
+    "notre-dame",
+    "paris",
+    "france",
+    "gothic",
+    "cathedral",
+    "church",
+    "seine",
+    "architecture",
+    "пикселарт",
+    "pixelart"
+  ],
+  "added": "2026-12-08",
   "width": 128,
   "height": 128,
+  "info": {
+    "year": "1163–1345",
+    "work_wiki": {
+      "en": "Notre-Dame_de_Paris",
+      "ru": "Нотр-Дам-де-Пари"
+    },
+    "summary": {
+      "en": "A medieval Catholic cathedral on the Île de la Cité in Paris and a masterpiece of French Gothic architecture.",
+      "ru": "Средневековый католический собор на острове Сите в Париже, шедевр французской готики."
+    }
+  },
   "palette": [
     "#7ca3db",
     "#9e9278",

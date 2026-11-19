@@ -1,12 +1,62 @@
 {
   "format": 2,
   "id": "005_primavera_right_120",
-  "title": "005_Primavera_right",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-27",
+  "title": "Весна (Примавера) — справа",
+  "titles": {
+    "en": "Primavera — right",
+    "es": "Primavera — derecha",
+    "pt_BR": "Primavera — direita",
+    "de": "Primavera — rechts",
+    "fr": "Le Printemps (Primavera) — droite",
+    "tr": "Primavera (İlkbahar) — sağ",
+    "id": "Primavera — kanan",
+    "ja": "プリマヴェーラ（春） — 右",
+    "ko": "프리마베라 (봄) — 오른쪽"
+  },
+  "theme": "paintings",
+  "tags": [
+    "картина",
+    "весна",
+    "примавера",
+    "боттичелли",
+    "три грации",
+    "сад",
+    "цветы",
+    "ренессанс",
+    "живопись",
+    "painting",
+    "primavera",
+    "spring",
+    "botticelli",
+    "three graces",
+    "garden",
+    "flowers",
+    "renaissance",
+    "пикселарт",
+    "pixelart"
+  ],
+  "added": "2026-12-07",
   "width": 120,
   "height": 120,
+  "info": {
+    "author": {
+      "en": "Sandro Botticelli",
+      "ru": "Сандро Боттичелли"
+    },
+    "year": "c. 1480",
+    "work_wiki": {
+      "en": "Primavera_(Botticelli)",
+      "ru": "Весна (картина Боттичелли)"
+    },
+    "author_wiki": {
+      "en": "Sandro_Botticelli",
+      "ru": "Боттичелли, Сандро"
+    },
+    "summary": {
+      "en": "An allegory of spring: figures from classical myth stand in an orange grove strewn with flowers. It is in the Uffizi Gallery.",
+      "ru": "Аллегория весны: герои античных мифов в цветущем апельсиновом саду. Хранится в галерее Уффици."
+    }
+  },
   "palette": [
     "#110f12",
     "#aa8d6e",

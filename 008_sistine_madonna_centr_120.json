@@ -1,12 +1,64 @@
 {
   "format": 2,
   "id": "008_sistine_madonna_centr_120",
-  "title": "008_Sistine_Madonna_centr",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-12-03",
+  "title": "Сикстинская мадонна — центр",
+  "titles": {
+    "en": "Sistine Madonna — center",
+    "es": "Madona Sixtina — centro",
+    "pt_BR": "Madona Sistina — centro",
+    "de": "Sixtinische Madonna — Mitte",
+    "fr": "Madone Sixtine — centre",
+    "tr": "Sistina Madonnası — orta",
+    "id": "Madonna Sistina — tengah",
+    "ja": "システィーナの聖母 — 中央",
+    "ko": "시스티나의 성모 — 가운데"
+  },
+  "theme": "paintings",
+  "tags": [
+    "картина",
+    "сикстинская мадонна",
+    "рафаэль",
+    "мадонна",
+    "младенец",
+    "ангелы",
+    "дрезден",
+    "ренессанс",
+    "живопись",
+    "классика",
+    "painting",
+    "sistine madonna",
+    "raphael",
+    "madonna",
+    "child",
+    "angels",
+    "dresden",
+    "renaissance",
+    "classic art",
+    "пикселарт",
+    "pixelart"
+  ],
+  "added": "2026-11-29",
   "width": 120,
   "height": 120,
+  "info": {
+    "author": {
+      "en": "Raphael",
+      "ru": "Рафаэль"
+    },
+    "year": "1512",
+    "work_wiki": {
+      "en": "Sistine_Madonna",
+      "ru": "Сикстинская мадонна"
+    },
+    "author_wiki": {
+      "en": "Raphael",
+      "ru": "Рафаэль Санти"
+    },
+    "summary": {
+      "en": "Raphael's altarpiece shows the Virgin Mary carrying the infant Jesus on clouds. Two cherubs at the bottom have become famous on their own. It is in Dresden.",
+      "ru": "Алтарная картина Рафаэля: Мария с младенцем Иисусом на облаках. Двое ангелов внизу прославились отдельно. Хранится в Дрездене."
+    }
+  },
   "palette": [
     "#302b28",
     "#3f4138",

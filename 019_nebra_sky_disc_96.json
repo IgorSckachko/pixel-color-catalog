@@ -1,12 +1,54 @@
 {
   "format": 2,
   "id": "019_nebra_sky_disc_96",
-  "title": "019_Nebra_sky_disc",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-12-05",
+  "title": "Небрийский диск",
+  "titles": {
+    "en": "Nebra Sky Disc",
+    "es": "Disco celeste de Nebra",
+    "pt_BR": "Disco Celeste de Nebra",
+    "de": "Himmelsscheibe von Nebra",
+    "fr": "Disque céleste de Nebra",
+    "tr": "Nebra Gök Diski",
+    "id": "Cakram Langit Nebra",
+    "ja": "ネブラの天空円盤",
+    "ko": "네브라 하늘 원반"
+  },
+  "theme": "artifacts",
+  "tags": [
+    "небрийский диск",
+    "небесный диск",
+    "бронзовый век",
+    "солнце",
+    "луна",
+    "звёзды",
+    "германия",
+    "артефакт",
+    "древность",
+    "nebra sky disc",
+    "bronze age",
+    "sun",
+    "moon",
+    "stars",
+    "germany",
+    "artifact",
+    "ancient",
+    "пикселарт",
+    "pixelart"
+  ],
+  "added": "2026-12-04",
   "width": 96,
   "height": 96,
+  "info": {
+    "year": "c. 1600 BC",
+    "work_wiki": {
+      "en": "Nebra_sky_disc",
+      "ru": "Небрийский диск"
+    },
+    "summary": {
+      "en": "A Bronze Age bronze disc with gold symbols of the sun, moon and stars, found in Germany. It is one of the oldest known depictions of the cosmos.",
+      "ru": "Бронзовый диск эпохи бронзы с золотыми изображениями солнца, луны и звёзд, найденный в Германии. Одно из древнейших известных изображений космоса."
+    }
+  },
   "palette": [
     "#141212",
     "#364445",

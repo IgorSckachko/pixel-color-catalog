@@ -1,12 +1,62 @@
 {
   "format": 2,
   "id": "004_the_birth_of_venus_right_128",
-  "title": "004_The_Birth_of_Venus_right",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-24",
+  "title": "Рождение Венеры — справа",
+  "titles": {
+    "en": "The Birth of Venus — right",
+    "es": "El nacimiento de Venus — derecha",
+    "pt_BR": "O Nascimento de Vênus — direita",
+    "de": "Die Geburt der Venus — rechts",
+    "fr": "La Naissance de Vénus — droite",
+    "tr": "Venüs'ün Doğuşu — sağ",
+    "id": "Kelahiran Venus — kanan",
+    "ja": "ヴィーナスの誕生 — 右",
+    "ko": "비너스의 탄생 — 오른쪽"
+  },
+  "theme": "paintings",
+  "tags": [
+    "картина",
+    "рождение венеры",
+    "боттичелли",
+    "венера",
+    "раковина",
+    "море",
+    "ренессанс",
+    "живопись",
+    "классика",
+    "painting",
+    "the birth of venus",
+    "botticelli",
+    "venus",
+    "shell",
+    "sea",
+    "renaissance",
+    "classic art",
+    "пикселарт",
+    "pixelart"
+  ],
+  "added": "2026-11-25",
   "width": 128,
   "height": 128,
+  "info": {
+    "author": {
+      "en": "Sandro Botticelli",
+      "ru": "Сандро Боттичелли"
+    },
+    "year": "c. 1485",
+    "work_wiki": {
+      "en": "The_Birth_of_Venus_(Botticelli)",
+      "ru": "Рождение Венеры (картина Боттичелли)"
+    },
+    "author_wiki": {
+      "en": "Sandro_Botticelli",
+      "ru": "Боттичелли, Сандро"
+    },
+    "summary": {
+      "en": "The goddess Venus arrives at the shore on a giant scallop shell. The painting hangs in the Uffizi Gallery in Florence.",
+      "ru": "Богиня Венера приплывает к берегу на огромной раковине. Картина хранится в галерее Уффици во Флоренции."
+    }
+  },
   "palette": [
     "#babe9f",
     "#1f1e16",

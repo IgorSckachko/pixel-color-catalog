@@ -1,12 +1,53 @@
 {
   "format": 2,
   "id": "011_sutton_hoo_helmet_128",
-  "title": "011_Sutton_Hoo_helmet",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-12-03",
+  "title": "Шлем из Саттон-Ху",
+  "titles": {
+    "en": "Sutton Hoo Helmet",
+    "es": "Casco de Sutton Hoo",
+    "pt_BR": "Capacete de Sutton Hoo",
+    "de": "Helm von Sutton Hoo",
+    "fr": "Casque de Sutton Hoo",
+    "tr": "Sutton Hoo Miğferi",
+    "id": "Helm Sutton Hoo",
+    "ja": "サットン・フーの兜",
+    "ko": "서튼 후 투구"
+  },
+  "theme": "artifacts",
+  "tags": [
+    "саттон-ху",
+    "шлем",
+    "англосаксы",
+    "воин",
+    "корабельное погребение",
+    "англия",
+    "артефакт",
+    "древность",
+    "sutton hoo",
+    "helmet",
+    "anglo-saxon",
+    "warrior",
+    "ship burial",
+    "england",
+    "artifact",
+    "ancient",
+    "пикселарт",
+    "pixelart"
+  ],
+  "added": "2026-12-14",
   "width": 112,
   "height": 112,
+  "info": {
+    "year": "c. 625",
+    "work_wiki": {
+      "en": "Sutton_Hoo_helmet",
+      "ru": "Шлем из Саттон-Ху"
+    },
+    "summary": {
+      "en": "An Anglo-Saxon iron helmet with a face mask, found in a ship burial at Sutton Hoo in England in 1939. It is in the British Museum.",
+      "ru": "Англосаксонский железный шлем с маской, найденный в 1939 году в корабельном захоронении Саттон-Ху в Англии. Хранится в Британском музее."
+    }
+  },
   "palette": [
     "#feddf5",
     "#0b0905",

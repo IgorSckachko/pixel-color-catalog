@@ -1,12 +1,64 @@
 {
   "format": 2,
   "id": "006_the_creation_of_adam_left_112",
-  "title": "006_The_Creation_of_Adam_left",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-29",
+  "title": "Сотворение Адама — слева",
+  "titles": {
+    "en": "The Creation of Adam — left",
+    "es": "La creación de Adán — izquierda",
+    "pt_BR": "A Criação de Adão — esquerda",
+    "de": "Die Erschaffung Adams — links",
+    "fr": "La Création d'Adam — gauche",
+    "tr": "Adem'in Yaratılışı — sol",
+    "id": "Penciptaan Adam — kiri",
+    "ja": "アダムの創造 — 左",
+    "ko": "아담의 창조 — 왼쪽"
+  },
+  "theme": "paintings",
+  "tags": [
+    "картина",
+    "сотворение адама",
+    "микеланджело",
+    "сикстинская капелла",
+    "фреска",
+    "бог",
+    "адам",
+    "руки",
+    "ренессанс",
+    "живопись",
+    "painting",
+    "the creation of adam",
+    "michelangelo",
+    "sistine chapel",
+    "fresco",
+    "god",
+    "adam",
+    "hands",
+    "renaissance",
+    "пикселарт",
+    "pixelart"
+  ],
+  "added": "2026-12-16",
   "width": 112,
   "height": 112,
+  "info": {
+    "author": {
+      "en": "Michelangelo",
+      "ru": "Микеланджело"
+    },
+    "year": "c. 1512",
+    "work_wiki": {
+      "en": "The_Creation_of_Adam",
+      "ru": "Сотворение Адама"
+    },
+    "author_wiki": {
+      "en": "Michelangelo",
+      "ru": "Микеланджело"
+    },
+    "summary": {
+      "en": "A fresco on the ceiling of the Sistine Chapel in the Vatican. The nearly touching hands of God and Adam are one of the best-known images in art.",
+      "ru": "Фреска на потолке Сикстинской капеллы в Ватикане. Почти соприкасающиеся руки Бога и Адама — один из самых узнаваемых образов в искусстве."
+    }
+  },
   "palette": [
     "#b29462",
     "#534b32",

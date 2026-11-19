@@ -1,12 +1,56 @@
 {
   "format": 2,
   "id": "002_winged_victory_of_samothrace_128",
-  "title": "002_Winged_Victory_of_Samothrace",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-24",
+  "title": "Ника Самофракийская",
+  "titles": {
+    "en": "Winged Victory of Samothrace",
+    "es": "Victoria de Samotracia",
+    "pt_BR": "Vitória de Samotrácia",
+    "de": "Nike von Samothrake",
+    "fr": "Victoire de Samothrace",
+    "tr": "Samothrake Nikesi",
+    "id": "Nike dari Samothrace",
+    "ja": "サモトラケのニケ",
+    "ko": "사모트라케의 니케"
+  },
+  "theme": "sculptures",
+  "tags": [
+    "ника",
+    "самофракийская",
+    "богиня победы",
+    "крылья",
+    "древняя греция",
+    "статуя",
+    "мрамор",
+    "лувр",
+    "скульптура",
+    "winged victory",
+    "nike",
+    "samothrace",
+    "goddess of victory",
+    "wings",
+    "ancient greece",
+    "statue",
+    "marble",
+    "louvre",
+    "sculpture",
+    "пикселарт",
+    "pixelart"
+  ],
+  "added": "2026-11-21",
   "width": 120,
   "height": 120,
+  "info": {
+    "year": "c. 190 BC",
+    "work_wiki": {
+      "en": "Winged_Victory_of_Samothrace",
+      "ru": "Ника Самофракийская"
+    },
+    "summary": {
+      "en": "A Hellenistic marble statue of Nike, the goddess of victory, standing on the prow of a ship. It is displayed in the Louvre in Paris.",
+      "ru": "Эллинистическая мраморная статуя Ники, богини победы, на носу корабля. Выставлена в парижском Лувре."
+    }
+  },
   "palette": [
     "#564f43",
     "#a18c60",

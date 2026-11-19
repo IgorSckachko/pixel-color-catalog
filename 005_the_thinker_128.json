@@ -1,12 +1,61 @@
 {
   "format": 2,
   "id": "005_the_thinker_128",
-  "title": "005_The_Thinker",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-25",
+  "title": "Мыслитель",
+  "titles": {
+    "en": "The Thinker",
+    "es": "El pensador",
+    "pt_BR": "O Pensador",
+    "de": "Der Denker",
+    "fr": "Le Penseur",
+    "tr": "Düşünen Adam",
+    "id": "Sang Pemikir",
+    "ja": "考える人",
+    "ko": "생각하는 사람"
+  },
+  "theme": "sculptures",
+  "tags": [
+    "мыслитель",
+    "роден",
+    "бронза",
+    "скульптура",
+    "раздумье",
+    "статуя",
+    "искусство",
+    "музей",
+    "the thinker",
+    "rodin",
+    "bronze",
+    "sculpture",
+    "thinking",
+    "statue",
+    "art",
+    "museum",
+    "пикселарт",
+    "pixelart"
+  ],
+  "added": "2026-11-27",
   "width": 120,
   "height": 120,
+  "info": {
+    "author": {
+      "en": "Auguste Rodin",
+      "ru": "Огюст Роден"
+    },
+    "year": "1880–1882",
+    "work_wiki": {
+      "en": "The_Thinker",
+      "ru": "Мыслитель (скульптура)"
+    },
+    "author_wiki": {
+      "en": "Auguste_Rodin",
+      "ru": "Роден, Огюст"
+    },
+    "summary": {
+      "en": "A bronze sculpture of a seated man deep in thought, originally made for Rodin's monumental work The Gates of Hell.",
+      "ru": "Бронзовая скульптура сидящего человека в глубоком раздумье, первоначально создана для «Врат ада» Родена."
+    }
+  },
   "palette": [
     "#a48d83",
     "#a5b0b5",

@@ -1,12 +1,55 @@
 {
   "format": 2,
   "id": "015_alhambra_112",
-  "title": "015_Alhambra",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-20",
+  "title": "Альгамбра",
+  "titles": {
+    "en": "Alhambra",
+    "es": "Alhambra",
+    "pt_BR": "Alhambra",
+    "de": "Alhambra",
+    "fr": "Alhambra",
+    "tr": "Elhamra Sarayı",
+    "id": "Alhambra",
+    "ja": "アルハンブラ宮殿",
+    "ko": "알함브라 궁전"
+  },
+  "theme": "landmarks",
+  "tags": [
+    "альгамбра",
+    "гранада",
+    "испания",
+    "дворец",
+    "крепость",
+    "мавританский",
+    "горы",
+    "архитектура",
+    "достопримечательность",
+    "alhambra",
+    "granada",
+    "spain",
+    "palace",
+    "fortress",
+    "moorish",
+    "mountains",
+    "architecture",
+    "landmark",
+    "пикселарт",
+    "pixelart"
+  ],
+  "added": "2026-12-12",
   "width": 112,
   "height": 112,
+  "info": {
+    "year": "13th–14th century",
+    "work_wiki": {
+      "en": "Alhambra",
+      "ru": "Альгамбра"
+    },
+    "summary": {
+      "en": "A palace and fortress complex on a hill above Granada in Spain, the finest surviving example of Moorish architecture in Europe.",
+      "ru": "Дворцово-крепостной комплекс на холме над Гранадой в Испании, лучший сохранившийся образец мавританской архитектуры в Европе."
+    }
+  },
   "palette": [
     "#e8e2e2",
     "#0d1515",

@@ -1,12 +1,62 @@
 {
   "format": 2,
   "id": "015_hunters_in_the_snow_left_120",
-  "title": "015_Hunters_in_the_Snow_left",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-12-10",
+  "title": "Охотники на снегу",
+  "titles": {
+    "en": "Hunters in the Snow",
+    "es": "Cazadores en la nieve",
+    "pt_BR": "Caçadores na Neve",
+    "de": "Jäger im Schnee",
+    "fr": "Les Chasseurs dans la neige",
+    "tr": "Karda Avcılar",
+    "id": "Pemburu di Salju",
+    "ja": "雪中の狩人",
+    "ko": "눈 속의 사냥꾼"
+  },
+  "theme": "paintings",
+  "tags": [
+    "картина",
+    "охотники на снегу",
+    "брейгель",
+    "зима",
+    "снег",
+    "собаки",
+    "деревня",
+    "живопись",
+    "классика",
+    "painting",
+    "hunters in the snow",
+    "bruegel",
+    "winter",
+    "snow",
+    "dogs",
+    "village",
+    "classic art",
+    "пикселарт",
+    "pixelart"
+  ],
+  "added": "2026-12-22",
   "width": 120,
   "height": 120,
+  "info": {
+    "author": {
+      "en": "Pieter Bruegel the Elder",
+      "ru": "Питер Брейгель Старший"
+    },
+    "year": "1565",
+    "work_wiki": {
+      "en": "Hunters_in_the_Snow",
+      "ru": "Охотники на снегу"
+    },
+    "author_wiki": {
+      "en": "Pieter_Bruegel_the_Elder",
+      "ru": "Брейгель, Питер Старший"
+    },
+    "summary": {
+      "en": "Tired hunters and their dogs walk home across a snowy hill above a village where people skate on frozen ponds. It is in Vienna.",
+      "ru": "Усталые охотники с собаками возвращаются по заснеженному холму к деревне, где на замёрзших прудах катаются на коньках. Хранится в Вене."
+    }
+  },
   "palette": [
     "#e5dabf",
     "#101011",

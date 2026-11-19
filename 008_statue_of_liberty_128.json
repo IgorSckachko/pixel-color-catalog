@@ -1,12 +1,63 @@
 {
   "format": 2,
   "id": "008_statue_of_liberty_128",
-  "title": "008_Statue_of_Liberty",
-  "theme": "other",
-  "tags": [],
+  "title": "Статуя Свободы",
+  "titles": {
+    "en": "Statue of Liberty",
+    "es": "Estatua de la Libertad",
+    "pt_BR": "Estátua da Liberdade",
+    "de": "Freiheitsstatue",
+    "fr": "Statue de la Liberté",
+    "tr": "Özgürlük Anıtı",
+    "id": "Patung Liberty",
+    "ja": "自由の女神像",
+    "ko": "자유의 여신상"
+  },
+  "theme": "landmarks",
+  "tags": [
+    "статуя свободы",
+    "нью-йорк",
+    "сша",
+    "факел",
+    "медь",
+    "остров",
+    "символ",
+    "достопримечательность",
+    "скульптура",
+    "statue of liberty",
+    "new york",
+    "usa",
+    "torch",
+    "copper",
+    "island",
+    "symbol",
+    "landmark",
+    "sculpture",
+    "пикселарт",
+    "pixelart"
+  ],
   "added": "2026-11-26",
   "width": 128,
   "height": 128,
+  "info": {
+    "author": {
+      "en": "Frédéric Auguste Bartholdi",
+      "ru": "Фредерик Огюст Бартольди"
+    },
+    "year": "1886",
+    "work_wiki": {
+      "en": "Statue_of_Liberty",
+      "ru": "Статуя Свободы"
+    },
+    "author_wiki": {
+      "en": "Auguste_Bartholdi",
+      "ru": "Бартольди, Фредерик Огюст"
+    },
+    "summary": {
+      "en": "A copper statue on Liberty Island in New York Harbor, a gift from France to the United States.",
+      "ru": "Медная статуя на острове Свободы в гавани Нью-Йорка, подарок Франции Соединённым Штатам."
+    }
+  },
   "palette": [
     "#cfddec",
     "#b6d2f0",

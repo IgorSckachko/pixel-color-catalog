@@ -1,9 +1,31 @@
 {
   "format": 2,
   "id": "fruit_7_64",
-  "title": "fruit-7",
+  "title": "Фрукты",
+  "titles": {
+    "en": "Fruit",
+    "es": "Fruta",
+    "pt_BR": "Fruta",
+    "de": "Obst",
+    "fr": "Fruits",
+    "tr": "Meyve",
+    "id": "Buah",
+    "ja": "フルーツ",
+    "ko": "과일"
+  },
   "theme": "food",
-  "tags": [],
+  "tags": [
+    "фрукты",
+    "еда",
+    "сочный",
+    "витамины",
+    "fruit",
+    "food",
+    "juicy",
+    "vitamins",
+    "пикселарт",
+    "pixelart"
+  ],
   "added": "2026-11-18",
   "width": 64,
   "height": 64,

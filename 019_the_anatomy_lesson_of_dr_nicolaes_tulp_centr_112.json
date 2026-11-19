@@ -1,12 +1,62 @@
 {
   "format": 2,
   "id": "019_the_anatomy_lesson_of_dr_nicolaes_tulp_centr_112",
-  "title": "019_The_Anatomy_Lesson_of_Dr_Nicolaes_Tulp_centr",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-12-14",
+  "title": "Урок анатомии доктора Тюльпа",
+  "titles": {
+    "en": "The Anatomy Lesson of Dr. Nicolaes Tulp",
+    "es": "La lección de anatomía del doctor Nicolaes Tulp",
+    "pt_BR": "A Lição de Anatomia do Dr. Nicolaes Tulp",
+    "de": "Die Anatomie des Dr. Nicolaes Tulp",
+    "fr": "La Leçon d'anatomie du docteur Nicolaes Tulp",
+    "tr": "Dr. Nicolaes Tulp'un Anatomi Dersi",
+    "id": "Pelajaran Anatomi Dr. Nicolaes Tulp",
+    "ja": "テュルプ博士の解剖学講義",
+    "ko": "니콜라스 튈프 박사의 해부학 강의"
+  },
+  "theme": "paintings",
+  "tags": [
+    "картина",
+    "урок анатомии",
+    "доктор тюльп",
+    "рембрандт",
+    "врач",
+    "анатомия",
+    "хирурги",
+    "живопись",
+    "классика",
+    "painting",
+    "anatomy lesson",
+    "dr tulp",
+    "rembrandt",
+    "doctor",
+    "anatomy",
+    "surgeons",
+    "classic art",
+    "пикселарт",
+    "pixelart"
+  ],
+  "added": "2026-12-23",
   "width": 112,
   "height": 112,
+  "info": {
+    "author": {
+      "en": "Rembrandt",
+      "ru": "Рембрандт"
+    },
+    "year": "1632",
+    "work_wiki": {
+      "en": "The_Anatomy_Lesson_of_Dr._Nicolaes_Tulp",
+      "ru": "Урок анатомии доктора Тюльпа"
+    },
+    "author_wiki": {
+      "en": "Rembrandt",
+      "ru": "Рембрандт"
+    },
+    "summary": {
+      "en": "Dr. Tulp demonstrates the muscles of a dissected arm to a group of Amsterdam surgeons. It is in the Mauritshuis in The Hague.",
+      "ru": "Доктор Тюльп показывает мышцы препарированной руки группе амстердамских хирургов. Хранится в Маурицхёйсе в Гааге."
+    }
+  },
   "palette": [
     "#040203",
     "#291f13",

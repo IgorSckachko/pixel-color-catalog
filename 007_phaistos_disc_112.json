@@ -1,12 +1,55 @@
 {
   "format": 2,
   "id": "007_phaistos_disc_112",
-  "title": "007_Phaistos_Disc",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-12-02",
+  "title": "Фестский диск",
+  "titles": {
+    "en": "Phaistos Disc",
+    "es": "Disco de Festo",
+    "pt_BR": "Disco de Festo",
+    "de": "Diskos von Phaistos",
+    "fr": "Disque de Phaistos",
+    "tr": "Phaistos Diski",
+    "id": "Cakram Phaistos",
+    "ja": "ファイストスの円盤",
+    "ko": "파이스토스 원반"
+  },
+  "theme": "artifacts",
+  "tags": [
+    "фестский диск",
+    "крит",
+    "минойская культура",
+    "диск",
+    "иероглифы",
+    "письменность",
+    "загадка",
+    "артефакт",
+    "древность",
+    "phaistos disc",
+    "crete",
+    "minoan",
+    "disc",
+    "hieroglyphs",
+    "writing",
+    "mystery",
+    "artifact",
+    "ancient",
+    "пикселарт",
+    "pixelart"
+  ],
+  "added": "2026-11-28",
   "width": 112,
   "height": 112,
+  "info": {
+    "year": "c. 1700 BC",
+    "work_wiki": {
+      "en": "Phaistos_Disc",
+      "ru": "Фестский диск"
+    },
+    "summary": {
+      "en": "A clay disc from the Minoan palace of Phaistos on Crete, stamped with a spiral of unknown symbols that have never been deciphered.",
+      "ru": "Глиняный диск из минойского дворца Фест на Крите со спиралью знаков, которые до сих пор не расшифрованы."
+    }
+  },
   "palette": [
     "#c4c5c6",
     "#624f43",

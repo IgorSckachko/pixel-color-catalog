@@ -1,12 +1,53 @@
 {
   "format": 2,
   "id": "018_great_sphinx_of_giza_104",
-  "title": "018_Great_Sphinx_of_Giza",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-21",
+  "title": "Большой сфинкс в Гизе",
+  "titles": {
+    "en": "Great Sphinx of Giza",
+    "es": "Gran Esfinge de Guiza",
+    "pt_BR": "Grande Esfinge de Gizé",
+    "de": "Große Sphinx von Gizeh",
+    "fr": "Grand Sphinx de Gizeh",
+    "tr": "Gize Büyük Sfenksi",
+    "id": "Sphinx Agung Giza",
+    "ja": "ギザの大スフィンクス",
+    "ko": "기자의 대스핑크스"
+  },
+  "theme": "landmarks",
+  "tags": [
+    "сфинкс",
+    "гиза",
+    "египет",
+    "пирамида",
+    "пустыня",
+    "древний египет",
+    "статуя",
+    "достопримечательность",
+    "sphinx",
+    "giza",
+    "egypt",
+    "pyramid",
+    "desert",
+    "ancient egypt",
+    "statue",
+    "landmark",
+    "пикселарт",
+    "pixelart"
+  ],
+  "added": "2026-12-02",
   "width": 104,
   "height": 104,
+  "info": {
+    "year": "c. 2500 BC",
+    "work_wiki": {
+      "en": "Great_Sphinx_of_Giza",
+      "ru": "Большой сфинкс"
+    },
+    "summary": {
+      "en": "A huge limestone statue of a reclining lion with a human head, standing guard beside the pyramids of Giza in Egypt.",
+      "ru": "Огромная известняковая статуя лежащего льва с человеческой головой у пирамид Гизы в Египте."
+    }
+  },
   "palette": [
     "#57443e",
     "#8fa7c8",

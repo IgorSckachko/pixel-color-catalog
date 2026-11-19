@@ -1,12 +1,62 @@
 {
   "format": 2,
   "id": "020_the_return_of_the_prodigal_son_centr_128",
-  "title": "020_The_Return_of_the_Prodigal_Son_centr",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-12-15",
+  "title": "Возвращение блудного сына",
+  "titles": {
+    "en": "The Return of the Prodigal Son",
+    "es": "El regreso del hijo pródigo",
+    "pt_BR": "O Retorno do Filho Pródigo",
+    "de": "Die Heimkehr des verlorenen Sohnes",
+    "fr": "Le Retour du fils prodigue",
+    "tr": "Müsrif Oğulun Dönüşü",
+    "id": "Kembalinya Anak yang Hilang",
+    "ja": "放蕩息子の帰還",
+    "ko": "탕자의 귀환"
+  },
+  "theme": "paintings",
+  "tags": [
+    "картина",
+    "возвращение блудного сына",
+    "рембрандт",
+    "отец",
+    "сын",
+    "притча",
+    "библия",
+    "живопись",
+    "классика",
+    "painting",
+    "return of the prodigal son",
+    "rembrandt",
+    "father",
+    "son",
+    "parable",
+    "bible",
+    "classic art",
+    "пикселарт",
+    "pixelart"
+  ],
+  "added": "2026-12-24",
   "width": 128,
   "height": 128,
+  "info": {
+    "author": {
+      "en": "Rembrandt",
+      "ru": "Рембрандт"
+    },
+    "year": "c. 1669",
+    "work_wiki": {
+      "en": "The_Return_of_the_Prodigal_Son_(Rembrandt)",
+      "ru": "Возвращение блудного сына (картина Рембрандта)"
+    },
+    "author_wiki": {
+      "en": "Rembrandt",
+      "ru": "Рембрандт"
+    },
+    "summary": {
+      "en": "A kneeling son is forgiven by his father in this scene from a parable of Jesus. It is in the Hermitage in Saint Petersburg.",
+      "ru": "Коленопреклонённого сына прощает отец — сцена из притчи Иисуса. Хранится в Эрмитаже в Санкт-Петербурге."
+    }
+  },
   "palette": [
     "#19100a",
     "#100c09",

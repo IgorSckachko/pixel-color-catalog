@@ -1,12 +1,60 @@
 {
   "format": 2,
   "id": "016_the_tower_of_babel_centr_120",
-  "title": "016_The_Tower_of_Babel_centr",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-12-11",
+  "title": "Вавилонская башня",
+  "titles": {
+    "en": "The Tower of Babel",
+    "es": "La torre de Babel",
+    "pt_BR": "A Torre de Babel",
+    "de": "Der Turmbau zu Babel",
+    "fr": "La Tour de Babel",
+    "tr": "Babil Kulesi",
+    "id": "Menara Babel",
+    "ja": "バベルの塔",
+    "ko": "바벨탑"
+  },
+  "theme": "paintings",
+  "tags": [
+    "картина",
+    "вавилонская башня",
+    "брейгель",
+    "башня",
+    "строительство",
+    "библия",
+    "живопись",
+    "классика",
+    "painting",
+    "tower of babel",
+    "bruegel",
+    "tower",
+    "construction",
+    "bible",
+    "classic art",
+    "пикселарт",
+    "pixelart"
+  ],
+  "added": "2026-12-20",
   "width": 120,
   "height": 120,
+  "info": {
+    "author": {
+      "en": "Pieter Bruegel the Elder",
+      "ru": "Питер Брейгель Старший"
+    },
+    "year": "1563",
+    "work_wiki": {
+      "en": "The_Tower_of_Babel_(Bruegel)",
+      "ru": "Вавилонская башня (картина Брейгеля)"
+    },
+    "author_wiki": {
+      "en": "Pieter_Bruegel_the_Elder",
+      "ru": "Брейгель, Питер Старший"
+    },
+    "summary": {
+      "en": "The biblical tower rises over a busy port city, with thousands of tiny builders at work. It is in Vienna.",
+      "ru": "Библейская башня возвышается над оживлённым портовым городом, где трудятся тысячи крошечных строителей. Хранится в Вене."
+    }
+  },
   "palette": [
     "#b9c0b9",
     "#c0995d",

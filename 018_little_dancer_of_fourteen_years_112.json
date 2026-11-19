@@ -1,12 +1,61 @@
 {
   "format": 2,
   "id": "018_little_dancer_of_fourteen_years_112",
-  "title": "018_Little_Dancer_of_Fourteen_Years",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-28",
+  "title": "Маленькая четырнадцатилетняя танцовщица",
+  "titles": {
+    "en": "Little Dancer Aged Fourteen",
+    "es": "La pequeña bailarina de catorce años",
+    "pt_BR": "A Pequena Bailarina de Catorze Anos",
+    "de": "Die vierzehnjährige kleine Tänzerin",
+    "fr": "La Petite Danseuse de quatorze ans",
+    "tr": "On Dört Yaşındaki Küçük Dansçı",
+    "id": "Penari Kecil Berusia Empat Belas Tahun",
+    "ja": "14歳の小さな踊り子",
+    "ko": "14세의 어린 무용수"
+  },
+  "theme": "sculptures",
+  "tags": [
+    "маленькая танцовщица",
+    "дега",
+    "балет",
+    "танцовщица",
+    "юбка",
+    "скульптура",
+    "статуя",
+    "искусство",
+    "little dancer",
+    "degas",
+    "ballet",
+    "dancer",
+    "tutu",
+    "sculpture",
+    "statue",
+    "art",
+    "пикселарт",
+    "pixelart"
+  ],
+  "added": "2026-12-09",
   "width": 112,
   "height": 112,
+  "info": {
+    "author": {
+      "en": "Edgar Degas",
+      "ru": "Эдгар Дега"
+    },
+    "year": "1881",
+    "work_wiki": {
+      "en": "Little_Dancer_Aged_Fourteen",
+      "ru": "Маленькая четырнадцатилетняя танцовщица"
+    },
+    "author_wiki": {
+      "en": "Edgar_Degas",
+      "ru": "Дега, Эдгар"
+    },
+    "summary": {
+      "en": "A wax sculpture of a young ballet student dressed in a real cotton skirt and satin ribbon. It was the only sculpture Degas exhibited in his lifetime.",
+      "ru": "Восковая скульптура юной балетной ученицы в настоящей хлопковой юбке и с атласной лентой. Единственная скульптура, показанная Дега при жизни."
+    }
+  },
   "palette": [
     "#737373",
     "#5e5e5e",

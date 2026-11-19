@@ -1,12 +1,55 @@
 {
   "format": 2,
   "id": "019_kazan_cathedral_saint_petersburg_120",
-  "title": "019_Kazan_Cathedral_Saint_Petersburg",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-23",
+  "title": "Казанский собор, Санкт-Петербург",
+  "titles": {
+    "en": "Kazan Cathedral, Saint Petersburg",
+    "es": "Catedral de Kazán, San Petersburgo",
+    "pt_BR": "Catedral de Cazã, São Petersburgo",
+    "de": "Kasaner Kathedrale, Sankt Petersburg",
+    "fr": "Cathédrale Notre-Dame de Kazan, Saint-Pétersbourg",
+    "tr": "Kazan Katedrali, Saint Petersburg",
+    "id": "Katedral Kazan, Sankt Peterburg",
+    "ja": "カザン大聖堂（サンクトペテルブルク）",
+    "ko": "카잔 대성당 (상트페테르부르크)"
+  },
+  "theme": "landmarks",
+  "tags": [
+    "казанский собор",
+    "санкт-петербург",
+    "россия",
+    "собор",
+    "колонны",
+    "интерьер",
+    "купол",
+    "церковь",
+    "архитектура",
+    "kazan cathedral",
+    "saint petersburg",
+    "russia",
+    "cathedral",
+    "columns",
+    "interior",
+    "dome",
+    "church",
+    "architecture",
+    "пикселарт",
+    "pixelart"
+  ],
+  "added": "2026-12-18",
   "width": 120,
   "height": 120,
+  "info": {
+    "year": "1801–1811",
+    "work_wiki": {
+      "en": "Kazan_Cathedral,_Saint_Petersburg",
+      "ru": "Казанский собор (Санкт-Петербург)"
+    },
+    "summary": {
+      "en": "An Orthodox cathedral on Nevsky Prospekt in Saint Petersburg, designed by Andrey Voronikhin, with a grand colonnade and a vast interior of granite columns.",
+      "ru": "Православный собор на Невском проспекте в Санкт-Петербурге по проекту Андрея Воронихина с величественной колоннадой и просторным залом с гранитными колоннами."
+    }
+  },
   "palette": [
     "#454744",
     "#5d5d58",

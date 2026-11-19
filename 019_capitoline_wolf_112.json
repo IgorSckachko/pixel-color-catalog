@@ -1,12 +1,52 @@
 {
   "format": 2,
   "id": "019_capitoline_wolf_112",
-  "title": "019_Capitoline_Wolf",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-29",
+  "title": "Капитолийская волчица",
+  "titles": {
+    "en": "Capitoline Wolf",
+    "es": "Loba Capitolina",
+    "pt_BR": "Loba Capitolina",
+    "de": "Kapitolinische Wölfin",
+    "fr": "Louve capitoline",
+    "tr": "Kapitol Dişi Kurdu",
+    "id": "Serigala Capitoline",
+    "ja": "カピトリーノの雌狼",
+    "ko": "카피톨리노의 암늑대"
+  },
+  "theme": "sculptures",
+  "tags": [
+    "капитолийская волчица",
+    "рим",
+    "ромул и рем",
+    "волчица",
+    "бронза",
+    "легенда",
+    "скульптура",
+    "статуя",
+    "capitoline wolf",
+    "rome",
+    "romulus and remus",
+    "she-wolf",
+    "bronze",
+    "legend",
+    "sculpture",
+    "statue",
+    "пикселарт",
+    "pixelart"
+  ],
+  "added": "2026-12-03",
   "width": 112,
   "height": 112,
+  "info": {
+    "work_wiki": {
+      "en": "Capitoline_Wolf",
+      "ru": "Капитолийская волчица"
+    },
+    "summary": {
+      "en": "A bronze statue of the she-wolf that, by legend, nursed the twin founders of Rome, Romulus and Remus. The twins were added in the Renaissance.",
+      "ru": "Бронзовая статуя волчицы, которая по легенде вскормила близнецов — основателей Рима Ромула и Рема. Фигурки близнецов добавили в эпоху Возрождения."
+    }
+  },
   "palette": [
     "#d0d0d0",
     "#271e18",

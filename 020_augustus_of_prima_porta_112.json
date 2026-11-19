@@ -1,12 +1,53 @@
 {
   "format": 2,
   "id": "020_augustus_of_prima_porta_112",
-  "title": "020_Augustus_of_Prima_Porta",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-11-30",
+  "title": "Август из Прима-Порта",
+  "titles": {
+    "en": "Augustus of Prima Porta",
+    "es": "Augusto de Prima Porta",
+    "pt_BR": "Augusto de Prima Porta",
+    "de": "Augustus von Primaporta",
+    "fr": "Auguste de Prima Porta",
+    "tr": "Prima Porta Augustus'u",
+    "id": "Augustus dari Prima Porta",
+    "ja": "プリマポルタのアウグストゥス",
+    "ko": "프리마 포르타의 아우구스투스"
+  },
+  "theme": "sculptures",
+  "tags": [
+    "август",
+    "прима-порта",
+    "римский император",
+    "древний рим",
+    "мрамор",
+    "статуя",
+    "скульптура",
+    "ватикан",
+    "augustus",
+    "prima porta",
+    "roman emperor",
+    "ancient rome",
+    "marble",
+    "statue",
+    "sculpture",
+    "vatican",
+    "пикселарт",
+    "pixelart"
+  ],
+  "added": "2026-12-13",
   "width": 112,
   "height": 112,
+  "info": {
+    "year": "c. 20 BC",
+    "work_wiki": {
+      "en": "Augustus_of_Prima_Porta",
+      "ru": "Август из Прима-Порта"
+    },
+    "summary": {
+      "en": "A marble statue of the first Roman emperor, Augustus, raising his arm in a speaker's pose. It is in the Vatican Museums.",
+      "ru": "Мраморная статуя первого римского императора Августа, поднявшего руку в позе оратора. Хранится в музеях Ватикана."
+    }
+  },
   "palette": [
     "#2c3538",
     "#5d708a",

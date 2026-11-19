@@ -1,12 +1,54 @@
 {
   "format": 2,
   "id": "001_mask_of_tutankhamun_112",
-  "title": "001_Mask_of_Tutankhamun",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-12-01",
+  "title": "Маска Тутанхамона",
+  "titles": {
+    "en": "Mask of Tutankhamun",
+    "es": "Máscara de Tutankamón",
+    "pt_BR": "Máscara de Tutancâmon",
+    "de": "Maske des Tutanchamun",
+    "fr": "Masque de Toutânkhamon",
+    "tr": "Tutankhamun'un Maskesi",
+    "id": "Topeng Tutankhamun",
+    "ja": "ツタンカーメンの黄金のマスク",
+    "ko": "투탕카멘의 황금 마스크"
+  },
+  "theme": "artifacts",
+  "tags": [
+    "тутанхамон",
+    "маска",
+    "фараон",
+    "древний египет",
+    "золото",
+    "саркофаг",
+    "артефакт",
+    "музей",
+    "древность",
+    "tutankhamun",
+    "mask",
+    "pharaoh",
+    "ancient egypt",
+    "gold",
+    "artifact",
+    "museum",
+    "ancient",
+    "пикселарт",
+    "pixelart"
+  ],
+  "added": "2026-11-22",
   "width": 112,
   "height": 112,
+  "info": {
+    "year": "c. 1323 BC",
+    "work_wiki": {
+      "en": "Mask_of_Tutankhamun",
+      "ru": "Маска Тутанхамона"
+    },
+    "summary": {
+      "en": "The gold funerary mask of the young pharaoh Tutankhamun, found in his tomb in 1925. It is kept in the Egyptian Museum in Cairo.",
+      "ru": "Золотая погребальная маска юного фараона Тутанхамона, найденная в его гробнице в 1925 году. Хранится в Каирском музее."
+    }
+  },
   "palette": [
     "#1f1a1e",
     "#705838",

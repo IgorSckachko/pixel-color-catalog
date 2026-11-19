@@ -1,12 +1,62 @@
 {
   "format": 2,
   "id": "017_the_ambassadors_centr_128",
-  "title": "017_The_Ambassadors_centr",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-12-12",
+  "title": "Послы",
+  "titles": {
+    "en": "The Ambassadors",
+    "es": "Los embajadores",
+    "pt_BR": "Os Embaixadores",
+    "de": "Die Gesandten",
+    "fr": "Les Ambassadeurs",
+    "tr": "Büyükelçiler",
+    "id": "Para Duta Besar",
+    "ja": "大使たち",
+    "ko": "대사들"
+  },
+  "theme": "paintings",
+  "tags": [
+    "картина",
+    "послы",
+    "гольбейн",
+    "два посла",
+    "череп",
+    "глобус",
+    "музыкальные инструменты",
+    "живопись",
+    "классика",
+    "painting",
+    "the ambassadors",
+    "holbein",
+    "two men",
+    "skull",
+    "globe",
+    "instruments",
+    "classic art",
+    "пикселарт",
+    "pixelart"
+  ],
+  "added": "2026-12-21",
   "width": 128,
   "height": 128,
+  "info": {
+    "author": {
+      "en": "Hans Holbein the Younger",
+      "ru": "Ганс Гольбейн Младший"
+    },
+    "year": "1533",
+    "work_wiki": {
+      "en": "The_Ambassadors_(Holbein)",
+      "ru": "Послы (картина Гольбейна)"
+    },
+    "author_wiki": {
+      "en": "Hans_Holbein_the_Younger",
+      "ru": "Гольбейн, Ганс Младший"
+    },
+    "summary": {
+      "en": "A double portrait of two French envoys beside a shelf of scientific instruments, with a distorted skull in the foreground. It is in the National Gallery, London.",
+      "ru": "Двойной портрет двух французских послов у полки с научными приборами; на переднем плане — искажённый череп. Хранится в лондонской Национальной галерее."
+    }
+  },
   "palette": [
     "#2c370f",
     "#191411",

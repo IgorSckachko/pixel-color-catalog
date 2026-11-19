@@ -1,12 +1,62 @@
 {
   "format": 2,
   "id": "018_the_night_watch_centr_128",
-  "title": "018_The_Night_Watch_centr",
-  "theme": "other",
-  "tags": [],
-  "added": "2026-12-13",
+  "title": "Ночной дозор",
+  "titles": {
+    "en": "The Night Watch",
+    "es": "La ronda de noche",
+    "pt_BR": "A Ronda Noturna",
+    "de": "Die Nachtwache",
+    "fr": "La Ronde de nuit",
+    "tr": "Gece Devriyesi",
+    "id": "Patroli Malam",
+    "ja": "夜警",
+    "ko": "야경"
+  },
+  "theme": "paintings",
+  "tags": [
+    "картина",
+    "ночной дозор",
+    "рембрандт",
+    "стрелки",
+    "капитан",
+    "барабан",
+    "амстердам",
+    "живопись",
+    "классика",
+    "painting",
+    "the night watch",
+    "rembrandt",
+    "militia",
+    "captain",
+    "drum",
+    "amsterdam",
+    "classic art",
+    "пикселарт",
+    "pixelart"
+  ],
+  "added": "2026-12-19",
   "width": 128,
   "height": 128,
+  "info": {
+    "author": {
+      "en": "Rembrandt",
+      "ru": "Рембрандт"
+    },
+    "year": "1642",
+    "work_wiki": {
+      "en": "The_Night_Watch",
+      "ru": "Ночной дозор (картина)"
+    },
+    "author_wiki": {
+      "en": "Rembrandt",
+      "ru": "Рембрандт"
+    },
+    "summary": {
+      "en": "A huge group portrait of an Amsterdam militia company setting out, famous for its dramatic light and movement. It is in the Rijksmuseum.",
+      "ru": "Огромный групповой портрет амстердамской стрелковой роты, выступающей в поход, известный игрой света и движением. Хранится в Рейксмузеуме."
+    }
+  },
   "palette": [
     "#0e0c06",
     "#121007",
