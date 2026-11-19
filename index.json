@@ -2,6 +2,18 @@
  "format": 1,
  "images": [
   {
+   "id": "001_mask_of_tutankhamun_112",
+   "file": "001_mask_of_tutankhamun_112.json",
+   "title": "001_Mask_of_Tutankhamun",
+   "theme": "other",
+   "tags": [],
+   "width": 112,
+   "height": 112,
+   "colors": 20,
+   "added": "2026-12-01",
+   "rev": "45eabdecae"
+  },
+  {
    "id": "002_the_last_supper_centr_104",
    "file": "002_the_last_supper_centr_104.json",
    "title": "002_The_Last_Supper_centr",
@@ -12,6 +24,42 @@
    "colors": 28,
    "added": "2026-11-19",
    "rev": "a81e4a5632"
+  },
+  {
+   "id": "002_winged_victory_of_samothrace_128",
+   "file": "002_winged_victory_of_samothrace_128.json",
+   "title": "002_Winged_Victory_of_Samothrace",
+   "theme": "other",
+   "tags": [],
+   "width": 120,
+   "height": 120,
+   "colors": 22,
+   "added": "2026-11-24",
+   "rev": "ce04135b58"
+  },
+  {
+   "id": "003_eiffel_tower_96",
+   "file": "003_eiffel_tower_96.json",
+   "title": "003_Eiffel_Tower",
+   "theme": "other",
+   "tags": [],
+   "width": 96,
+   "height": 96,
+   "colors": 20,
+   "added": "2026-11-19",
+   "rev": "bf9c730694"
+  },
+  {
+   "id": "004_notre_dame_de_paris_128",
+   "file": "004_notre_dame_de_paris_128.json",
+   "title": "004_Notre_Dame_de_Paris",
+   "theme": "other",
+   "tags": [],
+   "width": 128,
+   "height": 128,
+   "colors": 20,
+   "added": "2026-11-22",
+   "rev": "d0d2411c1d"
   },
   {
    "id": "004_the_birth_of_venus_centr_128",
@@ -86,6 +134,18 @@
    "rev": "2d0ceb69e8"
   },
   {
+   "id": "005_the_thinker_128",
+   "file": "005_the_thinker_128.json",
+   "title": "005_The_Thinker",
+   "theme": "other",
+   "tags": [],
+   "width": 120,
+   "height": 120,
+   "colors": 22,
+   "added": "2026-11-25",
+   "rev": "fcb1d9d7ff"
+  },
+  {
    "id": "006_the_creation_of_adam_centr_112",
    "file": "006_the_creation_of_adam_centr_112.json",
    "title": "006_The_Creation_of_Adam_centr",
@@ -120,6 +180,18 @@
    "colors": 24,
    "added": "2026-11-30",
    "rev": "ee76e139c6"
+  },
+  {
+   "id": "007_phaistos_disc_112",
+   "file": "007_phaistos_disc_112.json",
+   "title": "007_Phaistos_Disc",
+   "theme": "other",
+   "tags": [],
+   "width": 112,
+   "height": 112,
+   "colors": 20,
+   "added": "2026-12-02",
+   "rev": "ec0971b099"
   },
   {
    "id": "008_sistine_madonna_angel_1_80",
@@ -158,6 +230,42 @@
    "rev": "ff078c82cf"
   },
   {
+   "id": "008_statue_of_liberty_128",
+   "file": "008_statue_of_liberty_128.json",
+   "title": "008_Statue_of_Liberty",
+   "theme": "other",
+   "tags": [],
+   "width": 128,
+   "height": 128,
+   "colors": 19,
+   "added": "2026-11-26",
+   "rev": "fbd79f6656"
+  },
+  {
+   "id": "011_sutton_hoo_helmet_128",
+   "file": "011_sutton_hoo_helmet_128.json",
+   "title": "011_Sutton_Hoo_helmet",
+   "theme": "other",
+   "tags": [],
+   "width": 112,
+   "height": 112,
+   "colors": 18,
+   "added": "2026-12-03",
+   "rev": "78a77a252d"
+  },
+  {
+   "id": "015_alhambra_112",
+   "file": "015_alhambra_112.json",
+   "title": "015_Alhambra",
+   "theme": "other",
+   "tags": [],
+   "width": 112,
+   "height": 112,
+   "colors": 24,
+   "added": "2026-11-20",
+   "rev": "a8f59760a2"
+  },
+  {
    "id": "015_hunters_in_the_snow_left_120",
    "file": "015_hunters_in_the_snow_left_120.json",
    "title": "015_Hunters_in_the_Snow_left",
@@ -194,6 +302,30 @@
    "rev": "74be2f1a83"
   },
   {
+   "id": "018_great_sphinx_of_giza_104",
+   "file": "018_great_sphinx_of_giza_104.json",
+   "title": "018_Great_Sphinx_of_Giza",
+   "theme": "other",
+   "tags": [],
+   "width": 104,
+   "height": 104,
+   "colors": 20,
+   "added": "2026-11-21",
+   "rev": "334edec503"
+  },
+  {
+   "id": "018_little_dancer_of_fourteen_years_112",
+   "file": "018_little_dancer_of_fourteen_years_112.json",
+   "title": "018_Little_Dancer_of_Fourteen_Years",
+   "theme": "other",
+   "tags": [],
+   "width": 112,
+   "height": 112,
+   "colors": 20,
+   "added": "2026-11-28",
+   "rev": "5b3136471f"
+  },
+  {
    "id": "018_the_night_watch_centr_128",
    "file": "018_the_night_watch_centr_128.json",
    "title": "018_The_Night_Watch_centr",
@@ -206,6 +338,42 @@
    "rev": "4e511b4c12"
   },
   {
+   "id": "019_capitoline_wolf_112",
+   "file": "019_capitoline_wolf_112.json",
+   "title": "019_Capitoline_Wolf",
+   "theme": "other",
+   "tags": [],
+   "width": 112,
+   "height": 112,
+   "colors": 18,
+   "added": "2026-11-29",
+   "rev": "6f0cef5378"
+  },
+  {
+   "id": "019_kazan_cathedral_saint_petersburg_120",
+   "file": "019_kazan_cathedral_saint_petersburg_120.json",
+   "title": "019_Kazan_Cathedral_Saint_Petersburg",
+   "theme": "other",
+   "tags": [],
+   "width": 120,
+   "height": 120,
+   "colors": 22,
+   "added": "2026-11-23",
+   "rev": "f04907e2de"
+  },
+  {
+   "id": "019_nebra_sky_disc_96",
+   "file": "019_nebra_sky_disc_96.json",
+   "title": "019_Nebra_sky_disc",
+   "theme": "other",
+   "tags": [],
+   "width": 96,
+   "height": 96,
+   "colors": 25,
+   "added": "2026-12-05",
+   "rev": "1dc6f39c46"
+  },
+  {
    "id": "019_the_anatomy_lesson_of_dr_nicolaes_tulp_centr_112",
    "file": "019_the_anatomy_lesson_of_dr_nicolaes_tulp_centr_112.json",
    "title": "019_The_Anatomy_Lesson_of_Dr_Nicolaes_Tulp_centr",
@@ -216,6 +384,30 @@
    "colors": 21,
    "added": "2026-12-14",
    "rev": "936fe2cca7"
+  },
+  {
+   "id": "020_augustus_of_prima_porta_112",
+   "file": "020_augustus_of_prima_porta_112.json",
+   "title": "020_Augustus_of_Prima_Porta",
+   "theme": "other",
+   "tags": [],
+   "width": 112,
+   "height": 112,
+   "colors": 20,
+   "added": "2026-11-30",
+   "rev": "1e3d017fec"
+  },
+  {
+   "id": "020_mask_of_agamemnon_104",
+   "file": "020_mask_of_agamemnon_104.json",
+   "title": "020_Mask_of_Agamemnon",
+   "theme": "other",
+   "tags": [],
+   "width": 104,
+   "height": 104,
+   "colors": 19,
+   "added": "2026-12-06",
+   "rev": "ea440978ee"
   },
   {
    "id": "020_the_return_of_the_prodigal_son_centr_128",
