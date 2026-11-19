@@ -19,7 +19,7 @@
     "trex",
     "тираннозавр"
   ],
-  "added": "2026-12-16",
+  "added": "2026-12-19",
   "width": 56,
   "height": 56,
   "palette": [
@@ -28,12 +28,8 @@
     "#030401",
     "#6aae3c",
     "#bfee2b",
-    "#030201",
-    "#8fd133",
     "#efeff0",
-    "#8fd036",
-    "#050402",
     "#40642c"
   ],
-  "pixels_gz": "H4sIAAAAAAAC/+2Wy67DIAxEVQ8YQv//f68JUEhQy7C56qKzSRTlZGL8gMfjp6+TomsDgxuELSw5qfL4D+6FZRA8J4M8aXnnJHDgzHFBAhMnFBcTKuFiLDcMl2JKx6lgXL4cR6L8YtRQ/DQ62s8CRMR+fLmu4whynHkVXTgw4Wn+0Su3zuCtPGsedMlZL0zc0x6tV2XmyMIu8t63+HbmReZ84zzdvnCZw8uPb96GZY6ehDbIfEIQrWlQbR/stzNlmELNqNZ3jy8vttMPHJCtkjROh6rQj/NakuXilgesR/GZB+8u68JgfUHPfji1nvz1ldYPw36hS2xoJXab0TecMk0InThQHOQWH6hh32ZMEMdvvoPjRl1fHOn5OXLY41Q7JxtcKSprCuumDb96FAFkLz7c9TsMfrf+AISPvfFADAAA"
+  "pixels_gz": "H4sIAAAAAAAC/+2WwQ7EIAhEUwfY///jVatV6W6FHkwPnWPjCyIDdNtePU7o5MGoE1wYKBQxVnAHlkDYudCJjSE1Z73rmbOBwIkLJk6AcpxEVnAiBSQImblkzwp68kugKBC29LIGDpb08kVHbl5BZc8ab8rRD7984qc7PoNnTDCz45qN5gaCze0LShyOePbmbVjwzIpYsohBx7sKnTpwNwx0friajfe57M9UC1UHzEdxrgOP7WfBxgfdNZ/85Ug1TLcv5ljXStY184/DtpSDbZm1OWpfvkNE77bGDbBwcDYSlnKopnI2PLTen8Fn6wsQZ4unQAwAAA=="
 }

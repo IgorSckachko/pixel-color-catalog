@@ -19,7 +19,7 @@
     "fruit",
     "виноград"
   ],
-  "added": "2027-01-02",
+  "added": "2027-01-03",
   "width": 64,
   "height": 64,
   "palette": [
@@ -28,11 +28,11 @@
     "#8b42a6",
     "#a94dc8",
     "#c382d8",
-    "#7500a3",
     "#038f21",
     "#00e32d",
     "#026917",
+    "#7500a3",
     "#d5a7e4"
   ],
-  "pixels_gz": "H4sIAAAAAAAC/+2XwXLDIAxE0Uokbf//g4sQxHKdDggOmWbKKZe3XrRrjZPS+x5gD7/fsYV/fmwIbOLb/L+BVxv44wV6qX1giwexiCzzKHTOIspDT/zpOX9lYZTfekICuFW+GGAGSbWC0OOp+S/84STE6/gKTjicRPwXAT1EfZIcmIHy/aA6USWKGWg4VSuhDACCww8r890Rc+AvMstbd0RNwAtM1rBXL5v3h0DNdJxhnVcNzHhuAlYpGdbQIE3MRsdlEuWAWqMzZpLT6jS+CJRjUnqtgYNz8tSKDKZuYHCFC29jo34tGb1IfuB08aJVxFx3n/BzNXoI3Nb4pIkp42ZxC7UYFhkfV3FSkwvo6A6dpFKEz+hWpF0qBfjeGDip2P6xJQonFdxfVhgntbJBvdTCBkV4A55ayMHsf7aQJZb9pYUlOlUiLHxE+BqlRd6yX/kQ6ZPnicU7qtHSh9BidE9asPwZGHltf23BG/9FTt8TNhR6ABAAAA=="
+  "pixels_gz": "H4sIAAAAAAAC/+2Wy47DMAhFzQW30/n/Dx5j/KoaTYy9qFLVq2wOuYFjlBA+9wB7+O2GLfznvlFgE9/mvwHeHeDiAr01PrDFg1hElnkkOkYR5aHH//YYf6Mw0rMe+PDMpwDMIMlR4OVz/sT3JC5e25dwQk/i4VMBPUS1k+zogbXMDnISrUS+AAW3KK4ZAIQB77Xm3ZEy9YefN3dEQ2B8/6SGVb1oLIZG8MQMc7/ywAxldFyNwEzn88QMZMEjnWZ0xMzkVJ36JPrdVko/6yTB8+SpiAymdqX+L/DCW9uofpacXSTQgToti6qIOXcP+DmNDgr4NC7uEg55TO1uHRn3JPBdguZOcw/OO1SEQY0irjVc52XGYCjl2z+2RDGUcu4vE2YotbJBx1ILGxTuDfhkIWMF7xbW0TnxbmEa3Qr+olFY5G32Kz8io0Y7/NTmP7Fg9TdsCw8Be/jS39u1zh8S+HeQABAAAA=="
 }

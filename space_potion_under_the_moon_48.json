@@ -33,14 +33,13 @@
     "stars",
     "astronomy"
   ],
-  "added": "2026-12-31",
+  "added": "2026-12-09",
   "width": 48,
   "height": 48,
   "palette": [
     "#110d57",
-    "#101058",
-    "#5226aa",
     "#19047b",
+    "#5226aa",
     "#5c33bf",
     "#fdef85",
     "#9e54e6",
@@ -50,16 +49,11 @@
     "#c0ccca",
     "#57c3f9",
     "#e5f1d4",
-    "#1c057e",
-    "#140c61",
-    "#101056",
     "#d163b7",
     "#4523a3",
-    "#0e0b5d",
     "#0e166b",
-    "#0c0b46",
     "#682ba0",
     "#fdf5b5"
   ],
-  "pixels_gz": "H4sIAAAAAAAC/62U2ZLjIAxFC7xgA946M93//6ejHWEn/TS3Ki5inyuEEIQQRUEUO4XbaxmE5xd684hCI335FxTCeZ7xDA/FYPx5wnMm4RcwGP/z0ybROYEXnN8vKjJIBlHjU8TZ4ziEhxh0aZ6f++j8l3lfI5PDA0duCUlwr7MLj+Pv746/TXI+0hF+sfk/xSdKMypl8bzt6p1fFBced9D3R8fnvKFyziVn49Xh6zkbDyTxuoCTOiCYpfFoAJ7kC8o1tSk6w7b9IfV4tw3Gx4j8F2jtwm/buy0GxeW6LuJBd747JZoQ8FjNng9bf6qcM6NhXo13m5vSOz5zZlnDz7LSxPKrKFR54XOtwcdLDwPgsLVz42vO1qEpDcPQGTD2tgFVl2UkAV+ET8STpfEQnTguDw1LkbUOKjVwp40mtrzjybG08M0x7qVQ7paOrCEx3weH377vLnc3RyEecwaEDfjAP0VxzMv4o9ZR1jhipcbxutaZ+KHhahiAx3hg4imEnxvf+icKvyIPIJD7Dm1E6QjPt2K7rMsxep608jyl3UFUSnIVrgnx60rBV+E1pu+faHzdeURr3zPxjhYDvDB+lz2A6DBd0XaTPWMDvIHqswFjSlVrlX5we9Z4WXGl8tMdBHjRdLoGEp52gJQlOvMp3vsHDdoG0PgixlPXb+zRy9Ean5u/dGfFG9I0Ie/7mbNJb/DjOKYbT/CEgo8fceDpPi8cG0T8cbxeL2Ynkz/3cND1JAb9zlG9BOBwHfubaP5j+h/6B3b+rZsACQAA"
+  "pixels_gz": "H4sIAAAAAAAC/82U65KDIAyFB0UDAXfb93/ZzYVLsFr8uWemrdXvhGOIOvdftYnOZ9/vb7geQpUYpsWBD+mrGKY4gP6d8a6VHwJNw/Px6/Wch85Du37HC1UTIcIjHiqOMMsDEGNmxRgxxm+8OJQnUniY8mwgXjTdsGLI+Vd0j5/5H1IYyud87dgcHMchPOkLrw7+JZ67OfIu32aLbNhC481m7fsVHzVZrOW3Rossi9L5wseUhkL7h4Fw2tqt8ylGg6/rOhi4ds5EJYBFRDz26qvI8lRdOG2PHGIxFNoYdNKWJrVc8eKAXr47Ci+xLU8O4cfimslkN2ug8MEadAFaouKcq/EupXJ9WbhTy3IcYRN+7Xg1rMRzPTIVi/Jb583WFT4wTyCR/DlqS0+07q1bLC8Kug4OM1F57YnwIUjxUHh3NXCNT6WbGiY2ft9PA2f4JloOLa7bVZ+5YuCapaspIZ7mbe18ueMk7Zd3EOFoxnkYIJkG4VPxcHXld/cxP2SoY8C5VdjHbR/npzatDb4OP47ZbSbvpUtGmma/wAn0J15g7/X0LU68vM+x3qkr55vJN9nnnh702klnrvtRn28v/0DPyan+AHtoGeUACQAA"
 }

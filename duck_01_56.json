@@ -25,22 +25,17 @@
   "height": 56,
   "palette": [
     "#fefffe",
-    "#bebfc1",
     "#cecfd1",
+    "#bebfc1",
     "#164e2b",
-    "#d0d4d5",
     "#553928",
-    "#d0d1d4",
     "#a5a9ab",
-    "#f9faf9",
     "#471b14",
     "#201a17",
     "#182d22",
     "#edc47b",
-    "#adbfb3",
     "#796c38",
-    "#d3d4d6",
-    "#cfcfd0"
+    "#adbfb3"
   ],
-  "pixels_gz": "H4sIAAAAAAAC/+3V0ZKDIAwF0MFASErB7v//7CboKsJ0BF+X60N94MwFQWvMzMxMG/dQlQ4AHjmlfYoKKG0/fY7c4SBfnX20QWd21OnI5cbNjaxP+rwj7zwMOWki8l5+mL+4t6ZxAOqkb8ixLs1lBweEK7KaRhLtfedBgULZIzX0ORenN4jMfDAOrZM++nM6VRnPmFM4tjY2hbS7Bc6oe8loiyFkusYY6yXqM1VX5JWTEM3WjWZd12aqshtyNU5G350atbXD22Pz8SZc2NJRpg6euKD7BcMumIAYanc/S3GSah86Fhd2VriEPe9u7VJKA9/RLFMaQ4bl+MXmJN0nq/Od766b/5Iz/zu/WF6F3kAMAAA="
+  "pixels_gz": "H4sIAAAAAAAC/+3UQQ6EIAwF0LTSWsH7n3coogE6iUBmN/zExIUvv2gjwMrKig1OqtIh4pTrrUfgAqLWdTnGx2Gu7nMXxGJe7KpLjZcbOR8r0guHnKJaGXdofuUuU0OskdMYyczcSCyUe3LYSVunN0TqbgRiHXN+n8V8lFI4cM6bwnvSrehWt8enHYkkGrz3dmWS3IrsKWcspVweQjCj6qdn69IhX7fUOOpYG5CKbR1l0070zeOwExAiad37lNHFNN+h43CSGY4xgC9u5D+q8tQM/X7j+nmzSV1sQq2s/Hs+n2e3wEAMAAA="
 }

@@ -29,8 +29,8 @@
    ],
    "width": 112,
    "height": 112,
-   "colors": 20,
-   "added": "2026-11-22",
+   "colors": 13,
+   "added": "2026-12-21",
    "titles": {
     "en": "Mask of Tutankhamun",
     "es": "Máscara de Tutankamón",
@@ -42,7 +42,7 @@
     "ja": "ツタンカーメンの黄金のマスク",
     "ko": "투탕카멘의 황금 마스크"
    },
-   "rev": "093fdc622e"
+   "rev": "0f11e5255f"
   },
   {
    "id": "002_the_last_supper_centr_104",
@@ -72,8 +72,8 @@
    ],
    "width": 104,
    "height": 104,
-   "colors": 28,
-   "added": "2026-12-11",
+   "colors": 16,
+   "added": "2026-12-17",
    "titles": {
     "en": "The Last Supper",
     "es": "La Última Cena",
@@ -85,7 +85,7 @@
     "ja": "最後の晩餐",
     "ko": "최후의 만찬"
    },
-   "rev": "08b7b01fba"
+   "rev": "9555011c10"
   },
   {
    "id": "002_winged_victory_of_samothrace_128",
@@ -117,8 +117,8 @@
    ],
    "width": 120,
    "height": 120,
-   "colors": 22,
-   "added": "2026-11-21",
+   "colors": 10,
+   "added": "2026-11-25",
    "titles": {
     "en": "Winged Victory of Samothrace",
     "es": "Victoria de Samotracia",
@@ -130,7 +130,7 @@
     "ja": "サモトラケのニケ",
     "ko": "사모트라케의 니케"
    },
-   "rev": "f1991ce470"
+   "rev": "037adbf295"
   },
   {
    "id": "003_eiffel_tower_96",
@@ -161,8 +161,8 @@
    ],
    "width": 96,
    "height": 96,
-   "colors": 20,
-   "added": "2026-11-20",
+   "colors": 15,
+   "added": "2027-01-11",
    "titles": {
     "en": "Eiffel Tower",
     "es": "Torre Eiffel",
@@ -174,7 +174,7 @@
     "ja": "エッフェル塔",
     "ko": "에펠탑"
    },
-   "rev": "35f8d13c88"
+   "rev": "45d1113d6a"
   },
   {
    "id": "004_notre_dame_de_paris_128",
@@ -204,8 +204,8 @@
    ],
    "width": 128,
    "height": 128,
-   "colors": 20,
-   "added": "2026-12-08",
+   "colors": 17,
+   "added": "2026-11-27",
    "titles": {
     "en": "Notre-Dame de Paris",
     "es": "Catedral de Notre Dame de París",
@@ -217,7 +217,7 @@
     "ja": "ノートルダム大聖堂",
     "ko": "노트르담 대성당"
    },
-   "rev": "fd61b253d1"
+   "rev": "7ecaf5f16e"
   },
   {
    "id": "004_the_birth_of_venus_centr_128",
@@ -248,7 +248,7 @@
    "width": 128,
    "height": 128,
    "colors": 24,
-   "added": "2026-11-23",
+   "added": "2027-01-14",
    "titles": {
     "en": "The Birth of Venus — center",
     "es": "El nacimiento de Venus — centro",
@@ -260,7 +260,7 @@
     "ja": "ヴィーナスの誕生 — 中央",
     "ko": "비너스의 탄생 — 가운데"
    },
-   "rev": "2e35c2655b"
+   "rev": "78a93375a2"
   },
   {
    "id": "004_the_birth_of_venus_left_128",
@@ -290,8 +290,8 @@
    ],
    "width": 128,
    "height": 128,
-   "colors": 24,
-   "added": "2026-11-24",
+   "colors": 22,
+   "added": "2027-01-02",
    "titles": {
     "en": "The Birth of Venus — left",
     "es": "El nacimiento de Venus — izquierda",
@@ -303,7 +303,7 @@
     "ja": "ヴィーナスの誕生 — 左",
     "ko": "비너스의 탄생 — 왼쪽"
    },
-   "rev": "f33c663751"
+   "rev": "3a66ead5cc"
   },
   {
    "id": "004_the_birth_of_venus_right_128",
@@ -334,7 +334,7 @@
    "width": 128,
    "height": 128,
    "colors": 24,
-   "added": "2026-11-25",
+   "added": "2027-01-16",
    "titles": {
     "en": "The Birth of Venus — right",
     "es": "El nacimiento de Venus — derecha",
@@ -346,7 +346,7 @@
     "ja": "ヴィーナスの誕生 — 右",
     "ko": "비너스의 탄생 — 오른쪽"
    },
-   "rev": "9f29048c07"
+   "rev": "bf862fc757"
   },
   {
    "id": "005_primavera_centr_120",
@@ -376,8 +376,8 @@
    ],
    "width": 120,
    "height": 120,
-   "colors": 22,
-   "added": "2026-12-05",
+   "colors": 15,
+   "added": "2027-01-09",
    "titles": {
     "en": "Primavera — center",
     "es": "Primavera — centro",
@@ -389,7 +389,7 @@
     "ja": "プリマヴェーラ（春） — 中央",
     "ko": "프리마베라 (봄) — 가운데"
    },
-   "rev": "253417a5f0"
+   "rev": "bf22e681bc"
   },
   {
    "id": "005_primavera_left_120",
@@ -419,8 +419,8 @@
    ],
    "width": 120,
    "height": 120,
-   "colors": 22,
-   "added": "2026-12-06",
+   "colors": 16,
+   "added": "2027-01-14",
    "titles": {
     "en": "Primavera — left",
     "es": "Primavera — izquierda",
@@ -432,7 +432,7 @@
     "ja": "プリマヴェーラ（春） — 左",
     "ko": "프리마베라 (봄) — 왼쪽"
    },
-   "rev": "c4f4fc02cb"
+   "rev": "3075308ece"
   },
   {
    "id": "005_primavera_right_120",
@@ -462,8 +462,8 @@
    ],
    "width": 120,
    "height": 120,
-   "colors": 22,
-   "added": "2026-12-07",
+   "colors": 13,
+   "added": "2026-11-26",
    "titles": {
     "en": "Primavera — right",
     "es": "Primavera — derecha",
@@ -475,7 +475,7 @@
     "ja": "プリマヴェーラ（春） — 右",
     "ko": "프리마베라 (봄) — 오른쪽"
    },
-   "rev": "a1fe634b41"
+   "rev": "2d71540b4d"
   },
   {
    "id": "005_the_thinker_128",
@@ -504,8 +504,8 @@
    ],
    "width": 120,
    "height": 120,
-   "colors": 22,
-   "added": "2026-11-27",
+   "colors": 20,
+   "added": "2026-12-30",
    "titles": {
     "en": "The Thinker",
     "es": "El pensador",
@@ -517,7 +517,7 @@
     "ja": "考える人",
     "ko": "생각하는 사람"
    },
-   "rev": "06a69eb741"
+   "rev": "a098445224"
   },
   {
    "id": "006_the_creation_of_adam_centr_112",
@@ -549,8 +549,8 @@
    ],
    "width": 112,
    "height": 112,
-   "colors": 24,
-   "added": "2026-12-15",
+   "colors": 14,
+   "added": "2027-01-11",
    "titles": {
     "en": "The Creation of Adam — center",
     "es": "La creación de Adán — centro",
@@ -562,7 +562,7 @@
     "ja": "アダムの創造 — 中央",
     "ko": "아담의 창조 — 가운데"
    },
-   "rev": "81b38d1e05"
+   "rev": "cbf8969feb"
   },
   {
    "id": "006_the_creation_of_adam_left_112",
@@ -594,8 +594,8 @@
    ],
    "width": 112,
    "height": 112,
-   "colors": 24,
-   "added": "2026-12-16",
+   "colors": 17,
+   "added": "2026-12-31",
    "titles": {
     "en": "The Creation of Adam — left",
     "es": "La creación de Adán — izquierda",
@@ -607,7 +607,7 @@
     "ja": "アダムの創造 — 左",
     "ko": "아담의 창조 — 왼쪽"
    },
-   "rev": "a19daf9149"
+   "rev": "af419d6ae3"
   },
   {
    "id": "006_the_creation_of_adam_right_112",
@@ -639,8 +639,8 @@
    ],
    "width": 112,
    "height": 112,
-   "colors": 24,
-   "added": "2026-12-17",
+   "colors": 19,
+   "added": "2027-01-06",
    "titles": {
     "en": "The Creation of Adam — right",
     "es": "La creación de Adán — derecha",
@@ -652,7 +652,7 @@
     "ja": "アダムの創造 — 右",
     "ko": "아담의 창조 — 오른쪽"
    },
-   "rev": "adf113d865"
+   "rev": "5c5b8dd604"
   },
   {
    "id": "007_phaistos_disc_112",
@@ -683,8 +683,8 @@
    ],
    "width": 112,
    "height": 112,
-   "colors": 20,
-   "added": "2026-11-28",
+   "colors": 13,
+   "added": "2027-01-09",
    "titles": {
     "en": "Phaistos Disc",
     "es": "Disco de Festo",
@@ -696,7 +696,7 @@
     "ja": "ファイストスの円盤",
     "ko": "파이스토스 원반"
    },
-   "rev": "ef6c9d6ca2"
+   "rev": "87505061ab"
   },
   {
    "id": "008_sistine_madonna_angel_1_80",
@@ -728,8 +728,8 @@
    ],
    "width": 80,
    "height": 80,
-   "colors": 20,
-   "added": "2026-11-30",
+   "colors": 16,
+   "added": "2026-12-28",
    "titles": {
     "en": "Sistine Madonna — angel 1",
     "es": "Madona Sixtina — ángel 1",
@@ -741,7 +741,7 @@
     "ja": "システィーナの聖母 — 天使 1",
     "ko": "시스티나의 성모 — 천사 1"
    },
-   "rev": "e7fffdb696"
+   "rev": "2862c887f0"
   },
   {
    "id": "008_sistine_madonna_angel_2_104",
@@ -773,8 +773,8 @@
    ],
    "width": 104,
    "height": 104,
-   "colors": 28,
-   "added": "2026-12-01",
+   "colors": 18,
+   "added": "2027-01-10",
    "titles": {
     "en": "Sistine Madonna — angel 2",
     "es": "Madona Sixtina — ángel 2",
@@ -786,7 +786,7 @@
     "ja": "システィーナの聖母 — 天使 2",
     "ko": "시스티나의 성모 — 천사 2"
    },
-   "rev": "e21508a15a"
+   "rev": "1d14b9ad90"
   },
   {
    "id": "008_sistine_madonna_centr_120",
@@ -818,8 +818,8 @@
    ],
    "width": 120,
    "height": 120,
-   "colors": 24,
-   "added": "2026-11-29",
+   "colors": 22,
+   "added": "2027-01-01",
    "titles": {
     "en": "Sistine Madonna — center",
     "es": "Madona Sixtina — centro",
@@ -831,7 +831,7 @@
     "ja": "システィーナの聖母 — 中央",
     "ko": "시스티나의 성모 — 가운데"
    },
-   "rev": "520bb3636f"
+   "rev": "7bc8b8ad78"
   },
   {
    "id": "008_statue_of_liberty_128",
@@ -862,8 +862,8 @@
    ],
    "width": 128,
    "height": 128,
-   "colors": 19,
-   "added": "2026-11-26",
+   "colors": 6,
+   "added": "2026-12-27",
    "titles": {
     "en": "Statue of Liberty",
     "es": "Estatua de la Libertad",
@@ -875,7 +875,7 @@
     "ja": "自由の女神像",
     "ko": "자유의 여신상"
    },
-   "rev": "9180b14b01"
+   "rev": "8b8fee0562"
   },
   {
    "id": "011_sutton_hoo_helmet_128",
@@ -904,8 +904,8 @@
    ],
    "width": 112,
    "height": 112,
-   "colors": 18,
-   "added": "2026-12-14",
+   "colors": 13,
+   "added": "2026-11-21",
    "titles": {
     "en": "Sutton Hoo Helmet",
     "es": "Casco de Sutton Hoo",
@@ -917,7 +917,7 @@
     "ja": "サットン・フーの兜",
     "ko": "서튼 후 투구"
    },
-   "rev": "293776a743"
+   "rev": "b2f57139e0"
   },
   {
    "id": "015_alhambra_112",
@@ -948,8 +948,8 @@
    ],
    "width": 112,
    "height": 112,
-   "colors": 24,
-   "added": "2026-12-12",
+   "colors": 18,
+   "added": "2026-12-10",
    "titles": {
     "en": "Alhambra",
     "es": "Alhambra",
@@ -961,7 +961,7 @@
     "ja": "アルハンブラ宮殿",
     "ko": "알함브라 궁전"
    },
-   "rev": "e9e81f3925"
+   "rev": "7b6d7d91d7"
   },
   {
    "id": "015_hunters_in_the_snow_left_120",
@@ -991,8 +991,8 @@
    ],
    "width": 120,
    "height": 120,
-   "colors": 18,
-   "added": "2026-12-22",
+   "colors": 17,
+   "added": "2026-11-28",
    "titles": {
     "en": "Hunters in the Snow",
     "es": "Cazadores en la nieve",
@@ -1004,7 +1004,7 @@
     "ja": "雪中の狩人",
     "ko": "눈 속의 사냥꾼"
    },
-   "rev": "74f6a29536"
+   "rev": "f5bb7e36d4"
   },
   {
    "id": "016_the_tower_of_babel_centr_120",
@@ -1033,7 +1033,7 @@
    "width": 120,
    "height": 120,
    "colors": 20,
-   "added": "2026-12-20",
+   "added": "2027-01-15",
    "titles": {
     "en": "The Tower of Babel",
     "es": "La torre de Babel",
@@ -1045,7 +1045,7 @@
     "ja": "バベルの塔",
     "ko": "바벨탑"
    },
-   "rev": "b7a786bbc0"
+   "rev": "c282a5591d"
   },
   {
    "id": "017_the_ambassadors_centr_128",
@@ -1075,8 +1075,8 @@
    ],
    "width": 128,
    "height": 128,
-   "colors": 20,
-   "added": "2026-12-21",
+   "colors": 12,
+   "added": "2027-01-10",
    "titles": {
     "en": "The Ambassadors",
     "es": "Los embajadores",
@@ -1088,7 +1088,7 @@
     "ja": "大使たち",
     "ko": "대사들"
    },
-   "rev": "e73da1c419"
+   "rev": "45f67c2764"
   },
   {
    "id": "018_great_sphinx_of_giza_104",
@@ -1117,8 +1117,8 @@
    ],
    "width": 104,
    "height": 104,
-   "colors": 20,
-   "added": "2026-12-02",
+   "colors": 18,
+   "added": "2027-01-16",
    "titles": {
     "en": "Great Sphinx of Giza",
     "es": "Gran Esfinge de Guiza",
@@ -1130,7 +1130,7 @@
     "ja": "ギザの大スフィンクス",
     "ko": "기자의 대스핑크스"
    },
-   "rev": "b1840f7d46"
+   "rev": "da1cf60fa0"
   },
   {
    "id": "018_little_dancer_of_fourteen_years_112",
@@ -1159,8 +1159,8 @@
    ],
    "width": 112,
    "height": 112,
-   "colors": 20,
-   "added": "2026-12-09",
+   "colors": 15,
+   "added": "2027-01-11",
    "titles": {
     "en": "Little Dancer Aged Fourteen",
     "es": "La pequeña bailarina de catorce años",
@@ -1172,7 +1172,7 @@
     "ja": "14歳の小さな踊り子",
     "ko": "14세의 어린 무용수"
    },
-   "rev": "014fd5a59d"
+   "rev": "dffa344e21"
   },
   {
    "id": "018_the_night_watch_centr_128",
@@ -1202,8 +1202,8 @@
    ],
    "width": 128,
    "height": 128,
-   "colors": 22,
-   "added": "2026-12-19",
+   "colors": 7,
+   "added": "2026-12-02",
    "titles": {
     "en": "The Night Watch",
     "es": "La ronda de noche",
@@ -1215,7 +1215,7 @@
     "ja": "夜警",
     "ko": "야경"
    },
-   "rev": "47c65077e3"
+   "rev": "62e9766b00"
   },
   {
    "id": "019_capitoline_wolf_112",
@@ -1244,8 +1244,8 @@
    ],
    "width": 112,
    "height": 112,
-   "colors": 18,
-   "added": "2026-12-03",
+   "colors": 11,
+   "added": "2027-01-11",
    "titles": {
     "en": "Capitoline Wolf",
     "es": "Loba Capitolina",
@@ -1257,7 +1257,7 @@
     "ja": "カピトリーノの雌狼",
     "ko": "카피톨리노의 암늑대"
    },
-   "rev": "c18eb2d681"
+   "rev": "88207fc560"
   },
   {
    "id": "019_kazan_cathedral_saint_petersburg_120",
@@ -1288,8 +1288,8 @@
    ],
    "width": 120,
    "height": 120,
-   "colors": 22,
-   "added": "2026-12-18",
+   "colors": 16,
+   "added": "2026-12-29",
    "titles": {
     "en": "Kazan Cathedral, Saint Petersburg",
     "es": "Catedral de Kazán, San Petersburgo",
@@ -1301,7 +1301,7 @@
     "ja": "カザン大聖堂（サンクトペテルブルク）",
     "ko": "카잔 대성당 (상트페테르부르크)"
    },
-   "rev": "80ea3989de"
+   "rev": "b517ddc67d"
   },
   {
    "id": "019_nebra_sky_disc_96",
@@ -1331,8 +1331,8 @@
    ],
    "width": 96,
    "height": 96,
-   "colors": 25,
-   "added": "2026-12-04",
+   "colors": 20,
+   "added": "2026-12-13",
    "titles": {
     "en": "Nebra Sky Disc",
     "es": "Disco celeste de Nebra",
@@ -1344,7 +1344,7 @@
     "ja": "ネブラの天空円盤",
     "ko": "네브라 하늘 원반"
    },
-   "rev": "c6cf8df7a7"
+   "rev": "bab5db0072"
   },
   {
    "id": "019_the_anatomy_lesson_of_dr_nicolaes_tulp_centr_112",
@@ -1374,8 +1374,8 @@
    ],
    "width": 112,
    "height": 112,
-   "colors": 21,
-   "added": "2026-12-23",
+   "colors": 11,
+   "added": "2027-01-02",
    "titles": {
     "en": "The Anatomy Lesson of Dr. Nicolaes Tulp",
     "es": "La lección de anatomía del doctor Nicolaes Tulp",
@@ -1387,7 +1387,7 @@
     "ja": "テュルプ博士の解剖学講義",
     "ko": "니콜라스 튈프 박사의 해부학 강의"
    },
-   "rev": "557743d503"
+   "rev": "a46129bd21"
   },
   {
    "id": "020_augustus_of_prima_porta_112",
@@ -1416,8 +1416,8 @@
    ],
    "width": 112,
    "height": 112,
-   "colors": 20,
-   "added": "2026-12-13",
+   "colors": 12,
+   "added": "2027-01-06",
    "titles": {
     "en": "Augustus of Prima Porta",
     "es": "Augusto de Prima Porta",
@@ -1429,7 +1429,7 @@
     "ja": "プリマポルタのアウグストゥス",
     "ko": "프리마 포르타의 아우구스투스"
    },
-   "rev": "06dc9cc046"
+   "rev": "548eadec47"
   },
   {
    "id": "020_mask_of_agamemnon_104",
@@ -1458,8 +1458,8 @@
    ],
    "width": 104,
    "height": 104,
-   "colors": 19,
-   "added": "2026-12-10",
+   "colors": 11,
+   "added": "2027-01-09",
    "titles": {
     "en": "Mask of Agamemnon",
     "es": "Máscara de Agamenón",
@@ -1471,7 +1471,7 @@
     "ja": "アガメムノンのマスク",
     "ko": "아가멤논의 가면"
    },
-   "rev": "8de601ff2b"
+   "rev": "545e52add5"
   },
   {
    "id": "020_the_return_of_the_prodigal_son_centr_128",
@@ -1501,8 +1501,8 @@
    ],
    "width": 128,
    "height": 128,
-   "colors": 22,
-   "added": "2026-12-24",
+   "colors": 9,
+   "added": "2027-01-08",
    "titles": {
     "en": "The Return of the Prodigal Son",
     "es": "El regreso del hijo pródigo",
@@ -1514,7 +1514,7 @@
     "ja": "放蕩息子の帰還",
     "ko": "탕자의 귀환"
    },
-   "rev": "7dcd0fcf8b"
+   "rev": "e9d4133e6e"
   },
   {
    "id": "1_96",
@@ -1534,7 +1534,7 @@
    "width": 96,
    "height": 96,
    "colors": 16,
-   "added": "2026-12-09",
+   "added": "2026-12-24",
    "titles": {
     "en": "Facade on Ligovsky Avenue",
     "es": "Fachada en la avenida Ligovski",
@@ -1546,7 +1546,7 @@
     "ja": "リゴフスキー大通りのファサード",
     "ko": "리고프스키 대로의 파사드"
    },
-   "rev": "d790ece7ec"
+   "rev": "49cd1de440"
   },
   {
    "id": "647_st_petersburg_ligovsky_prospect_137_96",
@@ -1566,7 +1566,7 @@
    "width": 96,
    "height": 96,
    "colors": 19,
-   "added": "2026-12-24",
+   "added": "2026-12-22",
    "titles": {
     "en": "Ligovsky Avenue 137",
     "es": "Avenida Ligovski 137",
@@ -1578,7 +1578,7 @@
     "ja": "リゴフスキー大通り137番地",
     "ko": "리고프스키 대로 137번지"
    },
-   "rev": "f41c25ae82"
+   "rev": "656b533432"
   },
   {
    "id": "a_cozy_nap_of_a_calico_cat_64",
@@ -1602,8 +1602,8 @@
    ],
    "width": 64,
    "height": 64,
-   "colors": 24,
-   "added": "2027-01-01",
+   "colors": 18,
+   "added": "2027-01-06",
    "titles": {
     "en": "Sleeping cat",
     "es": "Gato durmiendo",
@@ -1615,7 +1615,7 @@
     "ja": "眠る猫",
     "ko": "자는 고양이"
    },
-   "rev": "9147ea21ad"
+   "rev": "c267358cd2"
   },
   {
    "id": "a_painting_by_max_friedrich_koch_donar_thor_96",
@@ -1646,8 +1646,8 @@
    ],
    "width": 96,
    "height": 96,
-   "colors": 24,
-   "added": "2026-11-27",
+   "colors": 19,
+   "added": "2026-11-28",
    "titles": {
     "en": "Donar-Thor",
     "es": "Donar-Thor",
@@ -1659,7 +1659,7 @@
     "ja": "ドナール＝トール",
     "ko": "도나르-토르"
    },
-   "rev": "ff1935507a"
+   "rev": "7ebb05fece"
   },
   {
    "id": "a_solitary_house_96",
@@ -1676,8 +1676,8 @@
    ],
    "width": 96,
    "height": 96,
-   "colors": 16,
-   "added": "2026-12-04",
+   "colors": 13,
+   "added": "2026-11-25",
    "titles": {
     "en": "Lonely house at sunset",
     "es": "Casa solitaria al atardecer",
@@ -1689,7 +1689,7 @@
     "ja": "夕暮れの一軒家",
     "ko": "해질녘의 외딴집"
    },
-   "rev": "db36495ce4"
+   "rev": "f3500216cd"
   },
   {
    "id": "aggressive_girl_1_128",
@@ -1705,7 +1705,7 @@
    ],
    "width": 128,
    "height": 128,
-   "colors": 28,
+   "colors": 20,
    "added": "2026-11-18",
    "titles": {
     "en": "Anime girl 1",
@@ -1718,7 +1718,7 @@
     "ja": "アニメの少女 1",
     "ko": "애니메 소녀 1"
    },
-   "rev": "267b0f95cc"
+   "rev": "20ec71dd25"
   },
   {
    "id": "aivazovsky_ivan_the_ninth_wave_96",
@@ -1750,7 +1750,7 @@
    ],
    "width": 96,
    "height": 96,
-   "colors": 24,
+   "colors": 19,
    "added": "2026-11-18",
    "titles": {
     "en": "The Ninth Wave",
@@ -1763,7 +1763,7 @@
     "ja": "第九の波",
     "ko": "아홉 번째 파도"
    },
-   "rev": "50c68a92b3"
+   "rev": "c85ff4d997"
   },
   {
    "id": "american_gothic_grant_wood_128",
@@ -1795,8 +1795,8 @@
    ],
    "width": 128,
    "height": 128,
-   "colors": 31,
-   "added": "2026-11-25",
+   "colors": 27,
+   "added": "2026-11-29",
    "titles": {
     "en": "American Gothic",
     "es": "Gótico americano",
@@ -1808,7 +1808,7 @@
     "ja": "アメリカン・ゴシック",
     "ko": "아메리칸 고딕"
    },
-   "rev": "51160feff5"
+   "rev": "0e5fea1fc2"
   },
   {
    "id": "anubis_standing_svg_64",
@@ -1837,8 +1837,8 @@
    ],
    "width": 64,
    "height": 64,
-   "colors": 18,
-   "added": "2027-01-01",
+   "colors": 9,
+   "added": "2027-01-15",
    "titles": {
     "en": "Anubis",
     "es": "Anubis",
@@ -1850,7 +1850,7 @@
     "ja": "アヌビス",
     "ko": "아누비스"
    },
-   "rev": "82d45158fc"
+   "rev": "e8cb92a750"
   },
   {
    "id": "ararat_1_96",
@@ -1868,7 +1868,7 @@
    "width": 96,
    "height": 96,
    "colors": 12,
-   "added": "2026-11-25",
+   "added": "2026-11-27",
    "titles": {
     "en": "Mount Ararat at sunset",
     "es": "Monte Ararat al atardecer",
@@ -1880,7 +1880,7 @@
     "ja": "夕暮れのアララト山",
     "ko": "해질녘의 아라라트산"
    },
-   "rev": "b20c2ad326"
+   "rev": "8c22c07e28"
   },
   {
    "id": "ararat_2_96",
@@ -1898,7 +1898,7 @@
    "width": 96,
    "height": 96,
    "colors": 12,
-   "added": "2026-11-20",
+   "added": "2026-11-24",
    "titles": {
     "en": "Mount Ararat at dawn",
     "es": "Monte Ararat al amanecer",
@@ -1910,7 +1910,7 @@
     "ja": "夜明けのアララト山",
     "ko": "새벽의 아라라트산"
    },
-   "rev": "d771533674"
+   "rev": "b25cba9d3f"
   },
   {
    "id": "arweltatty_daisy_10294239_88",
@@ -1926,7 +1926,7 @@
    ],
    "width": 88,
    "height": 88,
-   "colors": 24,
+   "colors": 8,
    "added": "2027-01-06",
    "titles": {
     "en": "Field of daisies",
@@ -1939,7 +1939,7 @@
     "ja": "デイジー畑",
     "ko": "데이지 들판"
    },
-   "rev": "8341fb4762"
+   "rev": "01b3ac5657"
   },
   {
    "id": "bat_88",
@@ -1960,7 +1960,7 @@
    ],
    "width": 88,
    "height": 88,
-   "colors": 12,
+   "colors": 4,
    "added": "2026-11-18",
    "titles": {
     "en": "Bat",
@@ -1973,7 +1973,7 @@
     "ja": "コウモリ",
     "ko": "박쥐"
    },
-   "rev": "bc76debcb1"
+   "rev": "c2f7d2c2ee"
   },
   {
    "id": "beautiful_sea_1_64",
@@ -1990,8 +1990,8 @@
    ],
    "width": 64,
    "height": 64,
-   "colors": 32,
-   "added": "2026-11-21",
+   "colors": 11,
+   "added": "2026-11-20",
    "titles": {
     "en": "Red sun over the sea",
     "es": "Sol rojo sobre el mar",
@@ -2003,7 +2003,7 @@
     "ja": "海の上の赤い太陽",
     "ko": "바다 위의 붉은 태양"
    },
-   "rev": "fea25fc464"
+   "rev": "ef9bdff848"
   },
   {
    "id": "beautiful_sea_image_128",
@@ -2020,8 +2020,8 @@
    ],
    "width": 128,
    "height": 128,
-   "colors": 20,
-   "added": "2026-11-30",
+   "colors": 18,
+   "added": "2026-12-05",
    "titles": {
     "en": "Sunset over the sea",
     "es": "Atardecer sobre el mar",
@@ -2033,7 +2033,7 @@
     "ja": "海に沈む夕日",
     "ko": "바다 위의 노을"
    },
-   "rev": "c3d311e0ec"
+   "rev": "7db7b1cf86"
   },
   {
    "id": "bessi_woman_96",
@@ -2053,7 +2053,7 @@
    "width": 96,
    "height": 96,
    "colors": 10,
-   "added": "2026-11-20",
+   "added": "2026-12-03",
    "titles": {
     "en": "The gaze",
     "es": "La mirada",
@@ -2065,7 +2065,7 @@
     "ja": "まなざし",
     "ko": "시선"
    },
-   "rev": "815ac8c99f"
+   "rev": "5df4398439"
   },
   {
    "id": "birth_of_venus_botticelli_128",
@@ -2109,7 +2109,7 @@
     "ja": "ヴィーナスの誕生",
     "ko": "비너스의 탄생"
    },
-   "rev": "167087046a"
+   "rev": "b69f02cd53"
   },
   {
    "id": "book_and_tea_64",
@@ -2128,7 +2128,7 @@
    "width": 64,
    "height": 64,
    "colors": 12,
-   "added": "2026-12-19",
+   "added": "2026-12-03",
    "titles": {
     "en": "Book and tea",
     "es": "Libro y té",
@@ -2140,7 +2140,7 @@
     "ja": "本とお茶",
     "ko": "책과 차"
    },
-   "rev": "965522eb4a"
+   "rev": "e19e419d83"
   },
   {
    "id": "burger_002_80",
@@ -2163,8 +2163,8 @@
    ],
    "width": 80,
    "height": 80,
-   "colors": 16,
-   "added": "2026-12-29",
+   "colors": 13,
+   "added": "2027-01-16",
    "titles": {
     "en": "Burger",
     "es": "Hamburguesa",
@@ -2176,7 +2176,7 @@
     "ja": "ハンバーガー",
     "ko": "햄버거"
    },
-   "rev": "d867aa0a74"
+   "rev": "7119b9e932"
   },
   {
    "id": "cake_91_128",
@@ -2257,8 +2257,8 @@
    ],
    "width": 72,
    "height": 72,
-   "colors": 15,
-   "added": "2026-12-22",
+   "colors": 14,
+   "added": "2027-01-14",
    "titles": {
     "en": "Camera 1",
     "es": "Cámara 1",
@@ -2270,7 +2270,7 @@
     "ja": "カメラ 1",
     "ko": "카메라 1"
    },
-   "rev": "8c8557fce8"
+   "rev": "b96f15e6ec"
   },
   {
    "id": "castle_and_moon_96",
@@ -2287,7 +2287,7 @@
    ],
    "width": 96,
    "height": 96,
-   "colors": 20,
+   "colors": 10,
    "added": "2026-11-18",
    "titles": {
     "en": "Castle and moon",
@@ -2300,7 +2300,7 @@
     "ja": "城と月",
     "ko": "성과 달"
    },
-   "rev": "709c75b93e"
+   "rev": "3cca478644"
   },
   {
    "id": "cat_123_64",
@@ -2353,7 +2353,7 @@
    ],
    "width": 64,
    "height": 64,
-   "colors": 16,
+   "colors": 11,
    "added": "2026-11-18",
    "titles": {
     "en": "Cat 1",
@@ -2366,7 +2366,7 @@
     "ja": "猫 1",
     "ko": "고양이 1"
    },
-   "rev": "aec56c2193"
+   "rev": "c8c4120693"
   },
   {
    "id": "cat_22_96",
@@ -2385,8 +2385,8 @@
    ],
    "width": 96,
    "height": 96,
-   "colors": 28,
-   "added": "2027-01-09",
+   "colors": 17,
+   "added": "2027-01-02",
    "titles": {
     "en": "Cat 21",
     "es": "Gato 21",
@@ -2398,7 +2398,7 @@
     "ja": "猫 21",
     "ko": "고양이 21"
    },
-   "rev": "f86224da35"
+   "rev": "3bc39e995c"
   },
   {
    "id": "cat_23_96",
@@ -2418,7 +2418,7 @@
    "width": 96,
    "height": 96,
    "colors": 24,
-   "added": "2027-01-07",
+   "added": "2027-01-05",
    "titles": {
     "en": "Cat 22",
     "es": "Gato 22",
@@ -2430,7 +2430,7 @@
     "ja": "猫 22",
     "ko": "고양이 22"
    },
-   "rev": "4ff63a9d06"
+   "rev": "2f4e611ac3"
   },
   {
    "id": "cat_24_96",
@@ -2449,8 +2449,8 @@
    ],
    "width": 96,
    "height": 96,
-   "colors": 16,
-   "added": "2026-12-04",
+   "colors": 12,
+   "added": "2026-12-06",
    "titles": {
     "en": "Cat 3",
     "es": "Gato 3",
@@ -2462,7 +2462,7 @@
     "ja": "猫 3",
     "ko": "고양이 3"
    },
-   "rev": "827be013b5"
+   "rev": "8f7cd7f9a2"
   },
   {
    "id": "cat_25_128",
@@ -2481,8 +2481,8 @@
    ],
    "width": 128,
    "height": 128,
-   "colors": 10,
-   "added": "2026-12-26",
+   "colors": 8,
+   "added": "2027-01-07",
    "titles": {
     "en": "Cat 4",
     "es": "Gato 4",
@@ -2494,7 +2494,7 @@
     "ja": "猫 4",
     "ko": "고양이 4"
    },
-   "rev": "6373668153"
+   "rev": "ba29adeac6"
   },
   {
    "id": "cat_26_96",
@@ -2514,7 +2514,7 @@
    "width": 96,
    "height": 96,
    "colors": 12,
-   "added": "2026-12-23",
+   "added": "2027-01-01",
    "titles": {
     "en": "Cat 5",
     "es": "Gato 5",
@@ -2526,7 +2526,7 @@
     "ja": "猫 5",
     "ko": "고양이 5"
    },
-   "rev": "54cc735686"
+   "rev": "bd1a63b478"
   },
   {
    "id": "cat_27_96",
@@ -2545,8 +2545,8 @@
    ],
    "width": 96,
    "height": 96,
-   "colors": 16,
-   "added": "2026-11-24",
+   "colors": 10,
+   "added": "2027-01-05",
    "titles": {
     "en": "Cat 6",
     "es": "Gato 6",
@@ -2558,7 +2558,7 @@
     "ja": "猫 6",
     "ko": "고양이 6"
    },
-   "rev": "73589d3492"
+   "rev": "7556b689c7"
   },
   {
    "id": "cat_28_96",
@@ -2577,8 +2577,8 @@
    ],
    "width": 96,
    "height": 96,
-   "colors": 12,
-   "added": "2026-12-18",
+   "colors": 8,
+   "added": "2027-01-11",
    "titles": {
     "en": "Cat 7",
     "es": "Gato 7",
@@ -2590,7 +2590,7 @@
     "ja": "猫 7",
     "ko": "고양이 7"
    },
-   "rev": "0e52835553"
+   "rev": "2d7459b3d3"
   },
   {
    "id": "cat_29_96",
@@ -2609,8 +2609,8 @@
    ],
    "width": 96,
    "height": 96,
-   "colors": 20,
-   "added": "2027-01-07",
+   "colors": 18,
+   "added": "2027-01-17",
    "titles": {
     "en": "Cat 23",
     "es": "Gato 23",
@@ -2622,7 +2622,7 @@
     "ja": "猫 23",
     "ko": "고양이 23"
    },
-   "rev": "d829f03ae0"
+   "rev": "44706e5a85"
   },
   {
    "id": "cat_30_128",
@@ -2641,7 +2641,7 @@
    ],
    "width": 128,
    "height": 128,
-   "colors": 16,
+   "colors": 13,
    "added": "2026-11-18",
    "titles": {
     "en": "Cat 24",
@@ -2654,7 +2654,7 @@
     "ja": "猫 24",
     "ko": "고양이 24"
    },
-   "rev": "304a44cb68"
+   "rev": "6337f03541"
   },
   {
    "id": "cat_31_96",
@@ -2674,7 +2674,7 @@
    "width": 96,
    "height": 96,
    "colors": 16,
-   "added": "2027-01-03",
+   "added": "2027-01-05",
    "titles": {
     "en": "Cat 8",
     "es": "Gato 8",
@@ -2686,7 +2686,7 @@
     "ja": "猫 8",
     "ko": "고양이 8"
    },
-   "rev": "06d1519af4"
+   "rev": "f19a107261"
   },
   {
    "id": "cat_32_96",
@@ -2705,8 +2705,8 @@
    ],
    "width": 96,
    "height": 96,
-   "colors": 16,
-   "added": "2027-01-06",
+   "colors": 13,
+   "added": "2027-01-02",
    "titles": {
     "en": "Cat 9",
     "es": "Gato 9",
@@ -2718,7 +2718,7 @@
     "ja": "猫 9",
     "ko": "고양이 9"
    },
-   "rev": "5fbdd86b9f"
+   "rev": "706c2197ad"
   },
   {
    "id": "cat_33_96",
@@ -2737,8 +2737,8 @@
    ],
    "width": 96,
    "height": 96,
-   "colors": 16,
-   "added": "2027-01-07",
+   "colors": 13,
+   "added": "2027-01-15",
    "titles": {
     "en": "Cat 25",
     "es": "Gato 25",
@@ -2750,7 +2750,7 @@
     "ja": "猫 25",
     "ko": "고양이 25"
    },
-   "rev": "af3d6ca923"
+   "rev": "8da7325208"
   },
   {
    "id": "cat_34_128",
@@ -2770,7 +2770,7 @@
    "width": 128,
    "height": 128,
    "colors": 12,
-   "added": "2026-12-17",
+   "added": "2026-12-20",
    "titles": {
     "en": "Cat 10",
     "es": "Gato 10",
@@ -2782,7 +2782,7 @@
     "ja": "猫 10",
     "ko": "고양이 10"
    },
-   "rev": "6014cfe214"
+   "rev": "a1a8443839"
   },
   {
    "id": "cat_35_96",
@@ -2801,8 +2801,8 @@
    ],
    "width": 96,
    "height": 96,
-   "colors": 20,
-   "added": "2027-01-08",
+   "colors": 18,
+   "added": "2027-01-07",
    "titles": {
     "en": "Cat 11",
     "es": "Gato 11",
@@ -2814,7 +2814,7 @@
     "ja": "猫 11",
     "ko": "고양이 11"
    },
-   "rev": "efaf03b579"
+   "rev": "abe7e2d709"
   },
   {
    "id": "cat_36_96",
@@ -2833,8 +2833,8 @@
    ],
    "width": 96,
    "height": 96,
-   "colors": 16,
-   "added": "2027-01-04",
+   "colors": 15,
+   "added": "2027-01-08",
    "titles": {
     "en": "Cat 12",
     "es": "Gato 12",
@@ -2846,7 +2846,7 @@
     "ja": "猫 12",
     "ko": "고양이 12"
    },
-   "rev": "ad48b32cf9"
+   "rev": "69f443fd66"
   },
   {
    "id": "cat_37_96",
@@ -2865,8 +2865,8 @@
    ],
    "width": 96,
    "height": 96,
-   "colors": 18,
-   "added": "2027-01-04",
+   "colors": 10,
+   "added": "2027-01-02",
    "titles": {
     "en": "Cat 13",
     "es": "Gato 13",
@@ -2878,7 +2878,7 @@
     "ja": "猫 13",
     "ko": "고양이 13"
    },
-   "rev": "249c0df836"
+   "rev": "3beb957a94"
   },
   {
    "id": "cat_40_128",
@@ -2897,8 +2897,8 @@
    ],
    "width": 128,
    "height": 128,
-   "colors": 32,
-   "added": "2027-01-06",
+   "colors": 22,
+   "added": "2027-01-17",
    "titles": {
     "en": "Cat 26",
     "es": "Gato 26",
@@ -2910,7 +2910,7 @@
     "ja": "猫 26",
     "ko": "고양이 26"
    },
-   "rev": "42002b7b6a"
+   "rev": "f0f8720f83"
   },
   {
    "id": "cat_41_96",
@@ -2930,7 +2930,7 @@
    "width": 96,
    "height": 96,
    "colors": 12,
-   "added": "2026-12-21",
+   "added": "2027-01-13",
    "titles": {
     "en": "Cat 14",
     "es": "Gato 14",
@@ -2942,7 +2942,7 @@
     "ja": "猫 14",
     "ko": "고양이 14"
    },
-   "rev": "ac152b86c9"
+   "rev": "97acd22d66"
   },
   {
    "id": "cat_42_96",
@@ -2961,7 +2961,7 @@
    ],
    "width": 96,
    "height": 96,
-   "colors": 16,
+   "colors": 15,
    "added": "2026-11-18",
    "titles": {
     "en": "Cat 15",
@@ -2974,7 +2974,7 @@
     "ja": "猫 15",
     "ko": "고양이 15"
    },
-   "rev": "6991fe4296"
+   "rev": "23f988e051"
   },
   {
    "id": "cat_43_96",
@@ -2993,8 +2993,8 @@
    ],
    "width": 96,
    "height": 96,
-   "colors": 16,
-   "added": "2026-12-31",
+   "colors": 9,
+   "added": "2027-01-10",
    "titles": {
     "en": "Cat 27",
     "es": "Gato 27",
@@ -3006,7 +3006,7 @@
     "ja": "猫 27",
     "ko": "고양이 27"
    },
-   "rev": "b30c3ff637"
+   "rev": "7dc462f0f3"
   },
   {
    "id": "cat_44_96",
@@ -3026,7 +3026,7 @@
    "width": 96,
    "height": 96,
    "colors": 12,
-   "added": "2027-01-01",
+   "added": "2027-01-17",
    "titles": {
     "en": "Cat 16",
     "es": "Gato 16",
@@ -3038,7 +3038,7 @@
     "ja": "猫 16",
     "ko": "고양이 16"
    },
-   "rev": "32901d5517"
+   "rev": "79e490d7eb"
   },
   {
    "id": "cat_45_96",
@@ -3057,8 +3057,8 @@
    ],
    "width": 96,
    "height": 96,
-   "colors": 12,
-   "added": "2027-01-05",
+   "colors": 11,
+   "added": "2026-11-30",
    "titles": {
     "en": "Cat 28",
     "es": "Gato 28",
@@ -3070,7 +3070,7 @@
     "ja": "猫 28",
     "ko": "고양이 28"
    },
-   "rev": "f3bdb27c15"
+   "rev": "be3443afe9"
   },
   {
    "id": "cat_46_96",
@@ -3089,8 +3089,8 @@
    ],
    "width": 96,
    "height": 96,
-   "colors": 10,
-   "added": "2027-01-06",
+   "colors": 9,
+   "added": "2026-12-25",
    "titles": {
     "en": "Cat 17",
     "es": "Gato 17",
@@ -3102,7 +3102,7 @@
     "ja": "猫 17",
     "ko": "고양이 17"
    },
-   "rev": "cf9ac99892"
+   "rev": "90e99fd978"
   },
   {
    "id": "cat_47_128",
@@ -3122,7 +3122,7 @@
    "width": 128,
    "height": 128,
    "colors": 16,
-   "added": "2026-12-06",
+   "added": "2026-12-08",
    "titles": {
     "en": "Cat 18",
     "es": "Gato 18",
@@ -3134,7 +3134,7 @@
     "ja": "猫 18",
     "ko": "고양이 18"
    },
-   "rev": "da93423abe"
+   "rev": "b62f7ca1b0"
   },
   {
    "id": "cat_48_96",
@@ -3153,8 +3153,8 @@
    ],
    "width": 96,
    "height": 96,
-   "colors": 24,
-   "added": "2027-01-02",
+   "colors": 14,
+   "added": "2026-12-15",
    "titles": {
     "en": "Cat 19",
     "es": "Gato 19",
@@ -3166,7 +3166,7 @@
     "ja": "猫 19",
     "ko": "고양이 19"
    },
-   "rev": "e274a2519b"
+   "rev": "23764ea2ac"
   },
   {
    "id": "cat_49_96",
@@ -3185,8 +3185,8 @@
    ],
    "width": 96,
    "height": 96,
-   "colors": 16,
-   "added": "2026-11-23",
+   "colors": 13,
+   "added": "2027-01-04",
    "titles": {
     "en": "Cat 20",
     "es": "Gato 20",
@@ -3198,7 +3198,7 @@
     "ja": "猫 20",
     "ko": "고양이 20"
    },
-   "rev": "112f832df9"
+   "rev": "0acc7d64e9"
   },
   {
    "id": "cat_4_96",
@@ -3218,7 +3218,7 @@
    "width": 96,
    "height": 96,
    "colors": 20,
-   "added": "2027-01-08",
+   "added": "2027-01-07",
    "titles": {
     "en": "Cat 2",
     "es": "Gato 2",
@@ -3230,7 +3230,7 @@
     "ja": "猫 2",
     "ko": "고양이 2"
    },
-   "rev": "9475f48bff"
+   "rev": "531b304bf2"
   },
   {
    "id": "cat_64",
@@ -3265,8 +3265,8 @@
    ],
    "width": 64,
    "height": 64,
-   "colors": 26,
-   "added": "2026-11-26",
+   "colors": 18,
+   "added": "2027-01-07",
    "titles": {
     "en": "Cat",
     "es": "Gato",
@@ -3278,7 +3278,7 @@
     "ja": "猫",
     "ko": "고양이"
    },
-   "rev": "9d77d34232"
+   "rev": "f84852fc17"
   },
   {
    "id": "cheerful_pumpkins_128",
@@ -3294,8 +3294,8 @@
    ],
    "width": 105,
    "height": 105,
-   "colors": 18,
-   "added": "2026-12-15",
+   "colors": 16,
+   "added": "2027-01-13",
    "titles": {
     "en": "Cheerful pumpkins",
     "es": "Calabazas alegres",
@@ -3307,7 +3307,7 @@
     "ja": "楽しいカボチャ",
     "ko": "즐거운 호박"
    },
-   "rev": "147811215b"
+   "rev": "eabd3a479c"
   },
   {
    "id": "city_at_sunset_image_64",
@@ -3323,8 +3323,8 @@
    ],
    "width": 96,
    "height": 96,
-   "colors": 20,
-   "added": "2026-11-28",
+   "colors": 16,
+   "added": "2026-11-30",
    "titles": {
     "en": "City at sunset",
     "es": "Ciudad al atardecer",
@@ -3336,7 +3336,7 @@
     "ja": "夕暮れの街",
     "ko": "해질녘의 도시"
    },
-   "rev": "25598c42c0"
+   "rev": "1d78632f80"
   },
   {
    "id": "clock_2_72",
@@ -3351,8 +3351,8 @@
    ],
    "width": 72,
    "height": 72,
-   "colors": 18,
-   "added": "2027-01-03",
+   "colors": 16,
+   "added": "2027-01-04",
    "titles": {
     "en": "Alarm clock",
     "es": "Despertador",
@@ -3364,7 +3364,7 @@
     "ja": "目覚まし時計",
     "ko": "알람 시계"
    },
-   "rev": "938247764d"
+   "rev": "dfe93eae39"
   },
   {
    "id": "coop_1_96",
@@ -3380,7 +3380,7 @@
    ],
    "width": 96,
    "height": 96,
-   "colors": 20,
+   "colors": 17,
    "added": "2026-11-18",
    "titles": {
     "en": "Sunset over the hills",
@@ -3393,7 +3393,7 @@
     "ja": "丘の夕日",
     "ko": "언덕 위의 노을"
    },
-   "rev": "e596d61b4b"
+   "rev": "95e7ecaf28"
   },
   {
    "id": "coop_2_64",
@@ -3409,8 +3409,8 @@
    ],
    "width": 64,
    "height": 64,
-   "colors": 16,
-   "added": "2026-12-25",
+   "colors": 15,
+   "added": "2026-12-11",
    "titles": {
     "en": "Cup of coffee",
     "es": "Taza de café",
@@ -3422,7 +3422,7 @@
     "ja": "コーヒーカップ",
     "ko": "커피 한 잔"
    },
-   "rev": "0cf8b13218"
+   "rev": "64520812a4"
   },
   {
    "id": "cristiyor_woman_96",
@@ -3439,7 +3439,7 @@
    ],
    "width": 96,
    "height": 96,
-   "colors": 20,
+   "colors": 8,
    "added": "2026-11-22",
    "titles": {
     "en": "Woman in a headscarf",
@@ -3452,7 +3452,7 @@
     "ja": "スカーフの女性",
     "ko": "스카프를 쓴 여인"
    },
-   "rev": "7116bab5a7"
+   "rev": "ffce655379"
   },
   {
    "id": "crocuses_4_72",
@@ -3467,8 +3467,8 @@
    ],
    "width": 72,
    "height": 72,
-   "colors": 30,
-   "added": "2027-01-09",
+   "colors": 26,
+   "added": "2026-12-14",
    "titles": {
     "en": "Crocuses",
     "es": "Crocos",
@@ -3480,7 +3480,7 @@
     "ja": "クロッカス",
     "ko": "크로커스"
    },
-   "rev": "e1256bd671"
+   "rev": "7922e2de3b"
   },
   {
    "id": "cute_little_fox_in_a_blooming_meadow_es_lindo_zorr_96",
@@ -3509,8 +3509,8 @@
    ],
    "width": 96,
    "height": 96,
-   "colors": 29,
-   "added": "2026-12-30",
+   "colors": 22,
+   "added": "2027-01-05",
    "titles": {
     "en": "Cute Little Fox in a Blooming Meadow",
     "es": "Lindo zorrito en un prado florecido",
@@ -3522,7 +3522,7 @@
     "ja": "花咲く草原の可愛い子狐",
     "ko": "꽃이 핀 들판 위의 귀여운 아기 여우"
    },
-   "rev": "7b234bf222"
+   "rev": "faca52fea4"
   },
   {
    "id": "cute_pixel_pug_on_a_yellow_background_es_lindo_pug_96",
@@ -3550,8 +3550,8 @@
    ],
    "width": 96,
    "height": 96,
-   "colors": 21,
-   "added": "2026-12-01",
+   "colors": 7,
+   "added": "2027-01-04",
    "titles": {
     "en": "Cute Pixel Pug on a Yellow Background",
     "es": "Lindo pug de píxeles sobre fondo amarillo",
@@ -3563,7 +3563,7 @@
     "ja": "黄色い背景の可愛いピクセルパグ",
     "ko": "노란 배경 위의 귀여운 픽셀 퍼그"
    },
-   "rev": "8f281035f0"
+   "rev": "2c2037f791"
   },
   {
    "id": "cyberpunk_male_portrait_es_retrato_de_hombre_cyber_64",
@@ -3588,8 +3588,8 @@
    ],
    "width": 64,
    "height": 64,
-   "colors": 26,
-   "added": "2026-12-31",
+   "colors": 15,
+   "added": "2027-01-16",
    "titles": {
     "en": "Cyberpunk Male Portrait",
     "es": "Retrato de hombre cyberpunk",
@@ -3601,7 +3601,7 @@
     "ja": "サイバーパンクの男性の肖像画",
     "ko": "사이버펑크 남성 초상화"
    },
-   "rev": "0b408290ca"
+   "rev": "0b11192fb8"
   },
   {
    "id": "daemon_girl_1_96",
@@ -3620,7 +3620,7 @@
    "width": 96,
    "height": 96,
    "colors": 20,
-   "added": "2026-11-30",
+   "added": "2026-12-08",
    "titles": {
     "en": "Demon girl",
     "es": "Chica demonio",
@@ -3632,7 +3632,7 @@
     "ja": "悪魔の少女",
     "ko": "악마 소녀"
    },
-   "rev": "bf5d12379e"
+   "rev": "f9506336f9"
   },
   {
    "id": "dog_30_96",
@@ -3651,8 +3651,8 @@
    ],
    "width": 96,
    "height": 96,
-   "colors": 16,
-   "added": "2026-12-08",
+   "colors": 15,
+   "added": "2026-12-16",
    "titles": {
     "en": "Dog 2",
     "es": "Perro 2",
@@ -3664,7 +3664,7 @@
     "ja": "犬 2",
     "ko": "강아지 2"
    },
-   "rev": "d03c3c7bcf"
+   "rev": "12fd7d5002"
   },
   {
    "id": "dog_31_96",
@@ -3683,8 +3683,8 @@
    ],
    "width": 96,
    "height": 96,
-   "colors": 32,
-   "added": "2026-11-30",
+   "colors": 22,
+   "added": "2027-01-07",
    "titles": {
     "en": "Dog 3",
     "es": "Perro 3",
@@ -3696,7 +3696,7 @@
     "ja": "犬 3",
     "ko": "강아지 3"
    },
-   "rev": "ab5239cc03"
+   "rev": "1156bb68b1"
   },
   {
    "id": "dog_32_96",
@@ -3715,8 +3715,8 @@
    ],
    "width": 96,
    "height": 96,
-   "colors": 21,
-   "added": "2026-12-27",
+   "colors": 10,
+   "added": "2027-01-03",
    "titles": {
     "en": "Dog 4",
     "es": "Perro 4",
@@ -3728,7 +3728,7 @@
     "ja": "犬 4",
     "ko": "강아지 4"
    },
-   "rev": "409a05cb31"
+   "rev": "ae68b862fb"
   },
   {
    "id": "dog_33_96",
@@ -3747,8 +3747,8 @@
    ],
    "width": 96,
    "height": 96,
-   "colors": 32,
-   "added": "2027-01-07",
+   "colors": 29,
+   "added": "2027-01-17",
    "titles": {
     "en": "Dog 16",
     "es": "Perro 16",
@@ -3760,7 +3760,7 @@
     "ja": "犬 16",
     "ko": "강아지 16"
    },
-   "rev": "71ee2c49f7"
+   "rev": "1a800fce21"
   },
   {
    "id": "dog_34_96",
@@ -3779,8 +3779,8 @@
    ],
    "width": 96,
    "height": 96,
-   "colors": 16,
-   "added": "2027-01-03",
+   "colors": 13,
+   "added": "2027-01-08",
    "titles": {
     "en": "Dog 5",
     "es": "Perro 5",
@@ -3792,7 +3792,7 @@
     "ja": "犬 5",
     "ko": "강아지 5"
    },
-   "rev": "ca43ffdff1"
+   "rev": "a724738618"
   },
   {
    "id": "dog_35_96",
@@ -3811,8 +3811,8 @@
    ],
    "width": 96,
    "height": 96,
-   "colors": 16,
-   "added": "2027-01-08",
+   "colors": 12,
+   "added": "2027-01-03",
    "titles": {
     "en": "Dog 6",
     "es": "Perro 6",
@@ -3824,7 +3824,7 @@
     "ja": "犬 6",
     "ko": "강아지 6"
    },
-   "rev": "a18f706125"
+   "rev": "ea112dcbe4"
   },
   {
    "id": "dog_36_96",
@@ -3843,8 +3843,8 @@
    ],
    "width": 96,
    "height": 96,
-   "colors": 12,
-   "added": "2026-12-05",
+   "colors": 10,
+   "added": "2026-11-29",
    "titles": {
     "en": "Dog 17",
     "es": "Perro 17",
@@ -3856,7 +3856,7 @@
     "ja": "犬 17",
     "ko": "강아지 17"
    },
-   "rev": "4ec77319a9"
+   "rev": "fa39616333"
   },
   {
    "id": "dog_37_64",
@@ -3875,8 +3875,8 @@
    ],
    "width": 64,
    "height": 64,
-   "colors": 16,
-   "added": "2027-01-09",
+   "colors": 12,
+   "added": "2027-01-05",
    "titles": {
     "en": "Dog 7",
     "es": "Perro 7",
@@ -3888,7 +3888,7 @@
     "ja": "犬 7",
     "ko": "강아지 7"
    },
-   "rev": "6abaf3bd79"
+   "rev": "333ca463b1"
   },
   {
    "id": "dog_38_96",
@@ -3907,8 +3907,8 @@
    ],
    "width": 96,
    "height": 96,
-   "colors": 20,
-   "added": "2027-01-09",
+   "colors": 18,
+   "added": "2026-12-07",
    "titles": {
     "en": "Dog 18",
     "es": "Perro 18",
@@ -3920,7 +3920,7 @@
     "ja": "犬 18",
     "ko": "강아지 18"
    },
-   "rev": "e2d2e6dafc"
+   "rev": "d9b811921b"
   },
   {
    "id": "dog_39_96",
@@ -3939,8 +3939,8 @@
    ],
    "width": 96,
    "height": 96,
-   "colors": 16,
-   "added": "2027-01-05",
+   "colors": 14,
+   "added": "2027-01-09",
    "titles": {
     "en": "Dog 8",
     "es": "Perro 8",
@@ -3952,7 +3952,7 @@
     "ja": "犬 8",
     "ko": "강아지 8"
    },
-   "rev": "1f5ea89be2"
+   "rev": "98279fa562"
   },
   {
    "id": "dog_3_128",
@@ -3971,8 +3971,8 @@
    ],
    "width": 128,
    "height": 128,
-   "colors": 32,
-   "added": "2027-01-07",
+   "colors": 26,
+   "added": "2027-01-04",
    "titles": {
     "en": "Dog 15",
     "es": "Perro 15",
@@ -3984,7 +3984,7 @@
     "ja": "犬 15",
     "ko": "강아지 15"
    },
-   "rev": "292aabb485"
+   "rev": "b1ff0077b7"
   },
   {
    "id": "dog_40_96",
@@ -4003,7 +4003,7 @@
    ],
    "width": 96,
    "height": 96,
-   "colors": 16,
+   "colors": 13,
    "added": "2026-11-18",
    "titles": {
     "en": "Dog 9",
@@ -4016,7 +4016,7 @@
     "ja": "犬 9",
     "ko": "강아지 9"
    },
-   "rev": "9855484569"
+   "rev": "db1ba2eb1e"
   },
   {
    "id": "dog_41_96",
@@ -4035,8 +4035,8 @@
    ],
    "width": 96,
    "height": 96,
-   "colors": 16,
-   "added": "2027-01-10",
+   "colors": 14,
+   "added": "2027-01-13",
    "titles": {
     "en": "Dog 10",
     "es": "Perro 10",
@@ -4048,7 +4048,7 @@
     "ja": "犬 10",
     "ko": "강아지 10"
    },
-   "rev": "16474a8027"
+   "rev": "d42b44876e"
   },
   {
    "id": "dog_42_96",
@@ -4068,7 +4068,7 @@
    "width": 96,
    "height": 96,
    "colors": 16,
-   "added": "2027-01-04",
+   "added": "2026-12-01",
    "titles": {
     "en": "Dog 11",
     "es": "Perro 11",
@@ -4080,7 +4080,7 @@
     "ja": "犬 11",
     "ko": "강아지 11"
    },
-   "rev": "b3a1e359c1"
+   "rev": "07707b4980"
   },
   {
    "id": "dog_43_128",
@@ -4112,7 +4112,7 @@
     "ja": "犬 12",
     "ko": "강아지 12"
    },
-   "rev": "40a786e08f"
+   "rev": "b14c89e472"
   },
   {
    "id": "dog_44_96",
@@ -4131,8 +4131,8 @@
    ],
    "width": 96,
    "height": 96,
-   "colors": 16,
-   "added": "2027-01-03",
+   "colors": 14,
+   "added": "2027-01-09",
    "titles": {
     "en": "Dog 19",
     "es": "Perro 19",
@@ -4144,7 +4144,7 @@
     "ja": "犬 19",
     "ko": "강아지 19"
    },
-   "rev": "8cf39d2546"
+   "rev": "88bd0da5dc"
   },
   {
    "id": "dog_45_96",
@@ -4163,8 +4163,8 @@
    ],
    "width": 96,
    "height": 96,
-   "colors": 16,
-   "added": "2026-12-28",
+   "colors": 10,
+   "added": "2027-01-01",
    "titles": {
     "en": "Dog 20",
     "es": "Perro 20",
@@ -4176,7 +4176,7 @@
     "ja": "犬 20",
     "ko": "강아지 20"
    },
-   "rev": "8fd20fe11a"
+   "rev": "87910bf514"
   },
   {
    "id": "dog_46_96",
@@ -4195,7 +4195,7 @@
    ],
    "width": 96,
    "height": 96,
-   "colors": 12,
+   "colors": 11,
    "added": "2026-11-18",
    "titles": {
     "en": "Dog 13",
@@ -4208,7 +4208,7 @@
     "ja": "犬 13",
     "ko": "강아지 13"
    },
-   "rev": "32c3832847"
+   "rev": "afa113c0df"
   },
   {
    "id": "dog_47_96",
@@ -4227,8 +4227,8 @@
    ],
    "width": 96,
    "height": 96,
-   "colors": 20,
-   "added": "2027-01-10",
+   "colors": 17,
+   "added": "2027-01-12",
    "titles": {
     "en": "Dog 21",
     "es": "Perro 21",
@@ -4240,7 +4240,7 @@
     "ja": "犬 21",
     "ko": "강아지 21"
    },
-   "rev": "f3c27af74f"
+   "rev": "ca233d7f12"
   },
   {
    "id": "dog_48_64",
@@ -4260,7 +4260,7 @@
    "width": 64,
    "height": 64,
    "colors": 20,
-   "added": "2027-01-08",
+   "added": "2027-01-14",
    "titles": {
     "en": "Dog 22",
     "es": "Perro 22",
@@ -4272,7 +4272,7 @@
     "ja": "犬 22",
     "ko": "강아지 22"
    },
-   "rev": "2894b36841"
+   "rev": "31aba6bac9"
   },
   {
    "id": "dog_49_96",
@@ -4291,8 +4291,8 @@
    ],
    "width": 96,
    "height": 96,
-   "colors": 16,
-   "added": "2027-01-09",
+   "colors": 14,
+   "added": "2027-01-16",
    "titles": {
     "en": "Dog 23",
     "es": "Perro 23",
@@ -4304,7 +4304,7 @@
     "ja": "犬 23",
     "ko": "강아지 23"
    },
-   "rev": "5e2a5e37e1"
+   "rev": "51745644fa"
   },
   {
    "id": "dog_4_96",
@@ -4323,7 +4323,7 @@
    ],
    "width": 96,
    "height": 96,
-   "colors": 16,
+   "colors": 7,
    "added": "2026-11-18",
    "titles": {
     "en": "Dog 1",
@@ -4336,7 +4336,7 @@
     "ja": "犬 1",
     "ko": "강아지 1"
    },
-   "rev": "b691822c17"
+   "rev": "7ccf8c8d42"
   },
   {
    "id": "dog_50_96",
@@ -4355,8 +4355,8 @@
    ],
    "width": 96,
    "height": 96,
-   "colors": 24,
-   "added": "2027-01-08",
+   "colors": 18,
+   "added": "2026-11-23",
    "titles": {
     "en": "Dog 14",
     "es": "Perro 14",
@@ -4368,7 +4368,7 @@
     "ja": "犬 14",
     "ko": "강아지 14"
    },
-   "rev": "61ba9ad9e6"
+   "rev": "87afd1d005"
   },
   {
    "id": "dog_51_96",
@@ -4388,7 +4388,7 @@
    "width": 96,
    "height": 96,
    "colors": 16,
-   "added": "2026-12-20",
+   "added": "2027-01-08",
    "titles": {
     "en": "Dog 24",
     "es": "Perro 24",
@@ -4400,7 +4400,7 @@
     "ja": "犬 24",
     "ko": "강아지 24"
    },
-   "rev": "b250c1f5e8"
+   "rev": "f95668fbf7"
   },
   {
    "id": "duck_01_56",
@@ -4415,7 +4415,7 @@
    ],
    "width": 56,
    "height": 56,
-   "colors": 17,
+   "colors": 12,
    "added": "2026-11-18",
    "titles": {
     "en": "Duck",
@@ -4428,7 +4428,7 @@
     "ja": "アヒル",
     "ko": "오리"
    },
-   "rev": "c79a5b7902"
+   "rev": "7bd8156b4e"
   },
   {
    "id": "edvard_munch_the_scream_96",
@@ -4472,7 +4472,7 @@
     "ja": "叫び",
     "ko": "절규"
    },
-   "rev": "94193c4bd8"
+   "rev": "82a8d17bf8"
   },
   {
    "id": "elf_girl_128",
@@ -4488,8 +4488,8 @@
    ],
    "width": 120,
    "height": 120,
-   "colors": 23,
-   "added": "2026-12-04",
+   "colors": 17,
+   "added": "2026-12-02",
    "titles": {
     "en": "Elf girl",
     "es": "Chica elfo",
@@ -4501,7 +4501,7 @@
     "ja": "エルフの少女",
     "ko": "엘프 소녀"
    },
-   "rev": "0ae5862a55"
+   "rev": "8a7515421c"
   },
   {
    "id": "evening_sky_image_96",
@@ -4520,7 +4520,7 @@
    "width": 96,
    "height": 96,
    "colors": 16,
-   "added": "2026-12-06",
+   "added": "2026-12-14",
    "titles": {
     "en": "Evening sky",
     "es": "Cielo vespertino",
@@ -4532,7 +4532,7 @@
     "ja": "夕空",
     "ko": "저녁 하늘"
    },
-   "rev": "d76e737599"
+   "rev": "e9213a2343"
   },
   {
    "id": "fashion_girl_1_128",
@@ -4563,7 +4563,7 @@
     "ja": "帽子の少女",
     "ko": "모자를 쓴 소녀"
    },
-   "rev": "dac087a300"
+   "rev": "7cb766ed45"
   },
   {
    "id": "fence_in_the_forest_64",
@@ -4581,7 +4581,7 @@
    "width": 64,
    "height": 64,
    "colors": 12,
-   "added": "2026-12-22",
+   "added": "2026-12-19",
    "titles": {
     "en": "Fence in the autumn forest",
     "es": "Valla en el bosque otoñal",
@@ -4593,7 +4593,7 @@
     "ja": "秋の森の柵",
     "ko": "가을 숲속의 울타리"
    },
-   "rev": "5a6486f08e"
+   "rev": "faeac34a96"
   },
   {
    "id": "flowers_72",
@@ -4607,8 +4607,8 @@
    ],
    "width": 72,
    "height": 72,
-   "colors": 20,
-   "added": "2027-01-02",
+   "colors": 19,
+   "added": "2026-11-22",
    "titles": {
     "en": "Flowers",
     "es": "Flores",
@@ -4620,7 +4620,7 @@
     "ja": "花",
     "ko": "꽃"
    },
-   "rev": "e79673c8d6"
+   "rev": "053c737bac"
   },
   {
    "id": "foji_mountain_96",
@@ -4637,8 +4637,8 @@
    ],
    "width": 96,
    "height": 96,
-   "colors": 16,
-   "added": "2026-12-03",
+   "colors": 15,
+   "added": "2026-12-18",
    "titles": {
     "en": "Mount Fuji",
     "es": "Monte Fuji",
@@ -4650,7 +4650,7 @@
     "ja": "富士山",
     "ko": "후지산"
    },
-   "rev": "ce944bfff7"
+   "rev": "5207d584f6"
   },
   {
    "id": "forest_by_the_lake_64",
@@ -4685,7 +4685,7 @@
    ],
    "width": 64,
    "height": 64,
-   "colors": 24,
+   "colors": 18,
    "added": "2026-12-25",
    "titles": {
     "en": "Forest by the lake",
@@ -4698,7 +4698,7 @@
     "ja": "湖畔の森",
     "ko": "호숫가 숲"
    },
-   "rev": "465c498676"
+   "rev": "6eac128264"
   },
   {
    "id": "forest_campfire_96",
@@ -4715,8 +4715,8 @@
    ],
    "width": 96,
    "height": 96,
-   "colors": 16,
-   "added": "2026-12-27",
+   "colors": 11,
+   "added": "2026-12-23",
    "titles": {
     "en": "Campfire in the forest",
     "es": "Fogata en el bosque",
@@ -4728,7 +4728,7 @@
     "ja": "森のたき火",
     "ko": "숲속 모닥불"
    },
-   "rev": "83b6fb2a6a"
+   "rev": "de5861c64e"
   },
   {
    "id": "forest_in_the_mountains_64",
@@ -4744,8 +4744,8 @@
    ],
    "width": 64,
    "height": 64,
-   "colors": 12,
-   "added": "2026-12-01",
+   "colors": 11,
+   "added": "2026-12-13",
    "titles": {
     "en": "Forest in the mountains",
     "es": "Bosque en las montañas",
@@ -4757,7 +4757,7 @@
     "ja": "山の森",
     "ko": "산속의 숲"
    },
-   "rev": "13e04028cb"
+   "rev": "959251e069"
   },
   {
    "id": "frof_crasy_2_120",
@@ -4771,8 +4771,8 @@
    ],
    "width": 120,
    "height": 120,
-   "colors": 24,
-   "added": "2026-11-28",
+   "colors": 14,
+   "added": "2026-12-12",
    "titles": {
     "en": "Frog",
     "es": "Rana",
@@ -4784,7 +4784,7 @@
     "ja": "カエル",
     "ko": "개구리"
    },
-   "rev": "8c54ecd81c"
+   "rev": "8c60f4903b"
   },
   {
    "id": "fruit_7_64",
@@ -4818,7 +4818,7 @@
     "ja": "フルーツ",
     "ko": "과일"
    },
-   "rev": "3a8668459b"
+   "rev": "507394f09a"
   },
   {
    "id": "ghost_with_a_cup_of_coffee_64",
@@ -4836,8 +4836,8 @@
    ],
    "width": 64,
    "height": 64,
-   "colors": 17,
-   "added": "2026-12-14",
+   "colors": 5,
+   "added": "2027-01-08",
    "titles": {
     "en": "Ghost with a cup of coffee",
     "es": "Fantasma con una taza de café",
@@ -4849,7 +4849,7 @@
     "ja": "コーヒーを持つ幽霊",
     "ko": "커피를 든 유령"
    },
-   "rev": "1a254df67c"
+   "rev": "1459420e7b"
   },
   {
    "id": "girl_2_64",
@@ -4867,8 +4867,8 @@
    ],
    "width": 64,
    "height": 64,
-   "colors": 31,
-   "added": "2026-12-10",
+   "colors": 17,
+   "added": "2026-11-30",
    "titles": {
     "en": "Portrait of a girl",
     "es": "Retrato de una chica",
@@ -4880,7 +4880,7 @@
     "ja": "少女の肖像",
     "ko": "소녀의 초상"
    },
-   "rev": "c9018a9df8"
+   "rev": "60646505cf"
   },
   {
    "id": "girl_96",
@@ -4899,7 +4899,7 @@
    "width": 96,
    "height": 96,
    "colors": 20,
-   "added": "2026-12-03",
+   "added": "2026-12-09",
    "titles": {
     "en": "Girl among greenery",
     "es": "Chica entre el verde",
@@ -4911,7 +4911,7 @@
     "ja": "緑の中の少女",
     "ko": "초록 속의 소녀"
    },
-   "rev": "f222c81df2"
+   "rev": "aac267fc4c"
   },
   {
    "id": "girl_on_a_bicycle_128",
@@ -4927,7 +4927,7 @@
    ],
    "width": 128,
    "height": 128,
-   "colors": 20,
+   "colors": 14,
    "added": "2026-11-23",
    "titles": {
     "en": "Girl on a bicycle",
@@ -4940,7 +4940,7 @@
     "ja": "自転車の少女",
     "ko": "자전거 탄 소녀"
    },
-   "rev": "9431e7332e"
+   "rev": "42d152e90e"
   },
   {
    "id": "girl_with_a_lollipop_96",
@@ -4957,8 +4957,8 @@
    ],
    "width": 96,
    "height": 96,
-   "colors": 20,
-   "added": "2026-12-06",
+   "colors": 11,
+   "added": "2026-12-05",
    "titles": {
     "en": "Girl with a lollipop",
     "es": "Chica con una piruleta",
@@ -4970,7 +4970,7 @@
     "ja": "ロリポップの少女",
     "ko": "막대사탕을 든 소녀"
    },
-   "rev": "88e1de6586"
+   "rev": "7f02b879be"
   },
   {
    "id": "girl_with_a_pearl_earring_96",
@@ -5001,7 +5001,7 @@
    ],
    "width": 96,
    "height": 96,
-   "colors": 19,
+   "colors": 10,
    "added": "2026-11-18",
    "titles": {
     "en": "Girl with a Pearl Earring",
@@ -5014,7 +5014,7 @@
     "ja": "真珠の耳飾りの少女",
     "ko": "진주 귀걸이를 한 소녀"
    },
-   "rev": "fe453cd55c"
+   "rev": "2a9ec0d74b"
   },
   {
    "id": "grant_wood_american_gothic_96",
@@ -5045,8 +5045,8 @@
    ],
    "width": 96,
    "height": 96,
-   "colors": 32,
-   "added": "2026-11-24",
+   "colors": 22,
+   "added": "2026-11-25",
    "titles": {
     "en": "American Gothic",
     "es": "Gótico americano",
@@ -5058,7 +5058,7 @@
     "ja": "アメリカン・ゴシック",
     "ko": "아메리칸 고딕"
    },
-   "rev": "c25124d552"
+   "rev": "e0b1c19c43"
   },
   {
    "id": "grapes_3_64",
@@ -5073,7 +5073,7 @@
    "width": 64,
    "height": 64,
    "colors": 10,
-   "added": "2027-01-02",
+   "added": "2027-01-03",
    "titles": {
     "en": "Grapes",
     "es": "Uvas",
@@ -5085,7 +5085,7 @@
     "ja": "ブドウ",
     "ko": "포도"
    },
-   "rev": "e038e5ecef"
+   "rev": "f5cef269a4"
   },
   {
    "id": "grass_on_the_meadow_96",
@@ -5112,7 +5112,7 @@
    ],
    "width": 96,
    "height": 96,
-   "colors": 20,
+   "colors": 18,
    "added": "2026-12-02",
    "titles": {
     "en": "Grass on the Meadow",
@@ -5125,7 +5125,7 @@
     "ja": "草原の草",
     "ko": "초원의 풀"
    },
-   "rev": "feaa523a7b"
+   "rev": "e9cb1590fe"
   },
   {
    "id": "hangry_girl_96",
@@ -5142,8 +5142,8 @@
    ],
    "width": 96,
    "height": 96,
-   "colors": 20,
-   "added": "2026-11-24",
+   "colors": 18,
+   "added": "2026-12-01",
    "titles": {
     "en": "Angry girl",
     "es": "Chica enfadada",
@@ -5155,7 +5155,7 @@
     "ja": "怒った少女",
     "ko": "화난 소녀"
    },
-   "rev": "ae5417ccfe"
+   "rev": "3ba30166b8"
   },
   {
    "id": "heart_9_128",
@@ -5214,8 +5214,8 @@
    ],
    "width": 64,
    "height": 64,
-   "colors": 20,
-   "added": "2026-11-27",
+   "colors": 14,
+   "added": "2026-11-20",
    "titles": {
     "en": "Sphinx and Pyramid",
     "es": "Esfinge y pirámide",
@@ -5227,7 +5227,7 @@
     "ja": "スフィンクスとピラミッド",
     "ko": "스핑크스와 피라미드"
    },
-   "rev": "d3fc72b186"
+   "rev": "9ff65c17aa"
   },
   {
    "id": "house_123_128",
@@ -5243,7 +5243,7 @@
    ],
    "width": 128,
    "height": 128,
-   "colors": 31,
+   "colors": 21,
    "added": "2026-11-18",
    "titles": {
     "en": "House by the sea",
@@ -5256,7 +5256,7 @@
     "ja": "海辺の家",
     "ko": "바닷가의 집"
    },
-   "rev": "cb9de7210c"
+   "rev": "ca017bfeb6"
   },
   {
    "id": "house_23_96",
@@ -5273,7 +5273,7 @@
    ],
    "width": 96,
    "height": 96,
-   "colors": 20,
+   "colors": 19,
    "added": "2026-12-17",
    "titles": {
     "en": "House among greenery",
@@ -5286,7 +5286,7 @@
     "ja": "緑の中の家",
     "ko": "초록 속의 집"
    },
-   "rev": "dbb32978a7"
+   "rev": "ec1380b970"
   },
   {
    "id": "house_7_120",
@@ -5330,8 +5330,8 @@
    ],
    "width": 88,
    "height": 88,
-   "colors": 20,
-   "added": "2026-12-10",
+   "colors": 19,
+   "added": "2026-12-07",
    "titles": {
     "en": "House in the mountains",
     "es": "Casa en las montañas",
@@ -5343,7 +5343,7 @@
     "ja": "山の家",
     "ko": "산속의 집"
    },
-   "rev": "67fc0ca876"
+   "rev": "1ae35c4a58"
   },
   {
    "id": "house_on_ligovsky_64",
@@ -5384,7 +5384,7 @@
     "ja": "リゴフスキー通りの家",
     "ko": "리고프스키의 집"
    },
-   "rev": "20bba08c0a"
+   "rev": "b46373bb98"
   },
   {
    "id": "houses_on_the_river_96",
@@ -5401,8 +5401,8 @@
    ],
    "width": 96,
    "height": 96,
-   "colors": 31,
-   "added": "2026-12-23",
+   "colors": 19,
+   "added": "2026-12-15",
    "titles": {
     "en": "Houses by the river",
     "es": "Casas junto al río",
@@ -5414,7 +5414,7 @@
     "ja": "川辺の家々",
     "ko": "강가의 집들"
    },
-   "rev": "74714202bd"
+   "rev": "1897cddc69"
   },
   {
    "id": "hut_in_the_mountains_image_96",
@@ -5432,8 +5432,8 @@
    ],
    "width": 96,
    "height": 96,
-   "colors": 24,
-   "added": "2026-12-15",
+   "colors": 15,
+   "added": "2026-12-04",
    "titles": {
     "en": "Hut in the mountains",
     "es": "Cabaña en las montañas",
@@ -5445,7 +5445,7 @@
     "ja": "山小屋",
     "ko": "산속의 오두막"
    },
-   "rev": "d9af8613a4"
+   "rev": "32ad1fd2d9"
   },
   {
    "id": "image_90",
@@ -5469,7 +5469,7 @@
    ],
    "width": 90,
    "height": 90,
-   "colors": 32,
+   "colors": 30,
    "added": "2026-12-11",
    "titles": {
     "en": "Neon Runner",
@@ -5482,7 +5482,7 @@
     "ja": "ネオンランナー",
     "ko": "네온 러нер"
    },
-   "rev": "05c405dcc1"
+   "rev": "0da751f0bb"
   },
   {
    "id": "in_castle_23_104",
@@ -5497,8 +5497,8 @@
    ],
    "width": 95,
    "height": 95,
-   "colors": 24,
-   "added": "2027-01-10",
+   "colors": 14,
+   "added": "2027-01-14",
    "titles": {
     "en": "In the castle",
     "es": "En el castillo",
@@ -5510,7 +5510,7 @@
     "ja": "城の中",
     "ko": "성 안에서"
    },
-   "rev": "09cf1eb1bc"
+   "rev": "f95e036076"
   },
   {
    "id": "in_the_bus_128",
@@ -5526,8 +5526,8 @@
    ],
    "width": 128,
    "height": 128,
-   "colors": 22,
-   "added": "2026-12-07",
+   "colors": 18,
+   "added": "2027-01-12",
    "titles": {
     "en": "On the bus",
     "es": "En el autobús",
@@ -5539,7 +5539,7 @@
     "ja": "バスの中",
     "ko": "버스 안에서"
    },
-   "rev": "da45179db5"
+   "rev": "9db0907b97"
   },
   {
    "id": "in_the_mountains_image_64",
@@ -5555,8 +5555,8 @@
    ],
    "width": 64,
    "height": 64,
-   "colors": 16,
-   "added": "2026-11-23",
+   "colors": 14,
+   "added": "2026-11-28",
    "titles": {
     "en": "Mountains at sunset",
     "es": "Montañas al atardecer",
@@ -5568,7 +5568,7 @@
     "ja": "夕暮れの山々",
     "ko": "해질녘의 산"
    },
-   "rev": "bff47d7ef4"
+   "rev": "0d45a1e9fd"
   },
   {
    "id": "isaakievskiy_sobor_sankt_peterburg_96",
@@ -5587,8 +5587,8 @@
    ],
    "width": 96,
    "height": 96,
-   "colors": 20,
-   "added": "2026-12-19",
+   "colors": 18,
+   "added": "2026-12-12",
    "titles": {
     "en": "Saint Isaac's Cathedral",
     "es": "Catedral de San Isaac",
@@ -5600,7 +5600,7 @@
     "ja": "イサアク大聖堂",
     "ko": "이삭 대성당"
    },
-   "rev": "f52575fa8a"
+   "rev": "2d3d727622"
   },
   {
    "id": "jacob_jordaens_pegasus_96",
@@ -5629,8 +5629,8 @@
    ],
    "width": 96,
    "height": 96,
-   "colors": 20,
-   "added": "2026-11-29",
+   "colors": 9,
+   "added": "2026-11-27",
    "titles": {
     "en": "Pegasus",
     "es": "Pegaso",
@@ -5642,7 +5642,7 @@
     "ja": "ペガサス",
     "ko": "페가수스"
    },
-   "rev": "3e6fc6067e"
+   "rev": "422acb8d2f"
   },
   {
    "id": "kazanskiy_sobor_sankt_peterburg_96",
@@ -5661,8 +5661,8 @@
    ],
    "width": 96,
    "height": 96,
-   "colors": 16,
-   "added": "2026-12-14",
+   "colors": 12,
+   "added": "2026-12-09",
    "titles": {
     "en": "Kazan Cathedral",
     "es": "Catedral de Kazán",
@@ -5674,7 +5674,7 @@
     "ja": "カザン大聖堂",
     "ko": "카잔 대성당"
    },
-   "rev": "9535e5ba6d"
+   "rev": "4a60f5f077"
   },
   {
    "id": "klimt_the_kiss_96",
@@ -5705,7 +5705,7 @@
    ],
    "width": 96,
    "height": 96,
-   "colors": 24,
+   "colors": 17,
    "added": "2026-11-18",
    "titles": {
     "en": "The Kiss",
@@ -5718,7 +5718,7 @@
     "ja": "接吻",
     "ko": "키스"
    },
-   "rev": "5d5878a874"
+   "rev": "0e97f01744"
   },
   {
    "id": "lady_with_an_ermine_leonardo_da_vinci_google_art_p_128",
@@ -5747,7 +5747,7 @@
    ],
    "width": 128,
    "height": 128,
-   "colors": 18,
+   "colors": 7,
    "added": "2026-11-23",
    "titles": {
     "en": "Lady with an Ermine",
@@ -5760,7 +5760,7 @@
     "ja": "白貂を抱く貴婦人",
     "ko": "흰 족제비를 안은 여인"
    },
-   "rev": "dd9b0b737f"
+   "rev": "d1bddd7f53"
   },
   {
    "id": "lamppost_in_the_park_96",
@@ -5776,8 +5776,8 @@
    ],
    "width": 96,
    "height": 96,
-   "colors": 10,
-   "added": "2026-12-07",
+   "colors": 9,
+   "added": "2026-12-16",
    "titles": {
     "en": "Lamppost in the park",
     "es": "Farola en el parque",
@@ -5789,7 +5789,7 @@
     "ja": "公園の街灯",
     "ko": "공원의 가로등"
    },
-   "rev": "b76f128e83"
+   "rev": "d4c4fca0b6"
   },
   {
    "id": "leonardo_da_vinci_mona_lisa_96",
@@ -5820,7 +5820,7 @@
    ],
    "width": 96,
    "height": 96,
-   "colors": 24,
+   "colors": 15,
    "added": "2026-11-18",
    "titles": {
     "en": "Mona Lisa",
@@ -5833,7 +5833,7 @@
     "ja": "モナ・リザ",
     "ko": "모나리자"
    },
-   "rev": "5750c82f19"
+   "rev": "777b89b3f6"
   },
   {
    "id": "light_2_128",
@@ -5848,7 +5848,7 @@
    ],
    "width": 128,
    "height": 128,
-   "colors": 18,
+   "colors": 15,
    "added": "2026-11-18",
    "titles": {
     "en": "Light bulb",
@@ -5861,7 +5861,7 @@
     "ja": "電球",
     "ko": "전구"
    },
-   "rev": "8564a273f6"
+   "rev": "c6128890c2"
   },
   {
    "id": "loves_cat_96",
@@ -5876,8 +5876,8 @@
    ],
    "width": 92,
    "height": 92,
-   "colors": 22,
-   "added": "2027-01-02",
+   "colors": 18,
+   "added": "2026-12-23",
    "titles": {
     "en": "Beloved cat",
     "es": "Gato querido",
@@ -5889,7 +5889,7 @@
     "ja": "大好きな猫",
     "ko": "사랑하는 고양이"
    },
-   "rev": "5e6c6030ef"
+   "rev": "007c90548c"
   },
   {
    "id": "makeup_girl_128",
@@ -5907,8 +5907,8 @@
    ],
    "width": 128,
    "height": 128,
-   "colors": 24,
-   "added": "2026-12-02",
+   "colors": 20,
+   "added": "2026-12-07",
    "titles": {
     "en": "Girl with makeup",
     "es": "Chica con maquillaje",
@@ -5920,7 +5920,7 @@
     "ja": "メイクの少女",
     "ko": "화장한 소녀"
    },
-   "rev": "19037fb4d8"
+   "rev": "ae91950724"
   },
   {
    "id": "malevich_kazimir_severinovich_black_square_64",
@@ -5951,7 +5951,7 @@
    ],
    "width": 64,
    "height": 64,
-   "colors": 12,
+   "colors": 7,
    "added": "2026-11-20",
    "titles": {
     "en": "Black Square",
@@ -5964,7 +5964,7 @@
     "ja": "黒の正方形",
     "ko": "검은 사각형"
    },
-   "rev": "b4d928a655"
+   "rev": "9e068f18fc"
   },
   {
    "id": "mandala_001_64",
@@ -6016,8 +6016,8 @@
    ],
    "width": 96,
    "height": 96,
-   "colors": 9,
-   "added": "2026-12-07",
+   "colors": 8,
+   "added": "2026-12-08",
    "titles": {
     "en": "Mandala 1",
     "ru": "Мандала 1",
@@ -6030,7 +6030,7 @@
     "ja": "マンダラ 1",
     "ko": "만다라 1"
    },
-   "rev": "6d7c44efe5"
+   "rev": "32f33ba7eb"
   },
   {
    "id": "mandala_002_64",
@@ -6115,8 +6115,8 @@
    ],
    "width": 64,
    "height": 64,
-   "colors": 11,
-   "added": "2026-12-24",
+   "colors": 9,
+   "added": "2026-12-26",
    "titles": {
     "en": "Mandala 3",
     "ru": "Мандала 3",
@@ -6129,7 +6129,7 @@
     "ja": "マンダラ 3",
     "ko": "만다라 3"
    },
-   "rev": "5fb946a974"
+   "rev": "35269798f1"
   },
   {
    "id": "mandala_003_96",
@@ -6182,7 +6182,7 @@
    "width": 64,
    "height": 64,
    "colors": 10,
-   "added": "2026-12-20",
+   "added": "2026-12-23",
    "titles": {
     "en": "Mandala 4",
     "ru": "Мандала 4",
@@ -6195,7 +6195,7 @@
     "ja": "マンダラ 4",
     "ko": "만다라 4"
    },
-   "rev": "3a8a3a0c62"
+   "rev": "a25cfbf007"
   },
   {
    "id": "mandala_004_96",
@@ -6248,7 +6248,7 @@
    "width": 64,
    "height": 64,
    "colors": 9,
-   "added": "2026-12-19",
+   "added": "2026-12-21",
    "titles": {
     "en": "Mandala 5",
     "ru": "Мандала 5",
@@ -6261,7 +6261,7 @@
     "ja": "マンダラ 5",
     "ko": "만다라 5"
    },
-   "rev": "c546556781"
+   "rev": "bc423fdd8a"
   },
   {
    "id": "mandala_005_96",
@@ -6314,7 +6314,7 @@
    "width": 64,
    "height": 64,
    "colors": 10,
-   "added": "2026-12-23",
+   "added": "2026-12-25",
    "titles": {
     "en": "Mandala 6",
     "ru": "Мандала 6",
@@ -6327,7 +6327,7 @@
     "ja": "マンダラ 6",
     "ko": "만다라 6"
    },
-   "rev": "562e7611ba"
+   "rev": "b4a3ffa4d5"
   },
   {
    "id": "mandala_006_96",
@@ -6380,7 +6380,7 @@
    "width": 64,
    "height": 64,
    "colors": 9,
-   "added": "2026-12-26",
+   "added": "2026-12-27",
    "titles": {
     "en": "Mandala 7",
     "ru": "Мандала 7",
@@ -6393,7 +6393,7 @@
     "ja": "マンダラ 7",
     "ko": "만다라 7"
    },
-   "rev": "874f6d2d35"
+   "rev": "fa10d4fdac"
   },
   {
    "id": "mandala_007_96",
@@ -6445,8 +6445,8 @@
    ],
    "width": 64,
    "height": 64,
-   "colors": 10,
-   "added": "2026-12-22",
+   "colors": 9,
+   "added": "2026-12-20",
    "titles": {
     "en": "Mandala 8",
     "ru": "Мандала 8",
@@ -6459,7 +6459,7 @@
     "ja": "マンダラ 8",
     "ko": "만다라 8"
    },
-   "rev": "2cf6744b17"
+   "rev": "d8143f4ec9"
   },
   {
    "id": "mandala_008_96",
@@ -6479,7 +6479,7 @@
    "width": 96,
    "height": 96,
    "colors": 10,
-   "added": "2026-12-10",
+   "added": "2026-12-11",
    "titles": {
     "en": "Mandala 8",
     "ru": "Мандала 8",
@@ -6492,7 +6492,7 @@
     "ja": "マンダラ 8",
     "ko": "만다라 8"
    },
-   "rev": "18aea765a0"
+   "rev": "9539ffab85"
   },
   {
    "id": "mandala_009_64",
@@ -6512,7 +6512,7 @@
    "width": 64,
    "height": 64,
    "colors": 9,
-   "added": "2026-12-16",
+   "added": "2026-12-17",
    "titles": {
     "en": "Mandala 9",
     "ru": "Мандала 9",
@@ -6525,7 +6525,7 @@
     "ja": "マンダラ 9",
     "ko": "만다라 9"
    },
-   "rev": "df6e86bf3f"
+   "rev": "f0e84f2de4"
   },
   {
    "id": "mandala_009_96",
@@ -6578,7 +6578,7 @@
    "width": 64,
    "height": 64,
    "colors": 9,
-   "added": "2026-12-27",
+   "added": "2026-12-28",
    "titles": {
     "en": "Mandala 10",
     "ru": "Мандала 10",
@@ -6591,7 +6591,7 @@
     "ja": "マンダラ 10",
     "ko": "만다라 10"
    },
-   "rev": "74771ff0dd"
+   "rev": "1ef78a84bd"
   },
   {
    "id": "mandala_010_96",
@@ -6644,7 +6644,7 @@
    "width": 64,
    "height": 64,
    "colors": 8,
-   "added": "2026-12-24",
+   "added": "2026-12-25",
    "titles": {
     "en": "Mandala 11",
     "ru": "Мандала 11",
@@ -6657,7 +6657,7 @@
     "ja": "マンダラ 11",
     "ko": "만다라 11"
    },
-   "rev": "00a23a3b16"
+   "rev": "ae1e060028"
   },
   {
    "id": "mandala_011_96",
@@ -6776,7 +6776,7 @@
    "width": 64,
    "height": 64,
    "colors": 12,
-   "added": "2026-12-24",
+   "added": "2026-12-25",
    "titles": {
     "en": "Mandala 13",
     "ru": "Мандала 13",
@@ -6789,7 +6789,7 @@
     "ja": "マンダラ 13",
     "ko": "만다라 13"
    },
-   "rev": "1a85c838f6"
+   "rev": "52616adcb3"
   },
   {
    "id": "mandala_013_96",
@@ -6842,7 +6842,7 @@
    "width": 64,
    "height": 64,
    "colors": 10,
-   "added": "2026-12-14",
+   "added": "2026-12-15",
    "titles": {
     "en": "Mandala 14",
     "ru": "Мандала 14",
@@ -6855,7 +6855,7 @@
     "ja": "マンダラ 14",
     "ko": "만다라 14"
    },
-   "rev": "581e92786d"
+   "rev": "a87c2aa11e"
   },
   {
    "id": "mandala_014_96",
@@ -6974,7 +6974,7 @@
    "width": 64,
    "height": 64,
    "colors": 8,
-   "added": "2026-12-19",
+   "added": "2026-12-21",
    "titles": {
     "en": "Mandala 16",
     "ru": "Мандала 16",
@@ -6987,7 +6987,7 @@
     "ja": "マンダラ 16",
     "ko": "만다라 16"
    },
-   "rev": "6a862b4807"
+   "rev": "91ae33e0a2"
   },
   {
    "id": "mandala_016_96",
@@ -7039,7 +7039,7 @@
    ],
    "width": 64,
    "height": 64,
-   "colors": 9,
+   "colors": 7,
    "added": "2026-12-30",
    "titles": {
     "en": "Mandala 17",
@@ -7053,7 +7053,7 @@
     "ja": "マンダラ 17",
     "ko": "만다라 17"
    },
-   "rev": "bf0e01e5de"
+   "rev": "d2e951857c"
   },
   {
    "id": "mandala_017_96",
@@ -7171,7 +7171,7 @@
    ],
    "width": 64,
    "height": 64,
-   "colors": 11,
+   "colors": 9,
    "added": "2026-12-29",
    "titles": {
     "en": "Mandala 19",
@@ -7185,7 +7185,7 @@
     "ja": "マンダラ 19",
     "ko": "만다라 19"
    },
-   "rev": "f07217a3e7"
+   "rev": "c77b21b228"
   },
   {
    "id": "mandala_019_96",
@@ -7205,7 +7205,7 @@
    "width": 96,
    "height": 96,
    "colors": 10,
-   "added": "2026-12-12",
+   "added": "2026-12-13",
    "titles": {
     "en": "Mandala 19",
     "ru": "Мандала 19",
@@ -7218,7 +7218,7 @@
     "ja": "マンダラ 19",
     "ko": "만다라 19"
    },
-   "rev": "a1012c76a3"
+   "rev": "42de6cc6af"
   },
   {
    "id": "mandala_020_64",
@@ -7237,8 +7237,8 @@
    ],
    "width": 64,
    "height": 64,
-   "colors": 10,
-   "added": "2026-12-27",
+   "colors": 8,
+   "added": "2026-12-20",
    "titles": {
     "en": "Mandala 20",
     "ru": "Мандала 20",
@@ -7251,7 +7251,7 @@
     "ja": "マンダラ 20",
     "ko": "만다라 20"
    },
-   "rev": "b0f38ccb5c"
+   "rev": "67d13c223c"
   },
   {
    "id": "mandala_020_96",
@@ -7304,7 +7304,7 @@
    "width": 64,
    "height": 64,
    "colors": 11,
-   "added": "2026-12-28",
+   "added": "2026-12-29",
    "titles": {
     "en": "Mandala 21",
     "ru": "Мандала 21",
@@ -7317,7 +7317,7 @@
     "ja": "マンダラ 21",
     "ko": "만다라 21"
    },
-   "rev": "5797e2b18a"
+   "rev": "c2524b23cf"
   },
   {
    "id": "mandala_021_96",
@@ -7336,7 +7336,7 @@
    ],
    "width": 96,
    "height": 96,
-   "colors": 11,
+   "colors": 8,
    "added": "2026-12-07",
    "titles": {
     "en": "Mandala 21",
@@ -7350,7 +7350,7 @@
     "ja": "マンダラ 21",
     "ko": "만다라 21"
    },
-   "rev": "5cac8c72ca"
+   "rev": "bc7be4fb2a"
   },
   {
    "id": "mandala_022_64",
@@ -7369,8 +7369,8 @@
    ],
    "width": 64,
    "height": 64,
-   "colors": 10,
-   "added": "2026-12-29",
+   "colors": 7,
+   "added": "2026-12-28",
    "titles": {
     "en": "Mandala 22",
     "ru": "Мандала 22",
@@ -7383,7 +7383,7 @@
     "ja": "マンダラ 22",
     "ko": "만다라 22"
    },
-   "rev": "298da11d17"
+   "rev": "ca90c16a60"
   },
   {
    "id": "mandala_022_96",
@@ -7469,7 +7469,7 @@
    "width": 96,
    "height": 96,
    "colors": 9,
-   "added": "2026-12-04",
+   "added": "2026-12-02",
    "titles": {
     "en": "Mandala 23",
     "ru": "Мандала 23",
@@ -7482,7 +7482,7 @@
     "ja": "マンダラ 23",
     "ko": "만다라 23"
    },
-   "rev": "61b76287d1"
+   "rev": "02d4085bb6"
   },
   {
    "id": "mandala_024_64",
@@ -7502,7 +7502,7 @@
    "width": 64,
    "height": 64,
    "colors": 9,
-   "added": "2026-12-22",
+   "added": "2026-12-24",
    "titles": {
     "en": "Mandala 24",
     "ru": "Мандала 24",
@@ -7515,7 +7515,7 @@
     "ja": "マンダラ 24",
     "ko": "만다라 24"
    },
-   "rev": "cc1c340188"
+   "rev": "ff6bad6614"
   },
   {
    "id": "mandala_024_96",
@@ -7567,8 +7567,8 @@
    ],
    "width": 64,
    "height": 64,
-   "colors": 11,
-   "added": "2026-12-25",
+   "colors": 8,
+   "added": "2026-12-26",
    "titles": {
     "en": "Mandala 25",
     "ru": "Мандала 25",
@@ -7581,7 +7581,7 @@
     "ja": "マンダラ 25",
     "ko": "만다라 25"
    },
-   "rev": "b70b100e44"
+   "rev": "5a79466f64"
   },
   {
    "id": "mandala_025_96",
@@ -7700,7 +7700,7 @@
    "width": 64,
    "height": 64,
    "colors": 10,
-   "added": "2026-12-21",
+   "added": "2026-12-23",
    "titles": {
     "en": "Mandala 27",
     "ru": "Мандала 27",
@@ -7713,7 +7713,7 @@
     "ja": "マンダラ 27",
     "ko": "만다라 27"
    },
-   "rev": "7e2caa8ec3"
+   "rev": "0b4241c6d4"
   },
   {
    "id": "mandala_027_96",
@@ -7732,7 +7732,7 @@
    ],
    "width": 96,
    "height": 96,
-   "colors": 10,
+   "colors": 9,
    "added": "2026-12-09",
    "titles": {
     "en": "Mandala 27",
@@ -7746,7 +7746,7 @@
     "ja": "マンダラ 27",
     "ko": "만다라 27"
    },
-   "rev": "e3c311fee0"
+   "rev": "1d3e323aa1"
   },
   {
    "id": "mandala_028_64",
@@ -7765,8 +7765,8 @@
    ],
    "width": 64,
    "height": 64,
-   "colors": 12,
-   "added": "2026-12-28",
+   "colors": 6,
+   "added": "2026-12-22",
    "titles": {
     "en": "Mandala 28",
     "ru": "Мандала 28",
@@ -7779,7 +7779,7 @@
     "ja": "マンダラ 28",
     "ko": "만다라 28"
    },
-   "rev": "6a78ff5b6b"
+   "rev": "4c3151ebdf"
   },
   {
    "id": "mandala_028_96",
@@ -7832,7 +7832,7 @@
    "width": 64,
    "height": 64,
    "colors": 10,
-   "added": "2026-12-25",
+   "added": "2026-12-26",
    "titles": {
     "en": "Mandala 29",
     "ru": "Мандала 29",
@@ -7845,7 +7845,7 @@
     "ja": "マンダラ 29",
     "ko": "만다라 29"
    },
-   "rev": "f075d1e5a2"
+   "rev": "a1e78fe8ae"
   },
   {
    "id": "mandala_029_96",
@@ -7911,7 +7911,7 @@
     "ja": "マンダラ 30",
     "ko": "만다라 30"
    },
-   "rev": "2e4629e70d"
+   "rev": "14f3439eb4"
   },
   {
    "id": "mandala_030_96",
@@ -7931,7 +7931,7 @@
    "width": 96,
    "height": 96,
    "colors": 11,
-   "added": "2026-12-15",
+   "added": "2026-12-16",
    "titles": {
     "en": "Mandala 30",
     "ru": "Мандала 30",
@@ -7944,7 +7944,7 @@
     "ja": "マンダラ 30",
     "ko": "만다라 30"
    },
-   "rev": "ab67f162b6"
+   "rev": "7070845319"
   },
   {
    "id": "mandala_031_64",
@@ -7963,8 +7963,8 @@
    ],
    "width": 64,
    "height": 64,
-   "colors": 11,
-   "added": "2026-12-20",
+   "colors": 7,
+   "added": "2026-12-21",
    "titles": {
     "en": "Mandala 31",
     "ru": "Мандала 31",
@@ -7977,7 +7977,7 @@
     "ja": "マンダラ 31",
     "ko": "만다라 31"
    },
-   "rev": "f587ea562c"
+   "rev": "8d8b7eb21b"
   },
   {
    "id": "mandala_031_96",
@@ -8029,8 +8029,8 @@
    ],
    "width": 64,
    "height": 64,
-   "colors": 10,
-   "added": "2026-12-25",
+   "colors": 5,
+   "added": "2026-12-22",
    "titles": {
     "en": "Mandala 32",
     "ru": "Мандала 32",
@@ -8043,7 +8043,7 @@
     "ja": "マンダラ 32",
     "ko": "만다라 32"
    },
-   "rev": "50893613b0"
+   "rev": "0f1da09ed4"
   },
   {
    "id": "mandala_032_96",
@@ -8161,8 +8161,8 @@
    ],
    "width": 64,
    "height": 64,
-   "colors": 9,
-   "added": "2026-12-21",
+   "colors": 7,
+   "added": "2026-12-19",
    "titles": {
     "en": "Mandala 34",
     "ru": "Мандала 34",
@@ -8175,7 +8175,7 @@
     "ja": "マンダラ 34",
     "ko": "만다라 34"
    },
-   "rev": "7bd8dfe7f7"
+   "rev": "ac49fc8c58"
   },
   {
    "id": "mandala_034_96",
@@ -8194,7 +8194,7 @@
    ],
    "width": 96,
    "height": 96,
-   "colors": 9,
+   "colors": 6,
    "added": "2026-11-25",
    "titles": {
     "en": "Mandala 34",
@@ -8208,7 +8208,7 @@
     "ja": "マンダラ 34",
     "ko": "만다라 34"
    },
-   "rev": "911d21a9cc"
+   "rev": "c0825bc028"
   },
   {
    "id": "mandala_035_64",
@@ -8293,8 +8293,8 @@
    ],
    "width": 64,
    "height": 64,
-   "colors": 8,
-   "added": "2026-12-22",
+   "colors": 6,
+   "added": "2026-12-18",
    "titles": {
     "en": "Mandala 36",
     "ru": "Мандала 36",
@@ -8307,7 +8307,7 @@
     "ja": "マンダラ 36",
     "ko": "만다라 36"
    },
-   "rev": "e8f9a94d00"
+   "rev": "4114be6a54"
   },
   {
    "id": "mandala_036_96",
@@ -8327,7 +8327,7 @@
    "width": 96,
    "height": 96,
    "colors": 10,
-   "added": "2026-12-02",
+   "added": "2026-12-03",
    "titles": {
     "en": "Mandala 36",
     "ru": "Мандала 36",
@@ -8340,7 +8340,7 @@
     "ja": "マンダラ 36",
     "ko": "만다라 36"
    },
-   "rev": "7ab16f4d16"
+   "rev": "41e2ab0e2f"
   },
   {
    "id": "mandala_037_64",
@@ -8392,8 +8392,8 @@
    ],
    "width": 96,
    "height": 96,
-   "colors": 11,
-   "added": "2026-12-11",
+   "colors": 9,
+   "added": "2026-12-09",
    "titles": {
     "en": "Mandala 37",
     "ru": "Мандала 37",
@@ -8406,7 +8406,7 @@
     "ja": "マンダラ 37",
     "ko": "만다라 37"
    },
-   "rev": "d839fea365"
+   "rev": "1bd23b9913"
   },
   {
    "id": "mandala_038_64",
@@ -8426,7 +8426,7 @@
    "width": 64,
    "height": 64,
    "colors": 10,
-   "added": "2026-12-26",
+   "added": "2026-12-24",
    "titles": {
     "en": "Mandala 38",
     "ru": "Мандала 38",
@@ -8439,7 +8439,7 @@
     "ja": "マンダラ 38",
     "ko": "만다라 38"
    },
-   "rev": "bebdf767f0"
+   "rev": "03ff52749e"
   },
   {
    "id": "mandala_038_96",
@@ -8458,7 +8458,7 @@
    ],
    "width": 96,
    "height": 96,
-   "colors": 8,
+   "colors": 6,
    "added": "2026-12-14",
    "titles": {
     "en": "Mandala 38",
@@ -8472,7 +8472,7 @@
     "ja": "マンダラ 38",
     "ko": "만다라 38"
    },
-   "rev": "fbc71bf0f7"
+   "rev": "c981b3a249"
   },
   {
    "id": "mandala_039_64",
@@ -8558,7 +8558,7 @@
    "width": 64,
    "height": 64,
    "colors": 9,
-   "added": "2026-12-18",
+   "added": "2026-12-19",
    "titles": {
     "en": "Mandala 40",
     "ru": "Мандала 40",
@@ -8571,7 +8571,7 @@
     "ja": "マンダラ 40",
     "ko": "만다라 40"
    },
-   "rev": "525c3361a7"
+   "rev": "3270b50ac9"
   },
   {
    "id": "mandala_040_96",
@@ -8591,7 +8591,7 @@
    "width": 96,
    "height": 96,
    "colors": 10,
-   "added": "2026-12-09",
+   "added": "2026-12-10",
    "titles": {
     "en": "Mandala 40",
     "ru": "Мандала 40",
@@ -8604,7 +8604,7 @@
     "ja": "マンダラ 40",
     "ko": "만다라 40"
    },
-   "rev": "5dc88af67a"
+   "rev": "b66d4c9215"
   },
   {
    "id": "mandala_041_64",
@@ -8623,8 +8623,8 @@
    ],
    "width": 64,
    "height": 64,
-   "colors": 11,
-   "added": "2026-12-20",
+   "colors": 9,
+   "added": "2026-12-19",
    "titles": {
     "en": "Mandala 41",
     "ru": "Мандала 41",
@@ -8637,7 +8637,7 @@
     "ja": "マンダラ 41",
     "ko": "만다라 41"
    },
-   "rev": "9468e3df0d"
+   "rev": "2306b02c01"
   },
   {
    "id": "mandala_041_96",
@@ -8657,7 +8657,7 @@
    "width": 96,
    "height": 96,
    "colors": 9,
-   "added": "2026-12-03",
+   "added": "2026-12-04",
    "titles": {
     "en": "Mandala 41",
     "ru": "Мандала 41",
@@ -8670,7 +8670,7 @@
     "ja": "マンダラ 41",
     "ko": "만다라 41"
    },
-   "rev": "4d150aa197"
+   "rev": "bfc24a1349"
   },
   {
    "id": "mandala_042_64",
@@ -8689,8 +8689,8 @@
    ],
    "width": 64,
    "height": 64,
-   "colors": 11,
-   "added": "2026-12-17",
+   "colors": 6,
+   "added": "2026-12-11",
    "titles": {
     "en": "Mandala 42",
     "ru": "Мандала 42",
@@ -8703,7 +8703,7 @@
     "ja": "マンダラ 42",
     "ko": "만다라 42"
    },
-   "rev": "8e1af8cd09"
+   "rev": "445c346311"
   },
   {
    "id": "mandala_042_96",
@@ -8756,7 +8756,7 @@
    "width": 64,
    "height": 64,
    "colors": 10,
-   "added": "2026-12-23",
+   "added": "2026-12-24",
    "titles": {
     "en": "Mandala 43",
     "ru": "Мандала 43",
@@ -8769,7 +8769,7 @@
     "ja": "マンダラ 43",
     "ko": "만다라 43"
    },
-   "rev": "dd8bb1abb0"
+   "rev": "9011744686"
   },
   {
    "id": "mandala_043_96",
@@ -8788,8 +8788,8 @@
    ],
    "width": 96,
    "height": 96,
-   "colors": 10,
-   "added": "2026-12-11",
+   "colors": 9,
+   "added": "2026-12-12",
    "titles": {
     "en": "Mandala 43",
     "ru": "Мандала 43",
@@ -8802,7 +8802,7 @@
     "ja": "マンダラ 43",
     "ko": "만다라 43"
    },
-   "rev": "b9e430876c"
+   "rev": "b9f035bd84"
   },
   {
    "id": "mandala_044_64",
@@ -8855,7 +8855,7 @@
    "width": 96,
    "height": 96,
    "colors": 8,
-   "added": "2026-12-08",
+   "added": "2026-12-07",
    "titles": {
     "en": "Mandala 44",
     "ru": "Мандала 44",
@@ -8868,7 +8868,7 @@
     "ja": "マンダラ 44",
     "ko": "만다라 44"
    },
-   "rev": "d100df40e1"
+   "rev": "0788793327"
   },
   {
    "id": "mandala_045_64",
@@ -8888,7 +8888,7 @@
    "width": 64,
    "height": 64,
    "colors": 11,
-   "added": "2026-12-26",
+   "added": "2026-12-27",
    "titles": {
     "en": "Mandala 45",
     "ru": "Мандала 45",
@@ -8901,7 +8901,7 @@
     "ja": "マンダラ 45",
     "ko": "만다라 45"
    },
-   "rev": "3e8ee92232"
+   "rev": "697628f6e5"
   },
   {
    "id": "mandala_045_96",
@@ -9020,7 +9020,7 @@
    "width": 64,
    "height": 64,
    "colors": 8,
-   "added": "2026-12-13",
+   "added": "2026-12-14",
    "titles": {
     "en": "Mandala 47",
     "ru": "Мандала 47",
@@ -9033,7 +9033,7 @@
     "ja": "マンダラ 47",
     "ko": "만다라 47"
    },
-   "rev": "5222227697"
+   "rev": "72922c9744"
   },
   {
    "id": "mandala_047_96",
@@ -9085,8 +9085,8 @@
    ],
    "width": 64,
    "height": 64,
-   "colors": 10,
-   "added": "2026-12-23",
+   "colors": 9,
+   "added": "2026-12-22",
    "titles": {
     "en": "Mandala 48",
     "ru": "Мандала 48",
@@ -9099,7 +9099,7 @@
     "ja": "マンダラ 48",
     "ko": "만다라 48"
    },
-   "rev": "5760759d6a"
+   "rev": "61ee12827c"
   },
   {
    "id": "mandala_048_96",
@@ -9119,7 +9119,7 @@
    "width": 96,
    "height": 96,
    "colors": 11,
-   "added": "2026-12-21",
+   "added": "2026-12-23",
    "titles": {
     "en": "Mandala 48",
     "ru": "Мандала 48",
@@ -9132,7 +9132,7 @@
     "ja": "マンダラ 48",
     "ko": "만다라 48"
    },
-   "rev": "7f93db58de"
+   "rev": "4e15a554bd"
   },
   {
    "id": "mandala_049_64",
@@ -9152,7 +9152,7 @@
    "width": 64,
    "height": 64,
    "colors": 10,
-   "added": "2026-12-19",
+   "added": "2026-12-20",
    "titles": {
     "en": "Mandala 49",
     "ru": "Мандала 49",
@@ -9165,7 +9165,7 @@
     "ja": "マンダラ 49",
     "ko": "만다라 49"
    },
-   "rev": "7d046c28d4"
+   "rev": "44cb59d14a"
   },
   {
    "id": "mandala_049_96",
@@ -9198,7 +9198,7 @@
     "ja": "マンダラ 49",
     "ko": "만다라 49"
    },
-   "rev": "3ae1895aa6"
+   "rev": "1c145461d1"
   },
   {
    "id": "mandala_050_64",
@@ -9281,8 +9281,8 @@
    ],
    "width": 96,
    "height": 96,
-   "colors": 20,
-   "added": "2026-12-18",
+   "colors": 17,
+   "added": "2026-12-06",
    "titles": {
     "en": "Meadow in the mountains",
     "es": "Prado en las montañas",
@@ -9294,7 +9294,7 @@
     "ja": "山の草原",
     "ko": "산속 초원"
    },
-   "rev": "3020c5f737"
+   "rev": "7a59d9924d"
   },
   {
    "id": "medusa_by_carvaggio_64",
@@ -9325,8 +9325,8 @@
    ],
    "width": 64,
    "height": 64,
-   "colors": 18,
-   "added": "2026-11-28",
+   "colors": 7,
+   "added": "2026-11-26",
    "titles": {
     "en": "Medusa by Caravaggio",
     "es": "Medusa de Caravaggio",
@@ -9338,7 +9338,7 @@
     "ja": "カラヴァッジョの『メドゥーサ』",
     "ko": "카라바조의 메두사"
    },
-   "rev": "19aa868cc0"
+   "rev": "0450fb700d"
   },
   {
    "id": "medusa_murtola02_96",
@@ -9367,8 +9367,8 @@
    ],
    "width": 96,
    "height": 96,
-   "colors": 24,
-   "added": "2026-11-26",
+   "colors": 6,
+   "added": "2026-11-21",
    "titles": {
     "en": "Medusa (Murtola)",
     "es": "Medusa (Murtola)",
@@ -9380,7 +9380,7 @@
     "ja": "メドゥーサ（ムルトラ）",
     "ko": "메두사 (무르톨라)"
    },
-   "rev": "ebf1cb0f63"
+   "rev": "28e5b81222"
   },
   {
    "id": "modest_girl_128",
@@ -9396,8 +9396,8 @@
    ],
    "width": 128,
    "height": 128,
-   "colors": 23,
-   "added": "2026-11-21",
+   "colors": 9,
+   "added": "2026-11-20",
    "titles": {
     "en": "Anime girl 2",
     "es": "Chica anime 2",
@@ -9409,7 +9409,7 @@
     "ja": "アニメの少女 2",
     "ko": "애니메 소녀 2"
    },
-   "rev": "92c9351975"
+   "rev": "36eb6afd12"
   },
   {
    "id": "modest_girl_20_88",
@@ -9425,8 +9425,8 @@
    ],
    "width": 88,
    "height": 88,
-   "colors": 26,
-   "added": "2026-12-09",
+   "colors": 13,
+   "added": "2026-11-29",
    "titles": {
     "en": "Anime girl 3",
     "es": "Chica anime 3",
@@ -9438,7 +9438,7 @@
     "ja": "アニメの少女 3",
     "ko": "애니메 소녀 3"
    },
-   "rev": "faadcda3aa"
+   "rev": "a82bdb6ec9"
   },
   {
    "id": "moon_1_96",
@@ -9455,7 +9455,7 @@
    ],
    "width": 96,
    "height": 96,
-   "colors": 11,
+   "colors": 6,
    "added": "2026-11-18",
    "titles": {
     "en": "Moon over the field",
@@ -9468,7 +9468,7 @@
     "ja": "野原の上の月",
     "ko": "들판 위의 달"
    },
-   "rev": "5ebff4c642"
+   "rev": "9d0001e445"
   },
   {
    "id": "moon_over_the_steppe_96",
@@ -9497,8 +9497,8 @@
    ],
    "width": 96,
    "height": 96,
-   "colors": 20,
-   "added": "2026-11-29",
+   "colors": 7,
+   "added": "2026-11-22",
    "titles": {
     "en": "Moon over the Steppe",
     "es": "Luna sobre la estepa",
@@ -9510,7 +9510,7 @@
     "ja": "草原の月",
     "ko": "초원 위의 달"
    },
-   "rev": "50d56f05c4"
+   "rev": "fb9b573f9f"
   },
   {
    "id": "morning_coffee_image_96",
@@ -9527,8 +9527,8 @@
    ],
    "width": 96,
    "height": 96,
-   "colors": 16,
-   "added": "2027-01-05",
+   "colors": 12,
+   "added": "2027-01-03",
    "titles": {
     "en": "Morning coffee",
     "es": "Café de la mañana",
@@ -9540,7 +9540,7 @@
     "ja": "朝のコーヒー",
     "ko": "아침 커피"
    },
-   "rev": "1d9dcf4527"
+   "rev": "214986db04"
   },
   {
    "id": "mushroom_01_40",
@@ -9554,7 +9554,7 @@
    ],
    "width": 40,
    "height": 40,
-   "colors": 9,
+   "colors": 6,
    "added": "2026-11-18",
    "titles": {
     "en": "Mushroom",
@@ -9567,7 +9567,7 @@
     "ja": "キノコ",
     "ko": "버섯"
    },
-   "rev": "9f64977ab2"
+   "rev": "10f4699a3a"
   },
   {
    "id": "mushroom_02_64",
@@ -9582,7 +9582,7 @@
    ],
    "width": 64,
    "height": 64,
-   "colors": 11,
+   "colors": 6,
    "added": "2026-11-18",
    "titles": {
     "en": "Fly agaric",
@@ -9595,7 +9595,7 @@
     "ja": "ベニテングタケ",
     "ko": "독버섯"
    },
-   "rev": "a237defdf1"
+   "rev": "32bb3e06e0"
   },
   {
    "id": "night_landscape_64",
@@ -9630,8 +9630,8 @@
    ],
    "width": 64,
    "height": 64,
-   "colors": 23,
-   "added": "2026-11-22",
+   "colors": 16,
+   "added": "2026-11-21",
    "titles": {
     "en": "Night landscape",
     "es": "Paisaje nocturno",
@@ -9643,7 +9643,7 @@
     "ja": "夜の風景",
     "ko": "밤 풍경"
    },
-   "rev": "299993bf8c"
+   "rev": "9f8f20d9e5"
   },
   {
    "id": "nightcity_2_88",
@@ -9659,8 +9659,8 @@
    ],
    "width": 88,
    "height": 88,
-   "colors": 26,
-   "added": "2026-12-26",
+   "colors": 14,
+   "added": "2026-12-10",
    "titles": {
     "en": "Night city",
     "es": "Ciudad nocturna",
@@ -9672,7 +9672,7 @@
     "ja": "夜の街",
     "ko": "밤의 도시"
    },
-   "rev": "90db1bab7e"
+   "rev": "da4b983c10"
   },
   {
    "id": "no_sad_girl_2_128",
@@ -9688,8 +9688,8 @@
    ],
    "width": 128,
    "height": 128,
-   "colors": 28,
-   "added": "2026-11-28",
+   "colors": 19,
+   "added": "2026-11-21",
    "titles": {
     "en": "Anime girl 4",
     "es": "Chica anime 4",
@@ -9701,7 +9701,7 @@
     "ja": "アニメの少女 4",
     "ko": "애니메 소녀 4"
    },
-   "rev": "2c9c8721f5"
+   "rev": "6834372a3b"
   },
   {
    "id": "old_man_64",
@@ -9719,8 +9719,8 @@
    ],
    "width": 64,
    "height": 64,
-   "colors": 16,
-   "added": "2027-01-01",
+   "colors": 12,
+   "added": "2026-12-31",
    "titles": {
     "en": "Old man in the forest",
     "es": "Anciano en el bosque",
@@ -9732,7 +9732,7 @@
     "ja": "森の老人",
     "ko": "숲속의 노인"
    },
-   "rev": "0489f9af1b"
+   "rev": "768442feca"
   },
   {
    "id": "old_mill_112",
@@ -9748,8 +9748,8 @@
    ],
    "width": 112,
    "height": 112,
-   "colors": 23,
-   "added": "2026-12-11",
+   "colors": 17,
+   "added": "2026-12-01",
    "titles": {
     "en": "Old mill",
     "es": "Molino viejo",
@@ -9761,7 +9761,7 @@
     "ja": "古い水車小屋",
     "ko": "오래된 방앗간"
    },
-   "rev": "479883f9d3"
+   "rev": "0dcb07e73b"
   },
   {
    "id": "park_and_buildings_128",
@@ -9777,7 +9777,7 @@
    ],
    "width": 128,
    "height": 128,
-   "colors": 16,
+   "colors": 14,
    "added": "2026-11-18",
    "titles": {
     "en": "Park and buildings",
@@ -9790,7 +9790,7 @@
     "ja": "公園と建物",
     "ko": "공원과 건물"
    },
-   "rev": "0f0f0cc5a0"
+   "rev": "bddb423288"
   },
   {
    "id": "park_in_the_town_128",
@@ -9806,7 +9806,7 @@
    ],
    "width": 128,
    "height": 128,
-   "colors": 12,
+   "colors": 11,
    "added": "2026-11-18",
    "titles": {
     "en": "City park",
@@ -9819,7 +9819,7 @@
     "ja": "町の公園",
     "ko": "도시 공원"
    },
-   "rev": "d6ccc4ebb9"
+   "rev": "1ffe525b4e"
   },
   {
    "id": "pixel_art_beach_day_by_the_lighthouse_128",
@@ -9844,8 +9844,8 @@
    ],
    "width": 128,
    "height": 128,
-   "colors": 24,
-   "added": "2026-12-08",
+   "colors": 21,
+   "added": "2026-12-10",
    "titles": {
     "en": "Girl on the beach",
     "es": "Chica en la playa",
@@ -9857,7 +9857,7 @@
     "ja": "ビーチの女の子",
     "ko": "해변의 소녀"
    },
-   "rev": "c207f60899"
+   "rev": "fe56ba7c6a"
   },
   {
    "id": "pixel_art_mandala_of_an_eight_petaled_flower_128",
@@ -9878,7 +9878,7 @@
    ],
    "width": 128,
    "height": 128,
-   "colors": 22,
+   "colors": 15,
    "added": "2026-12-31",
    "titles": {
     "en": "Mandala",
@@ -9891,7 +9891,7 @@
     "ja": "マンダラ",
     "ko": "만다라"
    },
-   "rev": "381a4a5fdd"
+   "rev": "a56620b4b9"
   },
   {
    "id": "pixel_hero_of_the_neon_city_es_h_roe_de_p_xeles_de_128",
@@ -9920,8 +9920,8 @@
    ],
    "width": 128,
    "height": 128,
-   "colors": 32,
-   "added": "2027-01-06",
+   "colors": 27,
+   "added": "2027-01-13",
    "titles": {
     "en": "Pixel Hero of the Neon City",
     "es": "Héroe de píxeles de la ciudad de neón",
@@ -9933,7 +9933,7 @@
     "ja": "ネオン街のピクセルヒーロー",
     "ko": "네온 도시의 픽셀 영웅"
    },
-   "rev": "414c70acb6"
+   "rev": "ea8d5b7e0c"
   },
   {
    "id": "pixel_sunset_by_a_mountain_lake_es_atardecer_de_p_64",
@@ -9965,7 +9965,7 @@
    "width": 64,
    "height": 64,
    "colors": 20,
-   "added": "2026-12-13",
+   "added": "2026-12-26",
    "titles": {
     "en": "Pixel Sunset by a Mountain Lake",
     "es": "Atardecer de píxeles junto a un lago de montaña",
@@ -9977,7 +9977,7 @@
     "ja": "山の湖のピクセルの夕日",
     "ko": "산정 호수 위의 픽셀 일몰"
    },
-   "rev": "59e71387eb"
+   "rev": "8490d4ea32"
   },
   {
    "id": "pixel_sunset_over_the_canyon_es_atardecer_de_p_xel_96",
@@ -10007,7 +10007,7 @@
    "width": 96,
    "height": 96,
    "colors": 28,
-   "added": "2026-12-20",
+   "added": "2026-12-27",
    "titles": {
     "en": "Pixel Sunset over the Canyon",
     "es": "Atardecer de píxeles sobre el cañón",
@@ -10019,7 +10019,7 @@
     "ja": "キャニオンのピクセルの夕日",
     "ko": "협곡 위의 픽셀 일몰"
    },
-   "rev": "89fde38c0a"
+   "rev": "59cd6272c4"
   },
   {
    "id": "pixelated_ice_cream_with_a_cherry_version_2_128",
@@ -10040,8 +10040,8 @@
    ],
    "width": 128,
    "height": 128,
-   "colors": 20,
-   "added": "2026-12-02",
+   "colors": 8,
+   "added": "2027-01-10",
    "titles": {
     "en": "Ice cream with a cherry 2",
     "es": "Helado con cereza 2",
@@ -10053,7 +10053,7 @@
     "ja": "チェリー付きアイスクリーム 2",
     "ko": "체리가 얹어진 아이스크림 2"
    },
-   "rev": "4dc990c9cf"
+   "rev": "c0b647d883"
   },
   {
    "id": "poles_and_wires_96",
@@ -10070,8 +10070,8 @@
    ],
    "width": 96,
    "height": 96,
-   "colors": 12,
-   "added": "2026-11-27",
+   "colors": 10,
+   "added": "2026-11-26",
    "titles": {
     "en": "Poles and wires at dawn",
     "es": "Postes y cables al amanecer",
@@ -10083,7 +10083,7 @@
     "ja": "夜明けの電柱と電線",
     "ko": "새벽의 전봇대와 전선"
    },
-   "rev": "898d67cb68"
+   "rev": "e58b4dfd43"
   },
   {
    "id": "raining_girl_112",
@@ -10099,8 +10099,8 @@
    ],
    "width": 112,
    "height": 112,
-   "colors": 16,
-   "added": "2026-12-07",
+   "colors": 13,
+   "added": "2026-12-06",
    "titles": {
     "en": "Girl in the rain",
     "es": "Chica bajo la lluvia",
@@ -10112,7 +10112,7 @@
     "ja": "雨の中の少女",
     "ko": "빗속의 소녀"
    },
-   "rev": "d9f4739484"
+   "rev": "a2e2e2e4a6"
   },
   {
    "id": "rocket_32",
@@ -10155,7 +10155,7 @@
    ],
    "width": 112,
    "height": 112,
-   "colors": 24,
+   "colors": 18,
    "added": "2026-11-18",
    "titles": {
     "en": "Anime girl 5",
@@ -10168,7 +10168,7 @@
     "ja": "アニメの少女 5",
     "ko": "애니메 소녀 5"
    },
-   "rev": "84fc28ebcd"
+   "rev": "215a6b8b1e"
   },
   {
    "id": "sad_girl_2_128",
@@ -10184,7 +10184,7 @@
    ],
    "width": 128,
    "height": 128,
-   "colors": 19,
+   "colors": 12,
    "added": "2026-11-18",
    "titles": {
     "en": "Anime girl 6",
@@ -10197,7 +10197,7 @@
     "ja": "アニメの少女 6",
     "ko": "애니메 소녀 6"
    },
-   "rev": "a9d7130b5f"
+   "rev": "95896f54bc"
   },
   {
    "id": "sakura_96",
@@ -10215,7 +10215,7 @@
    "width": 96,
    "height": 96,
    "colors": 12,
-   "added": "2027-01-05",
+   "added": "2027-01-10",
    "titles": {
     "en": "Cherry blossoms",
     "es": "Cerezos en flor",
@@ -10227,7 +10227,7 @@
     "ja": "桜",
     "ko": "벚꽃"
    },
-   "rev": "7407f77763"
+   "rev": "e21ea01bac"
   },
   {
    "id": "scooter_7_128",
@@ -10241,8 +10241,8 @@
    ],
    "width": 128,
    "height": 128,
-   "colors": 8,
-   "added": "2026-12-13",
+   "colors": 7,
+   "added": "2027-01-04",
    "titles": {
     "en": "Scooter",
     "es": "Escúter",
@@ -10254,7 +10254,7 @@
     "ja": "スクーター",
     "ko": "스쿠터"
    },
-   "rev": "f2616b6858"
+   "rev": "ba9efbf25b"
   },
   {
    "id": "sea_7_80",
@@ -10271,7 +10271,7 @@
    ],
    "width": 80,
    "height": 80,
-   "colors": 17,
+   "colors": 13,
    "added": "2026-11-18",
    "titles": {
     "en": "Pier at sunset",
@@ -10284,7 +10284,7 @@
     "ja": "夕暮れの桟橋",
     "ko": "해질녘의 부두"
    },
-   "rev": "c3fd5d2715"
+   "rev": "d9085d8e22"
   },
   {
    "id": "see_1_96",
@@ -10300,8 +10300,8 @@
    ],
    "width": 96,
    "height": 96,
-   "colors": 20,
-   "added": "2026-12-08",
+   "colors": 17,
+   "added": "2026-12-11",
    "titles": {
     "en": "Sea at dawn",
     "es": "Mar al amanecer",
@@ -10313,7 +10313,7 @@
     "ja": "夜明けの海",
     "ko": "새벽의 바다"
    },
-   "rev": "40f7214323"
+   "rev": "0b3b97ef09"
   },
   {
    "id": "see_and_moon_96",
@@ -10329,8 +10329,8 @@
    ],
    "width": 96,
    "height": 96,
-   "colors": 20,
-   "added": "2026-11-26",
+   "colors": 17,
+   "added": "2026-11-29",
    "titles": {
     "en": "Sea and moon",
     "es": "Mar y luna",
@@ -10342,7 +10342,7 @@
     "ja": "海と月",
     "ko": "바다와 달"
    },
-   "rev": "b096e16498"
+   "rev": "5c3c470740"
   },
   {
    "id": "sobbing_girl_104",
@@ -10358,8 +10358,8 @@
    ],
    "width": 104,
    "height": 104,
-   "colors": 27,
-   "added": "2026-12-01",
+   "colors": 19,
+   "added": "2026-11-24",
    "titles": {
     "en": "Anime girl 7",
     "es": "Chica anime 7",
@@ -10371,7 +10371,7 @@
     "ja": "アニメの少女 7",
     "ko": "애니메 소녀 7"
    },
-   "rev": "6544c9af1d"
+   "rev": "629def5005"
   },
   {
    "id": "soon_128",
@@ -10387,8 +10387,8 @@
    ],
    "width": 128,
    "height": 128,
-   "colors": 16,
-   "added": "2026-11-24",
+   "colors": 14,
+   "added": "2026-11-23",
    "titles": {
     "en": "House by the road",
     "es": "Casa junto al camino",
@@ -10400,7 +10400,7 @@
     "ja": "道端の家",
     "ko": "길가의 집"
    },
-   "rev": "836eb3a171"
+   "rev": "53861b9810"
   },
   {
    "id": "space_potion_under_the_moon_48",
@@ -10428,8 +10428,8 @@
    ],
    "width": 48,
    "height": 48,
-   "colors": 23,
-   "added": "2026-12-31",
+   "colors": 17,
+   "added": "2026-12-09",
    "titles": {
     "en": "Space Potion under the Moon",
     "es": "Poción espacial bajo la luna",
@@ -10441,7 +10441,7 @@
     "ja": "月の下の宇宙のポーション",
     "ko": "달빛 아래 우주 물약"
    },
-   "rev": "34b1206da2"
+   "rev": "e76a5b258a"
   },
   {
    "id": "sphinx_of_naxos_colored_64",
@@ -10470,8 +10470,8 @@
    ],
    "width": 64,
    "height": 64,
-   "colors": 20,
-   "added": "2027-01-10",
+   "colors": 7,
+   "added": "2026-12-05",
    "titles": {
     "en": "Sphinx of Naxos",
     "es": "Esfinge de Naxos",
@@ -10483,7 +10483,7 @@
     "ja": "ナクソスのスフィンクス",
     "ko": "낙소스의 스핑크스"
    },
-   "rev": "686c7e8796"
+   "rev": "1e34a234fb"
   },
   {
    "id": "steam_locomotive_and_bridge_64",
@@ -10500,8 +10500,8 @@
    ],
    "width": 64,
    "height": 64,
-   "colors": 17,
-   "added": "2026-11-25",
+   "colors": 11,
+   "added": "2027-01-06",
    "titles": {
     "en": "Steam locomotive and bridge",
     "es": "Locomotora de vapor y puente",
@@ -10513,7 +10513,7 @@
     "ja": "蒸気機関車と橋",
     "ko": "증기 기관차와 다리"
    },
-   "rev": "c3bf1fec82"
+   "rev": "ad639b7ff1"
   },
   {
    "id": "sunset_on_the_river_image_64",
@@ -10529,8 +10529,8 @@
    ],
    "width": 64,
    "height": 64,
-   "colors": 20,
-   "added": "2026-12-05",
+   "colors": 18,
+   "added": "2026-12-03",
    "titles": {
     "en": "Sunset on the river",
     "es": "Atardecer en el río",
@@ -10542,7 +10542,7 @@
     "ja": "川辺の夕日",
     "ko": "강가의 노을"
    },
-   "rev": "ffaccbc208"
+   "rev": "d526943870"
   },
   {
    "id": "t_rex_56",
@@ -10556,8 +10556,8 @@
    ],
    "width": 56,
    "height": 56,
-   "colors": 11,
-   "added": "2026-12-16",
+   "colors": 7,
+   "added": "2026-12-19",
    "titles": {
     "en": "T-rex",
     "es": "Tiranosaurio",
@@ -10569,7 +10569,7 @@
     "ja": "ティラノサウルス",
     "ko": "티라노사우루스"
    },
-   "rev": "3c55b0daf5"
+   "rev": "9933d3e4f6"
   },
   {
    "id": "teapot_and_fruits_80",
@@ -10587,8 +10587,8 @@
    ],
    "width": 80,
    "height": 80,
-   "colors": 24,
-   "added": "2026-12-09",
+   "colors": 13,
+   "added": "2026-12-31",
    "titles": {
     "en": "Teapot and fruits",
     "es": "Tetera y frutas",
@@ -10600,7 +10600,7 @@
     "ja": "ティーポットと果物",
     "ko": "찻주전자와 과일"
    },
-   "rev": "af3aa796fd"
+   "rev": "c0bdffbdb5"
   },
   {
    "id": "the_great_wave_off_kanagawa_128",
@@ -10633,7 +10633,7 @@
    ],
    "width": 128,
    "height": 128,
-   "colors": 25,
+   "colors": 15,
    "added": "2026-11-18",
    "titles": {
     "en": "The Great Wave off Kanagawa",
@@ -10646,7 +10646,7 @@
     "ja": "神奈川沖浪裏",
     "ko": "가나가와의 거대한 파도"
    },
-   "rev": "0e03215312"
+   "rev": "5134a16b3d"
   },
   {
    "id": "the_monkey_songok_96",
@@ -10675,8 +10675,8 @@
    ],
    "width": 96,
    "height": 96,
-   "colors": 16,
-   "added": "2026-11-22",
+   "colors": 9,
+   "added": "2026-11-24",
    "titles": {
     "en": "The Monkey King Songokū",
     "es": "El Rey Mono Songokū",
@@ -10688,7 +10688,7 @@
     "ja": "孫悟空",
     "ko": "손오공"
    },
-   "rev": "ba13ef5197"
+   "rev": "7f665f402f"
   },
   {
    "id": "thestarrynightbyvincentvangogh_64",
@@ -10721,7 +10721,7 @@
    ],
    "width": 64,
    "height": 64,
-   "colors": 32,
+   "colors": 27,
    "added": "2026-11-18",
    "titles": {
     "en": "The Starry Night",
@@ -10734,7 +10734,7 @@
     "ja": "星月夜",
     "ko": "별이 빛나는 밤"
    },
-   "rev": "cf0945f7d8"
+   "rev": "4916d3a670"
   },
   {
    "id": "town_23_88",
@@ -10748,7 +10748,7 @@
    ],
    "width": 88,
    "height": 88,
-   "colors": 20,
+   "colors": 19,
    "added": "2026-12-21",
    "titles": {
     "en": "Small town",
@@ -10761,7 +10761,7 @@
     "ja": "小さな町",
     "ko": "작은 마을"
    },
-   "rev": "f7152d7d66"
+   "rev": "bc8c30e9d0"
   },
   {
    "id": "toy_10_104",
@@ -10777,8 +10777,8 @@
    ],
    "width": 104,
    "height": 104,
-   "colors": 23,
-   "added": "2027-01-03",
+   "colors": 18,
+   "added": "2027-01-01",
    "titles": {
     "en": "Teddy bear",
     "es": "Osito de peluche",
@@ -10790,7 +10790,7 @@
     "ja": "テディベア",
     "ko": "곰 인형"
    },
-   "rev": "e898e31bac"
+   "rev": "15acb7a726"
   },
   {
    "id": "toy_11_88",
@@ -10803,8 +10803,8 @@
    ],
    "width": 88,
    "height": 88,
-   "colors": 22,
-   "added": "2027-01-02",
+   "colors": 13,
+   "added": "2027-01-12",
    "titles": {
     "en": "Toy 1",
     "es": "Juguete 1",
@@ -10816,7 +10816,7 @@
     "ja": "おもちゃ 1",
     "ko": "장난감 1"
    },
-   "rev": "90fcdea7dd"
+   "rev": "4da9611bed"
   },
   {
    "id": "toy_12_104",
@@ -10831,8 +10831,8 @@
    ],
    "width": 104,
    "height": 104,
-   "colors": 16,
-   "added": "2027-01-04",
+   "colors": 10,
+   "added": "2026-12-22",
    "titles": {
     "en": "Stacking rings",
     "es": "Pirámide de anillos",
@@ -10844,7 +10844,7 @@
     "ja": "積み木リング",
     "ko": "링 쌓기 장난감"
    },
-   "rev": "16a35f0308"
+   "rev": "272b434124"
   },
   {
    "id": "toy_13_96",
@@ -10858,8 +10858,8 @@
    ],
    "width": 96,
    "height": 96,
-   "colors": 19,
-   "added": "2026-12-24",
+   "colors": 10,
+   "added": "2027-01-12",
    "titles": {
     "en": "Window",
     "es": "Ventana",
@@ -10871,7 +10871,7 @@
     "ja": "窓",
     "ko": "창문"
    },
-   "rev": "c46609268c"
+   "rev": "2e4bf235d3"
   },
   {
    "id": "toy_14_96",
@@ -10885,8 +10885,8 @@
    ],
    "width": 96,
    "height": 96,
-   "colors": 17,
-   "added": "2026-11-21",
+   "colors": 10,
+   "added": "2026-12-26",
    "titles": {
     "en": "Camera 2",
     "es": "Cámara 2",
@@ -10898,7 +10898,7 @@
     "ja": "カメラ 2",
     "ko": "카메라 2"
    },
-   "rev": "a1f34a11b8"
+   "rev": "be7e41ff0f"
   },
   {
    "id": "toy_15_128",
@@ -10927,7 +10927,7 @@
     "ja": "帽子の少女",
     "ko": "모자를 쓴 소녀"
    },
-   "rev": "349318defb"
+   "rev": "28d10dbdaf"
   },
   {
    "id": "toy_16_72",
@@ -10940,8 +10940,8 @@
    ],
    "width": 72,
    "height": 72,
-   "colors": 20,
-   "added": "2026-12-11",
+   "colors": 15,
+   "added": "2027-01-15",
    "titles": {
     "en": "Toy 2",
     "es": "Juguete 2",
@@ -10953,7 +10953,7 @@
     "ja": "おもちゃ 2",
     "ko": "장난감 2"
    },
-   "rev": "7e06eb12da"
+   "rev": "cab0b4b680"
   },
   {
    "id": "toy_17_128",
@@ -10966,8 +10966,8 @@
    ],
    "width": 128,
    "height": 128,
-   "colors": 32,
-   "added": "2026-12-03",
+   "colors": 19,
+   "added": "2026-12-18",
    "titles": {
     "en": "Toy 3",
     "es": "Juguete 3",
@@ -10979,7 +10979,7 @@
     "ja": "おもちゃ 3",
     "ko": "장난감 3"
    },
-   "rev": "8417fda69c"
+   "rev": "3722627e86"
   },
   {
    "id": "toy_18_128",
@@ -10995,7 +10995,7 @@
    ],
    "width": 128,
    "height": 128,
-   "colors": 14,
+   "colors": 9,
    "added": "2026-11-18",
    "titles": {
     "en": "Toy puppy",
@@ -11008,7 +11008,7 @@
     "ja": "犬のおもちゃ",
     "ko": "강아지 인형"
    },
-   "rev": "d345c7150a"
+   "rev": "8529382b9d"
   },
   {
    "id": "toy_19_104",
@@ -11021,8 +11021,8 @@
    ],
    "width": 104,
    "height": 104,
-   "colors": 22,
-   "added": "2026-11-20",
+   "colors": 15,
+   "added": "2027-01-15",
    "titles": {
     "en": "Toy 4",
     "es": "Juguete 4",
@@ -11034,7 +11034,7 @@
     "ja": "おもちゃ 4",
     "ko": "장난감 4"
    },
-   "rev": "08cd45a100"
+   "rev": "5ebf6e0f34"
   },
   {
    "id": "toy_1_128",
@@ -11047,8 +11047,8 @@
    ],
    "width": 128,
    "height": 128,
-   "colors": 20,
-   "added": "2027-01-04",
+   "colors": 16,
+   "added": "2026-11-24",
    "titles": {
     "en": "Toy 5",
     "es": "Juguete 5",
@@ -11060,7 +11060,7 @@
     "ja": "おもちゃ 5",
     "ko": "장난감 5"
    },
-   "rev": "b8a2112af8"
+   "rev": "8f2d4d37e2"
   },
   {
    "id": "toy_20_96",
@@ -11073,8 +11073,8 @@
    ],
    "width": 96,
    "height": 96,
-   "colors": 22,
-   "added": "2026-11-22",
+   "colors": 14,
+   "added": "2027-01-01",
    "titles": {
     "en": "Toy 6",
     "es": "Juguete 6",
@@ -11086,7 +11086,7 @@
     "ja": "おもちゃ 6",
     "ko": "장난감 6"
    },
-   "rev": "81fbad8780"
+   "rev": "cd70cd8fa9"
   },
   {
    "id": "toy_21_112",
@@ -11099,8 +11099,8 @@
    ],
    "width": 112,
    "height": 112,
-   "colors": 20,
-   "added": "2026-12-12",
+   "colors": 14,
+   "added": "2027-01-03",
    "titles": {
     "en": "Toy 7",
     "es": "Juguete 7",
@@ -11112,7 +11112,7 @@
     "ja": "おもちゃ 7",
     "ko": "장난감 7"
    },
-   "rev": "0a6eba8551"
+   "rev": "a7942e1be0"
   },
   {
    "id": "toy_22_64",
@@ -11128,8 +11128,8 @@
    ],
    "width": 64,
    "height": 64,
-   "colors": 18,
-   "added": "2027-01-01",
+   "colors": 14,
+   "added": "2027-01-13",
    "titles": {
     "en": "Rocking horse 1",
     "es": "Caballito balancín 1",
@@ -11141,7 +11141,7 @@
     "ja": "揺り木馬 1",
     "ko": "흔들 목마 1"
    },
-   "rev": "b8811ebaf1"
+   "rev": "dd0cddea00"
   },
   {
    "id": "toy_23_56",
@@ -11157,8 +11157,8 @@
    ],
    "width": 56,
    "height": 56,
-   "colors": 14,
-   "added": "2026-12-10",
+   "colors": 12,
+   "added": "2026-12-04",
    "titles": {
     "en": "Rocking horse 2",
     "es": "Caballito balancín 2",
@@ -11170,7 +11170,7 @@
     "ja": "揺り木馬 2",
     "ko": "흔들 목마 2"
    },
-   "rev": "02124d865f"
+   "rev": "7bef75e260"
   },
   {
    "id": "toy_24_64",
@@ -11186,7 +11186,7 @@
    ],
    "width": 64,
    "height": 64,
-   "colors": 8,
+   "colors": 7,
    "added": "2026-11-18",
    "titles": {
     "en": "Rubber duck",
@@ -11199,7 +11199,7 @@
     "ja": "ゴムのアヒル",
     "ko": "고무 오리"
    },
-   "rev": "06d733485d"
+   "rev": "fd662fa1f9"
   },
   {
    "id": "tree_128",
@@ -11215,8 +11215,8 @@
    ],
    "width": 96,
    "height": 96,
-   "colors": 20,
-   "added": "2026-12-16",
+   "colors": 19,
+   "added": "2026-12-20",
    "titles": {
     "en": "Golden tree",
     "es": "Árbol dorado",
@@ -11228,7 +11228,7 @@
     "ja": "黄金の木",
     "ko": "황금빛 나무"
    },
-   "rev": "3a3f95c750"
+   "rev": "8b11c92e92"
   },
   {
    "id": "tree_on_the_lake_image_96",
@@ -11244,8 +11244,8 @@
    ],
    "width": 96,
    "height": 96,
-   "colors": 20,
-   "added": "2026-12-12",
+   "colors": 17,
+   "added": "2026-12-08",
    "titles": {
     "en": "Tree by the lake",
     "es": "Árbol junto al lago",
@@ -11257,7 +11257,7 @@
     "ja": "湖畔の木",
     "ko": "호숫가의 나무"
    },
-   "rev": "d9d8e6f62a"
+   "rev": "e58385752f"
   },
   {
    "id": "turkish_coffee_64",
@@ -11273,8 +11273,8 @@
    ],
    "width": 64,
    "height": 64,
-   "colors": 16,
-   "added": "2026-11-29",
+   "colors": 15,
+   "added": "2027-01-12",
    "titles": {
     "en": "Turkish coffee",
     "es": "Café turco",
@@ -11286,7 +11286,7 @@
     "ja": "トルココーヒー",
     "ko": "터키 커피"
    },
-   "rev": "1cfddba863"
+   "rev": "22118b8245"
   },
   {
    "id": "tv_64",
@@ -11322,8 +11322,8 @@
    ],
    "width": 64,
    "height": 64,
-   "colors": 15,
-   "added": "2027-01-05",
+   "colors": 9,
+   "added": "2026-12-24",
    "titles": {
     "en": "TV",
     "es": "Televisor",
@@ -11335,7 +11335,7 @@
     "ja": "テレビ",
     "ko": "تلفزيون"
    },
-   "rev": "3663ef000d"
+   "rev": "3d318d093f"
   },
   {
    "id": "valkyrie_peter_nicolai_arbo_nationalmuseum_18255_t_96",
@@ -11366,7 +11366,7 @@
    ],
    "width": 96,
    "height": 96,
-   "colors": 20,
+   "colors": 13,
    "added": "2026-11-18",
    "titles": {
     "en": "Valkyrie",
@@ -11379,7 +11379,7 @@
     "ja": "ヴァルキュリア",
     "ko": "발키리"
    },
-   "rev": "c04441f778"
+   "rev": "fa1fb16718"
   },
   {
    "id": "vampir_gerl_02_112",
@@ -11395,7 +11395,7 @@
    ],
    "width": 112,
    "height": 112,
-   "colors": 20,
+   "colors": 15,
    "added": "2026-11-18",
    "titles": {
     "en": "Vampire girl",
@@ -11408,7 +11408,7 @@
     "ja": "吸血鬼の少女",
     "ko": "뱀파이어 소녀"
    },
-   "rev": "42a965ca9b"
+   "rev": "aa50a81693"
   },
   {
    "id": "vincent_van_gogh_self_portrait_with_bandaged_ear_1_96",
@@ -11439,8 +11439,8 @@
    ],
    "width": 96,
    "height": 96,
-   "colors": 24,
-   "added": "2026-11-21",
+   "colors": 20,
+   "added": "2026-11-22",
    "titles": {
     "en": "Self-Portrait with Bandaged Ear",
     "es": "Autorretrato con la oreja vendada",
@@ -11452,7 +11452,7 @@
     "ja": "耳に包帯をした自画像",
     "ko": "붕대를 감은 자화상"
    },
-   "rev": "51738f959e"
+   "rev": "835b0d41ee"
   },
   {
    "id": "water_lilies_monet_128",
@@ -11484,7 +11484,7 @@
    ],
    "width": 128,
    "height": 128,
-   "colors": 32,
+   "colors": 19,
    "added": "2026-11-30",
    "titles": {
     "en": "Water Lilies",
@@ -11497,7 +11497,7 @@
     "ja": "睡蓮",
     "ko": "수련"
    },
-   "rev": "69f918e83a"
+   "rev": "8fe83fdf95"
   },
   {
    "id": "winter_woman_96",
@@ -11515,8 +11515,8 @@
    ],
    "width": 96,
    "height": 96,
-   "colors": 24,
-   "added": "2026-12-05",
+   "colors": 16,
+   "added": "2026-11-25",
    "titles": {
     "en": "Winter girl",
     "es": "Chica de invierno",
@@ -11528,7 +11528,7 @@
     "ja": "冬の少女",
     "ko": "겨울 소녀"
    },
-   "rev": "dfd40e2507"
+   "rev": "b2d1e90eb9"
   },
   {
    "id": "woman_12_96",
@@ -11546,8 +11546,8 @@
    ],
    "width": 96,
    "height": 96,
-   "colors": 18,
-   "added": "2026-11-29",
+   "colors": 12,
+   "added": "2026-11-28",
    "titles": {
     "en": "Girl in a crown",
     "es": "Chica con corona",
@@ -11559,7 +11559,7 @@
     "ja": "王冠の少女",
     "ko": "왕관을 쓴 소녀"
    },
-   "rev": "f7d11c5051"
+   "rev": "e2b415e101"
   },
   {
    "id": "woman_2_96",
@@ -11577,8 +11577,8 @@
    ],
    "width": 96,
    "height": 96,
-   "colors": 20,
-   "added": "2026-11-25",
+   "colors": 19,
+   "added": "2026-11-26",
    "titles": {
     "en": "Pensive girl",
     "es": "Chica pensativa",
@@ -11590,7 +11590,7 @@
     "ja": "物思いにふける少女",
     "ko": "생각에 잠긴 소녀"
    },
-   "rev": "8c21a53323"
+   "rev": "ef5bf9ced2"
   },
   {
    "id": "woman_96",
@@ -11609,7 +11609,7 @@
    "width": 96,
    "height": 96,
    "colors": 16,
-   "added": "2026-11-26",
+   "added": "2026-12-04",
    "titles": {
     "en": "Girl with long hair",
     "es": "Chica de pelo largo",
@@ -11621,7 +11621,7 @@
     "ja": "長い髪の少女",
     "ko": "긴 머리 소녀"
    },
-   "rev": "94531180b9"
+   "rev": "cb480eb520"
   },
   {
    "id": "work_girl_120",
@@ -11636,7 +11636,7 @@
    ],
    "width": 120,
    "height": 120,
-   "colors": 22,
+   "colors": 12,
    "added": "2026-11-27",
    "titles": {
     "en": "Portrait of a girl 1",
@@ -11649,7 +11649,7 @@
     "ja": "少女の肖像 1",
     "ko": "소녀 초상 1"
    },
-   "rev": "d5e0cf7619"
+   "rev": "32584617a5"
   }
  ]
 }

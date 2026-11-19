@@ -22,27 +22,21 @@
     "пейзаж",
     "пикселарт"
   ],
-  "added": "2026-11-25",
+  "added": "2027-01-06",
   "width": 64,
   "height": 64,
   "palette": [
     "#d8522c",
     "#292929",
     "#e99f5f",
-    "#232323",
     "#35304a",
     "#db7345",
-    "#fcd29f",
     "#974732",
+    "#fcd29f",
     "#543935",
     "#302d3b",
-    "#2a2a29",
-    "#9f5239",
-    "#d8522d",
     "#bf613c",
-    "#d8522b",
-    "#272726",
-    "#2a2928"
+    "#9f5239"
   ],
-  "pixels_gz": "H4sIAAAAAAAC/+1V2RajIAw9iA1EFtv//9nJwqIoPTPTh7709ijg5YYQEmrMDz/88MMc9qurw4frw4fuwycGRLr/t9w5gE98d+7D2LmvHvxXffer8fTD10pNxb63ronynspxxRf/AunXCu9b16C8J9ixTVzRrCGs27JsrJeWxga5xRm6nCZ1U4du4PfCz4DTl3/it7BcJ7/l1xnekjf8kzBO+AtevaB4RTkzxLI/5auX73k8ZMHuXz1GI78TLrxYPmeO8CEs/BQeGFYQT3y1ndpNsWesPE30StqDAXvgiU4pgSIlNQTY/FO5HdD5IhBxavqMhfe6beD1rXUMknceD5E7F5/wgfa+V69dA8Wg8/d4Co+72e1FzgYarx6nEmOeKLvhHa6v2LfsTrAXfgBwpm8zubvwXQgHPcz0LisPV7nuAhpf5tTYqxxi4fmwIiLP4zbWsdpv4yhWC++ojYX3GakXtrHFwPfU+J2yOXuUrBaePjxLiQ1tEPvLFJXfZlD//AmRULrizeb94xbYeBKQKAs4ehwnhu4/XvX+oYvS7cr6ZHaR6ynoIaie+ThZn9YV+1lLM1s4poBUkPDG3Htf9VTbtTwPBjgnlE+jHpEfrPEp1TEmIXXzW71p68vKMJavna1P6odcl17+xPrtcvBfXMnKpzs9cpLxGeR6M1qwpyKgsSRCvIkfHXhVU/Sgw+r5lyIrBh6TBGJEKpPRga4HMTBR8/J6J6WzA6XK2US66r2E34tluYxpC5DSWQ+qJt57/wfdv1roABAAAA=="
+  "pixels_gz": "H4sIAAAAAAAC/+1W2ZKjMAwsYyQr9v//71iHb0zNLg95GDoVMDQtCR1OnHvx4sWLPfxXvcND//AwfHhi4KHvEACe6R/mLny18F+NHQ+H+UPHkU8FrlsmvbGT06Ef1h8FiHXJlvNxB6oPHnSjpx2ODu2iuz888ceR85WkZkT/wRMObfOPvFieOmflgeEFaeCx7VNlFWnhwXcGPC20ohgCmng/ofFN3W2YUCPAuoey88DI8sbTdvgUSWJXhIqcg46/RDPvFzkbGNxb8JYgeRsNMLVXDgP8wk8Apj87eVj4JoRODzt9iMrDKte3gMrbMyX3KodkPBcrEfFzfE7lWu3X6yRWjQ/5nIxHK+V8luPn4n7U9i78LX7Bf3bQ+HBAyrCl+kc8L0GVV0QBZ4/zxEg7PZ7q1HjuZZZrFbQIt3o1YvqowxU99C0gEyS8c9fRF3033J0B7ol0rSfiL5X8lOGdmjAv463eVf/iGebx9Tv/WX3KdonyI9btTc2ChBKNv9ITN5mUre0+fhiCfC2NkC7yxz3S1NDgtf42ZF4749w0ECPlMZkDaHrY67kAFjy4MQCbcjbhVj2Sibt/JtCn0HYY264R8QcaglSHABAAAA=="
 }

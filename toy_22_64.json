@@ -21,7 +21,7 @@
     "лошадка",
     "качалка"
   ],
-  "added": "2027-01-01",
+  "added": "2027-01-13",
   "width": 64,
   "height": 64,
   "palette": [
@@ -30,19 +30,15 @@
     "#eaa001",
     "#df1c16",
     "#f4d31f",
-    "#faf1e3",
     "#d9691b",
-    "#eba106",
     "#f1c845",
-    "#eb9217",
-    "#cd5018",
     "#ecb33b",
     "#672a0f",
-    "#df2719",
-    "#c44613",
+    "#eb9217",
     "#d84632",
+    "#cd5018",
     "#dd8f1f",
-    "#c44615"
+    "#faf1e3"
   ],
-  "pixels_gz": "H4sIAAAAAAAC/6WXiZKrIBBFS5Butgjm/z/29aIQjeTFCTU1m55ebwOZptsrP2H6ZSWTf8HBmPWXKIiv07SaH3iETN/+RodoTLLWYvgLnYksBi2vDH+hhVcD/p4B8FYxb7Fg5F/vGAjW7jwZQIsJbYRbuIadpH66wi3vwlP9TUKN/2se5G1MUXleaHOO4V7pOHtXjHkUNvC9AnLDLbqV+AdHkA+6CgFgnLyky1Uv3hdTJIM2ASRKpHZEH2AUPbIJlLwdSgWpj2GjWVNpHWoyc9XItfLF24LeyTp19tpAbk8TxVxNmRfGSUX+VJx41VEoVtomyjcAqcwzZSsFOAoTC2V11nTgoqFdjTC084R1LpsEkjrA5lwyoP+0FeocPWrovMh4MG1VxYXvms7JRIzzvqg1W7jqEDqfpTlFhlrc56yevO08+ngEOg+SX2nuOXTpEZW288kfgOlhXtIHq/w+TWrd4wsvije93s+DexqqxtM/svLeL41Hf6r3FkA4NG/jV3kUo09D/1N+0PxV6M2PnUedbedjr3/jzaYN7uyuLmZx01fjk0e3JbC4eKrfWZ/AErMraa/lzwXwzf36keeeaQnj1NRFTXdcwiU669KOP0e8iawd6Ooo3lHdPH2h6/JZR9tTwXaY1GbAURfQy9R9DF9319CP1z0Fr0N5UO9gg8t97Gt7X/b407R9sVc/O2Jfov/6vvAyYNRXbH98vd33CFgXKqhbBnKbUE0gZZCqfHlj6P55tNPKYtekUj8x3NAWcLBIss60fD7qIskRA23zv1h4KZVW1ccjk3ca0JEW+k5xWOuO0+LZqJ+SXwdpKU/aTvObGuGl9nlkmfGVko/zOUOt6OYlDISlOG3vuLwd0s61Pg2kAk/1zlvTOf3KZyrsbRpIDfbg57fwISWyEKS8ZTiqgXYUxwG8V59OSnpixcCjDi7PzC7ocX5XH9BJG8kEioERrckvV/YrPUF+Y73ihebY5WC53Mg3nmKw6/EuRrczNuz5ORJ+XR5gnpSpdyMX9uU2z8TPifnRTpbnxNb9/r4u+TWi8vOC8zIc3SxHDss7CSRo4r4gh65H0vJhF8nKJzr26PVFnS7CU3v9/3AtYtySSDuJWvVoWbf/2cOgznLyRlFp1H57PY1xVPmjRvVduYEsGnNyehhX+O5zFp+8egGJ+gO/p7cs9uvDfg1Z6s1Pa5Br3dhahzv/PxiZg/4AEAAA"
+  "pixels_gz": "H4sIAAAAAAAC/6WW6ZbCIAyFTwkkyOL7P+5kAUptUTvmx6ijX5abELptty267SdzLv7I15+ycC5vW3U/8MjR+c+/jBKjAID0HzoyaTxA/BetvDmAmzgMw5bCrcJhMs4AC95xIDi2/N3wQ7eiD34oQLdqx9J5cQExJrotHQRmH+og3myc5RB4dB/q4MAT0UfpRXU3CphOACVEkYSW2aO1XdIO9rKrR+qyLmcymvZovCSAENReOnvtII5vhc7OeS/4mL/DYF2U4Gb++RQecRKA9qm+GEkS0RCqU4Y3D1V/FPCJhwS4gucwyj5p+B2gQcseYrNZLLsD5xKC76atmQPuvIoFehrsSMRokfjt4HFqeDzyVp8b4eVrPPHlZWAeh4+Ax9NoLcY5fjjyx/DtUPV1Et0pPr4ObEuATs3fdK8bX5bxtyjHJ19spV4+z/ieQMJwPjC7pWl6B88ChM6HBO/4NmJQefZG/SrpCF8/8Nu0z6kvJwjqIIWp/CXvdHbm7kBg3cQJhjTwunwi2M9NHg5CU+ZjeF0wtF+vo4Sxc6bpvVZwWn7ZHTy8nrZv7vdh32W/doBz/nTfgcyFu+8gvhYQTZV4uwDh6/S/XfGwxovTpyOKbGOh50MRY/lfTuOl2D2lxyNy9ABpNQuLZtWOs8nZyO+Kr0tVBOfZLj6+0z6uPAteufjkT3mHKQotUjNcjsWJB1P07ag4iy6L4bX8DNqS/H7UevLen7te2AOpvOtJI94oQRI4q883pdzq6uCxaA4pixfVs/nEFgKqgxVtxV82P8tlIb+ol7zQkrteLJfZNZ5zgHpaUOIY5Hvkny3kEZ4n056NAnULLbJ8V4RfjW70RbxD/72Zvk1oPIdYZG8OvPGlKKRokb6gpN6upHebx/iiRWi5rSDUq+gTbiKmVkTpJJrqCfy69kMblU96/QX74FvpX6xAao8NdnvrS2m3+ZdXiKpgDyCp9Mhf03MVk92h5an0GXN3kvOy7D+ZSyosABAAAA=="
 }
