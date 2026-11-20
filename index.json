@@ -2303,6 +2303,30 @@
    "rev": "3cca478644"
   },
   {
+   "id": "cat_08_112",
+   "file": "cat_08_112.json",
+   "title": "cat_08",
+   "theme": "other",
+   "tags": [],
+   "width": 112,
+   "height": 112,
+   "colors": 17,
+   "added": "2026-11-22",
+   "rev": "cb76c0a311"
+  },
+  {
+   "id": "cat_09_88",
+   "file": "cat_09_88.json",
+   "title": "cat_09",
+   "theme": "other",
+   "tags": [],
+   "width": 88,
+   "height": 88,
+   "colors": 22,
+   "added": "2026-11-20",
+   "rev": "016c122869"
+  },
+  {
    "id": "cat_123_64",
    "file": "cat_123_64.json",
    "title": "Кот",
@@ -3459,6 +3483,18 @@
     "ko": "커피 한 잔"
    },
    "rev": "64520812a4"
+  },
+  {
+   "id": "cowboy_21_104",
+   "file": "cowboy_21_104.json",
+   "title": "cowboy_21",
+   "theme": "other",
+   "tags": [],
+   "width": 104,
+   "height": 104,
+   "colors": 13,
+   "added": "2026-11-21",
+   "rev": "5c1bc46e4d"
   },
   {
    "id": "cristiyor_woman_96",
@@ -9682,6 +9718,18 @@
    "rev": "32bb3e06e0"
   },
   {
+   "id": "mustang_2_120",
+   "file": "mustang_2_120.json",
+   "title": "mustang-2",
+   "theme": "other",
+   "tags": [],
+   "width": 120,
+   "height": 120,
+   "colors": 20,
+   "added": "2026-11-20",
+   "rev": "1dcbe80009"
+  },
+  {
    "id": "night_landscape_64",
    "file": "night_landscape_64.json",
    "title": "Ночной пейзаж",
@@ -10612,6 +10660,18 @@
    "rev": "ad639b7ff1"
   },
   {
+   "id": "sunflowers_7_104",
+   "file": "sunflowers_7_104.json",
+   "title": "sunflowers-7",
+   "theme": "other",
+   "tags": [],
+   "width": 104,
+   "height": 104,
+   "colors": 23,
+   "added": "2026-11-23",
+   "rev": "208fca3f93"
+  },
+  {
    "id": "sunset_on_the_river_image_64",
    "file": "sunset_on_the_river_image_64.json",
    "title": "Закат на реке",
@@ -11366,6 +11426,18 @@
     "ko": "호숫가의 나무"
    },
    "rev": "e58385752f"
+  },
+  {
+   "id": "tulips_49_128",
+   "file": "tulips_49_128.json",
+   "title": "tulips-49",
+   "theme": "other",
+   "tags": [],
+   "width": 128,
+   "height": 128,
+   "colors": 23,
+   "added": "2026-11-24",
+   "rev": "2996484f65"
   },
   {
    "id": "turkish_coffee_64",
