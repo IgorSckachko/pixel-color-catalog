@@ -1517,6 +1517,54 @@
    "rev": "e9d4133e6e"
   },
   {
+   "id": "035_liberty_leading_the_people_128",
+   "file": "035_liberty_leading_the_people_128.json",
+   "title": "035_Liberty_Leading_the_People",
+   "theme": "other",
+   "tags": [],
+   "width": 128,
+   "height": 128,
+   "colors": 18,
+   "added": "2026-11-24",
+   "rev": "e71bc7fb3a"
+  },
+  {
+   "id": "062_sunflowers_96",
+   "file": "062_sunflowers_96.json",
+   "title": "062_Sunflowers",
+   "theme": "other",
+   "tags": [],
+   "width": 96,
+   "height": 96,
+   "colors": 21,
+   "added": "2026-11-25",
+   "rev": "a5068c75c9"
+  },
+  {
+   "id": "086_morning_in_a_pine_forest_112",
+   "file": "086_morning_in_a_pine_forest_112.json",
+   "title": "086_Morning_in_a_Pine_Forest",
+   "theme": "other",
+   "tags": [],
+   "width": 112,
+   "height": 112,
+   "colors": 24,
+   "added": "2026-11-26",
+   "rev": "566a4fe6ea"
+  },
+  {
+   "id": "090_girl_with_peaches_120",
+   "file": "090_girl_with_peaches_120.json",
+   "title": "090_Girl_with_Peaches",
+   "theme": "other",
+   "tags": [],
+   "width": 120,
+   "height": 120,
+   "colors": 23,
+   "added": "2026-11-27",
+   "rev": "c114be2cb8"
+  },
+  {
    "id": "1_96",
    "file": "1_96.json",
    "title": "Фасад на Лиговском проспекте",
