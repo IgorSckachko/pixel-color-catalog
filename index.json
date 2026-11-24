@@ -2068,6 +2068,18 @@
    "rev": "5df4398439"
   },
   {
+   "id": "birch_trees_112",
+   "file": "birch_trees_112.json",
+   "title": "birch_trees",
+   "theme": "other",
+   "tags": [],
+   "width": 112,
+   "height": 112,
+   "colors": 30,
+   "added": "2026-11-27",
+   "rev": "1c8049d21f"
+  },
+  {
    "id": "birth_of_venus_botticelli_128",
    "file": "birth_of_venus_botticelli_128.json",
    "title": "Рождение Венеры",
@@ -4515,6 +4527,18 @@
    "rev": "7bd8156b4e"
   },
   {
+   "id": "duck_34_80",
+   "file": "duck_34_80.json",
+   "title": "duck_34",
+   "theme": "other",
+   "tags": [],
+   "width": 80,
+   "height": 80,
+   "colors": 16,
+   "added": "2026-11-23",
+   "rev": "85e8c07807"
+  },
+  {
    "id": "edvard_munch_the_scream_96",
    "file": "edvard_munch_the_scream_96.json",
    "title": "Крик",
@@ -4946,6 +4970,18 @@
     "ko": "커피를 든 유령"
    },
    "rev": "1459420e7b"
+  },
+  {
+   "id": "girl_09_80",
+   "file": "girl_09_80.json",
+   "title": "girl_09",
+   "theme": "other",
+   "tags": [],
+   "width": 80,
+   "height": 80,
+   "colors": 8,
+   "added": "2026-12-04",
+   "rev": "40e33a877f"
   },
   {
    "id": "girl_2_64",
@@ -9375,6 +9411,18 @@
    "rev": "8090605532"
   },
   {
+   "id": "martian_128",
+   "file": "martian_128.json",
+   "title": "Martian",
+   "theme": "other",
+   "tags": [],
+   "width": 128,
+   "height": 128,
+   "colors": 18,
+   "added": "2026-11-24",
+   "rev": "db73908cdc"
+  },
+  {
    "id": "meadow_in_the_mountains_image_96",
    "file": "meadow_in_the_mountains_image_96.json",
    "title": "Луг в горах",
@@ -9896,6 +9944,30 @@
    "rev": "0dcb07e73b"
   },
   {
+   "id": "orange_fox_72",
+   "file": "orange_fox_72.json",
+   "title": "orange_fox",
+   "theme": "other",
+   "tags": [],
+   "width": 72,
+   "height": 72,
+   "colors": 12,
+   "added": "2026-11-23",
+   "rev": "e84c105e24"
+  },
+  {
+   "id": "panda_56_128",
+   "file": "panda_56_128.json",
+   "title": "panda_56",
+   "theme": "other",
+   "tags": [],
+   "width": 128,
+   "height": 128,
+   "colors": 11,
+   "added": "2026-12-03",
+   "rev": "b1f5156fd6"
+  },
+  {
    "id": "park_23_96",
    "file": "park_23_96.json",
    "title": "park_23",
@@ -9964,6 +10036,18 @@
     "ko": "도시 공원"
    },
    "rev": "1ffe525b4e"
+  },
+  {
+   "id": "pink_fox_104",
+   "file": "pink_fox_104.json",
+   "title": "pink_fox",
+   "theme": "other",
+   "tags": [],
+   "width": 104,
+   "height": 104,
+   "colors": 22,
+   "added": "2026-12-05",
+   "rev": "93ac30f667"
   },
   {
    "id": "pixel_art_beach_day_by_the_lighthouse_128",
@@ -10230,6 +10314,18 @@
    "rev": "e58b4dfd43"
   },
   {
+   "id": "rabbit_12_128",
+   "file": "rabbit_12_128.json",
+   "title": "rabbit_12",
+   "theme": "other",
+   "tags": [],
+   "width": 128,
+   "height": 128,
+   "colors": 11,
+   "added": "2026-11-29",
+   "rev": "61a5712aa2"
+  },
+  {
    "id": "raining_girl_112",
    "file": "raining_girl_112.json",
    "title": "Девушка под дождём",
@@ -10489,6 +10585,18 @@
    "rev": "5c3c470740"
   },
   {
+   "id": "sheep_23_80",
+   "file": "sheep_23_80.json",
+   "title": "sheep_23",
+   "theme": "other",
+   "tags": [],
+   "width": 80,
+   "height": 80,
+   "colors": 10,
+   "added": "2026-11-30",
+   "rev": "620b1bac89"
+  },
+  {
    "id": "sobbing_girl_104",
    "file": "sobbing_girl_104.json",
    "title": "Аниме-девушка 7",
@@ -10628,6 +10736,18 @@
     "ko": "낙소스의 스핑크스"
    },
    "rev": "1e34a234fb"
+  },
+  {
+   "id": "squirrel_and_nut_96",
+   "file": "squirrel_and_nut_96.json",
+   "title": "squirrel_and_nut",
+   "theme": "other",
+   "tags": [],
+   "width": 96,
+   "height": 96,
+   "colors": 21,
+   "added": "2026-12-01",
+   "rev": "0e6284971d"
   },
   {
    "id": "steam_locomotive_and_bridge_64",
@@ -11690,6 +11810,18 @@
     "ko": "수련"
    },
    "rev": "8fe83fdf95"
+  },
+  {
+   "id": "wheat_fields_120",
+   "file": "wheat_fields_120.json",
+   "title": "wheat_fields",
+   "theme": "other",
+   "tags": [],
+   "width": 120,
+   "height": 120,
+   "colors": 21,
+   "added": "2026-11-26",
+   "rev": "71cbc41621"
   },
   {
    "id": "winter_woman_96",
