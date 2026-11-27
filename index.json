@@ -4631,6 +4631,18 @@
    "rev": "82a8d17bf8"
   },
   {
+   "id": "elephant_portrait_80",
+   "file": "elephant_portrait_80.json",
+   "title": "elephant_portrait",
+   "theme": "other",
+   "tags": [],
+   "width": 80,
+   "height": 80,
+   "colors": 14,
+   "added": "2026-12-02",
+   "rev": "b1a3dd5038"
+  },
+  {
    "id": "elf_girl_128",
    "file": "elf_girl_128.json",
    "title": "Девушка-эльф",
@@ -4926,6 +4938,18 @@
    "colors": 12,
    "added": "2026-11-20",
    "rev": "1ce24ceec2"
+  },
+  {
+   "id": "fox_portrait_128",
+   "file": "fox_portrait_128.json",
+   "title": "fox_portrait",
+   "theme": "other",
+   "tags": [],
+   "width": 128,
+   "height": 128,
+   "colors": 16,
+   "added": "2026-12-05",
+   "rev": "2187f7d858"
   },
   {
    "id": "frof_crasy_2_120",
@@ -5823,6 +5847,18 @@
     "ko": "페가수스"
    },
    "rev": "422acb8d2f"
+  },
+  {
+   "id": "kangaroo_portrait_96",
+   "file": "kangaroo_portrait_96.json",
+   "title": "kangaroo_portrait",
+   "theme": "other",
+   "tags": [],
+   "width": 96,
+   "height": 96,
+   "colors": 20,
+   "added": "2026-12-01",
+   "rev": "a8580bc571"
   },
   {
    "id": "kazanskiy_sobor_sankt_peterburg_96",
@@ -9759,6 +9795,18 @@
    "rev": "214986db04"
   },
   {
+   "id": "mouse_portrait_104",
+   "file": "mouse_portrait_104.json",
+   "title": "mouse_portrait",
+   "theme": "other",
+   "tags": [],
+   "width": 104,
+   "height": 104,
+   "colors": 20,
+   "added": "2026-11-28",
+   "rev": "2888fe7393"
+  },
+  {
    "id": "mushroom_01_40",
    "file": "mushroom_01_40.json",
    "title": "Гриб",
@@ -10002,6 +10050,18 @@
    "colors": 12,
    "added": "2026-11-23",
    "rev": "e84c105e24"
+  },
+  {
+   "id": "ostrich_portrait_104",
+   "file": "ostrich_portrait_104.json",
+   "title": "ostrich_portrait",
+   "theme": "other",
+   "tags": [],
+   "width": 104,
+   "height": 104,
+   "colors": 15,
+   "added": "2026-11-30",
+   "rev": "9030099ebc"
   },
   {
    "id": "panda_56_128",
@@ -10360,6 +10420,42 @@
     "ko": "새벽의 전봇대와 전선"
    },
    "rev": "e58b4dfd43"
+  },
+  {
+   "id": "portrait_of_a_bullfinch_88",
+   "file": "portrait_of_a_bullfinch_88.json",
+   "title": "portrait_of_a_bullfinch",
+   "theme": "other",
+   "tags": [],
+   "width": 88,
+   "height": 88,
+   "colors": 12,
+   "added": "2026-11-27",
+   "rev": "dbb4ef4598"
+  },
+  {
+   "id": "portrait_of_a_girl_128",
+   "file": "portrait_of_a_girl_128.json",
+   "title": "portrait_of_a_girl",
+   "theme": "other",
+   "tags": [],
+   "width": 128,
+   "height": 128,
+   "colors": 13,
+   "added": "2026-11-27",
+   "rev": "9583760233"
+  },
+  {
+   "id": "portrait_of_a_hippo_128",
+   "file": "portrait_of_a_hippo_128.json",
+   "title": "portrait_of_a_hippo",
+   "theme": "other",
+   "tags": [],
+   "width": 128,
+   "height": 128,
+   "colors": 19,
+   "added": "2026-11-29",
+   "rev": "ce070923b0"
   },
   {
    "id": "rabbit_12_128",
